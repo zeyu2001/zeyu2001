@@ -16,7 +16,7 @@
   <b>Incoming undergraduate</b> at <b>National University of Singapore, School of Computing</b>. 📚 </br>
 </p>
 
-I am currently serving my full-time National Service in the Singapore Armed Forces (SAF) as a Cyber Specialist Cadet. I plan to pursue a degree in Computer Science after my service with the SAF. I'm passionate about data science, web development and cybersecurity. You can learn more about me from my [personal website](https://zeyu2001.pythonanywhere.com). I'm always learning, and always sharing - you can find my writings on [Medium](https://medium.com/@zhangzeyu2001) and [DEV.to](https://dev.to/zeyu2001). 
+I am currently serving my full-time National Service as a Cyber Specialist. I'm passionate about data science, web development and cybersecurity. You can learn more about me from my [personal website](https://zeyu2001.pythonanywhere.com). I'm always learning, and always sharing - you can find my writings on [Medium](https://medium.com/@zhangzeyu2001) and [DEV.to](https://dev.to/zeyu2001). 
 
 <h2 align='center'> Send me a SYN! 📫 </h2>
 
