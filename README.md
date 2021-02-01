@@ -12,7 +12,7 @@
 
 <p align='center'>
   <b>19 year old programmer</b> from <b>Singapore</b>. 🇸🇬 </br>
-  <b>Cyber Specialist Cadet</b> in the <b>Singapore Armed Forces</b>. 👨‍💻 </br>
+  <b>Cyber Security Specialist</b> in the <b>Ministry of Defense of Singapore</b>. 👨‍💻 </br>
   <b>Incoming undergraduate</b> at <b>National University of Singapore, School of Computing</b>. 📚 </br>
 </p>
 
