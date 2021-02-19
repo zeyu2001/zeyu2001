@@ -50,10 +50,10 @@ I am currently serving my full-time National Service as a Cyber Specialist. I'm 
 
 <!-- BLOG-POST-LIST:START -->
 - [Build a Simple Chess AI in JavaScript](https://medium.com/javascript-in-plain-english/build-a-simple-chess-ai-in-javascript-22b350abb31?source=rss-5432bd11c5a7------2)
-- [Network Scanning with Scapy in Python](https://medium.com/python-in-plain-english/network-scanning-with-scapy-in-python-708ed176e63?source=rss-5432bd11c5a7------2)
-- [Build a Chatroom App with Python](https://medium.com/python-in-plain-english/build-a-chatroom-app-with-python-458fc435025a?source=rss-5432bd11c5a7------2)
-- [Replace Loops, map() and filter() With List Comprehensions in Python](https://medium.com/python-in-plain-english/replace-loops-map-and-filter-with-list-comprehensions-in-python-f115e0eecbb9?source=rss-5432bd11c5a7------2)
-- [Sorting Algorithms](https://medium.com/python-in-plain-english/sorting-algorithms-6c05e445d0bd?source=rss-5432bd11c5a7------2)
+- [Network Scanning with Scapy in Python](https://py.plainenglish.io/network-scanning-with-scapy-in-python-708ed176e63?source=rss-5432bd11c5a7------2)
+- [Build a Chatroom App with Python](https://py.plainenglish.io/build-a-chatroom-app-with-python-458fc435025a?source=rss-5432bd11c5a7------2)
+- [Replace Loops, map() and filter() With List Comprehensions in Python](https://py.plainenglish.io/replace-loops-map-and-filter-with-list-comprehensions-in-python-f115e0eecbb9?source=rss-5432bd11c5a7------2)
+- [Sorting Algorithms](https://py.plainenglish.io/sorting-algorithms-6c05e445d0bd?source=rss-5432bd11c5a7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align='left'>
