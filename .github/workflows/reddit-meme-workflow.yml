@@ -27,7 +27,7 @@ jobs:
           git add .
           git config --global user.name "reddit-meme-bot"
           git config --global user.email "contact@zeyu2001.com"
-          git commit -m "[Automated] README updated with new meme!"
+          git commit --allow-empty -m "[Automated] README updated with new meme!"
       - name: Push
         uses: ad-m/github-push-action@master
         with:
