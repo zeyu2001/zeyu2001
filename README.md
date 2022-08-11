@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### just started learning swift and this blew my mind
+### Hmm
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0y8dbhdmm0h91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/03gd6iywi1h91.png)
