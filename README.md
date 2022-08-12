@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### we team are you on?
+### This AI generated 2 sentence horror story is way too realistic
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/z2s8nx2t55h91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/975pvy5x68h91.jpg)
