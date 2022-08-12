@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### This AI generated 2 sentence horror story is way too realistic
+### What’s stopping you from coding like this?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/975pvy5x68h91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/w5qmglor1bh91.jpg)
