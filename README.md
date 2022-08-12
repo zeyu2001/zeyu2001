@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The Documentation
+### we team are you on?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/s7c1lml6k3h91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z2s8nx2t55h91.jpg)
