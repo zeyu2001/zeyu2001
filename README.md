@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### What’s stopping you from coding like this?
+### I see this happening to almost every senior software professional
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/w5qmglor1bh91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pow1shl5zfh91.jpg)
