@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Is This Hacking ? 😄
+### found this image in an article
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3m9c0wyesoh91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cwf3r2ds3nh91.png)
