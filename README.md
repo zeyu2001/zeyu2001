@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I see this happening to almost every senior software professional
+### When you're a programmer, friends and family be like
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pow1shl5zfh91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/24jatkapzgh91.png)
