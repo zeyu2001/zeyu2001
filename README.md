@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### When you're a programmer, friends and family be like
+### Binary coding
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/24jatkapzgh91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y9g8txg7jjh91.jpg)
