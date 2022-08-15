@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I also mark popups asking to disable adblock as ads so that next time they are hidden
+### Um... that's not closed source
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p3gxnotopph91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/81gjkv6pwrh91.jpg)
