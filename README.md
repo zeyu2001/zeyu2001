@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### ...☕
+### The water cooler kind of comedy
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/b2kagbncp8i91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/068pfsskkai91.jpg)
