@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The water cooler kind of comedy
+### I thought Programming was hard until I found this guy on YouTube.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/068pfsskkai91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f9ahnejy2bi91.png)
