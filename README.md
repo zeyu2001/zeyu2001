@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I thought Programming was hard until I found this guy on YouTube.
+### Worst mistake of My Life... I'm that Junior btw.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/f9ahnejy2bi91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mhgny8grtgi91.jpg)
