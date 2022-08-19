@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Worst mistake of My Life... I'm that Junior btw.
+### Literally nobody
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mhgny8grtgi91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sz7311gfyli91.jpg)
