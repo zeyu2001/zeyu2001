@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Case insensitive, you say?
+### Visual Studio Supremacy
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/g1xx48au1oi91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/oagwr6h4ppi91.jpg)
