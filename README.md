@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Visual Studio Supremacy
+### I love me some Electron app
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/oagwr6h4ppi91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iqoj5jrttvi91.jpg)
