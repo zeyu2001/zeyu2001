@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Me and my siblings are all into technical fields , quite relatable to me 😄
+### Case insensitive, you say?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/96jx653vfni91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/g1xx48au1oi91.jpg)
