@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Stackoverflow in a nutshell
+### The perfect guy
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nxz0cp7xvvi91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yez6xlg8w0j91.jpg)
