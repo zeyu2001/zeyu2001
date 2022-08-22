@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Why most programmers are single...
+### Don't just make money, make a difference
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o9r6qjo023j91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/llnaqehdi7j91.png)
