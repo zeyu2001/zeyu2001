@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Don't just make money, make a difference
+### Verifying Estimates
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/llnaqehdi7j91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v6lbjxdty8j91.png)
