@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The backend dev and the frontend dev. credits @dakitidami
+### felt bored. wanna play?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vgo85g9ozfj91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/q7ubrubofhj91.jpg)
