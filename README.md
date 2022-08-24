@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### felt bored. wanna play?
+### My mom says i do data entry
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q7ubrubofhj91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pemh62mcplj91.jpg)
