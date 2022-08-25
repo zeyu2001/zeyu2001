@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### My mom says i do data entry
+### soldier boy
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pemh62mcplj91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/e08ztfb6yoj91.jpg)
