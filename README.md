@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### every time happens to me
+### Every cloud developer
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ilc2pxma5uj91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zz0xovtf3yj91.jpg)
