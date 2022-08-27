@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Will you pay to use it?
+### Good idea or bad idea?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pnugqlywn4k91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l4l1s4g5c6k91.jpg)
