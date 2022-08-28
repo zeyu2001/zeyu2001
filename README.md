@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Imagine knowing how things actually work
+### put it back in the stone, my dude!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ids4kqggoak91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i19b839iqdk91.jpg)
