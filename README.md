@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Good idea or bad idea?
+### Imagine knowing how things actually work
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l4l1s4g5c6k91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ids4kqggoak91.jpg)
