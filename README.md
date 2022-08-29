@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I just wanna get my work done.🤓
+### do not follow others
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ouhqvw7cohk91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o97kwdb8cjk91.jpg)
