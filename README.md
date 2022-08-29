@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### do not follow others
+### How does this even
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o97kwdb8cjk91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/88o6i571hlk91.jpg)
