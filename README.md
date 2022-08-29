@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### put it back in the stone, my dude!
+### I just wanna get my work done.🤓
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/i19b839iqdk91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ouhqvw7cohk91.jpg)
