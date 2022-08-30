@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I am really proud of my company stickers
+### True senior.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/oj0d8xjamnk91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zh01mgp9upk91.png)
