@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### How does this even
+### I am really proud of my company stickers
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/88o6i571hlk91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/oj0d8xjamnk91.jpg)
