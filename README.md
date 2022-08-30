@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### True senior.
+### Is it a real job?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zh01mgp9upk91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/949yuwp6rvk91.jpg)
