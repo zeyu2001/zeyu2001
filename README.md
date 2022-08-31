@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I've worked for all 5 FAANG companies but I'm still struggling to find a job, any suggestions?
+### It just keeps happening
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/36i63ifb8yk91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gyufhogm52l91.jpg)
