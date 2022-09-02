@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Is it really that much easy? Because in the beginning I was a lot scared of it.
+### what language would you recommend?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6y8jpj5f4el91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3ptwg6qt3gl91.jpg)
