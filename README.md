@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The hardest thing about programming in a C based language on windows is compiling it.
+### Is it really that much easy? Because in the beginning I was a lot scared of it.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/djedj0ywf8l91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6y8jpj5f4el91.jpg)
