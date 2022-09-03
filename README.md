@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### what language would you recommend?
+### what a weirdo
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3ptwg6qt3gl91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4pq1vd903il91.jpg)
