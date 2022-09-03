@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### what a weirdo
+### I just don't have time, please stop
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4pq1vd903il91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d1wto6mj1ll91.png)
