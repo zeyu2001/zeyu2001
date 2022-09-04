@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I just don't have time, please stop
+### Attacked
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/d1wto6mj1ll91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v6xtcooxkml91.jpg)
