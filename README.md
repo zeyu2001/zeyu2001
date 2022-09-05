@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Had some free time on my hand, do y'all think this is accurate?
+### guys?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2pejzy6u0yl91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9ufz1ha1wzl91.jpg)
