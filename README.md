@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I'm scared
+### Had some free time on my hand, do y'all think this is accurate?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2ey9vv3psvl91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2pejzy6u0yl91.png)
