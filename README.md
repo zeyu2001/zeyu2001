@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### guys?
+### It's almost certain it will be worth it..
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9ufz1ha1wzl91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0q2zn88dg2m91.jpg)
