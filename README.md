@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### So you're a programmer? Name ALL algorithms!
+### Inspired by a recent thread from this subreddit
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/61pux22nx9m91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p0siq28mjbm91.jpg)
