@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Should we tell him?
+### Seriously WTF C++?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5swxqkypwhm91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zrr848ielkm91.png)
