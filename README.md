@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Why?
+### Should we tell him?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/t4rdkcwvqfm91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5swxqkypwhm91.jpg)
