@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### you're a webdev huh
+### Guess I'll pass, thanks for the opportunity
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rywiujpd7nm91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l5djyb7yvsm91.jpg)
