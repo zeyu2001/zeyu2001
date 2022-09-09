@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### you're a webdev huh
+### i litterally died what was my friend tryiing to do here????
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rywiujpd7nm91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0xxewogfvpm91.jpg)
