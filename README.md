@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### That hr: let me see how bad u want a job
+### mmmmhmmmm
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4lme654yy1n91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mgh61q4fy2n91.jpg)
