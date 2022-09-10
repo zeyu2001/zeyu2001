@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Asking a question on Stack Overflow
+### Cryptography: expectations vs. reality
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hm5hq57s6um91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i1jl7dma5ym91.jpg)
