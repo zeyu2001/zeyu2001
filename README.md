@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### When they require at least 50 years of experience for an entry level position
+### Asking a question on Stack Overflow
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ribo046hsum91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hm5hq57s6um91.png)
