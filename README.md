@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I didn't think these kinds of people existed
+### So far i learned how to move blocks so i don’t actually have to learn anything
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/byje75zcj3n91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nmmjju22x5n91.jpg)
