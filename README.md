@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### mmmmhmmmm
+### I didn't think these kinds of people existed
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mgh61q4fy2n91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/byje75zcj3n91.png)
