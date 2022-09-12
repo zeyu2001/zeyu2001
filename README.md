@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### So far i learned how to move blocks so i don’t actually have to learn anything
+### I’ve had constant migraines for the past week thanks to Matlab.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nmmjju22x5n91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/orYtMe2.jpg)
