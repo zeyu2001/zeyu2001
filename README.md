@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I’ve had constant migraines for the past week thanks to Matlab.
+### "a software developer after fixing a bug", by DALL-E 2
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/orYtMe2.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ispz7zo0kcn91.png)
