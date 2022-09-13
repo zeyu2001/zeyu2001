@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### "a software developer after fixing a bug", by DALL-E 2
+### True or false?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ispz7zo0kcn91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jrek50c1ugn91.png)
