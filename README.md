@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### True or false?
+### I'm so tired with this
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jrek50c1ugn91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gtb9zmzx9jn91.jpg)
