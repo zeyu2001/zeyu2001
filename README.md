@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I'm so tired with this
+### Slow Progress Is Stil A Progress..😎
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gtb9zmzx9jn91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ptv86ho1vkn91.jpg)
