@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Looks like peer review is awfully similar to a pull request
+### My Courses
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mhrbh9vzrnn91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f6bu5fjsrsn91.jpg)
