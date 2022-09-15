@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The dreaded text no programmer wants to receive
+### junior vs senior
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/xJM6ZNi.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tfa32tnujyn91.png)
