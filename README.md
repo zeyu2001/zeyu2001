@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Please be gentle
+### damnn....i want this level of expertise
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/34rfl1hl31o91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1htmtenw24o91.jpg)
