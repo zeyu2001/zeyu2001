@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### damnn....i want this level of expertise
+### The Bruh Button
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1htmtenw24o91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/g3en0ezkk5o91.jpg)
