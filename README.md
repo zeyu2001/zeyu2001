@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Advice from a pro
+### The Tool That We All Deserve
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/IDfBUo4.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/h4ihflxn0do91.jpg)
