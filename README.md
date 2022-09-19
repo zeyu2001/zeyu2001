@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### That's nice. I don't care
+### 🤷‍♂️🪙
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/i0c4ab24qoo91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0ms3ninvxro91.jpg)
