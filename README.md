@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### always happens
+### microscopic
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3u2efcn9yuo91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4kp1p03jpzo91.png)
