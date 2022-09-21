@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Thanks for letting us know
+### When you released the project
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/liempsc4x2p91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tp2z5z6106p91.png)
