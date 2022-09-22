@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### When you released the project
+### $150K bill
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tp2z5z6106p91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rcdal3nps8p91.jpg)
