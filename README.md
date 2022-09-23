@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### This can't possibly work right?
+### If I'm off the clock, it doesn't bother me.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/73l8ggktccp91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0mjeyq8tyfp91.jpg)
