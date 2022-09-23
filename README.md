@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### If I'm off the clock, it doesn't bother me.
+### 5 years and I don't know anything
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0mjeyq8tyfp91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zh3t7shlgjp91.jpg)
