@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I'm just gonna leave this here
+### std::cout &lt;&lt; "It's a pain";
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/oanunzociop91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8qqgi6w6htp91.jpg)
