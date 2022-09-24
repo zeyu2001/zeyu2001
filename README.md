@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Refactoring "Just working solution ".
+### I'm just gonna leave this here
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7hbdjp8z3mp91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/oanunzociop91.png)
