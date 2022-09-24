@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### 5 years and I don't know anything
+### Refactoring "Just working solution ".
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zh3t7shlgjp91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7hbdjp8z3mp91.png)
