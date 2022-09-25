@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### std::cout &lt;&lt; "It's a pain";
+### When in doubt gut reset --hard
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8qqgi6w6htp91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f1ijdrf5bvp91.jpg)
