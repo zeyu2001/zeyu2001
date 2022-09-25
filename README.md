@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### When in doubt gut reset --hard
+### Achievement Unlocked: Programmer of the year
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/f1ijdrf5bvp91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4iize9s1svp91.jpg)
