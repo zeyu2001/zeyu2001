@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Sleep &gt;&gt;&gt;&gt;
+### A conversation with a muggle
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n5s58pnm48q91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uf9dbih1wcq91.png)
