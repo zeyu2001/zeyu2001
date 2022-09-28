@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Try…Catch “I don’t know how you got here, but here we are.”
+### A Project Manager's screams in disguise.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c8m1sul01gq91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jvraczw13kq91.jpg)
