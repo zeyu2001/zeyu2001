@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### lmao!
+### I'm sorry guys. I always just assumed you were all just impatient... Forgive me, I didn't know...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/540jpmpdikq91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iydjr7j3dnq91.png)
