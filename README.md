@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I'm sorry guys. I always just assumed you were all just impatient... Forgive me, I didn't know...
+### And that's why I hate dealing with memory management
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/iydjr7j3dnq91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8409uebo7qq91.jpg)
