@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### And that's why I hate dealing with memory management
+### How inheritance works
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8409uebo7qq91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3rw4z6030wq91.jpg)
