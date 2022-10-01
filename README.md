@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### How inheritance works
+### Lol! Developer got no chill!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3rw4z6030wq91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6brnj99ra0r91.png)
