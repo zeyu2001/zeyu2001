@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Oopsie.
+### Rust? But Todd Howard solved memory management back in 2002
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/s2nhbxfpm2r91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zyawehyvd5r91.jpg)
