@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Why did no one tell me about this???
+### Let's write Operating System in JavaScript
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/owdhyzuvl7r91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pme2slrxx7r91.png)
