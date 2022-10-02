@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Developers with 20+ years of experience already know the drill
+### Why did no one tell me about this???
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/a1w3tboih7r91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/owdhyzuvl7r91.png)
