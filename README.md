@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Experienced JavaScript Developer Meme
+### C
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mklg0et8xcr91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/400fzvkhodr91.jpg)
