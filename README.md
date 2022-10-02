@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### C
+### JavaScript’s language features are something else…
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/400fzvkhodr91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8sp94g7ycfr91.jpg)
