@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### JavaScript’s language features are something else…
+### don't call us attention seeker 😭
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8sp94g7ycfr91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k8mso9pn9lr91.jpg)
