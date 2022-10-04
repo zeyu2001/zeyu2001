@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### This is an actual way to transfer data using aws.
+### So no one's gonna talk about that Johny Sins of programming
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3yic0cr4qlr91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bw1h5rmklrr91.jpg)
