@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### don't call us attention seeker 😭
+### This is an actual way to transfer data using aws.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k8mso9pn9lr91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3yic0cr4qlr91.jpg)
