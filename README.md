@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Management won't understand
+### Make a senitient Ai that can understand humor for 150$.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/moc56tjmeyr91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/u2f1uarqe0s91.png)
