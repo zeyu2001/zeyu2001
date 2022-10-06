@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### what do I do now ?
+### No Github?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/giojvoxr34s91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tte4jcb167s91.png)
