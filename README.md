@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### He's not wrong.
+### sPeCiaL cHarACtErs
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/27hy2xu8afs91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lofkaar0cis91.png)
