@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### sPeCiaL cHarACtErs
+### I got a jar of dirt
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lofkaar0cis91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vk7kjjqemks91.png)
