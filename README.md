@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Classic 🙄
+### It do be like that
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dn0g42gfzts91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jatocf3ofxs91.png)
