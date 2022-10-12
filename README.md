@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The horror, the horror
+### How come this went past the QA?
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/7toPXUr.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kiigonnqy6t91.png)
