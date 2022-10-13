@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### If only they had Dev Ops in 1993
+### The Death Note now supports regex. What are you writing?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zymr11smzct91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/66c4nqmvnht91.jpg)
