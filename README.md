@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Things change with time
+### If only they had Dev Ops in 1993
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/iz5mpbbsdct91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zymr11smzct91.jpg)
