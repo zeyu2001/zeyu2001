@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The Death Note now supports regex. What are you writing?
+### How to spend $13 Billion to create The Sims 3?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/66c4nqmvnht91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/73aavf47rkt91.png)
