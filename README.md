@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### How to spend $13 Billion to create The Sims 3?
+### “So how’s your computer science class going so far?”
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/73aavf47rkt91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bkqo0isyeqt91.jpg)
