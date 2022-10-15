@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Please, I don't want to implement this
+### Ken Jennings' code outlasted Alex Trebek
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1vzngifwett91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4ykocohwovt91.jpg)
