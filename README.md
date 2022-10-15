@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### “So how’s your computer science class going so far?”
+### Please, I don't want to implement this
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bkqo0isyeqt91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1vzngifwett91.png)
