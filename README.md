@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Old programmer knows the drill
+### The OS is my garbage collector
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/te0koipniyt91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3jdovlvpx3u91.jpg)
