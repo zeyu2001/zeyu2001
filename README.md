@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### What happens when you let computers optimize floorplans
+### Which one of you coded this installer?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7nootb7kr1u91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/yyHpixo.jpg)
