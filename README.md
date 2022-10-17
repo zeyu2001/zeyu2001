@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The OS is my garbage collector
+### What happens when you let computers optimize floorplans
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3jdovlvpx3u91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7nootb7kr1u91.jpg)
