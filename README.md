@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Which one of you coded this installer?
+### Still slightly better than "NM fixed it"
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/yyHpixo.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ghpaxx5r5cu91.jpg)
