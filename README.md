@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Still slightly better than "NM fixed it"
+### What goes after this comment?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ghpaxx5r5cu91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/rXJx4tf.jpg)
