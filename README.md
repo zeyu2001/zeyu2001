@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Be like John
+### Let's do it!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ailmr6sf8iu91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0yr16zijueu91.png)
