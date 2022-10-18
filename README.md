@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### What goes after this comment?
+### Be like John
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/rXJx4tf.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ailmr6sf8iu91.jpg)
