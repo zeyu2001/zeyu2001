@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Want to be a web developer? You have to test your site on all these devices
+### The future of HTML.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/g0xy6yv8liu91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/87bkbimqjku91.png)
