@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### what it feels like trying to get a job without a comp sci degree
+### Our professor said only 5 students out of 1k he taught in previous years got the answer right:
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vuwnjmiqssu91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uf0e1su7ixu91.jpg)
