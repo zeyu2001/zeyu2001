@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Our professor said only 5 students out of 1k he taught in previous years got the answer right:
+### Good question.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uf0e1su7ixu91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kdfmslu2ozu91.jpg)
