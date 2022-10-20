@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### We doing this?
+### what it feels like trying to get a job without a comp sci degree
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xhm1tfm0hru91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vuwnjmiqssu91.jpg)
