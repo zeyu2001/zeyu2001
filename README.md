@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Dropbox, the new git.
+### Tech interview vs actual job
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hyyapbqpp3v91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/q2voz6a7a5v91.png)
