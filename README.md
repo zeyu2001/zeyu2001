@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### After mandatory cyberthreat awareness lecture
+### Where
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zsnwp2jsjcv91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xb11wklypdv91.jpg)
