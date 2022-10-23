@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Where
+### I make the same mistake too, sometimes.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xb11wklypdv91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bma1iny1ziv91.png)
