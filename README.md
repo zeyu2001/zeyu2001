@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I make the same mistake too, sometimes.
+### When HR posts a job listing… “total number of lines of code”
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bma1iny1ziv91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/abfyfnt6qlv91.jpg)
