@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Is this kind of vertical sync ?
+### yes , I code with mobile ( I don't have PC so ...)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/68uhd5brtrv91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lxlwfs43dsv91.jpg)
