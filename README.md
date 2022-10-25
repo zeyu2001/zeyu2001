@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### yes , I code with mobile ( I don't have PC so ...)
+### You may not like it, but this is what peak Test/QA looks like...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lxlwfs43dsv91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rinbsxnfssv91.png)
