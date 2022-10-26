@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### It seems like I'm forced to make this choice at least once a day
+### When the intern needs help with a problem
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fug5j00guyv91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mce15g6e25w91.jpg)
