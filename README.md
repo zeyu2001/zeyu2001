@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### When the intern needs help with a problem
+### just found it funny for some reason
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mce15g6e25w91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n2b8kncjtbw91.jpg)
