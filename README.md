@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Choosing a Javascript Frontend Framework:
+### just found it funny for some reason
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vrdnoyeo28w91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n2b8kncjtbw91.jpg)
