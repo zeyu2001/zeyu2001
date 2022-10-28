@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Someone please teach UX to these ERP giants
+### Everyone says JS is weird with strings and numbers. Meanwhile, C:
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x24k04nhwiw91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/30yuv3hc5fw91.png)
