@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### How my office works
+### I want more and I know I shouldn't
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2v2lmhzjldw91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ylmfteh2wdw91.png)
