@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I want more and I know I shouldn't
+### Someone please teach UX to these ERP giants
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ylmfteh2wdw91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x24k04nhwiw91.png)
