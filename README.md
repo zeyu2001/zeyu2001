@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### border: 1px solid red; and I’m happy with it
+### the humourous
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/z9w6a9fgckw91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s3hzxgb2yqw91.png)
