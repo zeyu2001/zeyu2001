@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The workflow
+### The Best IDE, a whiteboard.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9em2bruo6uw91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3l7xrzvkivw91.jpg)
