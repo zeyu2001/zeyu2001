@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The Best IDE, a whiteboard.
+### alright, which one of you did this
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3l7xrzvkivw91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jcs8pe4nsyw91.png)
