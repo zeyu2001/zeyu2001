@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### alright, which one of you did this
+### Those 2 JavaScript devs at Tesla will come in clutch right?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jcs8pe4nsyw91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d4xara56w1x91.jpg)
