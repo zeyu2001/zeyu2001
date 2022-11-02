@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Sorry, I forgot to print the code out
+### Know your units!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cxzd0zankcx91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/edlzn40ojex91.png)
