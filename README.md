@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Day 1 code reviews at Twitter HQ [OC]
+### Watch out your kid could be a " Hecker "
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bcqyq1o21ax91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xfmq7quwf8x91.png)
