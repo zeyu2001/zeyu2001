@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Watch out your kid could be a " Hecker "
+### Sorry, I forgot to print the code out
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xfmq7quwf8x91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cxzd0zankcx91.jpg)
