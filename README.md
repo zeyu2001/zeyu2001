@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Coding ability percentile
+### Why is a program hanging?
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/v91vdQ6.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/umlpc4oyzox91.png)
