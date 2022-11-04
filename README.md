@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Its a honor
+### My CS teacher has lost the plot
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vk6m9irttux91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0z8w7il2uxx91.png)
