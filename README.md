@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### "Entry Level Cybersecurity role"
+### Its a honor
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kiq4nz575qx91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vk6m9irttux91.jpg)
