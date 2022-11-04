@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Why is a program hanging?
+### "Entry Level Cybersecurity role"
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/umlpc4oyzox91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kiq4nz575qx91.png)
