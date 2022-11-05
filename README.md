@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Perfection
+### So in my haste to do some analysis on some csvs, I may have accidently Excel'd my computer
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3q6c8pkgg3y91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7r4p0u4564y91.jpg)
