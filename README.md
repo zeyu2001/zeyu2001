@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Python is very intuitive.... not
+### Programmer: "Don't care. Nobody will be listening to it that loud anyway."
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xxnwp9twu6y91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8enhp5fy5ay91.jpg)
