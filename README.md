@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Memoization is an annoying term
+### Kind of an obvious design flaw
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/viyeggxyi7y91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/u2fkh62w9cy91.png)
