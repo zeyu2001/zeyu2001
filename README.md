@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The most upvoted comment picks the next line of code: Day 9. Oh, look, it's me!
+### Memoization is an annoying term
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k28uujl756y91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/viyeggxyi7y91.jpg)
