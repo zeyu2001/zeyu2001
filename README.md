@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Programmer: "Don't care. Nobody will be listening to it that loud anyway."
+### The most upvoted comment picks the next line of code: Day 9. Oh, look, it's me!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8enhp5fy5ay91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k28uujl756y91.png)
