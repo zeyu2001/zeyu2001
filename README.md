@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### It became very annoying
+### Python is very intuitive.... not
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/909moa7745y91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xxnwp9twu6y91.png)
