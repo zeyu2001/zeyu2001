@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Kind of an obvious design flaw
+### Unpopular Opinion
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u2fkh62w9cy91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7yrkzcs63dy91.png)
