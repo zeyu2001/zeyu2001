@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Which one are you
+### The life hack :
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/172zlftegfy91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9wytuq6cbly91.jpg)
