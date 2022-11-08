@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### GitHub - A Place to Fork
+### Today I became an Employed Jobless Programmer.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2ydakr0caky91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7t0snu46bpy91.jpg)
