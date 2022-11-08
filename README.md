@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The life hack :
+### GitHub - A Place to Fork
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9wytuq6cbly91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2ydakr0caky91.png)
