@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The most upvoted comment picks the next line of code: Day 12. div/div/div/div/div/div/div/div/div/div
+### Evil a + b
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/b757mfffgry91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jw8ode019wy91.png)
