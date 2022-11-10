@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Our national online school grade keeping system was hacked in a phising attack and this is in the source code....
+### Should take just 5 mins right? RIGHT!?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ptengk1820z91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/Dsi1ScU.png)
