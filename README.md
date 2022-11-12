@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Achievement unlocked
+### My scrum board is getting full. Save me Elon.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5ec9lgrmfaz91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fl0d5lhrpez91.png)
