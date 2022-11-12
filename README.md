@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### My scrum board is getting full. Save me Elon.
+### firing a self-taught developer
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fl0d5lhrpez91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cg9bejmfsiz91.jpg)
