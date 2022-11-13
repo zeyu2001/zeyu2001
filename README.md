@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### firing a self-taught developer
+### Oh no where is the bug
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cg9bejmfsiz91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/667kkk6q2lz91.png)
