@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Oh no where is the bug
+### Started a new job and found this gem.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/667kkk6q2lz91.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ngtkwn14hoz91.jpg)
