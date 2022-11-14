@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### man's asking the real questions
+### With great power comes great responsibility...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nyekc0cv0sz91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p7nixo10gvz91.png)
