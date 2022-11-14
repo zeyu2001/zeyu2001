@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Started a new job and found this gem.
+### Randomly delete 50% files with thanosjs.org
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ngtkwn14hoz91.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xx4jky80rsz91.jpg)
