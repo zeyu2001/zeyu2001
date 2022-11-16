@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Eye friendly meme
+### "I'm going to create a comprehensive documentation of the Bitcoin source code. What does #include mean?"
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vbc15jx0h30a1.png)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/BTyz9IU.png)
