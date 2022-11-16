@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### He is crowd sourcing how twitter works
+### Eye friendly meme
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/v7moo6oma00a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vbc15jx0h30a1.png)
