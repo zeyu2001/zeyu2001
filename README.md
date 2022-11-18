@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Everyone go home. Turns out all our work runs itself!
+### JSON
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/txm87lvbdo0a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dogrvclkll0a1.png)
