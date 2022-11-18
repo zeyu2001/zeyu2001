@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### JSON
+### The future is now
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dogrvclkll0a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4lb62dkd5o0a1.jpg)
