@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Whats your most salient lines of code
+### had to post this 😂
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7k0jribx6r0a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/h5o70qe82t0a1.jpg)
