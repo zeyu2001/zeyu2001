@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### had to post this 😂
+### Elon's 10 PM Whiteboard... "Twitter for Dummies"
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/h5o70qe82t0a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/oxn1q6iayv0a1.jpg)
