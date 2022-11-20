@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### My entire career
+### A rare relatable post from LinkedIn's vast sea of boomer humor
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dbunqb74wz0a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d9s2ipcf741a1.jpg)
