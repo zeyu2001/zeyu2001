@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Elon's 10 PM Whiteboard... "Twitter for Dummies"
+### So you’re a software engineer?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/oxn1q6iayv0a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/daq7luz.jpg)
