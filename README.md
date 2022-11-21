@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### A rare relatable post from LinkedIn's vast sea of boomer humor
+### how to become a software developer in a single night
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/d9s2ipcf741a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dg0vaw7zx51a1.jpg)
