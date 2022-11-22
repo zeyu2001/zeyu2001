@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Guess who just got laid off!
+### What the actual fuck
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cylq8lxamb1a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jd8kg2f04f1a1.jpg)
