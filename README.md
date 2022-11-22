@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Still unknown
+### Guess who just got laid off!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/md574824391a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cylq8lxamb1a1.png)
