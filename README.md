@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### What the actual fuck
+### They cannot be serious, right !
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jd8kg2f04f1a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hzkpqya6ai1a1.png)
