@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### They cannot be serious, right !
+### Coding bootcamps be like
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hzkpqya6ai1a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zk1j1a5fsi1a1.png)
