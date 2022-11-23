@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Coding bootcamps be like
+### What do you mean I'm not allowed on GitHub anymore?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zk1j1a5fsi1a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mcos3hzp4n1a1.jpg)
