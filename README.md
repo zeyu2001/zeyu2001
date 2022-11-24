@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### What do you mean I'm not allowed on GitHub anymore?
+### Fascinating bit of code I cleaned up this morning 🤔
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mcos3hzp4n1a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/oluj4uy29q1a1.png)
