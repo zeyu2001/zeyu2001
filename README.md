@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Fascinating bit of code I cleaned up this morning 🤔
+### That Elon's "intern" thread in one pic
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/oluj4uy29q1a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2rav6yql6u1a1.jpg)
