@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### That Elon's "intern" thread in one pic
+### Choose who are you ?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2rav6yql6u1a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5s1f5296wx1a1.jpg)
