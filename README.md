@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Choose who are you ?
+### Petition to remove the bot
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5s1f5296wx1a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lvb3nf1jg02a1.jpg)
