@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Coding strategies
+### “Python”, “Java”, “Carbon”, “Rust”
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6963hvmjz22a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tqw70yuu782a1.jpg)
