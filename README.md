@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Let's see if they sanitise their data
+### chaotic magic
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/octkp8wb5a2a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zr1k32o10e2a1.png)
