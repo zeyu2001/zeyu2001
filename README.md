@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### “Python”, “Java”, “Carbon”, “Rust”
+### Let's see if they sanitise their data
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tqw70yuu782a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/octkp8wb5a2a1.png)
