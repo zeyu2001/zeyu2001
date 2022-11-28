@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Switch statements. Bottom text
+### Your tactics confuse and frighten me sir
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6e4l9milci2a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1sw74vh8cl2a1.jpg)
