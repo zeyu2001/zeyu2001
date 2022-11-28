@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Email? What? Oh….yes…email….
+### Switch statements. Bottom text
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lf7z1tw12g2a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6e4l9milci2a1.jpg)
