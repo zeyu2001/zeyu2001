@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I found this in a Hungarian hotel, and its just too relatable
+### It hurts like hell.;-;
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k6cfxjyeuv2a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dp6jpk4trx2a1.jpg)
