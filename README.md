@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### this is what's in my brother's computer science book.....
+### I found this in a Hungarian hotel, and its just too relatable
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/ZtLU6Uw.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k6cfxjyeuv2a1.jpg)
