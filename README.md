@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Sad reality, but the time has come
+### this is what's in my brother's computer science book.....
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uck0felduo2a1.png)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/ZtLU6Uw.jpg)
