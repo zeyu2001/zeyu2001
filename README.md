@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Startups be like..
+### And we’re not even in a recession yet
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u5jwlxt1k43a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/b1sh5mezd83a1.jpg)
