@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### And we’re not even in a recession yet
+### Integrating into galactic society
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/b1sh5mezd83a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7e0r3pvc493a1.png)
