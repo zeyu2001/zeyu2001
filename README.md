@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Integrating into galactic society
+### Which is worse?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7e0r3pvc493a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nkge9gp22f3a1.jpg)
