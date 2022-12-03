@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Almost had it...
+### This is a real email a recruiter sent my friend
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ng04h346im3a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m420ddyhkl3a1.png)
