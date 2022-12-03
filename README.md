@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### “Cute Date Nights”
+### I have nothing funny to say here. My boss asked me to "understand what's going on in this class". Wish me luck guys...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ga8u4cg1gh3a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/e3772x3d0k3a1.jpg)
