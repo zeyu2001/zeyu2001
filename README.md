@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### This is a real email a recruiter sent my friend
+### Huhh...its easy...made for kids
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m420ddyhkl3a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3a64i4slfn3a1.png)
