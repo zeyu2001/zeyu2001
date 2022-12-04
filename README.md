@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Yes I wrote this myself
+### 2 years passed and I still frequently think about this comment
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/MTuzSrE.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jvbr9lrvdw3a1.jpg)
