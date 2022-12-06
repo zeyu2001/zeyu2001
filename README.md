@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### the true answer
+### My computer architecture class in a nutshell
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8ei95tkpk44a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c7szd0eio64a1.jpg)
