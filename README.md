@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### My computer architecture class in a nutshell
+### How OpenAI ChatGPT helps software development!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c7szd0eio64a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4e7ywl1kj74a1.png)
