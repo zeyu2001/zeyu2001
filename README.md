@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Serverless architechture
+### the true answer
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rmls1erhf24a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8ei95tkpk44a1.png)
