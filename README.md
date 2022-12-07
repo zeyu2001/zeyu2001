@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Truly a genius among men
+### Google search: How to build friends with benefits in c++
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wfz3gk2lcc4a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rngjgqcmhh4a1.jpg)
