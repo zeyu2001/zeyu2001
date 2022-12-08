@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### "If this calendar means something to you, scan the QR Code" A job recruitment ad
+### Oh boy, can’t wait to see where this goes.
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/Mj9MwwT.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xscnjokg4k4a1.jpg)
