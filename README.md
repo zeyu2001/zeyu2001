@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### First day set-ups are the worst!
+### Enjoy your new free time
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0isw45cvwn4a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kpgp7hsejo4a1.jpg)
