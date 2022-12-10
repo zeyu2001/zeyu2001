@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### *Problem has already been answered*
+### Ava could write TempleOS but Davis could never write Sweet but Psycho
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ft1wb23cbv4a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/DnfE2Qc.jpg)
