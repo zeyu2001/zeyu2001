@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Hot take
+### some programming languages at a glance
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/r9nussd8x45a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hhgsrdm2e65a1.png)
