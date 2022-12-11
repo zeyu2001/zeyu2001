@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### What language is this? Wrong answers only.
+### Remember: non-technical recruiters can't tell the difference!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rrln6qaob45a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wmmdl9qc345a1.jpg)
