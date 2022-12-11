@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Remember! The more you use it, the more it gets its model strengthened
+### What language is this? Wrong answers only.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ucchbe7gm05a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rrln6qaob45a1.jpg)
