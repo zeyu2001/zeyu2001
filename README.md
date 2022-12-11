@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Remember: non-technical recruiters can't tell the difference!
+### Hot take
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wmmdl9qc345a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/r9nussd8x45a1.jpg)
