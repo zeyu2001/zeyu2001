@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### some programming languages at a glance
+### OpenGPT is just a big reference
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hhgsrdm2e65a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7uko98c0v95a1.jpg)
