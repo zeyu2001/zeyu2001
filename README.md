@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### What the Git?
+### Goddamn this tastes like eternal suffering.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jgdfehjyoa5a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rv5y2bnsrg5a1.jpg)
