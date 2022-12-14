@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Santa vs SQL Injection
+### Or you can do that ..
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/akju7sx05s5a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qa1nvvimfv5a1.jpg)
