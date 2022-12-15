@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Or you can do that ..
+### Other jobs vs developers
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qa1nvvimfv5a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ym3ycg6t8u5a1.jpg)
