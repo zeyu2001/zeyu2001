@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Well right time to start learning isn't it?
+### Ah yes, I will add space so that I can remove it if I run out if space
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fgwicog19w5a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sj5xqtv1xz5a1.jpg)
