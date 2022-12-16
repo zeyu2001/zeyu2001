@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Very new to programming. How do I deal with this bug that prevents me from typing?
+### extreme super title
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8be0rg1mu46a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7lp8ilg9a86a1.jpg)
