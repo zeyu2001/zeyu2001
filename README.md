@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Ah yes, I will add space so that I can remove it if I run out if space
+### Just found this out
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sj5xqtv1xz5a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cv04otw1y26a1.jpg)
