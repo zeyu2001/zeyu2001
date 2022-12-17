@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### extreme super title
+### After months of suffering bullying, it feels a bit like vengeance.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7lp8ilg9a86a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bhygiq0k1a6a1.jpg)
