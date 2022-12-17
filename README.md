@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### After months of suffering bullying, it feels a bit like vengeance.
+### WarlockHumor
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bhygiq0k1a6a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8zt1tyylff6a1.jpg)
