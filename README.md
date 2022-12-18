@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### InteliJ better?
+### “Bots will replace devs!” Also bots:
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ok2ybubkrf6a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xqe5h2b93k6a1.jpg)
