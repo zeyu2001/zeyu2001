@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### WarlockHumor
+### InteliJ better?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8zt1tyylff6a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ok2ybubkrf6a1.png)
