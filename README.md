@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Datatypes
+### I must be a bad dev
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/e2o8whh07p6a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dc8mu9ndds6a1.jpg)
