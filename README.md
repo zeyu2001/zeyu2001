@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Fuck Zodiac signs, what's your favorite programming paradigm?
+### My team got me SQL problems for Christmas, wbu?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0shkbhkz1w6a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0ggi9owt1x6a1.jpg)
