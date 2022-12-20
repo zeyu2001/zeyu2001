@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Like chill bro I'm just thinking about how I'll name this int
+### Fuck Zodiac signs, what's your favorite programming paradigm?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u3xgs2hgpu6a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0shkbhkz1w6a1.png)
