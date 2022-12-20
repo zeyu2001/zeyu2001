@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### My team got me SQL problems for Christmas, wbu?
+### Ah, college assignments
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0ggi9owt1x6a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/eomaks0ua27a1.jpg)
