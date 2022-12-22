@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### A story in two parts
+### computer codes
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qvj0g276pb7a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f39zyf2ecg7a1.jpg)
