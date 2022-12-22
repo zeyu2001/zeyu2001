@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The ol’ TCP/IP
+### A story in two parts
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yk9o6aida77a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qvj0g276pb7a1.jpg)
