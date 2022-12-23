@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### StackOverflow got hands
+### I hate Presents
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/L4vtnL1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xim4k0olfj7a1.jpg)
