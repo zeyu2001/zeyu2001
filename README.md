@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### it works!! don't touch!!!
+### Python programmers be like: "Yeah that makes sense" 🤔
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kmtsw8mz9n7a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c5r01v03co7a1.jpg)
