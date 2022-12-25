@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Taa daaa!
+### Every time
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hihbv8atyu7a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cml7m5a93w7a1.png)
