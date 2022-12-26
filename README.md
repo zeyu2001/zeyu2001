@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### It shall not be touched
+### You will never avoid rabbit holes
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uosoyyvoh48a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m1vq298bz48a1.png)
