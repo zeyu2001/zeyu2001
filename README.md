@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### this gotta be a declaration of war or something
+### I want to work hard to disrupt the tech industry too, guys.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/w6wa4w7je98a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yocw0pp3bb8a1.png)
