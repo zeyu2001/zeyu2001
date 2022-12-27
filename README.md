@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I want to work hard to disrupt the tech industry too, guys.
+### which algorithm is this
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yocw0pp3bb8a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/b0e5c1biwf8a1.png)
