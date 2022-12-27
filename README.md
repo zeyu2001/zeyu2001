@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Twitter files part O(n)
+### this gotta be a declaration of war or something
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/Xbt4DSq.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/w6wa4w7je98a1.jpg)
