@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### You will never avoid rabbit holes
+### Twitter files part O(n)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m1vq298bz48a1.png)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/Xbt4DSq.jpg)
