@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### which algorithm is this
+### Yes it is really good
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/b0e5c1biwf8a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x4zc2vli3g8a1.jpg)
