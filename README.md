@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### He will go very far and achieve amazing things
+### There are 91,000+ instances of the youtube video ID "dQw4w9WgXcQ" in code on GitHub
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/iw6xaijcdi8a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/oz3la2thdk8a1.jpg)
