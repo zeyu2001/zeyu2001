@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Those damn interns
+### He will go very far and achieve amazing things
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9zn56l0u5o8a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iw6xaijcdi8a1.jpg)
