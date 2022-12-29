@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Et tu, Github
+### Average performance of my brain while debugging
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6ed65tr6xn8a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/woxnx8n72r8a1.jpg)
