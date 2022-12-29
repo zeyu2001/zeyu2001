@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### don't do it
+### Et tu, Github
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mezqx0854p8a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6ed65tr6xn8a1.jpg)
