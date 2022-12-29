@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Average performance of my brain while debugging
+### Python
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/woxnx8n72r8a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gknrwk1qxv8a1.jpg)
