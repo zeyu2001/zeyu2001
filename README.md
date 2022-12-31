@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### 1
+### Musk, 2020.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jeushflu3z8a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sf9cl3x8g49a1.jpg)
