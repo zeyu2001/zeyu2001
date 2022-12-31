@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Musk, 2020.
+### we all have that one thing in our project
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sf9cl3x8g49a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pfuyrjv8m49a1.png)
