@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### we all have that one thing in our project
+### The ones that don't understand cloud
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pfuyrjv8m49a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dq26ofjdp89a1.jpg)
