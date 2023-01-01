@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The ones that don't understand cloud
+### I gave you what you wanted
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dq26ofjdp89a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qhp7duazna9a1.png)
