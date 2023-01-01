@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I gave you what you wanted
+### I can't think about another video game using Java. I mean, there WILL be more but i haven't saw them.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qhp7duazna9a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7o6oos2ebe9a1.jpg)
