@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### next level storage
+### we need to add support for more calendar formats
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/arqzi89s0q9a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vb5c7diwwr9a1.png)
