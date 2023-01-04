@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Is there a hidden meaning or what. Because why do you need to different keywords which do the same thing. I think i am dum.
+### Algorithm complexities
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lxofw1cj91aa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j3ho9kshrw9a1.jpg)
