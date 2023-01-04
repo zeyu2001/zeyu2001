@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### we need to add support for more calendar formats
+### I don't want to come off negative... but you know how these things go.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vb5c7diwwr9a1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c8nc6aeqoq9a1.jpg)
