@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I don't want to come off negative... but you know how these things go.
+### How to regex
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c8nc6aeqoq9a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/k53Z290.jpg)
