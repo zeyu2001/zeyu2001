@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Algorithm complexities
+### console.log("Junior vs Senior dev debugging output");
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j3ho9kshrw9a1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/169s7aP.png)
