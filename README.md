@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Self-documenting code
+### For real though
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/f60aq89bs2aa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mpx0v8xj67aa1.jpg)
