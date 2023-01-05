@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### console.log("Junior vs Senior dev debugging output");
+### it's true
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/169s7aP.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/stowvvgaa4aa1.png)
