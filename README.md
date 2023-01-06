@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### There is absolutely no going back.
+### can’t be the only one
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rzurg1l3dbaa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/aqeq6rfvxfaa1.jpg)
