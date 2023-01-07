@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### can’t be the only one
+### I want to be available for everyone, really. But so often the "help" I give is the first Google result.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/aqeq6rfvxfaa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/a9bfifh6whaa1.jpg)
