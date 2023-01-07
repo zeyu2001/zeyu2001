@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I want to be available for everyone, really. But so often the "help" I give is the first Google result.
+### These freelance jobs are becoming increasingly difficult.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/a9bfifh6whaa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yyu3jhjwcjaa1.png)
