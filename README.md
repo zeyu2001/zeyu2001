@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Trust me it hurts
+### Complexity
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qjyk64j6dmaa1.png)
+![ProgrammerHumour Meme of the Day](https://www.monkeyuser.com/assets/images/2022/247-complexity.png)
