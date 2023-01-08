@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### These freelance jobs are becoming increasingly difficult.
+### Programmers Were So Preoccupied With Whether Or Not They Could, They Didn’t Stop To Think If They Should
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yyu3jhjwcjaa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/udw7fitjmmaa1.jpg)
