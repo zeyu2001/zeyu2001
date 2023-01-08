@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Programmers Were So Preoccupied With Whether Or Not They Could, They Didn’t Stop To Think If They Should
+### Trust me it hurts
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/udw7fitjmmaa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qjyk64j6dmaa1.png)
