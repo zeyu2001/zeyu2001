@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Be charitable
+### seriously though is it not pronounced as an initialism?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zbz1grhgjuaa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0s0mk50swvaa1.jpg)
