@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### seriously though is it not pronounced as an initialism?
+### If I sum up my Life.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0s0mk50swvaa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tkd8tk57zwaa1.jpg)
