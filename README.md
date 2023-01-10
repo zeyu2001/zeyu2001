@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### So what is going on ??
+### oopsie woopsie something went wrong
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cpj8mezoazaa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2c8rlxyh41ba1.jpg)
