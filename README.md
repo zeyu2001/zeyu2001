@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### dont want online ones
+### No better place to put it
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p68nzlzmp8ba1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bq54om6am4ba1.png)
