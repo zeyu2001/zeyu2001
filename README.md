@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### oopsie woopsie something went wrong
+### gents, the fate of the world rests on our hands
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2c8rlxyh41ba1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p568shoyk2ba1.jpg)
