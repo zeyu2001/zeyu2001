@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Just sitting there idle
+### The fear is real guys 💀
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/g55oa7rqd7ba1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/97yaly2709ba1.jpg)
