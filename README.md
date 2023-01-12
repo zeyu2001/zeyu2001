@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Text editors and IDEs if they were cars
+### Been thinking about this lately
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m53qzpt3qgba1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uyzc4rle9jba1.jpg)
