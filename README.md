@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Its ‘software developer’
+### The struggle is real
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/z38xtirykgba1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hw9nv448laba1.png)
