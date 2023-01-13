@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Should I tell him
+### Myanmar Government is pretty fucked right now
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/AFCE88Q.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9lwtds6o8tba1.jpg)
