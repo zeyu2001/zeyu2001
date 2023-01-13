@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Just looking over some old code.... not sure how I missed this
+### ahhh yes... Professional Googlers
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ao92svp6elba1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/64l8z3d5dqba1.jpg)
