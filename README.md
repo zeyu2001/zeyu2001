@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Sigma males don't go outside.. they average 40 commits a day
+### Just looking over some old code.... not sure how I missed this
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ld6umy28hpba1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ao92svp6elba1.png)
