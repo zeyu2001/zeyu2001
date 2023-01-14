@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### That’s it, blame the intern!
+### "Oh Gods of Programming, Have you blessed me?"
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/raq4guis5wba1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/irbm291qv2ca1.jpg)
