@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The future
+### This startup is going to change the game on file directories
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2t0huxtbt7ca1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8mqp8j46haca1.png)
