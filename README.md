@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### If (exists == true) { dont();}
+### Very efficient Code
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5zzyhx0i7eca1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0l34r72dafca1.png)
