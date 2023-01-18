@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### A new way to program in python :D
+### I kid you not, this happened during today's standup.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kaw7frufqkca1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hhsjczkw2oca1.jpg)
