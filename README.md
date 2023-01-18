@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Seriously tho
+### its okay guys they fixed it!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kq4rb6erqpca1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/alibj9rm5vca1.jpg)
