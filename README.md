@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### When gigachad writes a sort algorithm
+### A new way to program in python :D
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mzbwlkpy3jca1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kaw7frufqkca1.png)
