@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I kid you not, this happened during today's standup.
+### Seriously tho
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hhsjczkw2oca1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kq4rb6erqpca1.jpg)
