@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### In the real world, your coworkers will appreciate clean, easy to read, functional code. People doing a job don't care that you obsessed over getting every function down to as few lines and characters as possible.
+### Mongo is not meant for that..
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/f64yfczn0xca1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0eqti1w6o0da1.jpg)
