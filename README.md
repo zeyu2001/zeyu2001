@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### its okay guys they fixed it!
+### In the real world, your coworkers will appreciate clean, easy to read, functional code. People doing a job don't care that you obsessed over getting every function down to as few lines and characters as possible.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/alibj9rm5vca1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f64yfczn0xca1.png)
