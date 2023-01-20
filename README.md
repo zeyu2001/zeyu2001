@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Mongo is not meant for that..
+### I never thought it would happen to me
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0eqti1w6o0da1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lngbozplm2da1.jpg)
