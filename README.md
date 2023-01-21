@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### When you have a problem and solve it using RegEx, you end up with two problems
+### Pls not in prod
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/h7tvkzznm8da1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ckptnaso6cda1.jpg)
