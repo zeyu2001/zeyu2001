@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### C language is dead isn't it?
+### Why do people curse JS so much, but also say it's better than Python
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/t2ai2fi5pbda1.png)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/ikOPXWB.jpg)
