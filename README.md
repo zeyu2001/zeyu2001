@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Better not fire anyone now
+### I am not able to find time anymore..
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gw9qk0ks9kda1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dsg8iien1mda1.jpg)
