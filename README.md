@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Prof made it very clear from the first day thar we can't use IDEs in the course
+### God's developer console
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y1berdyf4rda1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x1cpkulextda1.png)
