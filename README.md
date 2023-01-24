@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### God's developer console
+### Accomplishments
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x1cpkulextda1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/50fhg3lhmzda1.jpg)
