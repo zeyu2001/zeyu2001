@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Originally from Latin, Lorem ipsum has no intelligible meaning.
+### From an article about "side hustles" that pay 100k+ published by CNBC......aka jobs
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/csjh45j7w3ea1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x64fc5b7v8ea1.png)
