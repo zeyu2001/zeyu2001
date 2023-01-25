@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Is it just me?
+### Originally from Latin, Lorem ipsum has no intelligible meaning.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pj4nvnysw1ea1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/csjh45j7w3ea1.jpg)
