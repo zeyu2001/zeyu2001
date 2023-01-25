@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Accomplishments
+### Is it just me?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/50fhg3lhmzda1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pj4nvnysw1ea1.jpg)
