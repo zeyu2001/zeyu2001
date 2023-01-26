@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### We follow the best practices.
+### Interviewing vs. job
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sso3oy487aea1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/alqgarv26fea1.png)
