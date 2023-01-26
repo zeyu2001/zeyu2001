@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Warning for Parents: Does your kid use any of this softwares ?
+### We follow the best practices.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tmb7iwedogea1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sso3oy487aea1.jpg)
