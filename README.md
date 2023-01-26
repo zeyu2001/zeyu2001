@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Developers will ALWAYS find a way
+### Warning for Parents: Does your kid use any of this softwares ?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mhlegbp2eaea1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tmb7iwedogea1.jpg)
