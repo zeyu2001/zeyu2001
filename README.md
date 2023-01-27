@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Interviewing vs. job
+### Forget VIM, VS Code is the best editor
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/alqgarv26fea1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/h01k32orsjea1.png)
