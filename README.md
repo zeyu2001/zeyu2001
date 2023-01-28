@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Forget VIM, VS Code is the best editor
+### I saw this one on a forum for artists. Applies maybe even more to us, I would think.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/h01k32orsjea1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zvz9wpwsukea1.jpg)
