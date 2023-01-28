@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I saw this one on a forum for artists. Applies maybe even more to us, I would think.
+### C++
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zvz9wpwsukea1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/78sqi051rqea1.jpg)
