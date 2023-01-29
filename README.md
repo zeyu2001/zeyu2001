@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### My friend's code for an assignment
+### Ending this debate once and for all.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1sevkv70area1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/84k6l0tavsea1.jpg)
