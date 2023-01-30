@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### It truly makes all the difference
+### Let's test which language is faster!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2cw5nsnz6xea1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ykd268k6x0fa1.jpg)
