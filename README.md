@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Anybody else having this kind of colleague? Way to start a Monday!
+### At least the pay is good
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pa5vwcval8fa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2kzz44llt8fa1.png)
