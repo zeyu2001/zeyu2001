@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### At least the pay is good
+### How to identify a senior developer
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2kzz44llt8fa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6aon4ui5k9fa1.png)
