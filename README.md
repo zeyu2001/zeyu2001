@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### How to identify a senior developer
+### Bro wants an entire dev team for free
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6aon4ui5k9fa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zpo7k5nysbfa1.jpg)
