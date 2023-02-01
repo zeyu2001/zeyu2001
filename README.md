@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### They said they would be treated better.
+### Are junior developers actually useless?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sd05xgkovdfa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8uwpquz9wffa1.png)
