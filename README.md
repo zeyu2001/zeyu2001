@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Are junior developers actually useless?
+### Average Slavic Programer
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8uwpquz9wffa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6z9n5d2jblfa1.jpg)
