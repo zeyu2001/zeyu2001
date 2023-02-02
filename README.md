@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Average Slavic Programer
+### I'm a bird engineer.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6z9n5d2jblfa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y9wn43s9pkfa1.jpg)
