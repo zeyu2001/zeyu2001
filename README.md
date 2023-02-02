@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I'm a bird engineer.
+### It did happen like that
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y9wn43s9pkfa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gr0o3uznfnfa1.png)
