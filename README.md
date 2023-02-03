@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Most humble CS student
+### Don’t question it
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/02sbsxx2zrfa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7r2tjc9loufa1.jpg)
