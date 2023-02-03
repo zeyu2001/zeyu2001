@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Don’t question it
+### Is it vaild ?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7r2tjc9loufa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/b34c1x7iyxfa1.jpg)
