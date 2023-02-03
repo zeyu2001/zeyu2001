@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Is it vaild ?
+### Actual message from a guy on a dating app
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/b34c1x7iyxfa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/isyrj8ssa1ga1.jpg)
