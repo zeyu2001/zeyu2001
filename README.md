@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### is this a thing or is my professor crazy?
+### Get it while it’s hot
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gu9m3isal4ga1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/atrxw2vat8ga1.jpg)
