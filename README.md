@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Get it while it’s hot
+### When you remember that you don't own the company...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/atrxw2vat8ga1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hxtf0xocd8ga1.jpg)
