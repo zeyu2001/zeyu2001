@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### A tale as old as time
+### Programming Legumes v2.0
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/z1lxh9gw8fga1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o9exmbw1kega1.jpg)
