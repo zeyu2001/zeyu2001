@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Programming Legumes v2.0
+### These are confusing times
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o9exmbw1kega1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jrxju36stjga1.png)
