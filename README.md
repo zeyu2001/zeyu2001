@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### University assignments be like
+### Just reddit things.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ys93humvdqga1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kmjofesm4sga1.png)
