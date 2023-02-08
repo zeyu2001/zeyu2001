@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Just reddit things.
+### As someone who has done something similar in the past, I don't feel bad about laughing. 🤣 (Also this guy got the advice he needed.)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kmjofesm4sga1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z8jhkhpdmuga1.png)
