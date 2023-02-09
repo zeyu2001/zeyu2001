@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### No one is irreplaceable
+### It'll probably work
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n8d65c97k2ha1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/80c93hszc2ha1.jpg)
