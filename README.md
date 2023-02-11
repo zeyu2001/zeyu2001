@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### get trolled
+### I do think C is the best programming language tho
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/37es1vwc5dha1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jpzdxqccoiha1.jpg)
