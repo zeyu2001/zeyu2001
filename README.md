@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I do think C is the best programming language tho
+### Can't wait for this ethics in technology course
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jpzdxqccoiha1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/riz8366l0oha1.jpg)
