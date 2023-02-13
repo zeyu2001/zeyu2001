@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Do you want it secure or NOT‽‽
+### My C code isn't working guys
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5a86r84sbsha1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nd8zi8h6muha1.jpg)
