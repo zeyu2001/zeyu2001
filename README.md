@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### when u finally found that ONE repo which fits your needs and is not outdated but you have issues to raise
+### Do you want it secure or NOT‽‽
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/s4jyoi8nisha1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5a86r84sbsha1.png)
