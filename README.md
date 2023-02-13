@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### But i just asked..
+### My C code isn't working guys
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/42wrrhy2txha1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nd8zi8h6muha1.jpg)
