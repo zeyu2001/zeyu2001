@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Jesus. What a salary. I don’t think I could ask for more!
+### true that. . .
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/90igbkjxx1ia1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nky7goni76ia1.jpg)
