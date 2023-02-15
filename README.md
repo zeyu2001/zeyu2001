@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### What if education is not so bad
+### Indentation limbo
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sksbxvhmo9ia1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/e7n0qb3ztbia1.png)
