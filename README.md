@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Seems legit...
+### What if education is not so bad
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/snoomh9qa9ia1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sksbxvhmo9ia1.jpg)
