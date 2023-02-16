@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The irony is too much to bear
+### The amount of times I have accidentally done this...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7fo2kcqydeia1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gpi4qrmppiia1.png)
