@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The amount of times I have accidentally done this...
+### I can relate to this on so many levels
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gpi4qrmppiia1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kb2g0rm5llia1.jpg)
