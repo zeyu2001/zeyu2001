@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Obsidian devs are no fun
+### move along now
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u5dbxy0g2kia1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9ny04y4b5qia1.jpg)
