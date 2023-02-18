@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### move along now
+### This is not a Bug, It's a Feature
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9ny04y4b5qia1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/q3rs7ew4rpia1.jpg)
