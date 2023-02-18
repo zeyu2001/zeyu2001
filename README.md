@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### 104 vulnerabilities (91 moderate, 9 high, 4 critical)
+### Hey guys a friend of mine sent me this code, can someone translate it for me?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/71hvstqt9sia1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ziozcszu3via1.png)
