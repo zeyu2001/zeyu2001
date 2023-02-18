@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Hey guys a friend of mine sent me this code, can someone translate it for me?
+### I am sure before Chatgpt these 5th standard kids would replace us.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ziozcszu3via1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dk56ff9mqxia1.jpg)
