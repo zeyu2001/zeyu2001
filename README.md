@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### This is not a Bug, It's a Feature
+### 104 vulnerabilities (91 moderate, 9 high, 4 critical)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q3rs7ew4rpia1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/71hvstqt9sia1.png)
