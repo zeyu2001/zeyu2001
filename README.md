@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Guide a fellow programmer to become a little dick-tator
+### Current state of applying to jobs
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gurwrmtknyia1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/axi337cxs3ja1.jpg)
