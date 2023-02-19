@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I am sure before Chatgpt these 5th standard kids would replace us.
+### the java RAM usage incident (looking at you IntelliJ)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dk56ff9mqxia1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j7fs9o0dayia1.png)
