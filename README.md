@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Folks, the platform is not just for query resolution
+### Quit being babies and just try it. I promise, you'll love it when you finally work on a JS application any more complex than "Hello, World!"
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zlrgkz9clcja1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2zp7m0sr8aja1.jpg)
