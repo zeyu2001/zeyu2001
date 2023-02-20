@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Current state of applying to jobs
+### thought i should post this meme here
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/axi337cxs3ja1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ug5lgn15r4ja1.png)
