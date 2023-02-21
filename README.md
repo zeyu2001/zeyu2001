@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Gotta love being "Agile"
+### He knows how to work...
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/MexLwH2.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kjvqjqlq5hja1.jpg)
