@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### He knows how to work...
+### I seriously don't understand this nonsense.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kjvqjqlq5hja1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/h4hid8oxfmja1.jpg)
