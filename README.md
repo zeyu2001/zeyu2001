@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### This Elicited a Chuckle
+### anon does it
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3oaexbn2csja1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m95ouq9d9zja1.jpg)
