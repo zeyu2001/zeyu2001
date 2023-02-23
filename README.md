@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Rate my isEven and isOdd functions
+### This Elicited a Chuckle
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wub3tkdv1sja1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3oaexbn2csja1.png)
