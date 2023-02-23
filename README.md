@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Rust Strikes Again
+### Rate my isEven and isOdd functions
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/jnrrJzj.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wub3tkdv1sja1.jpg)
