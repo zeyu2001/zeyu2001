@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### anon does it
+### Applying for tech job
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m95ouq9d9zja1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/21c7xobeh0ka1.png)
