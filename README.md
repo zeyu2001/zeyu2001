@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Well that escalated quickly ChatGPT
+### Chaotic good hacker
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tfm7n2sdy2ka1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/01reosd806ka1.jpg)
