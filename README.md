@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Mission Failed
+### Do I have to do this line by line…please say there is a quick way to do this
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xlc2d7xxa7ka1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dn26unz78cka1.jpg)
