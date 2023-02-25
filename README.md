@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Savagery
+### Take your pick
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vhft8iax3dka1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9g1ndvxdt6ka1.png)
