@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Chaotic good hacker
+### Mission Failed
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/01reosd806ka1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xlc2d7xxa7ka1.jpg)
