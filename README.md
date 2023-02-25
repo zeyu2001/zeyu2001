@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Mission Failed
+### Savagery
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xlc2d7xxa7ka1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vhft8iax3dka1.jpg)
