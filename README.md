@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Perfect example of the Dunning Kruger effect
+### Sit down
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kk20oqzjxcka1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cv8rnyls9kka1.jpg)
