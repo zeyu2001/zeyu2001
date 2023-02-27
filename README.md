@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### If you can read this code...
+### No words v2💀
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/snak3fqgajka1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j4cyiiki8mka1.png)
