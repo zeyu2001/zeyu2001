@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Found this at work. Someone padded a repo with thousands of lines like this to pass a 75% code coverage check.
+### Yes, I know about transactions and backups
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/6GwfYZE.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/jSenFEv.jpg)
