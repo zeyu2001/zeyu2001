@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### It's literally the worst thing that can happen
+### Found this at work. Someone padded a repo with thousands of lines like this to pass a 75% code coverage check.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nsxo6uqkypka1.png)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/6GwfYZE.jpg)
