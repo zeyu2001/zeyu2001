@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### she's ...committed
+### Praying that my boss finds it as funny as I did
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zrb6dyp111la1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/w7h6895we3la1.jpg)
