@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Ive been programming for four years and I told my dad to watch long videos and complete your own projects to learn most efficiently. He thinks he’s ready to tackle any project after a ten minute video…
+### It happened so fast, I think I might've always been one
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vakxl3twv6la1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1m5yvc3ox6la1.png)
