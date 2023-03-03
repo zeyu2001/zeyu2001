@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### hE Is nOT qUaLifIeD!
+### When my boss does not know the difference between coding and debugging
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n5ww6k7agbla1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/51ebruci1fla1.jpg)
