@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Based on a true incident
+### Doom runs everywhere
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vb0ny2zdsmla1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/09hto6yl3qla1.png)
