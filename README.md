@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### It's true
+### Based on a true incident
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/magiqrty8jla1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vb0ny2zdsmla1.png)
