@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### HA
+### Learning ASM be like
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xwfwlkneesla1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ccel3mwp2wla1.png)
