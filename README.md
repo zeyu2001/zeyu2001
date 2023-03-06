@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I've been learning Rust for 3 days and this is my first impression
+### If your IQ &lt; 180 and haven't started at the age 5, don't even bother applying for android app dev position
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/750kdcr9qxla1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vaxk26xi23ma1.jpg)
