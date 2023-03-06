@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Learning ASM be like
+### I've been learning Rust for 3 days and this is my first impression
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ccel3mwp2wla1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/750kdcr9qxla1.png)
