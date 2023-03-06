@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### If your IQ &lt; 180 and haven't started at the age 5, don't even bother applying for android app dev position
+### Please think again
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vaxk26xi23ma1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0gxcad3xu1ma1.jpg)
