@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Ladies and Gentleman, the award for Developer of tue Year goes to:
+### Not sure if this is the worst or most genius indentation I've seen
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tpl9mf9dx5ma1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3aiqobqdo3ma1.jpg)
