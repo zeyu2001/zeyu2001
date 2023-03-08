@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Sometimes this happens...
+### Ai wIlL rEpLaCe Us
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n7x3fxo3ecma1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/khze3fa53fma1.png)
