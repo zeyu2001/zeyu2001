@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### ah yes, almost are genius one
+### Please do not select
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/iew1vp4kflma1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sdsev73etkma1.png)
