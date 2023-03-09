@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Profile of a Junior Developer I saw this morning
+### ah yes, almost are genius one
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nudcrco71gma1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iew1vp4kflma1.jpg)
