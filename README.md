@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### they have to be kidding me
+### then and now
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uajq6cneuqma1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pyv4s30xvpma1.jpg)
