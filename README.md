@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### It amazes me how confident they are while writing these articles...
+### they have to be kidding me
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o6bzc3jv6oma1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uajq6cneuqma1.png)
