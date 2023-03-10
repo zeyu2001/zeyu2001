@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Actual job posting I just found on indeed
+### BREAKING: Programmer finally found the answer to an old philosophical question
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ipuyv2g6jrma1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/56t5v0yc0wma1.png)
