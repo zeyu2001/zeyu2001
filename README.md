@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Exactly how debugging is
+### Went to the homepage of Github today, it isn't even a good one
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fib1j8y2acna1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xqgj2k5f3cna1.png)
