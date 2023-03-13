@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Let those inner daemons find an expression!
+### I like your funny words magic man
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/79tnabuanhna1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tk0sqxwdkgna1.jpg)
