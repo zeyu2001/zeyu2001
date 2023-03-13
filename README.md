@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Went to the homepage of Github today, it isn't even a good one
+### I like your funny words magic man
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xqgj2k5f3cna1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tk0sqxwdkgna1.jpg)
