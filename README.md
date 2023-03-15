@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### It just works
+### Comment your last commit message
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rysn8p84iona1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/utju5ry36una1.jpg)
