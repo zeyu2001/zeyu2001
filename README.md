@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Comment your last commit message
+### New ChatGPT4 can explain memes
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/utju5ry36una1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qcws4u2adwna1.png)
