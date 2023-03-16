@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The new type of SQL injection
+### This is why global variables are bad
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2b0g44tvyzna1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hc83rd6wy4oa1.jpg)
