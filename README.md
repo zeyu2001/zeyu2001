@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Thank you senpai!
+### x = x + 1
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mooa711lo4oa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2kvke2fucaoa1.jpg)
