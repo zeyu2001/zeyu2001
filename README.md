@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### This is why global variables are bad
+### Thank you senpai!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hc83rd6wy4oa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mooa711lo4oa1.jpg)
