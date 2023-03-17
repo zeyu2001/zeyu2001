@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### x = x + 1
+### This should do the trick
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2kvke2fucaoa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qlzssa9fecoa1.jpg)
