@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### yikes
+### Linux IdeaPad server.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/06v0d36jidoa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f1c4fnxnefoa1.jpg)
