@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### There's Hope
+### React can't afford to go official
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jg3ygmekxjoa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mp0z8yt6jjoa1.png)
