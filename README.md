@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### React can't afford to go official
+### 01011000 01001111 01010010
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mp0z8yt6jjoa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p8k0rv2tknoa1.png)
