@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### 01011000 01001111 01010010
+### Give me one reason I shouldn’t take it. I’ll wait.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p8k0rv2tknoa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5xx8mdto6toa1.jpg)
