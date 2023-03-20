@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Give me one reason I shouldn’t take it. I’ll wait.
+### I still think that "directory" sounds ugly as heck.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5xx8mdto6toa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uyn2yhqukvoa1.jpg)
