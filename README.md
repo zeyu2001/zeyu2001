@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### GPT-4 vs Doggo
+### AI art will make designers obsolete.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jvs9ym358woa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5ejlltsm8zoa1.jpg)
