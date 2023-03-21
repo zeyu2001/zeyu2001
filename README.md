@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### We call them Scrum Masters
+### A crack in time saves nine
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/drkadvrnxyoa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/oa7511hph2pa1.png)
