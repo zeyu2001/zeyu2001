@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### A crack in time saves nine
+### I getn't it
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/oa7511hph2pa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qnjy3v1qw5pa1.jpg)
