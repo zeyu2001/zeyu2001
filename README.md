@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Who else has been laid off?
+### Straight raw dogging vscode
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4wx48z04vlpa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/ecsr3dp.jpg)
