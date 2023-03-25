@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Straight raw dogging vscode
+### Interesting company name in the chamber of commerce register of the UK
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/ecsr3dp.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5qzuxaugjppa1.png)
