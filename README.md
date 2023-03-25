@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Interesting company name in the chamber of commerce register of the UK
+### Poor intern just made a small mistake
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5qzuxaugjppa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/whwze4hfvrpa1.png)
