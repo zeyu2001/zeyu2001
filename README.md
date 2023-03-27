@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Protest graffiti
+### Yeahhh.. I became an app developer
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/82i8nHJ.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7tknctau76qa1.jpg)
