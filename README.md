@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Yeahhh.. I became an app developer
+### What do I get a programming obsessed high school boy for his birthday? I actually need advice
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7tknctau76qa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f6q7bw93z7qa1.jpg)
