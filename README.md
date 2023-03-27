@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### What do I get a programming obsessed high school boy for his birthday? I actually need advice
+### Twitter's source code has been leaked on GitHub
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/f6q7bw93z7qa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/rxUv3cf.png)
