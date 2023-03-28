@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Twitter's source code has been leaked on GitHub
+### Programmers are never appreciated
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/rxUv3cf.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nn634b0iifqa1.jpg)
