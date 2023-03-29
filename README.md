@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Starbucks intern hard at work
+### Stop
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fohfusmcmjqa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/9SimHEj.png)
