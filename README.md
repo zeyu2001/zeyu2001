@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Stop
+### Poor seank
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/9SimHEj.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/st1w1vo3ooqa1.png)
