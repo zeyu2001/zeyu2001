@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### A glimpse of the future
+### And how to get a golden badge for deleting posts?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/05775e7zurqa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gt1vcndeqsqa1.jpg)
