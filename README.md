@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### They are learning too fast!
+### PHP is Frankenstein
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zy50o5but3ra1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/46bz1c6zo3ra1.png)
