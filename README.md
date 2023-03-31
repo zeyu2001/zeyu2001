@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### When I start a new project
+### They are learning too fast!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5l1pyzcwxzqa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zy50o5but3ra1.png)
