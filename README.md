@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### It’s real! Four types of Twitter users according to the just open sourced Twitter Recommendation algorithm
+### what
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/issds7pus4ra1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/udro8h0jcara1.jpg)
