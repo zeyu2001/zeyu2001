@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### what
+### Something tells me Twitter isn’t going to get anything useful from their GitHub issues
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/udro8h0jcara1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vywnnqmo8bra1.jpg)
