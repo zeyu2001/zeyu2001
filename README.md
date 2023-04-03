@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### This is what we all aspire to be
+### Come on, come on... Show us how to do it...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/g2ddepwsckra1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d69y2ly7lnra1.jpg)
