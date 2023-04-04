@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Come on, come on... Show us how to do it...
+### Every Time
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/d69y2ly7lnra1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xeozajimaora1.jpg)
