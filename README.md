@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Or divide 2 numbers?
+### What do you do to achieve this catastrophy?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0ggd5dr0i3sa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qt0jwdo498sa1.png)
