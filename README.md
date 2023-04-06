@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Do you prefer getting from String to Enum by car or by boat?
+### Or divide 2 numbers?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/iqoiw31531sa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0ggd5dr0i3sa1.jpg)
