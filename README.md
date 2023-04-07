@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Web search optimization seeps into the physical world
+### I wonder how they got anything done at all
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bnpy169ltbsa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7kzg4rs9jfsa1.jpg)
