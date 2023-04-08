@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Uber of Amazons or Amazon of Uber, I do not know
+### Trying to guess a Toggle's behaviour puts you in a coma
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4577pypiuhsa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/so0nlyusjmsa1.png)
