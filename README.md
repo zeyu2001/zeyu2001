@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Gee I wonder why nobody has tried to do this before
+### Uber of Amazons or Amazon of Uber, I do not know
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/acjvti07ehsa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4577pypiuhsa1.png)
