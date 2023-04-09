@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Trying to guess a Toggle's behaviour puts you in a coma
+### I don't even know how to comment on this
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/so0nlyusjmsa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jhy961x89psa1.jpg)
