@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Hi!, i have invented O(1) algorithm for checking if number is prime that works in 95%+ cases. For more details checkout comments for link to the github repo
+### Good luck debugging that
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5hqf5d6kpusa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3xc6v9rw9wsa1.png)
