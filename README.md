@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### This is true
+### Revenge 😈
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9x5ws7uvk6ta1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mn7kk15oq9ta1.jpg)
