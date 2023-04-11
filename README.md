@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### god why is coding chess so hard
+### This is true
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5mkc2nukl2ta1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9x5ws7uvk6ta1.jpg)
