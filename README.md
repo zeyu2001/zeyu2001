@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Now you have someone to code it
+### We care for you legally
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/d0v0br33ykta1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yto2lironmta1.png)
