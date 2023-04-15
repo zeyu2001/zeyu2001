@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Every new project be like...
+### May even print it out and take a pic of it
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3vtlt3cwlrta1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/39t21vq7juta1.jpg)
