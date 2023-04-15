@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### May even print it out and take a pic of it
+### Finally complete freedom
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/39t21vq7juta1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/if5ikirzf0ua1.jpg)
