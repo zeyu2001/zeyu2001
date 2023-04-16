@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### C++ programmers be like
+### JavaScript forbidden practices. Part 3: angry function
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ecs074olq3ua1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1d7i7o5hc7ua1.png)
