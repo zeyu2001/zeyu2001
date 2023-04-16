@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### JavaScript forbidden practices. Part 3: angry function
+### You gotta respect yourself
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1d7i7o5hc7ua1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/np64n58cq9ua1.jpg)
