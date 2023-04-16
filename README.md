@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Well well well
+### C++ programmers be like
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bejcn16jd4ua1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ecs074olq3ua1.jpg)
