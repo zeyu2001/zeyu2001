@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Just to be sure
+### Familiar feeling?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q3nekmvs8gua1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8lb58x8oxgua1.jpg)
