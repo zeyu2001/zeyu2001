@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Familiar feeling?
+### Are you a good developer ?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8lb58x8oxgua1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8uo0znuwcnua1.jpg)
