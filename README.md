@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Are you a good developer ?
+### Which one of you bozos did it?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8uo0znuwcnua1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/aeucop8mupua1.png)
