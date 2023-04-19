@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Which one of you bozos did it?
+### Which one of you programmed this?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/aeucop8mupua1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6hs3qjduttua1.png)
