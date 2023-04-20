@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### “It’s for a class”
+### 4 engineers
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/zFK00yY.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/30l7bhftyzua1.jpg)
