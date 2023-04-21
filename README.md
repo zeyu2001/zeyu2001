@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### varchar(255)
+### 5 years as a programmer
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gh2parelc1va1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ye4m8jyoc4va1.jpg)
