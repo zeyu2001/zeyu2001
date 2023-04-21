@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### 5 years as a programmer
+### Yes or no?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ye4m8jyoc4va1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2xfrm23ldava1.jpg)
