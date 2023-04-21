@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### 4 engineers
+### varchar(255)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/30l7bhftyzua1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gh2parelc1va1.jpg)
