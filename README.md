@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### What legacy code feels like according to this sub. Never to be read, never to be questioned
+### i see no problem here
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y7x8y4l4rdva1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cvz9ohjtohva1.jpg)
