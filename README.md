@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### What do you guys think should I suggest him to learn as their first programming language?
+### Why can't you make good jokes? ME:
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zgkfnjiquhva1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xox5bzm10nva1.jpg)
