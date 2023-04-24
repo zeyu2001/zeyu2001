@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Yikes
+### When I ask people at my new job for code docs.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dmuvdmosdpva1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/strFxYC.jpg)
