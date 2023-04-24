@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### sss language of snakes
+### Yikes
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/197ca570ymva1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dmuvdmosdpva1.jpg)
