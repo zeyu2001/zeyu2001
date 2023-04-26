@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### It does make life easier
+### skill issue
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rmef9hfjp2wa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nkjo1ct5d6wa1.png)
