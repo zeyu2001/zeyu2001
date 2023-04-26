@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I've seen every one of these in action
+### Sad.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u9z5fohv04wa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9sexrv4ob6wa1.jpg)
