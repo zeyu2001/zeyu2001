@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### skill issue
+### The COMPLETE c family tree
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nkjo1ct5d6wa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lakdibcmd2wa1.png)
