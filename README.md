@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Sad.
+### How to write good code
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9sexrv4ob6wa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/8s40Ngu.png)
