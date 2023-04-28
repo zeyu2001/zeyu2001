@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Emotional damage
+### Years of academic training prepared me for this moment
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qfv92xcopdwa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j3s2m2iv0fwa1.png)
