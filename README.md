@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Years of academic training prepared me for this moment
+### Give it a try
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j3s2m2iv0fwa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uflpesfmrgwa1.png)
