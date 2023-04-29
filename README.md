@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### But it's running!
+### Software developers in 60s
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/r33xgelkukwa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hp4e5stu4pwa1.jpg)
