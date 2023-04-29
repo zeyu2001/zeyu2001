@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Software developers in 60s
+### If ChatGPT learned from Stack Overflow
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hp4e5stu4pwa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v9ifky4uxtwa1.png)
