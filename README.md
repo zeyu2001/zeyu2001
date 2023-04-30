@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### If ChatGPT learned from Stack Overflow
+### 500 lines in 2013 is 10k in 2023, inflation you know
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/v9ifky4uxtwa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ah0d4ylo1vwa1.png)
