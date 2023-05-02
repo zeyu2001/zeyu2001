@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Looks great on my machine
+### classic rainforest
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j0v40dj688xa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4loaqlnct8xa1.png)
