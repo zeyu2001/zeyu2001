@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### How to make sure your scrums end on time
+### AI is taking over
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9sdkjt9h2ixa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l2pzxryu5gxa1.jpg)
