@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I'm new to this, am I doing this right?
+### Our CS senior class learned some great coding conventions
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/uiuF5K5.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vr8po64h0oxa1.jpg)
