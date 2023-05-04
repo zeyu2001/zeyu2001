@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Our CS senior class learned some great coding conventions
+### Get gnu gnu'd
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vr8po64h0oxa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qjblgwggetxa1.jpg)
