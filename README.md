@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Get gnu gnu'd
+### Reconsidering whether i should continue on with my CS degree
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qjblgwggetxa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qycntc38kuxa1.png)
