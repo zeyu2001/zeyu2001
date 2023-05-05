@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Reconsidering whether i should continue on with my CS degree
+### Helicopter Helicopter
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qycntc38kuxa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p433hvmxi0ya1.jpg)
