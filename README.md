@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Do it
+### Get ready for the big Bang
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3785aw80t0ya1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wzs96b2gq5ya1.jpg)
