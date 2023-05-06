@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Helicopter Helicopter
+### Do it
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p433hvmxi0ya1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3785aw80t0ya1.png)
