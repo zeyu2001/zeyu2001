@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### AI generated code quality
+### Idk why this came to my mind
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/g1an802ms7ya1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/62ahw40k8aya1.jpg)
