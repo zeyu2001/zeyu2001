@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Nothing like taking down prod on your first week 😎
+### Don't we all know someone like that?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gfmc5vo8kjya1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hjie2vwg9fya1.jpg)
