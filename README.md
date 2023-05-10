@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### It should be finished by afternoon, right? Right?
+### It's always far worse when you know it won't work, but does
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wq0m8lm1evya1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tx6ogw2jpxya1.png)
