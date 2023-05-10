@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### management has sent a meeting request
+### It should be finished by afternoon, right? Right?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ehh20ywevtya1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wq0m8lm1evya1.jpg)
