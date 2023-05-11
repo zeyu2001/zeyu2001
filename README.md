@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### So Hows the Hackathon Going?
+### I don't get it
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1q1j85vu54za1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k6er87zp25za1.png)
