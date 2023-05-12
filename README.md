@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I don't get it
+### Hotfix
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k6er87zp25za1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sbn5lb0lf7za1.png)
