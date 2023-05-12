@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### chat GPT almost passed the turing test
+### And also, you are very beautiful! Continue your day! Anyways, here is your stack trace:
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5vizfka879za1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bb9c6jcqz8za1.png)
