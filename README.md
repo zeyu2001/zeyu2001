@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### When I got a chance to work on projects from scratch…
+### Sir you need at least 64GB RAM to run our game
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mf7ks2fytdza1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ly9vz32x0kza1.jpg)
