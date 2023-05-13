@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Choose Your Career Path Wisely
+### I'll use a hashmap 😛
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ort4blx4cgza1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mr1k5vc3skza1.jpg)
