@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Googling be like
+### #StandAgainstFloats
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2cgiao3velza1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rlcj5w7gjpza1.png)
