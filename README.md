@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### #StandAgainstFloats
+### While stuck in a "backlog grooming" meeting
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rlcj5w7gjpza1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2u72y8l4npza1.png)
