@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### While stuck in a "backlog grooming" meeting
+### Burndown charts be like...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2u72y8l4npza1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l5j22hwp2uza1.png)
