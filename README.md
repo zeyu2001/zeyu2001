@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Teams: several people are typing …
+### You can give them mine.
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/BD0c57I.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k2tuligvyyza1.jpg)
