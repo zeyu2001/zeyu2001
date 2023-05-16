@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### You can give them mine.
+### I've been learning the truth about CSS
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k2tuligvyyza1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lwgbtajgn20b1.jpg)
