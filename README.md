@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### My experience as a professional programmer for 6 years. Anyone else?
+### The real reason JSON has no comments
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ewhyk2us670b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n3ypyqckva0b1.jpg)
