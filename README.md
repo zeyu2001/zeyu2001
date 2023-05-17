@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### The real reason JSON has no comments
+### Nah, I got this...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n3ypyqckva0b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k2w1bap1ed0b1.jpg)
