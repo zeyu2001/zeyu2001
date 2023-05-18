@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### So tell me about your side projects
+### AWS released EC2 in 2006. People before 2006:
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ht4pv33kdg0b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ntvg91zd2k0b1.jpg)
