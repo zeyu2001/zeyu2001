@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### One of my friends has just started life as a professional programmer
+### Caption this
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/Q2jpCS9.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nmrqg1ezrt0b1.jpg)
