@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Guilty as charged
+### Experience with quantum computing a bonus
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fxfxh6e86v0b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cxf6x5ycux0b1.jpg)
