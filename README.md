@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Wow...
+### Security++
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bog3jcs8fa1b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z0vwse8kfb1b1.jpg)
