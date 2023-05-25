@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Well that’s one way to look at things.
+### Have you thought?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jldxnyhdsq1b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s92dfogclp1b1.jpg)
