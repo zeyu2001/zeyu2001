@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Productivity is an illusion
+### Quora is a lawless place
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/svwxfiyidz1b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x5jp7d41cy1b1.png)
