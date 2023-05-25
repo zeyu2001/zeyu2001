@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Sounds about right
+### 10px should work fine
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ecl9f276es1b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mu65n2zlht1b1.png)
