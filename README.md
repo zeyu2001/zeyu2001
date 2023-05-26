@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Quora is a lawless place
+### STOP USING PYTHON 😡😡😡
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x5jp7d41cy1b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yo7dbdorh22b1.jpg)
