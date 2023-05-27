@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Good luck debugging this
+### It's that simple guys
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1mxs6jjap62b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5qqmwh7l182b1.png)
