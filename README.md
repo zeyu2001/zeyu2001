@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### It's that simple guys
+### GPT-4 is becoming too real.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5qqmwh7l182b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/biu51giivc2b1.jpg)
