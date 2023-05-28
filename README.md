@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### A funny language
+### When people assume open source also means open to contribution
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1zo8auzjlk2b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zcffb0mi2k2b1.png)
