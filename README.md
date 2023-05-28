@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Me after trying to use Git with Eclipse
+### A funny language
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6n9vdqrbgf2b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1zo8auzjlk2b1.jpg)
