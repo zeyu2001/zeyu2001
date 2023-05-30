@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Senior
+### Very different photos. Very similar times.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/e6moj9hy3q2b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/roclzb42st2b1.png)
