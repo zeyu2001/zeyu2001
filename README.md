@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Very different photos. Very similar times.
+### Mentally sanest LinkedIn recruiter
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/roclzb42st2b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uutea72gsx2b1.jpg)
