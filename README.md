@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### That one person!
+### Mother Nature committed quite a few times on this branch
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/67tzpkf4j13b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gyti2s3ck53b1.jpg)
