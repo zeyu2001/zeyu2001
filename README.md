@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### everyone's happy 😂
+### That one person!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q8ipos03zz2b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/67tzpkf4j13b1.png)
