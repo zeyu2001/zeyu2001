@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Definitely not my post, either.
+### AI will take over the world?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/przq4ior593b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/t2d4zdp9wb3b1.jpg)
