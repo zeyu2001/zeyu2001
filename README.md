@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Me thinking it’s impossible to do what my friends do.
+### Definitely not my post, either.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ontomww9n73b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/przq4ior593b1.jpg)
