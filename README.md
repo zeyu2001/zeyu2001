@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### And it has only one comment
+### Oops
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x8pksx5qlf3b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3v7vibqk0j3b1.jpg)
