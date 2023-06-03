@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I can't believe so many software engineers work at Google. What do they even do, the product is already built
+### I miss the old days where people asked me to recreate “Facebook” or “Twitter”
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9m8ex7ds0o3b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/afng78urkr3b1.jpg)
