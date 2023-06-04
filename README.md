@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### uh oh
+### Java 21 will introduce Unnamed Classes and Instance Main Methods
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/t45bxn9sht3b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wzg7xwu7ry3b1.jpg)
