@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I miss the old days where people asked me to recreate “Facebook” or “Twitter”
+### uh oh
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/afng78urkr3b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/t45bxn9sht3b1.jpg)
