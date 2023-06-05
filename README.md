@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### At the expense of compromising availability
+### Making my CV (fresh out of uni) - probably not unique but I think it's a fun little addition anyway
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/92vx0l2g134b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ppv68uejk64b1.png)
