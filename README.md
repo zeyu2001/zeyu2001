@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Making my CV (fresh out of uni) - probably not unique but I think it's a fun little addition anyway
+### Alright I'ma go ask chatgpt
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ppv68uejk64b1.png)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/Nfzn8x0.png)
