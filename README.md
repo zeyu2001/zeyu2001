@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I found this abomination while scrolling MSN
+### Happy children!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/39gs06depf4b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/494gbukd6j4b1.jpg)
