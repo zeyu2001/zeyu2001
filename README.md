@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### If only there had been a version control system
+### I found this abomination while scrolling MSN
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7rgezahs7e4b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/39gs06depf4b1.jpg)
