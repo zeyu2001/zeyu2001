@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### Qoura at it's finest
+### You and me Anon, you and me
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m0rqstherk4b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dam1aj038q4b1.jpg)
