@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### You and me Anon, you and me
+### we're safe fellas
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dam1aj038q4b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m8u59kwz7r4b1.jpg)
