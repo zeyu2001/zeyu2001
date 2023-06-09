@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### is it just me or?
+### Get hired, Fix bug, Refuse to elaborate, Leave
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/h9wfz9yegs4b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nhekd4awnw4b1.png)
