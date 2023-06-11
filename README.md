@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### K.I.S.S.
+### I present to you: The textbook CEO
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nn84jpbuj35b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/616ijgmgb75b1.jpg)
