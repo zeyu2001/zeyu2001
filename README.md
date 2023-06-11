@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### I present to you: The textbook CEO
+### When your shower uses GitHub more than you:
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/616ijgmgb75b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rb6ur6152c5b1.jpg)
