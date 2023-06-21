@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### whenAProgramTellsYouToJustFollowTheInstallationWizard
+### thisIsAShowcase
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/wRZIEg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9tfby7otad7b1.jpg)
