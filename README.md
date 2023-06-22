@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### postingAgainBecauseItWasNotCamelCase
+### itsHardSometimes
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/klzajsw0lf7b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pj1rnfz7ni7b1.jpg)
