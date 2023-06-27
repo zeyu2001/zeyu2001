@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### jobApplicationTroubles
+### divideAndIgnoreAlgorithm
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bt2invmc5b8b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/baz9f9nqgd8b1.jpg)
