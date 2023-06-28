@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### commonReleaseNotes
+### someThingsAreForever
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j732sy4c4i8b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hji8aypiql8b1.jpg)
