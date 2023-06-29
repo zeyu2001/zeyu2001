@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### jobAndInterview
+### allowImportWithoutCodeblocksBecauseRuleDoesntRequireIt
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pwoy91p7uo8b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/es4hszujxr8b1.png)
