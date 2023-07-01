@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### productionTesting
+### itIsAShortcut
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ynp50nf1339b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z9amo847q69b1.jpg)
