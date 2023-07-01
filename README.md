@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### itIsAShortcut
+### somethingSomethingLayer8
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/z9amo847q69b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m7p8z4ammc9b1.jpg)
