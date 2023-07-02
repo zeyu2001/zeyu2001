@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### somethingSomethingLayer8
+### whatAGeniusIdeaWhyDidntWeThinkOfThisBefore
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m7p8z4ammc9b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6i52fb878e9b1.jpg)
