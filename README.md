@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### weDoALittleTrolling
+### offffAccurate
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zerjhgfmrh9b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vdd2lwoail9b1.png)
