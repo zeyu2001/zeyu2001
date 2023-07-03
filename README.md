@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### itsBeenReallyBadTheseDays
+### theReturnStatementIsntInTheRules
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/b9c1fuutjk9b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sk46xovpqo9b1.png)
