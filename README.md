@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### theReturnStatementIsntInTheRules
+### openBookExams2023
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sk46xovpqo9b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/svkolitleq9b1.png)
