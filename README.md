@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### openBookExams2023
+### itActuallyDoes
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/svkolitleq9b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hla98yg7us9b1.jpg)
