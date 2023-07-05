@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### thanksForTheFork
+### itsBeenHardTheseDays
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fj84zrwy10ab1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7lbjep6j53ab1.png)
