@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### myMagicCode
+### pearlsBeforeSwine
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y3by4l87pdab1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kppqf59mqeab1.png)
