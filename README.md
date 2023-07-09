@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### learnToCodeToComment
+### wheneverYouNeedRegularExpressions
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dkbf1t0tgsab1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gwynh1m2zwab1.jpg)
