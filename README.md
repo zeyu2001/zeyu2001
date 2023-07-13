@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### gameOverMan
+### intruderLol
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ey7e2k2trkbb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/okr4lm1k5qbb1.jpg)
