@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### intruderLol
+### cantGetHackedIfYouCantUseComputer
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/okr4lm1k5qbb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/w9ht37dziubb1.png)
