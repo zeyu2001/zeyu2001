@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### cantGetHackedIfYouCantUseComputer
+### jayWasSecond
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/w9ht37dziubb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9o17h63suzbb1.jpg)
