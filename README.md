@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### jayWasSecond
+### theLegendsAreTrue
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9o17h63suzbb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7qkkyei2v4cb1.png)
