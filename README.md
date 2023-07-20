@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### javaMicrosoftEdition
+### oopsIBrokeIt
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/72kvkmeh0vcb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rzam1qtxcycb1.png)
