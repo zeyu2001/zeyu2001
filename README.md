@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### trueHappiness
+### javaMicrosoftEdition
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mnty5u3b4tcb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/72kvkmeh0vcb1.jpg)
