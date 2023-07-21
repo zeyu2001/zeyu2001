@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### prettyAccurate
+### iSwearIfThisIsWhatJobCompetitionLooksLike
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9riq87b025db1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tuobwta6kadb1.jpg)
