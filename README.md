@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### iSwearIfThisIsWhatJobCompetitionLooksLike
+### hollywoodIdeExe
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tuobwta6kadb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/a078hzy4rddb1.png)
