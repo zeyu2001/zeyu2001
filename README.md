@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### isThisHowCdnsWork
+### waitThisIsMe
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jexvuafprudb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3anl4jhfiydb1.png)
