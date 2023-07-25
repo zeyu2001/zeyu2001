@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### waitThisIsMe
+### whenAskedToRecommendTextEditor
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3anl4jhfiydb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kwnumrin22eb1.jpg)
