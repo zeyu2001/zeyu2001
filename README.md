@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### yourServer
+### oldButGold
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rhepq59cn4eb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lurv2i5em8eb1.jpg)
