@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### shotsFired
+### pointersForWeebs
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zw66vck6tbeb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lge8p19f7geb1.jpg)
