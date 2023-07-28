@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### pointersForWeebs
+### HelpingBuddy
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lge8p19f7geb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ol0u656nmjeb1.jpg)
