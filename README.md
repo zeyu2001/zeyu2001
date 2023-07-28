@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### HelpingBuddy
+### onlyWhenApplicableOfCourse
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ol0u656nmjeb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/u1y91r0yimeb1.png)
