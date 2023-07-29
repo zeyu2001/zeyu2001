@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### ForgettingCodeIsEasyAndSmooth
+### itsNotThatHard
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/adj5uf565reb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/eplym7sosveb1.jpg)
