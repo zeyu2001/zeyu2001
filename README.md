@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### itsNotThatHard
+### frontEndInterview
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/eplym7sosveb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i7ftd29swxeb1.jpg)
