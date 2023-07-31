@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### alphaProgrammer
+### worldBestCssDeveloper
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/f60cdopyu8fb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/65lfo1i9fbfb1.jpg)
