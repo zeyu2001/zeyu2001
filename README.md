@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### whoDidThis
+### theyCanSmellFearBeLikeDaredevil
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p3eadyr96ifb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/te6yxrwgiifb1.jpg)
