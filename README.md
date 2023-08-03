@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### rateMySetup
+### iReallyHaveTho
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zbuxf75pvmfb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3m0timzjyofb1.png)
