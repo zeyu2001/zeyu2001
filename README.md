@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### shitHappens
+### thisDoesNotMakeSense
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tv4f68xln6gb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ulqtqn6vgagb1.png)
