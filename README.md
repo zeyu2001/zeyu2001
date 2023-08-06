@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### letsCheckTheirGithubContributionFirst
+### botsWithBrushes
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bnbwt68qxdgb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/onox8jubvggb1.jpg)
