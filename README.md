@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### botsWithBrushes
+### itsAHardKnockLifeForUs
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/onox8jubvggb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wmt3j47awigb1.png)
