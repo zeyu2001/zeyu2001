@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### dearSanta
+### HappenedToMeToday
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n9gnhyhcjmgb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2gtt2n59hpgb1.png)
