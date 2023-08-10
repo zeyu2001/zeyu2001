@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### MeLearningPython
+### programmingNowADays
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/oz8u410xc1hb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/w61x7q6qq3hb1.png)
