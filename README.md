@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### bingBeingHelpful
+### restSnobsGonnaRestSnob
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gh7q9a8t49hb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/negw1ts4iahb1.png)
