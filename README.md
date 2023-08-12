@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### howToMakeCodeTrulyReadable
+### imThatIntern
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mv8byscpifhb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/be5c3m31qihb1.jpg)
