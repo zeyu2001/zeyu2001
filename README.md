@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### toxicOverflowCondescendingArch
+### mustLearnRust
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6e7omw54knhb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zjjkwpvzlphb1.png)
