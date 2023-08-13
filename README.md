@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### mustLearnRust
+### weAllKnowWhatIsGoingToHappen
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zjjkwpvzlphb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ihkhpg7wjuhb1.jpg)
