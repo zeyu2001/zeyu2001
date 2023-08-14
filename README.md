@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### boolPost
+### notConfusingAtAll
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lxo8geegovhb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i9drjw7dmwhb1.jpg)
