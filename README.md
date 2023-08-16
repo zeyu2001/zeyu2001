@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### viciousCircleOfCookies
+### andWhatDoYouUse
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kynxax8my9ib1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lc6bjia3meib1.jpg)
