@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### undoFunctionInmyCar
+### lifeHack
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/73o4idurpfib1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vedsha47nhib1.png)
