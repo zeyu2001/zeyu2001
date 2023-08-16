@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### logicBeLike
+### whatIsTheRegexForThis
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/t6buq8nz27ib1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8sfyz3wxp9ib1.png)
