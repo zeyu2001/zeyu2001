@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### beAGoodColleague
+### Oh
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/s2pe5fet8wib1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v0vwcterxxib1.jpg)
