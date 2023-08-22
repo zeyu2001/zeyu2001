@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### StopDualMonitors
+### thisIsWhatYouWereHiredFor
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rcjuathegijb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/htl12i4q6njb1.jpg)
