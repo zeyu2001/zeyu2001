@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### thisIsWhatYouWereHiredFor
+### iUseLinuxBtw
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/htl12i4q6njb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gfv0mqhkxojb1.jpg)
