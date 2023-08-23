@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### codeByFaithNotBySight
+### thisShouldBeIllegal
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n98638lqgsjb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gn36cx106vjb1.png)
