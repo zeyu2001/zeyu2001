@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### iUseLinuxBtw
+### codeByFaithNotBySight
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gfv0mqhkxojb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n98638lqgsjb1.jpg)
