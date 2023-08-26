@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### noOneUsesDir
+### wellTechnically
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lj9drd1sg8kb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bik7ddctuckb1.jpg)
