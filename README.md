@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### wellTechnically
+### itWorksInMyCompany
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bik7ddctuckb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f4w6t0mslekb1.png)
