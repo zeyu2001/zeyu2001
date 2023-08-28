@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### akshually
+### everySingleTime
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/82mnr2d82pkb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rxo1av0jmtkb1.png)
