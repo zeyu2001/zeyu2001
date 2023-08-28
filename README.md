@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### PathWars
+### akshually
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1v91w0i8jmkb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/82mnr2d82pkb1.png)
