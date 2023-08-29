@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### thatsHowHTMLworksRight
+### neverThoughtOfItThatWayNotOP
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/z74u6rcgpwkb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dvrbjiojezkb1.jpg)
