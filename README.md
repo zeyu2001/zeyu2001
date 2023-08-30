@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### neverThoughtOfItThatWayNotOP
+### ourBlessedDepartment
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dvrbjiojezkb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/40el7txad3lb1.png)
