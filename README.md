@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### ourBlessedDepartment
+### debateMeOnThis
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/40el7txad3lb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j7a6r8o6u3lb1.jpg)
