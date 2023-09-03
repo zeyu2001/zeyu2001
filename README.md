@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### NewScratchUpdate
+### cancelChatGPT
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6zvjxc557vlb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n3va95hk4zlb1.jpg)
