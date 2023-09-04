@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### takeNotesGuys
+### librariesBeLike
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wsk7sl6n03mb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jw7ourkie7mb1.png)
