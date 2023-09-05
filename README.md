@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### machineLearning
+### wasteOfTime
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8rpve6h8ndmb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dtn49fb2gfmb1.jpg)
