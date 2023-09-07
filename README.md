@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### WhileTechnicallyTrueDotDotDot
+### prodIsDamagedBeyondRepair
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/78g82zit9nmb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bif7il0acsmb1.jpg)
