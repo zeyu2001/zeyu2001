@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### SheHelpedCreatingJS
+### WhileTechnicallyTrueDotDotDot
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q7ahmr4b6lmb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/78g82zit9nmb1.png)
