@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### prodIsDamagedBeyondRepair
+### WorkEffeciencyWhatsThat
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bif7il0acsmb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y3xu810pevmb1.png)
