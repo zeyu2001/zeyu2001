@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### justOneOfThoseDays
+### tsVsJs
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/euoq3s1g41nb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wq7hf80803nb1.jpg)
