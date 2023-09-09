@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### iamnewToCodingandEverybodyElseLaughed
+### justOneOfThoseDays
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/e2pcl79mi0nb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/euoq3s1g41nb1.jpg)
