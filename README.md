@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### newBusinessProposal
+### itsLikeStackOverflowRight
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ven9k4z7ejnb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wq2hv242umnb1.jpg)
