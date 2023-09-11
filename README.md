@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### whySoManyRules
+### newBusinessProposal
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/syvp3chazgnb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ven9k4z7ejnb1.jpg)
