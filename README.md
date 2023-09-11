@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### soEasy
+### pleaseDoNotFireMe
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wke82xez7cnb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/quhlf13ivfnb1.png)
