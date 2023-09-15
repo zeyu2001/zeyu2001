@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### programmersAre
+### howDoIremoveCommitHistory
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uwhmxvsv66ob1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tr5o9uca79ob1.jpg)
