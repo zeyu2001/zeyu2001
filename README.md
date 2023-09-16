@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### canSomeoneComfirm
+### hopeThisDoesntMeanWhatIThinkItDoes
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hnh65tha7gob1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ye8wv86w0hob1.png)
