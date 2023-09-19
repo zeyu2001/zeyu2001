@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### dudeWasSoClose
+### newSortingAlgorithmJustDropped
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c70sywxr91pb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/h60vz182v5pb1.png)
