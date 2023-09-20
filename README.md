@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### NPMIsOwnedByMicrosoftAsWell
+### actualConversationAtWork
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/oo7o61qec7pb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/aplv72795dpb1.jpg)
