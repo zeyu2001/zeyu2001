@@ -21,6 +21,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-### andItsGettingWorse
+### iHaveNoIdeaWhatIamDoing
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gcyieo4erkpb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ecvvzaih8mpb1.png)
