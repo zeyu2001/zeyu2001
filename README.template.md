@@ -17,10 +17,10 @@ I’m Zeyu (Chinese) or Zayne (English), a Computer Science student, information
 
 Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
-## 👥︎ How about an [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor) meme before you go?
+**👥︎ How about an [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor) meme before you go?**
 
 The top voted meme for today is...
 
-### {templ_title}
+[*{templ_title}*](https://www.reddit.com{templ_permalink})
 
 ![ProgrammerHumour Meme of the Day]({templ_image})

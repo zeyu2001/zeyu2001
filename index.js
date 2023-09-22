@@ -18,10 +18,12 @@ async function main() {
     const topPost = postsWithImages.reduce((a, b) => a.score > b.score ? a : b);
     const topPostImage = topPost.url;
     const topPostTitle = topPost.title;
+    const topPostPermalink = topPost.permalink;
 
     const readme = readmeTemplate
         .replace(/{templ_title}/g, topPostTitle)
-        .replace(/{templ_image}/g, topPostImage);
+        .replace(/{templ_image}/g, topPostImage)
+        .replace(/{templ_permalink}/g, topPostPermalink);
 
     await fs.writeFile("README.md", readme);
 }
