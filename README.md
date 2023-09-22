@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*conspiracyForever*](https://www.reddit.com/r/ProgrammerHumor/comments/16osits/conspiracyforever/)
+[*dressCode*](https://www.reddit.com/r/ProgrammerHumor/comments/16p5wbe/dresscode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/w8ef9ojijopb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/svv3wq9z1spb1.png)
