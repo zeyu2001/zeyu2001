@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cyberSecurityExpert*](https://www.reddit.com/r/ProgrammerHumor/comments/16pkgj8/cybersecurityexpert/)
+[*undefinedBehavior*](https://www.reddit.com/r/ProgrammerHumor/comments/16q1ikb/undefinedbehavior/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qy48wynd9vpb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/smpgpuclkzpb1.jpg)
