@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*branchNaming*](https://www.reddit.com/r/ProgrammerHumor/comments/16ozbfp/branchnaming/)
+[*needValgrindToExamineThis*](https://www.reddit.com/r/ProgrammerHumor/comments/16p25n6/needvalgrindtoexaminethis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7hauceyw2qpb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/w2ldxcv4vqpb1.jpg)
