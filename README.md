@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ThisEntireSubredditWouldBeDeadIfThatWasTrue*](https://www.reddit.com/r/ProgrammerHumor/comments/16p7rjr/thisentiresubredditwouldbedeadifthatwastrue/)
+[*kompilingKode*](https://www.reddit.com/r/ProgrammerHumor/comments/16pbvht/kompilingkode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ydui4alykspb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y4qf2rh8itpb1.jpg)
