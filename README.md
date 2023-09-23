@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*needValgrindToExamineThis*](https://www.reddit.com/r/ProgrammerHumor/comments/16p25n6/needvalgrindtoexaminethis/)
+[*ThisEntireSubredditWouldBeDeadIfThatWasTrue*](https://www.reddit.com/r/ProgrammerHumor/comments/16p7rjr/thisentiresubredditwouldbedeadifthatwastrue/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/w2ldxcv4vqpb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ydui4alykspb1.jpg)
