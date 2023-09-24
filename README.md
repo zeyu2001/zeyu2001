@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justNETThings*](https://www.reddit.com/r/ProgrammerHumor/comments/16q82x5/justnetthings/)
+[*iGueesIamnotHuman*](https://www.reddit.com/r/ProgrammerHumor/comments/16qodgz/igueesiamnothuman/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/49f6emjd21qb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7xjn5gjls4qb1.jpg)
