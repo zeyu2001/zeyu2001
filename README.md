@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*superpowersBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/16q5m8g/superpowersbelike/)
+[*justNETThings*](https://www.reddit.com/r/ProgrammerHumor/comments/16q82x5/justnetthings/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/i5dju161k0qb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/49f6emjd21qb1.png)
