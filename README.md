@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*undefinedBehavior*](https://www.reddit.com/r/ProgrammerHumor/comments/16q1ikb/undefinedbehavior/)
+[*superpowersBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/16q5m8g/superpowersbelike/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/smpgpuclkzpb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i5dju161k0qb1.png)
