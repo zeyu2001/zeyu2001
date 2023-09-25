@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iGueesIamnotHuman*](https://www.reddit.com/r/ProgrammerHumor/comments/16qodgz/igueesiamnothuman/)
+[*businessAsUsual*](https://www.reddit.com/r/ProgrammerHumor/comments/16qxcff/businessasusual/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7xjn5gjls4qb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cnfy5gffc7qb1.png)
