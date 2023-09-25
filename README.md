@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thatsTheMomentWhenYouRealizeThereIsLotMoreToLearn*](https://www.reddit.com/r/ProgrammerHumor/comments/16r25z9/thatsthemomentwhenyourealizethereislotmoretolearn/)
+[*academiaHonestly*](https://www.reddit.com/r/ProgrammerHumor/comments/16rnfxe/academiahonestly/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qekq037yd8qb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d3f53bmxfdqb1.png)
