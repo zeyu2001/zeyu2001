@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*businessAsUsual*](https://www.reddit.com/r/ProgrammerHumor/comments/16qxcff/businessasusual/)
+[*thatsTheMomentWhenYouRealizeThereIsLotMoreToLearn*](https://www.reddit.com/r/ProgrammerHumor/comments/16r25z9/thatsthemomentwhenyourealizethereislotmoretolearn/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cnfy5gffc7qb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qekq037yd8qb1.png)
