@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*momPickMeUpImScared*](https://www.reddit.com/r/ProgrammerHumor/comments/16ruacc/mompickmeupimscared/)
+[*OneMustImagineTheAlgorithmHappy*](https://www.reddit.com/r/ProgrammerHumor/comments/16s11ax/onemustimaginethealgorithmhappy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/deug3z4t0fqb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/91i4red8bgqb1.png)
