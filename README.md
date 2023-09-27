@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*seniorDevPerks*](https://www.reddit.com/r/ProgrammerHumor/comments/16sv7gy/seniordevperks/)
+[*Interesting*](https://www.reddit.com/r/ProgrammerHumor/comments/16t74zy/interesting/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hz0j2io14nqb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3lba5cmwdpqb1.png)
