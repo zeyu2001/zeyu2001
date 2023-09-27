@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*workedOnRefactoringTheFeature*](https://www.reddit.com/r/ProgrammerHumor/comments/16skk82/workedonrefactoringthefeature/)
+[*seniorDevPerks*](https://www.reddit.com/r/ProgrammerHumor/comments/16sv7gy/seniordevperks/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mocld1cazkqb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hz0j2io14nqb1.png)
