@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*opensourceIsCommunism*](https://www.reddit.com/r/ProgrammerHumor/comments/16tuzan/opensourceiscommunism/)
+[*trainsRunOnMe*](https://www.reddit.com/r/ProgrammerHumor/comments/16u9v7z/trainsrunonme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m6uru4kjxuqb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wy1u724cdyqb1.png)
