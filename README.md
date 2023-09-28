@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*nakedFunctions*](https://www.reddit.com/r/ProgrammerHumor/comments/16tlffw/nakedfunctions/)
+[*opensourceIsCommunism*](https://www.reddit.com/r/ProgrammerHumor/comments/16tuzan/opensourceiscommunism/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dbwgalb71tqb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m6uru4kjxuqb1.jpg)
