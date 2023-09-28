@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*Interesting*](https://www.reddit.com/r/ProgrammerHumor/comments/16t74zy/interesting/)
+[*nakedFunctions*](https://www.reddit.com/r/ProgrammerHumor/comments/16tlffw/nakedfunctions/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3lba5cmwdpqb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dbwgalb71tqb1.jpg)
