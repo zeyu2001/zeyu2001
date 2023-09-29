@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dontJudgeDevelopersByTheLooks*](https://www.reddit.com/r/ProgrammerHumor/comments/16ul0gk/dontjudgedevelopersbythelooks/)
+[*whyBuyMoreRAMWhenYouCanAddAnotherSwapFile*](https://www.reddit.com/r/ProgrammerHumor/comments/16v37oj/whybuymoreramwhenyoucanaddanotherswapfile/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xi9mq9vhz0rb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ug257qxdt4rb1.png)
