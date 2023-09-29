@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*trainsRunOnMe*](https://www.reddit.com/r/ProgrammerHumor/comments/16u9v7z/trainsrunonme/)
+[*dontJudgeDevelopersByTheLooks*](https://www.reddit.com/r/ProgrammerHumor/comments/16ul0gk/dontjudgedevelopersbythelooks/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wy1u724cdyqb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xi9mq9vhz0rb1.jpg)
