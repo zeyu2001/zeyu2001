@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whyBuyMoreRAMWhenYouCanAddAnotherSwapFile*](https://www.reddit.com/r/ProgrammerHumor/comments/16v37oj/whybuymoreramwhenyoucanaddanotherswapfile/)
+[*explainItLikeIAmAFreshmen*](https://www.reddit.com/r/ProgrammerHumor/comments/16vc3fk/explainitlikeiamafreshmen/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ug257qxdt4rb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/u71346yf87rb1.png)
