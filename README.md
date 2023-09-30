@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*imUsingHiMomInsteadOfHelloWorldFromNowOn*](https://www.reddit.com/r/ProgrammerHumor/comments/16vm97m/imusinghimominsteadofhelloworldfromnowon/)
+[*NowWhichOneOfYouDidThis*](https://www.reddit.com/r/ProgrammerHumor/comments/16w0aua/nowwhichoneofyoudidthis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4qpnizs579rb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9vvvz9kkfcrb1.jpg)
