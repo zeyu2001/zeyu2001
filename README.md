@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aws*](https://www.reddit.com/r/ProgrammerHumor/comments/16wpfsg/aws/)
+[*DefFromDefine*](https://www.reddit.com/r/ProgrammerHumor/comments/16wdap3/deffromdefine/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wmc7poiq6irb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xhtfaiztlfrb1.jpg)
