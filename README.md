@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theForbiddenSortingAlgorithm*](https://www.reddit.com/r/ProgrammerHumor/comments/16w65tw/theforbiddensortingalgorithm/)
+[*aws*](https://www.reddit.com/r/ProgrammerHumor/comments/16wpfsg/aws/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2ppcpq2h4erb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wmc7poiq6irb1.png)
