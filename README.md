@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*DefFromDefine*](https://www.reddit.com/r/ProgrammerHumor/comments/16wdap3/deffromdefine/)
+[*peakHackerAbilityUnlocked*](https://www.reddit.com/r/ProgrammerHumor/comments/16wyga0/peakhackerabilityunlocked/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xhtfaiztlfrb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nb9nrguyqkrb1.png)
