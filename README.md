@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*peakHackerAbilityUnlocked*](https://www.reddit.com/r/ProgrammerHumor/comments/16wyga0/peakhackerabilityunlocked/)
+[*asAProgrammerIWouldNeverGetThis*](https://www.reddit.com/r/ProgrammerHumor/comments/16x8iuk/asaprogrammeriwouldnevergetthis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nb9nrguyqkrb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/893t84kbvmrb1.jpg)
