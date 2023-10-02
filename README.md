@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*weTotallyCannotRelateHuh*](https://www.reddit.com/r/ProgrammerHumor/comments/16xjaub/wetotallycannotrelatehuh/)
+[*pReMiUmCoNtEnT*](https://www.reddit.com/r/ProgrammerHumor/comments/16xs228/premiumcontent/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3weoem56zorb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hg4eim1hcrrb1.png)
