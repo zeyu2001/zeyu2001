@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*maybeShouldHavePlannedBetterBeforeStarting*](https://www.reddit.com/r/ProgrammerHumor/comments/16y29gx/maybeshouldhaveplannedbetterbeforestarting/)
+[*WhatCouldGoWrong*](https://www.reddit.com/r/ProgrammerHumor/comments/16yjnx5/whatcouldgowrong/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l3ltuellntrb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/866q2lqwcxrb1.jpg)
