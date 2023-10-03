@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*WhatCouldGoWrong*](https://www.reddit.com/r/ProgrammerHumor/comments/16yjnx5/whatcouldgowrong/)
+[*pleaseStopWritingC*](https://www.reddit.com/r/ProgrammerHumor/comments/16yi07r/pleasestopwritingc/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/866q2lqwcxrb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zn1tvrrwvwrb1.png)
