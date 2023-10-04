@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iHateStackOverflow*](https://www.reddit.com/r/ProgrammerHumor/comments/16yqlko/ihatestackoverflow/)
+[*wherePhoneCall*](https://www.reddit.com/r/ProgrammerHumor/comments/16z0ged/wherephonecall/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4bkuwxl6ezrb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5e9rfvb0d1sb1.jpg)
