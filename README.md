@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thankYouJavaScript*](https://www.reddit.com/r/ProgrammerHumor/comments/16zgybk/thankyoujavascript/)
+[*foundThisGemInOurCodebaseToday*](https://www.reddit.com/r/ProgrammerHumor/comments/16zk0sa/foundthisgeminourcodebasetoday/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hkc5wbd245sb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/77iyitfb26sb1.png)
