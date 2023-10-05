@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*foundThisGemInOurCodebaseToday*](https://www.reddit.com/r/ProgrammerHumor/comments/16zk0sa/foundthisgeminourcodebasetoday/)
+[*WhichOneAreYou*](https://www.reddit.com/r/ProgrammerHumor/comments/16zsvzp/whichoneareyou/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/77iyitfb26sb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/r55nggbzx7sb1.jpg)
