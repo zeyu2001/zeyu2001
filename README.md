@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ohOkay*](https://www.reddit.com/r/ProgrammerHumor/comments/1702axh/ohokay/)
+[*everydayProblems*](https://www.reddit.com/r/ProgrammerHumor/comments/1709qll/everydayproblems/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5hjw3cg5t9sb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9t25mmj2lbsb1.jpg)
