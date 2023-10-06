@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*SalutToAllThePms*](https://www.reddit.com/r/ProgrammerHumor/comments/170q5fd/saluttoallthepms/)
+[*uiIsJoke*](https://www.reddit.com/r/ProgrammerHumor/comments/17140ro/uiisjoke/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5lcxpb9jlfsb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ajir3cmdoisb1.jpg)
