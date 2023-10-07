@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ohMyGodNo*](https://www.reddit.com/r/ProgrammerHumor/comments/1717nrx/ohmygodno/)
+[*iSentenceYouToThreeYearsOfMacOS*](https://www.reddit.com/r/ProgrammerHumor/comments/171ojsr/isentenceyoutothreeyearsofmacos/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dyihgswlujsb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ecgwo4dvinsb1.png)
