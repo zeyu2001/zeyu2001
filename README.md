@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iSentenceYouToThreeYearsOfMacOS*](https://www.reddit.com/r/ProgrammerHumor/comments/171ojsr/isentenceyoutothreeyearsofmacos/)
+[*ThisIsGettingOutOfHand*](https://www.reddit.com/r/ProgrammerHumor/comments/171g06y/thisisgettingoutofhand/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ecgwo4dvinsb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tr0yk1wztlsb1.jpg)
