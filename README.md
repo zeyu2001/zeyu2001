@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*uiIsJoke*](https://www.reddit.com/r/ProgrammerHumor/comments/17140ro/uiisjoke/)
+[*ohMyGodNo*](https://www.reddit.com/r/ProgrammerHumor/comments/1717nrx/ohmygodno/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ajir3cmdoisb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dyihgswlujsb1.jpg)
