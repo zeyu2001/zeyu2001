@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*infinityLoopIrl*](https://www.reddit.com/r/ProgrammerHumor/comments/171ods9/infinityloopirl/)
+[*OhComeOooon*](https://www.reddit.com/r/ProgrammerHumor/comments/17241np/ohcomeoooon/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/okzs4o9qhnsb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vw6me8k5mrsb1.jpg)
