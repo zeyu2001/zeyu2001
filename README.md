@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*OhComeOooon*](https://www.reddit.com/r/ProgrammerHumor/comments/17241np/ohcomeoooon/)
+[*whyCppWhy*](https://www.reddit.com/r/ProgrammerHumor/comments/1728s4q/whycppwhy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vw6me8k5mrsb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bz4af2eorssb1.png)
