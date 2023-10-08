@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whyCppWhy*](https://www.reddit.com/r/ProgrammerHumor/comments/1728s4q/whycppwhy/)
+[*gaveMeMigraine*](https://www.reddit.com/r/ProgrammerHumor/comments/172sxtk/gavememigraine/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bz4af2eorssb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8m0fnlknjxsb1.jpg)
