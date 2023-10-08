@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*BestForBeginners*](https://www.reddit.com/r/ProgrammerHumor/comments/172krq5/bestforbeginners/)
+[*aMoreComprehensiveTestSuite*](https://www.reddit.com/r/ProgrammerHumor/comments/172uw68/amorecomprehensivetestsuite/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5ebq97pgcvsb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vq6y72bw5ysb1.png)
