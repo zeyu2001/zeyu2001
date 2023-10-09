@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aMoreComprehensiveTestSuite*](https://www.reddit.com/r/ProgrammerHumor/comments/172uw68/amorecomprehensivetestsuite/)
+[*iSeeNoLie*](https://www.reddit.com/r/ProgrammerHumor/comments/1736tgx/iseenolie/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vq6y72bw5ysb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/709johbiz0tb1.png)
