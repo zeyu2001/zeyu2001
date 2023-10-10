@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*muhHTML5SuperComputer*](https://www.reddit.com/r/ProgrammerHumor/comments/173dc5i/muhhtml5supercomputer/)
+[*overtime*](https://www.reddit.com/r/ProgrammerHumor/comments/173hbso/overtime/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/owyx012yc2tb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wbbfe8llc3tb1.jpg)
