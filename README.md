@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*overtime*](https://www.reddit.com/r/ProgrammerHumor/comments/173hbso/overtime/)
+[*thereIsAlwaysABiggerFish*](https://www.reddit.com/r/ProgrammerHumor/comments/173yne1/thereisalwaysabiggerfish/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wbbfe8llc3tb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/phl1e26gw7tb1.png)
