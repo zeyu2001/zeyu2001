@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thereIsAlwaysABiggerFish*](https://www.reddit.com/r/ProgrammerHumor/comments/173yne1/thereisalwaysabiggerfish/)
+[*rookieMistakeInPython*](https://www.reddit.com/r/ProgrammerHumor/comments/174eboy/rookiemistakeinpython/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/phl1e26gw7tb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uxyhnvcmjbtb1.jpg)
