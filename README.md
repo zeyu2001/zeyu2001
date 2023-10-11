@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sheSaidEnglish*](https://www.reddit.com/r/ProgrammerHumor/comments/174qcvr/shesaidenglish/)
+[*giveMeSomeSkin*](https://www.reddit.com/r/ProgrammerHumor/comments/174vsip/givemesomeskin/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/h53x9s39qetb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3ngqgmrwtftb1.png)
