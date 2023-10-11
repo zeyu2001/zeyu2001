@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*learnToUseCorrectPronouns*](https://www.reddit.com/r/ProgrammerHumor/comments/175fl7u/learntousecorrectpronouns/)
+[*everyoneKnowsThat*](https://www.reddit.com/r/ProgrammerHumor/comments/175illv/everyoneknowsthat/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lg08t01r4ltb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v8ntdarhqltb1.png)
