@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*everyoneKnowsThat*](https://www.reddit.com/r/ProgrammerHumor/comments/175illv/everyoneknowsthat/)
+[*wontHappenAgain*](https://www.reddit.com/r/ProgrammerHumor/comments/175jfn2/wonthappenagain/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/v8ntdarhqltb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kmz3jgzlwltb1.jpg)
