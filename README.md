@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*wontHappenAgain*](https://www.reddit.com/r/ProgrammerHumor/comments/175jfn2/wonthappenagain/)
+[*mindIsBlown*](https://www.reddit.com/r/ProgrammerHumor/comments/176270w/mindisblown/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kmz3jgzlwltb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j7ag6cpkiqtb1.png)
