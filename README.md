@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*noBreaks*](https://www.reddit.com/r/ProgrammerHumor/comments/175xnbf/nobreaks/)
+[*infiniteLoop*](https://www.reddit.com/r/ProgrammerHumor/comments/17601nx/infiniteloop/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ewlutrn82ptb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/div07rbasptb1.jpg)
