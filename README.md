@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*fucktheYoutubeads*](https://www.reddit.com/r/ProgrammerHumor/comments/177jpma/fucktheyoutubeads/)
+[*ObsidianTestingTheirUsers*](https://www.reddit.com/r/ProgrammerHumor/comments/177oyir/obsidiantestingtheirusers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o1gaazfra4ub1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zxws46uz06ub1.png)
