@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*allUnitTestsPassing*](https://www.reddit.com/r/ProgrammerHumor/comments/176sggj/allunittestspassing/)
+[*everyTime*](https://www.reddit.com/r/ProgrammerHumor/comments/176tavc/everytime/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fv6vh4lm1xtb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/018p4ryzbxtb1.jpg)
