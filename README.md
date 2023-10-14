@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iSpentAWeekOnIt*](https://www.reddit.com/r/ProgrammerHumor/comments/177o10p/ispentaweekonit/)
+[*fucktheYoutubeads*](https://www.reddit.com/r/ProgrammerHumor/comments/177jpma/fucktheyoutubeads/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/17na3uoxr5ub1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o1gaazfra4ub1.jpg)
