@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*randomLettersGoBrrr*](https://www.reddit.com/r/ProgrammerHumor/comments/177v2p2/randomlettersgobrrr/)
+[*ASCIITheRightQuestions*](https://www.reddit.com/r/ProgrammerHumor/comments/178bzui/asciitherightquestions/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9gs0d7m7i7ub1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zy68xbnh8cub1.png)
