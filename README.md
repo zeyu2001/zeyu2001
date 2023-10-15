@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ObsidianTestingTheirUsers*](https://www.reddit.com/r/ProgrammerHumor/comments/177oyir/obsidiantestingtheirusers/)
+[*randomLettersGoBrrr*](https://www.reddit.com/r/ProgrammerHumor/comments/177v2p2/randomlettersgobrrr/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zxws46uz06ub1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9gs0d7m7i7ub1.png)
