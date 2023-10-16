@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ASCIITheRightQuestions*](https://www.reddit.com/r/ProgrammerHumor/comments/178bzui/asciitherightquestions/)
+[*sadDeveloperNoises*](https://www.reddit.com/r/ProgrammerHumor/comments/178lji2/saddevelopernoises/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zy68xbnh8cub1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9nr1d7cjseub1.jpg)
