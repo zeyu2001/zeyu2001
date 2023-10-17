@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*teasingDevelopersBy*](https://www.reddit.com/r/ProgrammerHumor/comments/17a30pk/teasingdevelopersby/)
+[*itsJustObjectivelyBetter*](https://www.reddit.com/r/ProgrammerHumor/comments/179yyol/itsjustobjectivelybetter/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/s8bgsuq6nsub1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/itqcyv5kqrub1.png)
