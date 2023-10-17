@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howInnocentWasI*](https://www.reddit.com/r/ProgrammerHumor/comments/179ubzm/howinnocentwasi/)
+[*teasingDevelopersBy*](https://www.reddit.com/r/ProgrammerHumor/comments/17a30pk/teasingdevelopersby/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jthrmtcgequb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s8bgsuq6nsub1.jpg)
