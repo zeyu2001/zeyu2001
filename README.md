@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*writingCodeForMoneyIsFun*](https://www.reddit.com/r/ProgrammerHumor/comments/1794uix/writingcodeformoneyisfun/)
+[*billionsInDebt*](https://www.reddit.com/r/ProgrammerHumor/comments/1799k3h/billionsindebt/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p96oprz76kub1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qu3xr3lw8lub1.jpg)
