@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itsJustObjectivelyBetter*](https://www.reddit.com/r/ProgrammerHumor/comments/179yyol/itsjustobjectivelybetter/)
+[*objectObject*](https://www.reddit.com/r/ProgrammerHumor/comments/17a88v4/objectobject/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/itqcyv5kqrub1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0afb24zprtub1.png)
