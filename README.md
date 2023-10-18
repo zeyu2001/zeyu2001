@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*objectObject*](https://www.reddit.com/r/ProgrammerHumor/comments/17a88v4/objectobject/)
+[*ItsAllForTheMoney*](https://www.reddit.com/r/ProgrammerHumor/comments/17amwut/itsallforthemoney/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0afb24zprtub1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hxj8sir5oxub1.png)
