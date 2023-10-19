@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ItsAllForTheMoney*](https://www.reddit.com/r/ProgrammerHumor/comments/17amwut/itsallforthemoney/)
+[*iDidItForTheLulz*](https://www.reddit.com/r/ProgrammerHumor/comments/17b542q/ididitforthelulz/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hxj8sir5oxub1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/caws55mlt1vb1.jpg)
