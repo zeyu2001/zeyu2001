@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iDidItForTheLulz*](https://www.reddit.com/r/ProgrammerHumor/comments/17b542q/ididitforthelulz/)
+[*programmersQuestionsBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/17bamlj/programmersquestionsbelike/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/caws55mlt1vb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zrwuxe8173vb1.jpg)
