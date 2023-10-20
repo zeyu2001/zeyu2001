@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*checkOutDudeUsefulness*](https://www.reddit.com/r/ProgrammerHumor/comments/17btcu8/checkoutdudeusefulness/)
+[*forHTMLPut1Line*](https://www.reddit.com/r/ProgrammerHumor/comments/17c1wrx/forhtmlput1line/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ys0oyna428vb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/r8gh37xf3avb1.jpg)
