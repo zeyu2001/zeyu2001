@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whichSideIsTheOneYouGotUsedTo*](https://www.reddit.com/r/ProgrammerHumor/comments/17bhp01/whichsideistheoneyougotusedto/)
+[*NamingANewProgrammingLanguage*](https://www.reddit.com/r/ProgrammerHumor/comments/17bpz4u/naminganewprogramminglanguage/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uymuj0qzh5vb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/q5dnnbf4d7vb1.jpg)
