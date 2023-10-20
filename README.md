@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*NamingANewProgrammingLanguage*](https://www.reddit.com/r/ProgrammerHumor/comments/17bpz4u/naminganewprogramminglanguage/)
+[*checkOutDudeUsefulness*](https://www.reddit.com/r/ProgrammerHumor/comments/17btcu8/checkoutdudeusefulness/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q5dnnbf4d7vb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ys0oyna428vb1.png)
