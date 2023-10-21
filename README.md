@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*forHTMLPut1Line*](https://www.reddit.com/r/ProgrammerHumor/comments/17c1wrx/forhtmlput1line/)
+[*timeIsOfTheEssence*](https://www.reddit.com/r/ProgrammerHumor/comments/17cj595/timeisoftheessence/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/r8gh37xf3avb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vcu5bhl3revb1.png)
