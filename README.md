@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*timeIsOfTheEssence*](https://www.reddit.com/r/ProgrammerHumor/comments/17cj595/timeisoftheessence/)
+[*hackingIn2024*](https://www.reddit.com/r/ProgrammerHumor/comments/17co7vv/hackingin2024/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vcu5bhl3revb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kuttjttpvfvb1.png)
