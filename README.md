@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*myComputerSystemsClassRightNow*](https://www.reddit.com/r/ProgrammerHumor/comments/17cxt84/mycomputersystemsclassrightnow/)
+[*justCameAcrossThisPieceOfWorkToday*](https://www.reddit.com/r/ProgrammerHumor/comments/17d9lba/justcameacrossthispieceofworktoday/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xha7mdsvlivb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rbljq6v8rlvb1.png)
