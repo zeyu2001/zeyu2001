@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justCameAcrossThisPieceOfWorkToday*](https://www.reddit.com/r/ProgrammerHumor/comments/17d9lba/justcameacrossthispieceofworktoday/)
+[*howDidIGetHereEven*](https://www.reddit.com/r/ProgrammerHumor/comments/17dgksd/howdidigethereeven/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rbljq6v8rlvb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rw310v4ednvb1.jpg)
