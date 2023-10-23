@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howDidIGetHereEven*](https://www.reddit.com/r/ProgrammerHumor/comments/17dgksd/howdidigethereeven/)
+[*imGladItsLikeThis*](https://www.reddit.com/r/ProgrammerHumor/comments/17dv50h/imgladitslikethis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rw310v4ednvb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/08qs6wn0qrvb1.jpg)
