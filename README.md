@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*imGladItsLikeThis*](https://www.reddit.com/r/ProgrammerHumor/comments/17dv50h/imgladitslikethis/)
+[*javascriptIsEasy*](https://www.reddit.com/r/ProgrammerHumor/comments/17ds13r/javascriptiseasy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/08qs6wn0qrvb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/499psvl6yqvb1.png)
