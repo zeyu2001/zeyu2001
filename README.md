@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*classic*](https://www.reddit.com/r/ProgrammerHumor/comments/17ebg52/classic/)
+[*yourSoftwareIsSoResponsive*](https://www.reddit.com/r/ProgrammerHumor/comments/17ej8m6/yoursoftwareissoresponsive/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/b98ctuuhjvvb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ft9rsfon4yvb1.jpg)
