@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*yourSoftwareIsSoResponsive*](https://www.reddit.com/r/ProgrammerHumor/comments/17ej8m6/yoursoftwareissoresponsive/)
+[*programmingInterviewsMakeMeStupid*](https://www.reddit.com/r/ProgrammerHumor/comments/17emzs6/programminginterviewsmakemestupid/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ft9rsfon4yvb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xzpu0trlzyvb1.jpg)
