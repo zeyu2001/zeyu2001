@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*programmingInterviewsMakeMeStupid*](https://www.reddit.com/r/ProgrammerHumor/comments/17emzs6/programminginterviewsmakemestupid/)
+[*aColleagueGaveMeTheIdea*](https://www.reddit.com/r/ProgrammerHumor/comments/17epmdr/acolleaguegavemetheidea/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xzpu0trlzyvb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/42j8msqajzvb1.png)
