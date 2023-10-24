@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aColleagueGaveMeTheIdea*](https://www.reddit.com/r/ProgrammerHumor/comments/17epmdr/acolleaguegavemetheidea/)
+[*goatedGovernmentAgency*](https://www.reddit.com/r/ProgrammerHumor/comments/17fa98r/goatedgovernmentagency/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/42j8msqajzvb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/39qtg56mv4wb1.png)
