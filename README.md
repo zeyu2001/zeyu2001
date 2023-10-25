@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*variablesAreJustContainers*](https://www.reddit.com/r/ProgrammerHumor/comments/17flq1f/variablesarejustcontainers/)
+[*firstWork*](https://www.reddit.com/r/ProgrammerHumor/comments/17fw5rh/firstwork/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/g2zufbj5h7wb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/359wjtxhv9wb1.jpg)
