@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*experienceNeeded*](https://www.reddit.com/r/ProgrammerHumor/comments/17fk1f4/experienceneeded/)
+[*variablesAreJustContainers*](https://www.reddit.com/r/ProgrammerHumor/comments/17flq1f/variablesarejustcontainers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rlfikiof47wb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/g2zufbj5h7wb1.jpg)
