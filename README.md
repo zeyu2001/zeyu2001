@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*firstWork*](https://www.reddit.com/r/ProgrammerHumor/comments/17fw5rh/firstwork/)
+[*programmersBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/17g7vnh/programmersbelike/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/359wjtxhv9wb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xtl3ado4edwb1.jpg)
