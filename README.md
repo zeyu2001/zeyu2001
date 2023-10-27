@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sqlDevLearningMongoDB*](https://www.reddit.com/r/ProgrammerHumor/comments/17goyxf/sqldevlearningmongodb/)
+[*areTheyEvenTrying*](https://www.reddit.com/r/ProgrammerHumor/comments/17gsmt4/aretheyeventrying/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qanu75aachwb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/r8tgnyfzniwb1.png)
