@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*kidIsDefinitelyUsesJSArraySort*](https://www.reddit.com/r/ProgrammerHumor/comments/17hmwb2/kidisdefinitelyusesjsarraysort/)
+[*ImJenkinsForHalloween*](https://www.reddit.com/r/ProgrammerHumor/comments/17htpyw/imjenkinsforhalloween/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rg3wxjfjsqwb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sfot8o68dswb1.png)
