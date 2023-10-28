@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ImJenkinsForHalloween*](https://www.reddit.com/r/ProgrammerHumor/comments/17htpyw/imjenkinsforhalloween/)
+[*everyGenerationHasToDiscoverTheirPHP*](https://www.reddit.com/r/ProgrammerHumor/comments/17hx8ai/everygenerationhastodiscovertheirphp/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sfot8o68dswb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/esbhul706twb1.png)
