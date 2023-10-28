@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*imATeapot*](https://www.reddit.com/r/ProgrammerHumor/comments/17hiugb/imateapot/)
+[*unironicallyUsuallyTrue*](https://www.reddit.com/r/ProgrammerHumor/comments/17hlghh/unironicallyusuallytrue/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3fbq63ksgpwb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/96501evpdqwb1.jpg)
