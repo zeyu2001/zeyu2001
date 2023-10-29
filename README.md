@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itJustRocks*](https://www.reddit.com/r/ProgrammerHumor/comments/17iogxe/itjustrocks/)
+[*iShallMissC*](https://www.reddit.com/r/ProgrammerHumor/comments/17ixsj7/ishallmissc/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qu4dnz1uo0xb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ggbgvd1hh3xb1.png)
