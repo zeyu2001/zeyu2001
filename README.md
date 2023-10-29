@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theLanguageBarrier*](https://www.reddit.com/r/ProgrammerHumor/comments/17iep7f/thelanguagebarrier/)
+[*itJustRocks*](https://www.reddit.com/r/ProgrammerHumor/comments/17iogxe/itjustrocks/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/v6wzupl5cywb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qu4dnz1uo0xb1.jpg)
