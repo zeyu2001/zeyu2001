@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*IRobot*](https://www.reddit.com/r/ProgrammerHumor/comments/17j77f9/irobot/)
+[*whoAreYouWarrior*](https://www.reddit.com/r/ProgrammerHumor/comments/17jispc/whoareyouwarrior/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j1p6wwzr96xb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sgaat6n4z8xb1.jpg)
