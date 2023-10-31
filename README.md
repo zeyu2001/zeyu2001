@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whoAreYouWarrior*](https://www.reddit.com/r/ProgrammerHumor/comments/17jispc/whoareyouwarrior/)
+[*whatEverYouWantToCallIt*](https://www.reddit.com/r/ProgrammerHumor/comments/17jtjsr/whateveryouwanttocallit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sgaat6n4z8xb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ssugxjptecxb1.jpg)
