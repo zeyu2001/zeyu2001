@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatEverYouWantToCallIt*](https://www.reddit.com/r/ProgrammerHumor/comments/17jtjsr/whateveryouwanttocallit/)
+[*whyTheHellWouldYouWantThat*](https://www.reddit.com/r/ProgrammerHumor/comments/17ju6l3/whythehellwouldyouwantthat/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ssugxjptecxb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/igy11t14kcxb1.jpg)
