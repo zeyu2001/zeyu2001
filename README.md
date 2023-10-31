@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whyTheHellWouldYouWantThat*](https://www.reddit.com/r/ProgrammerHumor/comments/17ju6l3/whythehellwouldyouwantthat/)
+[*hardTimesCreateStrongMen*](https://www.reddit.com/r/ProgrammerHumor/comments/17kao71/hardtimescreatestrongmen/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/igy11t14kcxb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zzrh1sm98gxb1.jpg)
