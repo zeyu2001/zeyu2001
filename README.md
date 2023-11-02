@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*soApparentlyNobodyKnowsJs*](https://www.reddit.com/r/ProgrammerHumor/comments/17l5y9h/soapparentlynobodyknowsjs/)
+[*OhGodIAmGood*](https://www.reddit.com/r/ProgrammerHumor/comments/17l9qnn/ohgodiamgood/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qxyxxwlfkoxb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gqdvkpqdzpxb1.png)
