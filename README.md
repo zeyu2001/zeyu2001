@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*OhGodIAmGood*](https://www.reddit.com/r/ProgrammerHumor/comments/17l9qnn/ohgodiamgood/)
+[*damnitAnotherTypoOhWell*](https://www.reddit.com/r/ProgrammerHumor/comments/17ld5w4/damnitanothertypoohwell/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gqdvkpqdzpxb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gumvra84wqxb1.png)
