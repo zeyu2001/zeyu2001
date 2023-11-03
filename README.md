@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pleaseJustLetMeCopyYourCode*](https://www.reddit.com/r/ProgrammerHumor/comments/17m8doz/pleasejustletmecopyyourcode/)
+[*secretRobotInternet*](https://www.reddit.com/r/ProgrammerHumor/comments/17mlq67/secretrobotinternet/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ityiok0svyxb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4s9korcfw1yb1.jpg)
