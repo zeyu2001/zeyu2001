@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theOnlyReasonNotToShare*](https://www.reddit.com/r/ProgrammerHumor/comments/17lzw1v/theonlyreasonnottoshare/)
+[*pleaseJustLetMeCopyYourCode*](https://www.reddit.com/r/ProgrammerHumor/comments/17m8doz/pleasejustletmecopyyourcode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nit2203hpwxb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ityiok0svyxb1.jpg)
