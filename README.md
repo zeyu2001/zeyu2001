@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*secretRobotInternet*](https://www.reddit.com/r/ProgrammerHumor/comments/17mlq67/secretrobotinternet/)
+[*RememberWhenSOWasntAShitHole*](https://www.reddit.com/r/ProgrammerHumor/comments/17mpuem/rememberwhensowasntashithole/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4s9korcfw1yb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lvqdrxqi83yb1.png)
