@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*strikeTheFearOfGodIntoThemShowNoMercyMakeThemSuffer*](https://www.reddit.com/r/ProgrammerHumor/comments/17n42er/strikethefearofgodintothemshownomercymakethemsuffe/)
+[*whoTheFckDoesThis*](https://www.reddit.com/r/ProgrammerHumor/comments/17njr3m/whothefckdoesthis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o16wi7xdx6yb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/r505bwuhhbyb1.png)
