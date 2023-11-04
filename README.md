@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*RememberWhenSOWasntAShitHole*](https://www.reddit.com/r/ProgrammerHumor/comments/17mpuem/rememberwhensowasntashithole/)
+[*strikeTheFearOfGodIntoThemShowNoMercyMakeThemSuffer*](https://www.reddit.com/r/ProgrammerHumor/comments/17n42er/strikethefearofgodintothemshownomercymakethemsuffe/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lvqdrxqi83yb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o16wi7xdx6yb1.jpg)
