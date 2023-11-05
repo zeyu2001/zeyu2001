@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itLooksLikeThis*](https://www.reddit.com/r/ProgrammerHumor/comments/17nvc5y/itlookslikethis/)
+[*chadGameDevs*](https://www.reddit.com/r/ProgrammerHumor/comments/17obbxw/chadgamedevs/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/a15ldhndaeyb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3cqroexe0jyb1.jpg)
