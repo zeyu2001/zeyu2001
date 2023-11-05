@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whoTheFckDoesThis*](https://www.reddit.com/r/ProgrammerHumor/comments/17njr3m/whothefckdoesthis/)
+[*itLooksLikeThis*](https://www.reddit.com/r/ProgrammerHumor/comments/17nvc5y/itlookslikethis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/r505bwuhhbyb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/a15ldhndaeyb1.jpg)
