@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisIsMyWorstDream*](https://www.reddit.com/r/ProgrammerHumor/comments/17oip80/thisismyworstdream/)
+[*weDoNotTestOnAnimalsWeTestInProduction*](https://www.reddit.com/r/ProgrammerHumor/comments/17ox5ia/wedonottestonanimalswetestinproduction/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zhe8xd5yrkyb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cf3zdzkwfoyb1.png)
