@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*chadGameDevs*](https://www.reddit.com/r/ProgrammerHumor/comments/17obbxw/chadgamedevs/)
+[*sleepWithThePenguins*](https://www.reddit.com/r/ProgrammerHumor/comments/17orbkb/sleepwiththepenguins/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3cqroexe0jyb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/olr8jdpiqmyb1.jpg)
