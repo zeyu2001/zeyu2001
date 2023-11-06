@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*weDoNotTestOnAnimalsWeTestInProduction*](https://www.reddit.com/r/ProgrammerHumor/comments/17ox5ia/wedonottestonanimalswetestinproduction/)
+[*iAmBroke*](https://www.reddit.com/r/ProgrammerHumor/comments/17p5hmy/iambroke/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cf3zdzkwfoyb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bdasho5zyqyb1.jpg)
