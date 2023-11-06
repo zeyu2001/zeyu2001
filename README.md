@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sleepWithThePenguins*](https://www.reddit.com/r/ProgrammerHumor/comments/17orbkb/sleepwiththepenguins/)
+[*thisIsMyWorstDream*](https://www.reddit.com/r/ProgrammerHumor/comments/17oip80/thisismyworstdream/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/olr8jdpiqmyb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zhe8xd5yrkyb1.jpg)
