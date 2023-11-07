@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iAmBroke*](https://www.reddit.com/r/ProgrammerHumor/comments/17p5hmy/iambroke/)
+[*programmerMove*](https://www.reddit.com/r/ProgrammerHumor/comments/17pmugu/programmermove/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bdasho5zyqyb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/auaip6x4yuyb1.jpg)
