@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*isTeslaLookingForCssDevs*](https://www.reddit.com/r/ProgrammerHumor/comments/17po5w0/isteslalookingforcssdevs/)
+[*iKnowTheyAreUsefulButIDontLikeThem*](https://www.reddit.com/r/ProgrammerHumor/comments/17pwjlv/iknowtheyareusefulbutidontlikethem/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/azcrfyzkdvyb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j1c2j1680yyb1.jpg)
