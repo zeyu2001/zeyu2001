@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*oops*](https://www.reddit.com/r/ProgrammerHumor/comments/17qg68n/oops/)
+[*addMoreCasesIfNecessary*](https://www.reddit.com/r/ProgrammerHumor/comments/17qceyq/addmorecasesifnecessary/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gwyiamump2zb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/51186059j1zb1.jpg)
