@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*programmerMove*](https://www.reddit.com/r/ProgrammerHumor/comments/17pmugu/programmermove/)
+[*isTeslaLookingForCssDevs*](https://www.reddit.com/r/ProgrammerHumor/comments/17po5w0/isteslalookingforcssdevs/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/auaip6x4yuyb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/azcrfyzkdvyb1.png)
