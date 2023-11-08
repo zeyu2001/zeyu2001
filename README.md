@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iKnowTheyAreUsefulButIDontLikeThem*](https://www.reddit.com/r/ProgrammerHumor/comments/17pwjlv/iknowtheyareusefulbutidontlikethem/)
+[*oops*](https://www.reddit.com/r/ProgrammerHumor/comments/17qg68n/oops/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j1c2j1680yyb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gwyiamump2zb1.jpg)
