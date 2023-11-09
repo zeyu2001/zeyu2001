@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youAreNotSafeAnywhere*](https://www.reddit.com/r/ProgrammerHumor/comments/17qof1p/youarenotsafeanywhere/)
+[*areTheyStupid*](https://www.reddit.com/r/ProgrammerHumor/comments/17r2bqx/aretheystupid/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/asua174u95zb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tfhnfioad8zb1.jpg)
