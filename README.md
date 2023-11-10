@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*Meems*](https://www.reddit.com/r/ProgrammerHumor/comments/17s1sjt/meems/)
+[*finallySomeoneFoundTheRootCause*](https://www.reddit.com/r/ProgrammerHumor/comments/17s8k2q/finallysomeonefoundtherootcause/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8zorui8f7izb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/q922amx7yjzb1.jpg)
