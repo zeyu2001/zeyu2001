@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*java8*](https://www.reddit.com/r/ProgrammerHumor/comments/17svtyd/java8/)
+[*es6CreatedThis*](https://www.reddit.com/r/ProgrammerHumor/comments/17t5l6c/es6createdthis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ujntxueydqzb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ewpnb2fhnszb1.png)
