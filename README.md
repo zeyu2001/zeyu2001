@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*es6CreatedThis*](https://www.reddit.com/r/ProgrammerHumor/comments/17t5l6c/es6createdthis/)
+[*NatureUsingGIT*](https://www.reddit.com/r/ProgrammerHumor/comments/17thg7p/natureusinggit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ewpnb2fhnszb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cd7xxjpq7wzb1.png)
