@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*blowsMyMindThatThisSoftwareIsCompletelyFree*](https://www.reddit.com/r/ProgrammerHumor/comments/17tt5zh/blowsmymindthatthissoftwareiscompletelyfree/)
+[*copyPaste*](https://www.reddit.com/r/ProgrammerHumor/comments/17u6g3a/copypaste/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p5uuoih9azzb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/brijl8ffv20c1.jpg)
