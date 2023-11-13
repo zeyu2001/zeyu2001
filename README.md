@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*NatureUsingGIT*](https://www.reddit.com/r/ProgrammerHumor/comments/17thg7p/natureusinggit/)
+[*blowsMyMindThatThisSoftwareIsCompletelyFree*](https://www.reddit.com/r/ProgrammerHumor/comments/17tt5zh/blowsmymindthatthissoftwareiscompletelyfree/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cd7xxjpq7wzb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p5uuoih9azzb1.png)
