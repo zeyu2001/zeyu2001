@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*yes*](https://www.reddit.com/r/ProgrammerHumor/comments/17uddqh/yes/)
+[*TypeSafeBaby*](https://www.reddit.com/r/ProgrammerHumor/comments/17un9x0/typesafebaby/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5r9zpjy2y40c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/elbriolj170c1.jpg)
