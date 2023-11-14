@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*hackingIn2024*](https://www.reddit.com/r/ProgrammerHumor/comments/17u5oy4/hackingin2024/)
+[*yes*](https://www.reddit.com/r/ProgrammerHumor/comments/17uddqh/yes/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ui1t8dz2l20c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5r9zpjy2y40c1.jpg)
