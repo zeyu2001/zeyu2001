@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*classicFontSizeExploit*](https://www.reddit.com/r/ProgrammerHumor/comments/17ur1y1/classicfontsizeexploit/)
+[*ItsTrue*](https://www.reddit.com/r/ProgrammerHumor/comments/17v6w27/itstrue/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jr2dfu78x70c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1jpfn8sdic0c1.png)
