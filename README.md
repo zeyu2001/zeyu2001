@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ItsTrue*](https://www.reddit.com/r/ProgrammerHumor/comments/17v6w27/itstrue/)
+[*theOnlyCommentOfTheCode*](https://www.reddit.com/r/ProgrammerHumor/comments/17vn4oi/theonlycommentofthecode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1jpfn8sdic0c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bmvktjkfcg0c1.jpg)
