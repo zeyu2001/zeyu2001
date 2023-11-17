@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*PostHasBeenMarkedAsDuplicated*](https://www.reddit.com/r/ProgrammerHumor/comments/17wkodj/posthasbeenmarkedasduplicated/)
+[*smartestLinkedInInfluencer*](https://www.reddit.com/r/ProgrammerHumor/comments/17wzmf4/smartestlinkedininfluencer/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ay080p9t3p0c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bz6g5qgwes0c1.jpg)
