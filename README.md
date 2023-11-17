@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justGiveMeAChanceInstead*](https://www.reddit.com/r/ProgrammerHumor/comments/17wcorw/justgivemeachanceinstead/)
+[*PostHasBeenMarkedAsDuplicated*](https://www.reddit.com/r/ProgrammerHumor/comments/17wkodj/posthasbeenmarkedasduplicated/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o35400etom0c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ay080p9t3p0c1.png)
