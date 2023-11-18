@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*nowWithCheckboxesTM*](https://www.reddit.com/r/ProgrammerHumor/comments/17xk5zt/nowwithcheckboxestm/)
+[*ai911*](https://www.reddit.com/r/ProgrammerHumor/comments/17xvhjh/ai911/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hpc5i6n80y0c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v6637vu6j01c1.jpg)
