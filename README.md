@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatIsTCP*](https://www.reddit.com/r/ProgrammerHumor/comments/17x9y9o/whatistcp/)
+[*nowWithCheckboxesTM*](https://www.reddit.com/r/ProgrammerHumor/comments/17xk5zt/nowwithcheckboxestm/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4ntukwyl4v0c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hpc5i6n80y0c1.png)
