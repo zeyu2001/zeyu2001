@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*anyRecruitersInHere*](https://www.reddit.com/r/ProgrammerHumor/comments/17y4gdy/anyrecruitersinhere/)
+[*welcomeToTheWorldOfIndentation*](https://www.reddit.com/r/ProgrammerHumor/comments/17y836v/welcometotheworldofindentation/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6hfzz8lbc31c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1ocjqh6pd41c1.png)
