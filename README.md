@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itsJustDoingWhatYouTellItToDo*](https://www.reddit.com/r/ProgrammerHumor/comments/17y8kul/itsjustdoingwhatyoutellittodo/)
+[*techPile*](https://www.reddit.com/r/ProgrammerHumor/comments/17yav28/techpile/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m26bjkuyh41c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/eji2fu5f151c1.png)
