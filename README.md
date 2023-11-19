@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*welcomeToTheWorldOfIndentation*](https://www.reddit.com/r/ProgrammerHumor/comments/17y836v/welcometotheworldofindentation/)
+[*itsJustDoingWhatYouTellItToDo*](https://www.reddit.com/r/ProgrammerHumor/comments/17y8kul/itsjustdoingwhatyoutellittodo/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1ocjqh6pd41c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m26bjkuyh41c1.jpg)
