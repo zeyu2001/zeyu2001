@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*techPile*](https://www.reddit.com/r/ProgrammerHumor/comments/17yav28/techpile/)
+[*backPainsAnyone*](https://www.reddit.com/r/ProgrammerHumor/comments/17yknyj/backpainsanyone/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/eji2fu5f151c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ycbg8z9ea71c1.jpg)
