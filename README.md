@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sudoSudoSudooooo*](https://www.reddit.com/r/ProgrammerHumor/comments/17zsvx4/sudosudosudooooo/)
+[*bachmanityInsanity*](https://www.reddit.com/r/ProgrammerHumor/comments/1809kei/bachmanityinsanity/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9rn7idyj8j1c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rk94tt6wzm1c1.png)
