@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*bachmanityInsanity*](https://www.reddit.com/r/ProgrammerHumor/comments/1809kei/bachmanityinsanity/)
+[*whyDoesYoutubeTakeFiveSeconsToLoadToday*](https://www.reddit.com/r/ProgrammerHumor/comments/180lclu/whydoesyoutubetakefiveseconstoloadtoday/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rk94tt6wzm1c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l7bv49vuaq1c1.png)
