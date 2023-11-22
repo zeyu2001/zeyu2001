@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whyDoesYoutubeTakeFiveSeconsToLoadToday*](https://www.reddit.com/r/ProgrammerHumor/comments/180lclu/whydoesyoutubetakefiveseconstoloadtoday/)
+[*iWillNeverLiveUpToTheirStandards*](https://www.reddit.com/r/ProgrammerHumor/comments/181407j/iwillneverliveuptotheirstandards/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l7bv49vuaq1c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f83yk8qavu1c1.jpg)
