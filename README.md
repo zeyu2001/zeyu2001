@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*everyDamnTime*](https://www.reddit.com/r/ProgrammerHumor/comments/18191e1/everydamntime/)
+[*logging*](https://www.reddit.com/r/ProgrammerHumor/comments/181odje/logging/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u6bo105ohw1c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4jzgv02isz1c1.png)
