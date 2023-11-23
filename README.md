@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iWillNeverLiveUpToTheirStandards*](https://www.reddit.com/r/ProgrammerHumor/comments/181407j/iwillneverliveuptotheirstandards/)
+[*everyDamnTime*](https://www.reddit.com/r/ProgrammerHumor/comments/18191e1/everydamntime/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/f83yk8qavu1c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/u6bo105ohw1c1.jpg)
