@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iReallyHopeThisWorks*](https://www.reddit.com/r/ProgrammerHumor/comments/181wqk9/ireallyhopethisworks/)
+[*everyRustDeveloper*](https://www.reddit.com/r/ProgrammerHumor/comments/18220ww/everyrustdeveloper/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cv7qhhb7722c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rj0aq0kzu32c1.jpg)
