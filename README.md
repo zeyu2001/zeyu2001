@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*WeAreScrewed*](https://www.reddit.com/r/ProgrammerHumor/comments/182pdhu/wearescrewed/)
+[*artificialIntelligenceCanDoAnything*](https://www.reddit.com/r/ProgrammerHumor/comments/182mvbh/artificialintelligencecandoanything/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/20ax1qp5y92c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/q9avp21t292c1.jpg)
