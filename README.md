@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*everyRustDeveloper*](https://www.reddit.com/r/ProgrammerHumor/comments/18220ww/everyrustdeveloper/)
+[*WeAreScrewed*](https://www.reddit.com/r/ProgrammerHumor/comments/182pdhu/wearescrewed/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rj0aq0kzu32c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/20ax1qp5y92c1.jpg)
