@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*IGotHurtDeeply*](https://www.reddit.com/r/ProgrammerHumor/comments/181uhof/igothurtdeeply/)
+[*iReallyHopeThisWorks*](https://www.reddit.com/r/ProgrammerHumor/comments/181wqk9/ireallyhopethisworks/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/etg50wkeg12c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cv7qhhb7722c1.png)
