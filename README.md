@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*OldSchool*](https://www.reddit.com/r/ProgrammerHumor/comments/18357og/oldschool/)
+[*ImInTheSystem*](https://www.reddit.com/r/ProgrammerHumor/comments/183hw0x/iminthesystem/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ajlq55i3qd2c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kjpzz94fch2c1.png)
