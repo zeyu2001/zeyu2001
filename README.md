@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*artificialIntelligenceCanDoAnything*](https://www.reddit.com/r/ProgrammerHumor/comments/182mvbh/artificialintelligencecandoanything/)
+[*OldSchool*](https://www.reddit.com/r/ProgrammerHumor/comments/18357og/oldschool/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q9avp21t292c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ajlq55i3qd2c1.png)
