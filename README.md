@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ImInTheSystem*](https://www.reddit.com/r/ProgrammerHumor/comments/183hw0x/iminthesystem/)
+[*isThereAnyAdvantageToUsingItOverHim*](https://www.reddit.com/r/ProgrammerHumor/comments/183m49y/isthereanyadvantagetousingitoverhim/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kjpzz94fch2c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ebqnwk4mii2c1.jpg)
