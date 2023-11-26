@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*isThereAnyAdvantageToUsingItOverHim*](https://www.reddit.com/r/ProgrammerHumor/comments/183m49y/isthereanyadvantagetousingitoverhim/)
+[*jediWisdomSheHasLearned*](https://www.reddit.com/r/ProgrammerHumor/comments/183ycxw/jediwisdomshehaslearned/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ebqnwk4mii2c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ow3kjayval2c1.jpg)
