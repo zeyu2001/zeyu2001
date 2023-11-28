@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whisperToMe*](https://www.reddit.com/r/ProgrammerHumor/comments/184us0q/whispertome/)
+[*reAlPrOgRAmMeRsDoNTuSeTRaInInGwHeELs*](https://www.reddit.com/r/ProgrammerHumor/comments/1853ybo/realprogrammersdontusetrainingwheels/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/b4g39wemlt2c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v4p8gbdofw2c1.jpg)
