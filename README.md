@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*reAlPrOgRAmMeRsDoNTuSeTRaInInGwHeELs*](https://www.reddit.com/r/ProgrammerHumor/comments/1853ybo/realprogrammersdontusetrainingwheels/)
+[*LevelsOfSeniorityBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/185np5v/levelsofsenioritybelike/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/v4p8gbdofw2c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ddhmkx43p03c1.png)
