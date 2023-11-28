@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*LevelsOfSeniorityBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/185np5v/levelsofsenioritybelike/)
+[*prettyWellExplainedLol*](https://www.reddit.com/r/ProgrammerHumor/comments/185uchw/prettywellexplainedlol/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ddhmkx43p03c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/e6w6zfomv23c1.jpg)
