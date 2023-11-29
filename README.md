@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*taskFailedSuccessfully*](https://www.reddit.com/r/ProgrammerHumor/comments/185ylue/taskfailedsuccessfully/)
+[*proveYourselfAsAProgrammerUsingOnlyOneSentence*](https://www.reddit.com/r/ProgrammerHumor/comments/186lmyo/proveyourselfasaprogrammerusingonlyonesentence/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/a8bfsj1xw33c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4nk6go2mb93c1.jpg)
