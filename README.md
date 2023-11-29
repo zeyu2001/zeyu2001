@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*prettyWellExplainedLol*](https://www.reddit.com/r/ProgrammerHumor/comments/185uchw/prettywellexplainedlol/)
+[*taskFailedSuccessfully*](https://www.reddit.com/r/ProgrammerHumor/comments/185ylue/taskfailedsuccessfully/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/e6w6zfomv23c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/a8bfsj1xw33c1.png)
