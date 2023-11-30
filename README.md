@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*proveYourselfAsAProgrammerUsingOnlyOneSentence*](https://www.reddit.com/r/ProgrammerHumor/comments/186lmyo/proveyourselfasaprogrammerusingonlyonesentence/)
+[*choosingAnOS*](https://www.reddit.com/r/ProgrammerHumor/comments/1870fwm/choosinganos/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4nk6go2mb93c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/imr5tcrbtc3c1.jpg)
