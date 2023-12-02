@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*notGettingArrested*](https://www.reddit.com/r/ProgrammerHumor/comments/188l3gj/notgettingarrested/)
+[*hoursOfOptimizing*](https://www.reddit.com/r/ProgrammerHumor/comments/18911ow/hoursofoptimizing/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jy79be5wpq3c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/up3e6ags0v3c1.png)
