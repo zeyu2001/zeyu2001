@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whyTho*](https://www.reddit.com/r/ProgrammerHumor/comments/188cz02/whytho/)
+[*notGettingArrested*](https://www.reddit.com/r/ProgrammerHumor/comments/188l3gj/notgettingarrested/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bz5g44zjzo3c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jy79be5wpq3c1.png)
