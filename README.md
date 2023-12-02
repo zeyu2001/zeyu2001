@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*everyoneShouldUseGit*](https://www.reddit.com/r/ProgrammerHumor/comments/18851ff/everyoneshouldusegit/)
+[*whyTho*](https://www.reddit.com/r/ProgrammerHumor/comments/188cz02/whytho/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vq1f702zmm3c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bz5g44zjzo3c1.jpg)
