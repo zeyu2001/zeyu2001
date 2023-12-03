@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*hoursOfOptimizing*](https://www.reddit.com/r/ProgrammerHumor/comments/18911ow/hoursofoptimizing/)
+[*newNodeLibraryGoesBrrrr*](https://www.reddit.com/r/ProgrammerHumor/comments/1892swu/newnodelibrarygoesbrrrr/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/up3e6ags0v3c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yagw8n9nlv3c1.png)
