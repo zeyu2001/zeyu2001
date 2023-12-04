@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*hisFriendsHateHimAndInterviewersLoveHim*](https://www.reddit.com/r/ProgrammerHumor/comments/189mpvq/hisfriendshatehimandinterviewerslovehim/)
+[*itsTrue*](https://www.reddit.com/r/ProgrammerHumor/comments/189vhsp/itstrue/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o05yjdr8o04c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i7vtbczyi34c1.png)
