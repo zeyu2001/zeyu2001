@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*frontEndHonesty*](https://www.reddit.com/r/ProgrammerHumor/comments/18alolc/frontendhonesty/)
+[*oopWentTooFar*](https://www.reddit.com/r/ProgrammerHumor/comments/18b09ro/oopwenttoofar/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k3qpgsr2ja4c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/25f5spq7qd4c1.jpg)
