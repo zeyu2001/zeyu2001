@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*noSonOfMineWouldCodeThatShit*](https://www.reddit.com/r/ProgrammerHumor/comments/18a9n7q/nosonofminewouldcodethatshit/)
+[*frontEndHonesty*](https://www.reddit.com/r/ProgrammerHumor/comments/18alolc/frontendhonesty/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qhqdssdcr64c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k3qpgsr2ja4c1.jpg)
