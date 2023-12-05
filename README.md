@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*oopWentTooFar*](https://www.reddit.com/r/ProgrammerHumor/comments/18b09ro/oopwenttoofar/)
+[*aintEasyBeingOldSchool*](https://www.reddit.com/r/ProgrammerHumor/comments/18b78jj/ainteasybeingoldschool/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/25f5spq7qd4c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c170mr81pf4c1.png)
