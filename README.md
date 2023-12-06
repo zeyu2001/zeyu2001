@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*tobyFoxIsWild*](https://www.reddit.com/r/ProgrammerHumor/comments/18bhjj4/tobyfoxiswild/)
+[*dontGetBurned*](https://www.reddit.com/r/ProgrammerHumor/comments/18blanr/dontgetburned/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8izf2ybbji4c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/125jt0izbj4c1.png)
