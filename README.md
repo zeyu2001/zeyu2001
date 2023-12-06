@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dontGetBurned*](https://www.reddit.com/r/ProgrammerHumor/comments/18blanr/dontgetburned/)
+[*beHonest*](https://www.reddit.com/r/ProgrammerHumor/comments/18bxvif/behonest/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/125jt0izbj4c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sn9ix6fecm4c1.png)
