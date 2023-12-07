@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*trustMeBro*](https://www.reddit.com/r/ProgrammerHumor/comments/18c755r/trustmebro/)
+[*myBossThinksIInventedAI*](https://www.reddit.com/r/ProgrammerHumor/comments/18clt4f/mybossthinksiinventedai/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4mi6qxk96p4c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uzfc3hrbgs4c1.jpg)
