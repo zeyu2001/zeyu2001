@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*wordIsPressed*](https://www.reddit.com/r/ProgrammerHumor/comments/18d4l5l/wordispressed/)
+[*everyDamnTime*](https://www.reddit.com/r/ProgrammerHumor/comments/18doopf/everydamntime/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2pknw3kmlx4c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hbiem8po535c1.png)
