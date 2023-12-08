@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*damnTrue*](https://www.reddit.com/r/ProgrammerHumor/comments/18cx1j7/damntrue/)
+[*wordIsPressed*](https://www.reddit.com/r/ProgrammerHumor/comments/18d4l5l/wordispressed/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tcps3j36xv4c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2pknw3kmlx4c1.png)
