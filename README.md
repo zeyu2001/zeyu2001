@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*oopsItHappenedAgain*](https://www.reddit.com/r/ProgrammerHumor/comments/18e4xiw/oopsithappenedagain/)
+[*doNotGetInDebt*](https://www.reddit.com/r/ProgrammerHumor/comments/18efiu7/donotgetindebt/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wur4xqva075c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4vci1brwba5c1.png)
