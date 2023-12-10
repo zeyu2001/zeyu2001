@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*newInternJustDropped*](https://www.reddit.com/r/ProgrammerHumor/comments/18f0dr4/newinternjustdropped/)
+[*onlyGnuDocumentsOneThingWithThreeDifferentWords*](https://www.reddit.com/r/ProgrammerHumor/comments/18enlqu/onlygnudocumentsonethingwiththreedifferentwords/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zi7qjt8kyf5c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1iikzsuw7c5c1.png)
