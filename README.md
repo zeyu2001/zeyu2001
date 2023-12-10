@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*onlyGnuDocumentsOneThingWithThreeDifferentWords*](https://www.reddit.com/r/ProgrammerHumor/comments/18enlqu/onlygnudocumentsonethingwiththreedifferentwords/)
+[*lordHelpMe*](https://www.reddit.com/r/ProgrammerHumor/comments/18f6ont/lordhelpme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1iikzsuw7c5c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dvmcv2tbqh5c1.jpg)
