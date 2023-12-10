@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*planningASoftwareProjectBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/18eh0v4/planningasoftwareprojectbelike/)
+[*newInternJustDropped*](https://www.reddit.com/r/ProgrammerHumor/comments/18f0dr4/newinternjustdropped/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u7d9jnstoa5c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zi7qjt8kyf5c1.png)
