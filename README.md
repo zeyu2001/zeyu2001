@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lordHelpMe*](https://www.reddit.com/r/ProgrammerHumor/comments/18f6ont/lordhelpme/)
+[*somehowImAllFour*](https://www.reddit.com/r/ProgrammerHumor/comments/18fn0m6/somehowimallfour/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dvmcv2tbqh5c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l9upgf4rnl5c1.jpg)
