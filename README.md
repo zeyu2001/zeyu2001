@@ -23,6 +23,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lovinIt*](https://www.reddit.com/r/ProgrammerHumor/comments/18fz40g/lovinit/)
+[*importArabicTranslator*](https://www.reddit.com/r/ProgrammerHumor/comments/18g9674/importarabictranslator/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u5scia5w4p5c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/96cvv82zfr5c1.jpg)
