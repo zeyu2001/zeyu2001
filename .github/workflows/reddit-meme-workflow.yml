@@ -20,7 +20,7 @@ jobs:
       - run: node .
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_SECRET: ${{ secrets.REDDIT_SECRET }}
 
       - name: Add to git repo
         run: |
