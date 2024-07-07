@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*storyOfMyLife*](https://www.reddit.com/r/ProgrammerHumor/comments/1dwupdn/storyofmylife/)
+[*allocateMemoryPlease*](https://www.reddit.com/r/ProgrammerHumor/comments/1dx1bwm/allocatememoryplease/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yjcyub55nxad1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n1quyp705zad1.png)
