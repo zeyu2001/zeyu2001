@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*allocateMemoryPlease*](https://www.reddit.com/r/ProgrammerHumor/comments/1dx1bwm/allocatememoryplease/)
+[*forTheBritishPythonistas*](https://www.reddit.com/r/ProgrammerHumor/comments/1dxicn8/forthebritishpythonistas/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n1quyp705zad1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/smpdc02f14bd1.png)
