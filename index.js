@@ -25,7 +25,6 @@ async function main() {
             },
         })
     ).json();
-    console.log(topPosts);
 
     const posts = topPosts.data.children.map(({ data }) => data);
     const postsWithImages = posts.filter(({ url }) => url.includes(".jpg") || url.includes(".png"));
