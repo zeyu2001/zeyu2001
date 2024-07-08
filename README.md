@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatFeaturesWouldItHave*](https://www.reddit.com/r/ProgrammerHumor/comments/1dxpcsj/whatfeatureswouldithave/)
+[*whyTho*](https://www.reddit.com/r/ProgrammerHumor/comments/1dy7rlx/whytho/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u7y325etj5bd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dbn0c678habd1.png)
