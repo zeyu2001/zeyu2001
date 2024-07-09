@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whyTho*](https://www.reddit.com/r/ProgrammerHumor/comments/1dy7rlx/whytho/)
+[*yeahSureBuddy*](https://www.reddit.com/r/ProgrammerHumor/comments/1dyo1ir/yeahsurebuddy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dbn0c678habd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4pczwkr4udbd1.png)
