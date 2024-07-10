@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*techStartupsBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/1dyzh3r/techstartupsbelike/)
+[*springbootBetter*](https://www.reddit.com/r/ProgrammerHumor/comments/1dzb9sm/springbootbetter/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ac0m15um4hbd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/oo5fk5t4pjbd1.png)
