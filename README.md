@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*proprietaryAI*](https://www.reddit.com/r/ProgrammerHumor/comments/1dzlp7x/proprietaryai/)
+[*paladinsOfLightAssemble*](https://www.reddit.com/r/ProgrammerHumor/comments/1e03fxw/paladinsoflightassemble/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/f6r9f9lh0mbd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rrkv5cnzkqbd1.png)
