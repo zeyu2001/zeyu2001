@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*paladinsOfLightAssemble*](https://www.reddit.com/r/ProgrammerHumor/comments/1e03fxw/paladinsoflightassemble/)
+[*myHumorIsStuckInPrePuberty*](https://www.reddit.com/r/ProgrammerHumor/comments/1e0nm3d/myhumorisstuckinprepuberty/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rrkv5cnzkqbd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sbykme9ysvbd1.png)
