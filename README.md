@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howToCenterADiv*](https://www.reddit.com/r/ProgrammerHumor/comments/1e10f6f/howtocenteradiv/)
+[*whenMyColleaguesSayTheyllDoSmallPRsToEaseReviews*](https://www.reddit.com/r/ProgrammerHumor/comments/1e1ddfb/whenmycolleaguessaytheylldosmallprstoeasereviews/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ojdkru41lybd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/w6rpzfae32cd1.png)
