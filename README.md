@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whichLanguageWasMadeToBeHated*](https://www.reddit.com/r/ProgrammerHumor/comments/1e1pyuw/whichlanguagewasmadetobehated/)
+[*lifeHack*](https://www.reddit.com/r/ProgrammerHumor/comments/1e259sf/lifehack/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/e4i6puym05cd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vvmy92frv8cd1.png)
