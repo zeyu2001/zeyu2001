@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*softwareArchitectsAreTheRootOfAllEvil*](https://www.reddit.com/r/ProgrammerHumor/comments/1e2mpzk/softwarearchitectsaretherootofallevil/)
+[*eachClassTeachesYou1010MoreNumbersInBinary*](https://www.reddit.com/r/ProgrammerHumor/comments/1e2rpbr/eachclassteachesyou1010morenumbersinbinary/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ly6boo5f4dcd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/06dfro2bdecd1.png)
