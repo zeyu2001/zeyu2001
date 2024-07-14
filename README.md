@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whichLanguageIsTheHotOne*](https://www.reddit.com/r/ProgrammerHumor/comments/1e2iugu/whichlanguageisthehotone/)
+[*softwareArchitectsAreTheRootOfAllEvil*](https://www.reddit.com/r/ProgrammerHumor/comments/1e2mpzk/softwarearchitectsaretherootofallevil/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/z3jzs0gwpbcd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ly6boo5f4dcd1.png)
