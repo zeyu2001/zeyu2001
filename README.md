@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*letsFindOut*](https://www.reddit.com/r/ProgrammerHumor/comments/1e2640s/letsfindout/)
+[*whichLanguageIsTheHotOne*](https://www.reddit.com/r/ProgrammerHumor/comments/1e2iugu/whichlanguageisthehotone/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/v9s9mw8o59cd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z3jzs0gwpbcd1.png)
