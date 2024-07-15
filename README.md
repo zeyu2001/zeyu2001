@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*eachClassTeachesYou1010MoreNumbersInBinary*](https://www.reddit.com/r/ProgrammerHumor/comments/1e2rpbr/eachclassteachesyou1010morenumbersinbinary/)
+[*pythonWasntMeantForTheWeb*](https://www.reddit.com/r/ProgrammerHumor/comments/1e3afa0/pythonwasntmeantfortheweb/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/06dfro2bdecd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xrg4fibgajcd1.png)
