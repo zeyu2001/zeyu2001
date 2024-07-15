@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*spotifyFreeLiterally*](https://www.reddit.com/r/ProgrammerHumor/comments/1e3h8pn/spotifyfreeliterally/)
+[*theDevIsDivorcedAndBroke*](https://www.reddit.com/r/ProgrammerHumor/comments/1e412n4/thedevisdivorcedandbroke/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yzhs9ialskcd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lig8cxb4zpcd1.png)
