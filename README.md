@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theDevIsDivorcedAndBroke*](https://www.reddit.com/r/ProgrammerHumor/comments/1e412n4/thedevisdivorcedandbroke/)
+[*printHelloWorld*](https://www.reddit.com/r/ProgrammerHumor/comments/1e4kp0x/printhelloworld/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lig8cxb4zpcd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xbrmu2h5sucd1.png)
