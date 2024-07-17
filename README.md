@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*printHelloWorld*](https://www.reddit.com/r/ProgrammerHumor/comments/1e4kp0x/printhelloworld/)
+[*terminologyCanBeHilarious*](https://www.reddit.com/r/ProgrammerHumor/comments/1e56072/terminologycanbehilarious/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xbrmu2h5sucd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/puiks95ygzcd1.png)
