@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*googling*](https://www.reddit.com/r/ProgrammerHumor/comments/1e5fisq/googling/)
+[*justInCase*](https://www.reddit.com/r/ProgrammerHumor/comments/1e5m8rm/justincase/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/umpt92vna2dd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5efd2tnet3dd1.png)
