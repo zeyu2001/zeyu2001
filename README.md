@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iCanSeeWhereIsTheIssue*](https://www.reddit.com/r/ProgrammerHumor/comments/1e70p0h/icanseewhereistheissue/)
+[*feelSafeInAWay*](https://www.reddit.com/r/ProgrammerHumor/comments/1e70dpc/feelsafeinaway/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o2vkasjkfgdd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z6flztqibgdd1.png)
