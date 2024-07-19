@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*evenForScrumMasterThisIsLow*](https://www.reddit.com/r/ProgrammerHumor/comments/1e63a4q/evenforscrummasterthisislow/)
+[*javaUpdate*](https://www.reddit.com/r/ProgrammerHumor/comments/1e6ie0t/javaupdate/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/os6vka88l7dd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wu3wezu4mbdd1.png)
