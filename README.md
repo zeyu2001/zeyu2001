@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*javaUpdate*](https://www.reddit.com/r/ProgrammerHumor/comments/1e6ie0t/javaupdate/)
+[*iCanSeeWhereIsTheIssue*](https://www.reddit.com/r/ProgrammerHumor/comments/1e70p0h/icanseewhereistheissue/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wu3wezu4mbdd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o2vkasjkfgdd1.png)
