@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*chooseYourFighter*](https://www.reddit.com/r/ProgrammerHumor/comments/1e790ir/chooseyourfighter/)
+[*fromMyColdDeadHands*](https://www.reddit.com/r/ProgrammerHumor/comments/1e7ufs8/frommycolddeadhands/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dxf1dks6didd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2gbtn22c2odd1.png)
