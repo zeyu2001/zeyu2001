@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*feelSafeInAWay*](https://www.reddit.com/r/ProgrammerHumor/comments/1e70dpc/feelsafeinaway/)
+[*aMcAfeeSaga2024*](https://www.reddit.com/r/ProgrammerHumor/comments/1e7paof/amcafeesaga2024/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/z6flztqibgdd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mj33otojcmdd1.png)
