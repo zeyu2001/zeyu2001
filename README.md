@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aMcAfeeSaga2024*](https://www.reddit.com/r/ProgrammerHumor/comments/1e7paof/amcafeesaga2024/)
+[*chooseYourFighter*](https://www.reddit.com/r/ProgrammerHumor/comments/1e790ir/chooseyourfighter/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mj33otojcmdd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dxf1dks6didd1.png)
