@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*onlyThisCanMakeMeLovePython*](https://www.reddit.com/r/ProgrammerHumor/comments/1e97o3e/onlythiscanmakemelovepython/)
+[*whatIsADomainSpecificLanguage*](https://www.reddit.com/r/ProgrammerHumor/comments/1e9sn0b/whatisadomainspecificlanguage/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2xtfpkjko0ed1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/13hmhzxal5ed1.png)
