@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theStudentExperience*](https://www.reddit.com/r/ProgrammerHumor/comments/1eadqaz/thestudentexperience/)
+[*codingWithHandrittenFonts*](https://www.reddit.com/r/ProgrammerHumor/comments/1eb177m/codingwithhandrittenfonts/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p1mkcqqzzaed1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j3kzruh6vged1.png)
