@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*noCommitIssues*](https://www.reddit.com/r/ProgrammerHumor/comments/1eaams7/nocommitissues/)
+[*theStudentExperience*](https://www.reddit.com/r/ProgrammerHumor/comments/1eadqaz/thestudentexperience/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7jn6wuimdaed1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p1mkcqqzzaed1.png)
