@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*engineersAintMadeForMeetings*](https://www.reddit.com/r/ProgrammerHumor/comments/1eb61xo/engineersaintmadeformeetings/)
+[*soundsAboutRightForRustUsers*](https://www.reddit.com/r/ProgrammerHumor/comments/1ebj3rz/soundsaboutrightforrustusers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/owf4xziuvhed1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/skosoeganked1.png)
