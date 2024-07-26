@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*beforeOrAfter*](https://www.reddit.com/r/ProgrammerHumor/comments/1ebs7yb/beforeorafter/)
+[*coaxedIntoLearningToCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1ec1188/coaxedintolearningtocode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4i6n9as4ened1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/eloshuf6cped1.png)
