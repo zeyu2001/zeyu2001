@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*coaxedIntoLearningToCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1ec1188/coaxedintolearningtocode/)
+[*atleastHeWriteComments*](https://www.reddit.com/r/ProgrammerHumor/comments/1ecjyfx/atleasthewritecomments/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/eloshuf6cped1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sldrkmry1ued1.png)
