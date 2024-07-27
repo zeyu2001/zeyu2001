@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*compromise*](https://www.reddit.com/r/ProgrammerHumor/comments/1ecs7zc/compromise/)
+[*thanksMicrosoft*](https://www.reddit.com/r/ProgrammerHumor/comments/1edbor3/thanksmicrosoft/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/54lpjn9d2wed1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rtrrl88sw0fd1.png)
