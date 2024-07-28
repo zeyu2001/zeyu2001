@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thanksMicrosoft*](https://www.reddit.com/r/ProgrammerHumor/comments/1edbor3/thanksmicrosoft/)
+[*cIsACharNotALang*](https://www.reddit.com/r/ProgrammerHumor/comments/1edrksy/cisacharnotalang/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rtrrl88sw0fd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kpplgxvgt4fd1.png)
