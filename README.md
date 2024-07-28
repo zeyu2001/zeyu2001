@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cIsACharNotALang*](https://www.reddit.com/r/ProgrammerHumor/comments/1edrksy/cisacharnotalang/)
+[*lifeImprisonmentForUsingWrongOperator*](https://www.reddit.com/r/ProgrammerHumor/comments/1ee0rdr/lifeimprisonmentforusingwrongoperator/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kpplgxvgt4fd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kmfz4mjua7fd1.png)
