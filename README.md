@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*quantumComputing*](https://www.reddit.com/r/ProgrammerHumor/comments/1ee6rs8/quantumcomputing/)
+[*whenYouUnderstandOnlyProgrammingMemes*](https://www.reddit.com/r/ProgrammerHumor/comments/1eet2ca/whenyouunderstandonlyprogrammingmemes/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3ntdm9d5b9fd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/r2wf4hmeoefd1.png)
