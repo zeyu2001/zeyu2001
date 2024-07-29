@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whenYouUnderstandOnlyProgrammingMemes*](https://www.reddit.com/r/ProgrammerHumor/comments/1eet2ca/whenyouunderstandonlyprogrammingmemes/)
+[*programmingMasterRace*](https://www.reddit.com/r/ProgrammerHumor/comments/1eew9jt/programmingmasterrace/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/r2wf4hmeoefd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4pmtsz2zrffd1.png)
