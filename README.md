@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*frontendLivesMatterToo*](https://www.reddit.com/r/ProgrammerHumor/comments/1ef93om/frontendlivesmattertoo/)
+[*howAreTwentyPercentOfProgrammerHappy*](https://www.reddit.com/r/ProgrammerHumor/comments/1eft261/howaretwentypercentofprogrammerhappy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5lzjhmhejifd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1ugf1c1uonfd1.png)
