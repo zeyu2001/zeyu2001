@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howAreTwentyPercentOfProgrammerHappy*](https://www.reddit.com/r/ProgrammerHumor/comments/1eft261/howaretwentypercentofprogrammerhappy/)
+[*anonDesignPattern*](https://www.reddit.com/r/ProgrammerHumor/comments/1efy12t/anondesignpattern/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1ugf1c1uonfd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0tbuh9l4pofd1.png)
