@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*quickThrowItAway*](https://www.reddit.com/r/ProgrammerHumor/comments/1ehat25/quickthrowitaway/)
+[*setTimeout*](https://www.reddit.com/r/ProgrammerHumor/comments/1eh94jd/settimeout/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2umdcanua0gd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pc5i6b3uqzfd1.png)
