@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*setTimeout*](https://www.reddit.com/r/ProgrammerHumor/comments/1eh94jd/settimeout/)
+[*advancedMlVsIfElse*](https://www.reddit.com/r/ProgrammerHumor/comments/1ehfv5s/advancedmlvsifelse/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pc5i6b3uqzfd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uz5av4qau1gd1.png)
