@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*bruh*](https://www.reddit.com/r/ProgrammerHumor/comments/1eijouu/bruh/)
+[*errorOnLine42*](https://www.reddit.com/r/ProgrammerHumor/comments/1ej6lty/erroronline42/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rj1auwq14bgd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sk3ae6an0hgd1.png)
