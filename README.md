@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*hisRealNameIsCTicTacToe*](https://www.reddit.com/r/ProgrammerHumor/comments/1ei95sd/hisrealnameisctictactoe/)
+[*bruh*](https://www.reddit.com/r/ProgrammerHumor/comments/1eijouu/bruh/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kmcxpfchy8gd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rj1auwq14bgd1.png)
