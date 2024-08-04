@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*intelRaptorLake*](https://www.reddit.com/r/ProgrammerHumor/comments/1ejeufg/intelraptorlake/)
+[*explainingComplexAlgorithmToNonCoders*](https://www.reddit.com/r/ProgrammerHumor/comments/1ejuh6m/explainingcomplexalgorithmtononcoders/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5xb81w5qqigd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yhyybhbs8ngd1.png)
