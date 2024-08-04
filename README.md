@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*errorOnLine42*](https://www.reddit.com/r/ProgrammerHumor/comments/1ej6lty/erroronline42/)
+[*intelRaptorLake*](https://www.reddit.com/r/ProgrammerHumor/comments/1ejeufg/intelraptorlake/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sk3ae6an0hgd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5xb81w5qqigd1.png)
