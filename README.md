@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whenYouTryToOptimizeYourAlgorithm*](https://www.reddit.com/r/ProgrammerHumor/comments/1ekim6s/whenyoutrytooptimizeyouralgorithm/)
+[*nowItsFixed*](https://www.reddit.com/r/ProgrammerHumor/comments/1ekm1ag/nowitsfixed/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/68bv0cxv2tgd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0txiw2nf5ugd1.png)
