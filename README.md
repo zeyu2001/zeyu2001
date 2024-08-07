@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatAFunExperience*](https://www.reddit.com/r/ProgrammerHumor/comments/1eldy7t/whatafunexperience/)
+[*daemonProcessRizz*](https://www.reddit.com/r/ProgrammerHumor/comments/1em2a99/daemonprocessrizz/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8qpkvfdvp0hd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/38gorzer06hd1.png)
