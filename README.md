@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*daemonProcessRizz*](https://www.reddit.com/r/ProgrammerHumor/comments/1em2a99/daemonprocessrizz/)
+[*itsSlowlyBecomingTheSaferOption*](https://www.reddit.com/r/ProgrammerHumor/comments/1em7qa6/itsslowlybecomingthesaferoption/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/38gorzer06hd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/b0pij96qr7hd1.png)
