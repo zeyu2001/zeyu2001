@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itsSlowlyBecomingTheSaferOption*](https://www.reddit.com/r/ProgrammerHumor/comments/1em7qa6/itsslowlybecomingthesaferoption/)
+[*notAnotherOne*](https://www.reddit.com/r/ProgrammerHumor/comments/1ema27g/notanotherone/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/b0pij96qr7hd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/59g5k71vf8hd1.png)
