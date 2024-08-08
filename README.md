@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*notAnotherOne*](https://www.reddit.com/r/ProgrammerHumor/comments/1ema27g/notanotherone/)
+[*classic*](https://www.reddit.com/r/ProgrammerHumor/comments/1emkila/classic/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/59g5k71vf8hd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kkj53hyljahd1.png)
