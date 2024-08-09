@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pleaseHelpMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1emttz3/pleasehelpme/)
+[*whyAreJavaDevsScaredOfVscode*](https://www.reddit.com/r/ProgrammerHumor/comments/1engu8s/whyarejavadevsscaredofvscode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/okglkw5qichd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pg2wxpb85ihd1.png)
