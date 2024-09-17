@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*linux*](https://www.reddit.com/r/ProgrammerHumor/comments/1fithty/linux/)
+[*rmXML*](https://www.reddit.com/r/ProgrammerHumor/comments/1fim6ga/rmxml/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/h07n59lyubpd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wywk1m8dv9pd1.png)
