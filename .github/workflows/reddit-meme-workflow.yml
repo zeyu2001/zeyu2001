@@ -5,6 +5,7 @@ on:
     - cron: "0 * * * *"
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
+
 jobs:
   get-reddit-meme:
     environment: Reddit
@@ -12,19 +13,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Let the magic happen
+      - name: Setup Node
         uses: actions/setup-node@v4
+        with:
+          cache: "yarn"
 
-      - run: yarn
+      - name: Install dependencies
+        run: yarn
 
-      - run: yarn install
-
-      - run: yarn update
+      - name: Update README
+        run: yarn update
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_SECRET: ${{ secrets.REDDIT_SECRET }}
 
-      - name: Add to git repo
+      - name: Commit changes
         run: |
           git config pull.rebase false
           git pull
@@ -32,6 +35,7 @@ jobs:
           git config --global user.name "reddit-meme-bot"
           git config --global user.email "contact@zeyu2001.com"
           git commit --allow-empty -m "[Automated] README updated with new meme!"
+
       - name: Push
         uses: ad-m/github-push-action@master
         with:
