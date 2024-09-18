@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*rmXML*](https://www.reddit.com/r/ProgrammerHumor/comments/1fim6ga/rmxml/)
+[*regrettableHistoricError*](https://www.reddit.com/r/ProgrammerHumor/comments/1fiz2v9/regrettablehistoricerror/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wywk1m8dv9pd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ovhk8dqgedpd1.png)
