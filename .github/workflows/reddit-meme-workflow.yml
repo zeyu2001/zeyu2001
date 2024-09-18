@@ -2,7 +2,7 @@ name: Dynamic README injection
 on:
   schedule: # Run workflow automatically
     # This will make it run every hour
-    - cron: "0 * * * *"
+    - cron: '0 * * * *'
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 
@@ -16,7 +16,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          cache: "yarn"
+          cache: yarn
 
       - name: Install dependencies
         run: yarn

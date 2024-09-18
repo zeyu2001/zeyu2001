@@ -7,7 +7,8 @@
   "scripts": {
     "update": "ts-node ./src/index.ts",
     "lint": "eslint .",
-    "lint:fix": "eslint . --fix"
+    "lint:fix": "eslint . --fix",
+    "prepare": "husky"
   },
   "dependencies": {
     "axios": "^1.7.7",
@@ -17,6 +18,8 @@
   "devDependencies": {
     "@antfu/eslint-config": "^3.6.2",
     "@types/node": "^22.5.5",
-    "eslint": "^9.10.0"
+    "eslint": "^9.10.0",
+    "husky": "^9.1.6",
+    "lint-staged": "^15.2.10"
   }
 }

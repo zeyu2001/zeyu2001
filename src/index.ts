@@ -31,9 +31,10 @@ async function main() {
       },
     },
   )
-  const authData = authResponse.data as IAuth
 
+  const authData = authResponse.data as IAuth
   const accessToken = authData.access_token
+
   const topPostsResponse = await axios.get(
     'https://oauth.reddit.com/r/ProgrammerHumor/top/.json?t=day',
     {
@@ -44,7 +45,6 @@ async function main() {
   )
 
   const topPosts = topPostsResponse.data as IListings
-
   const posts = topPosts.data.children.map(({ data }) => data)
   const postsWithImages = posts.filter(
     ({ url }) => url.includes('.jpg') || url.includes('.png'),
