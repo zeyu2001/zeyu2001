@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*regrettableHistoricError*](https://www.reddit.com/r/ProgrammerHumor/comments/1fiz2v9/regrettablehistoricerror/)
+[*howDoICloseThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1fjr4cj/howdoiclosethis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ovhk8dqgedpd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qcopojby5kpd1.png)
