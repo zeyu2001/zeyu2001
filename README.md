@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itCanAlwaysGetWorse*](https://www.reddit.com/r/ProgrammerHumor/comments/1fjy5y8/itcanalwaysgetworse/)
+[*notABug*](https://www.reddit.com/r/ProgrammerHumor/comments/1fkfb6y/notabug/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gx08im71plpd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/waezhzd3zppd1.png)
