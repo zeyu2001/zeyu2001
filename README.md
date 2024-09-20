@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*notABug*](https://www.reddit.com/r/ProgrammerHumor/comments/1fkfb6y/notabug/)
+[*iOnlyPushOnFridays*](https://www.reddit.com/r/ProgrammerHumor/comments/1fl11a8/ionlypushonfridays/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/waezhzd3zppd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n3fjcfhaevpd1.png)
