@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iOnlyPushOnFridays*](https://www.reddit.com/r/ProgrammerHumor/comments/1fl11a8/ionlypushonfridays/)
+[*iHateMeetings*](https://www.reddit.com/r/ProgrammerHumor/comments/1fldw72/ihatemeetings/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n3fjcfhaevpd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/55sl08rg9zpd1.png)
