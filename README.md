@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*godDammit*](https://www.reddit.com/r/ProgrammerHumor/comments/1flmu7o/goddammit/)
+[*emojisInCodeFeelsWrong*](https://www.reddit.com/r/ProgrammerHumor/comments/1flyki1/emojisincodefeelswrong/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bnm8hko661qd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2ypnl2dhk4qd1.png)
