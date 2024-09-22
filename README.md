@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*yourcodeisnowEhron*](https://www.reddit.com/r/ProgrammerHumor/comments/1fm5850/yourcodeisnowehron/)
+[*iDontEvenTest*](https://www.reddit.com/r/ProgrammerHumor/comments/1fmqzq8/idonteventest/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7nx5c8k4i6qd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6fj0qn91icqd1.png)
