@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*oddlySpecificJobRequirement*](https://www.reddit.com/r/ProgrammerHumor/comments/1fmuwno/oddlyspecificjobrequirement/)
+[*whoWroteThePostgresDocs*](https://www.reddit.com/r/ProgrammerHumor/comments/1fndxb5/whowrotethepostgresdocs/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vf7lwhqrhdqd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3y7t2ey94iqd1.png)
