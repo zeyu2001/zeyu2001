@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iDontEvenTest*](https://www.reddit.com/r/ProgrammerHumor/comments/1fmqzq8/idonteventest/)
+[*oddlySpecificJobRequirement*](https://www.reddit.com/r/ProgrammerHumor/comments/1fmuwno/oddlyspecificjobrequirement/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6fj0qn91icqd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vf7lwhqrhdqd1.png)
