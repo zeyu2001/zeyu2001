@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*peopleDoItForYou*](https://www.reddit.com/r/ProgrammerHumor/comments/1fonyzo/peopledoitforyou/)
+[*andReleaseItAsIs*](https://www.reddit.com/r/ProgrammerHumor/comments/1fp1wzn/andreleaseitasis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bp7ar2c6stqd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5pvw9itjvxqd1.png)
