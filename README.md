@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whyDoesThisLibraryEvenExist*](https://www.reddit.com/r/ProgrammerHumor/comments/1fo2scv/whydoesthislibraryevenexist/)
+[*butCompilerDoItForYou*](https://www.reddit.com/r/ProgrammerHumor/comments/1fo7p4w/butcompilerdoitforyou/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tc6wsj0qaoqd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/g5d9oyawwpqd1.png)
