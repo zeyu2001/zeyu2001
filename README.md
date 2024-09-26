@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itsJustAnAmazingLanguage*](https://www.reddit.com/r/ProgrammerHumor/comments/1fp93z9/itsjustanamazinglanguage/)
+[*letsBeHonestGuys*](https://www.reddit.com/r/ProgrammerHumor/comments/1fpw27v/letsbehonestguys/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/odo4bnm8izqd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o3ecxn70n5rd1.png)
