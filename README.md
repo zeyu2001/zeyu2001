@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*andReleaseItAsIs*](https://www.reddit.com/r/ProgrammerHumor/comments/1fp1wzn/andreleaseitasis/)
+[*itsJustAnAmazingLanguage*](https://www.reddit.com/r/ProgrammerHumor/comments/1fp93z9/itsjustanamazinglanguage/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5pvw9itjvxqd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/odo4bnm8izqd1.png)
