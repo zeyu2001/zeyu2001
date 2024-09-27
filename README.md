@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*letsBeHonestGuys*](https://www.reddit.com/r/ProgrammerHumor/comments/1fpw27v/letsbehonestguys/)
+[*whereIsDocumentation*](https://www.reddit.com/r/ProgrammerHumor/comments/1fq0sib/whereisdocumentation/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o3ecxn70n5rd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gk3an3q1n6rd1.png)
