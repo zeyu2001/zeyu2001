@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*veryExpensive*](https://www.reddit.com/r/ProgrammerHumor/comments/1fr8c6g/veryexpensive/)
+[*memoryLeak*](https://www.reddit.com/r/ProgrammerHumor/comments/1frtbtf/memoryleak/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u9lx4bfzwhrd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d3wcp3yuinrd1.png)
