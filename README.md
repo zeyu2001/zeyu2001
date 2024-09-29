@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dontMakeFunOfProgrammingLanguages*](https://www.reddit.com/r/ProgrammerHumor/comments/1fs1mqs/dontmakefunofprogramminglanguages/)
+[*thoughtsOnTweetQuestionMark*](https://www.reddit.com/r/ProgrammerHumor/comments/1frqm1a/thoughtsontweetquestionmark/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wrefccjw9qrd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zu2d36n1tmrd1.png)
