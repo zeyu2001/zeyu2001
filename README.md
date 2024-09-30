@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*vCFundedForkOfAnothervCFundedForkofVSCodeFork*](https://www.reddit.com/r/ProgrammerHumor/comments/1fsatal/vcfundedforkofanothervcfundedforkofvscodefork/)
+[*cursedVariableCheck*](https://www.reddit.com/r/ProgrammerHumor/comments/1fsl378/cursedvariablecheck/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tudcnwymhsrd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ae6lzl77wurd1.png)
