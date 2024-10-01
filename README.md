@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whoAreYou*](https://www.reddit.com/r/ProgrammerHumor/comments/1ft1nft/whoareyou/)
+[*cppDevsAreGettingParanoid*](https://www.reddit.com/r/ProgrammerHumor/comments/1ftntsx/cppdevsaregettingparanoid/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c50l45t6hzrd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zfnc8p2ba5sd1.png)
