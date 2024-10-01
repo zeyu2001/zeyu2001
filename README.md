@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howLongDidItTake*](https://www.reddit.com/r/ProgrammerHumor/comments/1fsyop8/howlongdidittake/)
+[*whoAreYou*](https://www.reddit.com/r/ProgrammerHumor/comments/1ft1nft/whoareyou/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lng1hpgtvyrd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c50l45t6hzrd1.png)
