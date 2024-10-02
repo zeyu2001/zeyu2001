@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*screwLicenses*](https://www.reddit.com/r/ProgrammerHumor/comments/1fts5bw/screwlicenses/)
+[*itMeetsTheSpecs*](https://www.reddit.com/r/ProgrammerHumor/comments/1fugqgr/itmeetsthespecs/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dcf7bu4w66sd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l5z8lyc4mcsd1.png)
