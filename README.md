@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itMeetsTheSpecs*](https://www.reddit.com/r/ProgrammerHumor/comments/1fugqgr/itmeetsthespecs/)
+[*guessItNeedsToBeFixed*](https://www.reddit.com/r/ProgrammerHumor/comments/1fuwtip/guessitneedstobefixed/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l5z8lyc4mcsd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j6tyhgkz4gsd1.png)
