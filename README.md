@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iHaveAJob*](https://www.reddit.com/r/ProgrammerHumor/comments/1fvt3j2/ihaveajob/)
+[*thisHappenedAtMyCompany*](https://www.reddit.com/r/ProgrammerHumor/comments/1fw1q88/thishappenedatmycompany/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4c4kgekpsosd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xi1qrcq3brsd1.png)
