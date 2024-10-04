@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*printfForTheW*](https://www.reddit.com/r/ProgrammerHumor/comments/1fvc6eq/printfforthew/)
+[*iHaveAJob*](https://www.reddit.com/r/ProgrammerHumor/comments/1fvt3j2/ihaveajob/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gojl4yzilksd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4c4kgekpsosd1.png)
