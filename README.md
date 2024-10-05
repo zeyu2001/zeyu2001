@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisHappenedAtMyCompany*](https://www.reddit.com/r/ProgrammerHumor/comments/1fw1q88/thishappenedatmycompany/)
+[*abbreviate*](https://www.reddit.com/r/ProgrammerHumor/comments/1fwiirz/abbreviate/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xi1qrcq3brsd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jkvhdgrk9vsd1.png)
