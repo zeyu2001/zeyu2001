@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*abbreviate*](https://www.reddit.com/r/ProgrammerHumor/comments/1fwiirz/abbreviate/)
+[*somethingMayBeWrongWithMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1fwym6u/somethingmaybewrongwithme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jkvhdgrk9vsd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hiyg4qxarzsd1.png)
