@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*serverlessServers*](https://www.reddit.com/r/ProgrammerHumor/comments/1fxjwec/serverlessservers/)
+[*waitUntilSheFindsOutAboutMultiThreading*](https://www.reddit.com/r/ProgrammerHumor/comments/1fy23xa/waituntilshefindsoutaboutmultithreading/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/taqdcug0t5td1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wjaszs9xeatd1.png)
