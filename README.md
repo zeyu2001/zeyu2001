@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*waitUntilSheFindsOutAboutMultiThreading*](https://www.reddit.com/r/ProgrammerHumor/comments/1fy23xa/waituntilshefindsoutaboutmultithreading/)
+[*seniorHTMLDeveloper*](https://www.reddit.com/r/ProgrammerHumor/comments/1fycjvj/seniorhtmldeveloper/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wjaszs9xeatd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3ywmqj257dtd1.png)
