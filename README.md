@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whenDeploymentWasAFloppyDisk*](https://www.reddit.com/r/ProgrammerHumor/comments/1fysqs3/whendeploymentwasafloppydisk/)
+[*visualStudioMyBeloved*](https://www.reddit.com/r/ProgrammerHumor/comments/1fyz3bv/visualstudiomybeloved/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7ykxfftnzgtd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fzew6vnz4jtd1.png)
