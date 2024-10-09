@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*naturalOrderOfThings*](https://www.reddit.com/r/ProgrammerHumor/comments/1fzqp25/naturalorderofthings/)
+[*youUpdatedProjectReferencesCoolnowRestartYourPc*](https://www.reddit.com/r/ProgrammerHumor/comments/1fzuu7a/youupdatedprojectreferencescoolnowrestartyourpc/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j05s87rq9qtd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wpm17zrm6rtd1.png)
