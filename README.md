@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*darkModeSupremacy*](https://www.reddit.com/r/ProgrammerHumor/comments/1fz7u2l/darkmodesupremacy/)
+[*naturalOrderOfThings*](https://www.reddit.com/r/ProgrammerHumor/comments/1fzqp25/naturalorderofthings/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/i4m8ldngzktd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j05s87rq9qtd1.png)
