@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*visualStudioMyBeloved*](https://www.reddit.com/r/ProgrammerHumor/comments/1fyz3bv/visualstudiomybeloved/)
+[*darkModeSupremacy*](https://www.reddit.com/r/ProgrammerHumor/comments/1fz7u2l/darkmodesupremacy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fzew6vnz4jtd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i4m8ldngzktd1.png)
