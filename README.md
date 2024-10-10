@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*inception*](https://www.reddit.com/r/ProgrammerHumor/comments/1g0crij/inception/)
+[*pleaseGodNo*](https://www.reddit.com/r/ProgrammerHumor/comments/1g0oo16/pleasegodno/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fwdfmmrdkvtd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wj8723g6vytd1.png)
