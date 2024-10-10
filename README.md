@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youUpdatedProjectReferencesCoolnowRestartYourPc*](https://www.reddit.com/r/ProgrammerHumor/comments/1fzuu7a/youupdatedprojectreferencescoolnowrestartyourpc/)
+[*inception*](https://www.reddit.com/r/ProgrammerHumor/comments/1g0crij/inception/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wpm17zrm6rtd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fwdfmmrdkvtd1.png)
