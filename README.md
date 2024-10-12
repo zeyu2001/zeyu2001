@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theMythOfConsensualBenchmark*](https://www.reddit.com/r/ProgrammerHumor/comments/1g20nf5/themythofconsensualbenchmark/)
+[*totallyIllegalaSiTshouldBe*](https://www.reddit.com/r/ProgrammerHumor/comments/1g256p8/totallyillegalasitshouldbe/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tx1mzsrdzbud1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1m3z8iuf1dud1.png)
