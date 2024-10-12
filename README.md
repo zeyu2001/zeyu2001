@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*isThisIsWhatFeatureCreepLooksLike*](https://www.reddit.com/r/ProgrammerHumor/comments/1g1sx9j/isthisiswhatfeaturecreeplookslike/)
+[*theMythOfConsensualBenchmark*](https://www.reddit.com/r/ProgrammerHumor/comments/1g20nf5/themythofconsensualbenchmark/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n9qurqkyb9ud1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tx1mzsrdzbud1.png)
