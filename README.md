@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*switchingRoles*](https://www.reddit.com/r/ProgrammerHumor/comments/1g2lthw/switchingroles/)
+[*windoozHate*](https://www.reddit.com/r/ProgrammerHumor/comments/1g2ejpt/windoozhate/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xtijqxborhud1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x5rabnnacfud1.png)
