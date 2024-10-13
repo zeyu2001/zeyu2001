@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*totallyIllegalaSiTshouldBe*](https://www.reddit.com/r/ProgrammerHumor/comments/1g256p8/totallyillegalasitshouldbe/)
+[*switchingRoles*](https://www.reddit.com/r/ProgrammerHumor/comments/1g2lthw/switchingroles/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1m3z8iuf1dud1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xtijqxborhud1.png)
