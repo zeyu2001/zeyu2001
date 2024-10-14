@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*entryLevelJobsBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/1g2g29z/entryleveljobsbelike/)
+[*newMetaJustDropped*](https://www.reddit.com/r/ProgrammerHumor/comments/1g2sak1/newmetajustdropped/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4nhfy9kvrfud1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3h72h2htljud1.png)
