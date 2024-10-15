@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*docker*](https://www.reddit.com/r/ProgrammerHumor/comments/1g3f9ve/docker/)
+[*wereGettingPhilosophicalHere*](https://www.reddit.com/r/ProgrammerHumor/comments/1g3qvm6/weregettingphilosophicalhere/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ep5lz4lb0qud1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/g47fu1nresud1.png)
