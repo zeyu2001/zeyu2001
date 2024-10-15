@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*wereGettingPhilosophicalHere*](https://www.reddit.com/r/ProgrammerHumor/comments/1g3qvm6/weregettingphilosophicalhere/)
+[*cPlusPlusDevsAfterRetirement*](https://www.reddit.com/r/ProgrammerHumor/comments/1g49ihs/cplusplusdevsafterretirement/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/g47fu1nresud1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/noo87fg0oxud1.png)
