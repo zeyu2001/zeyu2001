@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aiEasierThanEver*](https://www.reddit.com/r/ProgrammerHumor/comments/1g4s09v/aieasierthanever/)
+[*iAmTheDanger*](https://www.reddit.com/r/ProgrammerHumor/comments/1g4wk2l/iamthedanger/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jt5r6za9y1vd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4vg2j4kym3vd1.png)
