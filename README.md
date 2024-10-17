@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justOneMorePlugin*](https://www.reddit.com/r/ProgrammerHumor/comments/1g50321/justonemoreplugin/)
+[*javaScriptIsJava*](https://www.reddit.com/r/ProgrammerHumor/comments/1g5njr9/javascriptisjava/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5ijiwuz1k4vd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/skcxj3qtkavd1.png)
