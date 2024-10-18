@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*javaScriptIsJava*](https://www.reddit.com/r/ProgrammerHumor/comments/1g5njr9/javascriptisjava/)
+[*assemblyProgrammers*](https://www.reddit.com/r/ProgrammerHumor/comments/1g5tlxh/assemblyprogrammers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/skcxj3qtkavd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7n9ayhq15cvd1.png)
