@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*mongoDbWasAMistake*](https://www.reddit.com/r/ProgrammerHumor/comments/1g6kat3/mongodbwasamistake/)
+[*itWasMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1g76f2q/itwasme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/iaocgk8p5jvd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l35cllsn2pvd1.png)
