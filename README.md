@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thickCommit*](https://www.reddit.com/r/ProgrammerHumor/comments/1g6fmfs/thickcommit/)
+[*mongoDbWasAMistake*](https://www.reddit.com/r/ProgrammerHumor/comments/1g6kat3/mongodbwasamistake/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7585qdmt0ivd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iaocgk8p5jvd1.png)
