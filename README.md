@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisShitAgain*](https://www.reddit.com/r/ProgrammerHumor/comments/1g7bj5m/thisshitagain/)
+[*spoopySeasonPresentsFullStackHell*](https://www.reddit.com/r/ProgrammerHumor/comments/1g7zy0h/spoopyseasonpresentsfullstackhell/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mx2fam7tfqvd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/g3gfnvjl8xvd1.png)
