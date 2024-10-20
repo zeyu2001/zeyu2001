@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itWasMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1g76f2q/itwasme/)
+[*thisShitAgain*](https://www.reddit.com/r/ProgrammerHumor/comments/1g7bj5m/thisshitagain/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l35cllsn2pvd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mx2fam7tfqvd1.png)
