@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*finishSideProjects*](https://www.reddit.com/r/ProgrammerHumor/comments/1g7z8ql/finishsideprojects/)
+[*sadConfusionEgoCrushed*](https://www.reddit.com/r/ProgrammerHumor/comments/1g89yrm/sadconfusionegocrushed/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u6j75v5n2xvd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cxethlvmezvd1.png)
