@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*myPoorLaptop*](https://www.reddit.com/r/ProgrammerHumor/comments/1g8fk5y/mypoorlaptop/)
+[*millionDollarClient*](https://www.reddit.com/r/ProgrammerHumor/comments/1g8kmw2/milliondollarclient/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2ur7rgvpt0wd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iejovmpui2wd1.png)
