@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*millionDollarClient*](https://www.reddit.com/r/ProgrammerHumor/comments/1g8kmw2/milliondollarclient/)
+[*fuckItWeFarm*](https://www.reddit.com/r/ProgrammerHumor/comments/1g8oacc/fuckitwefarm/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/iejovmpui2wd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2umx5emeq3wd1.png)
