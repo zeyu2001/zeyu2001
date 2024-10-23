@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whoNeedsADebugger*](https://www.reddit.com/r/ProgrammerHumor/comments/1g9u5a7/whoneedsadebugger/)
+[*programmingWithADHD*](https://www.reddit.com/r/ProgrammerHumor/comments/1g9yv5c/programmingwithadhd/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9f4xq5ugpdwd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/awbkdhf0tewd1.png)
