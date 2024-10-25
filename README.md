@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*decadesOfSecurityShamed*](https://www.reddit.com/r/ProgrammerHumor/comments/1gbiwp9/decadesofsecurityshamed/)
+[*bunny*](https://www.reddit.com/r/ProgrammerHumor/comments/1gbx1r2/bunny/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xnwwc5pm2twd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8oakxc4o8xwd1.png)
