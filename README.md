@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itIsJustBetterLikeThat*](https://www.reddit.com/r/ProgrammerHumor/comments/1gax074/itisjustbetterlikethat/)
+[*bestPartOfTheInterview*](https://www.reddit.com/r/ProgrammerHumor/comments/1gb9jru/bestpartoftheinterview/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vwa9wxyapnwd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/71ahp0dnxqwd1.png)
