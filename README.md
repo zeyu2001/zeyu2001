@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*bunny*](https://www.reddit.com/r/ProgrammerHumor/comments/1gbx1r2/bunny/)
+[*thirdPartyCookieFromOven*](https://www.reddit.com/r/ProgrammerHumor/comments/1gbybhp/thirdpartycookiefromoven/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8oakxc4o8xwd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9hq8i1n2ixwd1.png)
