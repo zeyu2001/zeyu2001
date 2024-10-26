@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thirdPartyCookieFromOven*](https://www.reddit.com/r/ProgrammerHumor/comments/1gbybhp/thirdpartycookiefromoven/)
+[*consoleLog*](https://www.reddit.com/r/ProgrammerHumor/comments/1gcfxvc/consolelog/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9hq8i1n2ixwd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c5h6opqp22xd1.png)
