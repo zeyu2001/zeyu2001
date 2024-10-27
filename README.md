@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pasteInBrowser*](https://www.reddit.com/r/ProgrammerHumor/comments/1gcrdfd/pasteinbrowser/)
+[*youDontNeedTheMouse*](https://www.reddit.com/r/ProgrammerHumor/comments/1gcpak4/youdontneedthemouse/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u8x97shh75xd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i292d6klq4xd1.png)
