@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*consoleLog*](https://www.reddit.com/r/ProgrammerHumor/comments/1gcfxvc/consolelog/)
+[*pasteInBrowser*](https://www.reddit.com/r/ProgrammerHumor/comments/1gcrdfd/pasteinbrowser/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c5h6opqp22xd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/u8x97shh75xd1.png)
