@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youDontNeedTheMouse*](https://www.reddit.com/r/ProgrammerHumor/comments/1gcpak4/youdontneedthemouse/)
+[*scrumMastersGuideToTech*](https://www.reddit.com/r/ProgrammerHumor/comments/1gd81hu/scrummastersguidetotech/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/i292d6klq4xd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wy17bgvm0axd1.png)
