@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aDifferentTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1gd9idg/adifferenttime/)
+[*knowledgeTransfer*](https://www.reddit.com/r/ProgrammerHumor/comments/1gdvw3i/knowledgetransfer/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rocvkr45iaxd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/btj18vn42gxd1.png)
