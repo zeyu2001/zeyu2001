@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*scrumMastersGuideToTech*](https://www.reddit.com/r/ProgrammerHumor/comments/1gd81hu/scrummastersguidetotech/)
+[*aDifferentTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1gd9idg/adifferenttime/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wy17bgvm0axd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rocvkr45iaxd1.png)
