@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*knowledgeTransfer*](https://www.reddit.com/r/ProgrammerHumor/comments/1gdvw3i/knowledgetransfer/)
+[*lastOption*](https://www.reddit.com/r/ProgrammerHumor/comments/1gealjl/lastoption/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/btj18vn42gxd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l4zvv9prrjxd1.png)
