@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lastOption*](https://www.reddit.com/r/ProgrammerHumor/comments/1gealjl/lastoption/)
+[*fullStackCCS*](https://www.reddit.com/r/ProgrammerHumor/comments/1gf26c0/fullstackccs/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l4zvv9prrjxd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3z8ixk4xqqxd1.png)
