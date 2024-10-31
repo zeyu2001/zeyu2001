@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iAmSpeed*](https://www.reddit.com/r/ProgrammerHumor/comments/1gfwc7q/iamspeed/)
+[*badSoftwareGoodSex*](https://www.reddit.com/r/ProgrammerHumor/comments/1gg67p4/badsoftwaregoodsex/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pqioo1x3dyxd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/801x50zap0yd1.png)
