@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*myCoworkersWonderWhyIWontWorkOnTheBackend*](https://www.reddit.com/r/ProgrammerHumor/comments/1ggphvj/mycoworkerswonderwhyiwontworkonthebackend/)
+[*lgtm*](https://www.reddit.com/r/ProgrammerHumor/comments/1ggqdou/lgtm/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u5fl51o0t5yd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ilhv9rf906yd1.png)
