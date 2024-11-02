@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*clientClientClient*](https://www.reddit.com/r/ProgrammerHumor/comments/1ghhj5i/clientclientclient/)
+[*optimizeForDeveloperTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1ghw02g/optimizefordevelopertime/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mps0cbwm7dyd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3zhz2dq5lhyd1.png)
