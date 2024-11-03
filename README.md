@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*optimizeForDeveloperTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1ghw02g/optimizefordevelopertime/)
+[*javascriptcoke*](https://www.reddit.com/r/ProgrammerHumor/comments/1giajhl/javascriptcoke/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3zhz2dq5lhyd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3hvrv992ykyd1.png)
