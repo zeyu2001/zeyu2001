@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisIsMyLifeNow*](https://www.reddit.com/r/ProgrammerHumor/comments/1gil65e/thisismylifenow/)
+[*theCodeIsTestingMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1gin086/thecodeistestingme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/aeh9bch1eoyd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yooqxtc7woyd1.png)
