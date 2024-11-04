@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*someoneSaveMeFromDevOps*](https://www.reddit.com/r/ProgrammerHumor/comments/1givuls/someonesavemefromdevops/)
+[*meEverySingleDay*](https://www.reddit.com/r/ProgrammerHumor/comments/1gjepj2/meeverysingleday/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gc481kectqyd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mub7d3tt3wyd1.png)
