@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*andItIsOnlyMonday*](https://www.reddit.com/r/ProgrammerHumor/comments/1gjkjy0/anditisonlymonday/)
+[*sameSameButDifferent*](https://www.reddit.com/r/ProgrammerHumor/comments/1gjzc4p/samesamebutdifferent/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/usfrn143axyd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z3532150o0zd1.png)
