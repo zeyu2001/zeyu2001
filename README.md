@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisIsNeverAGoodSign*](https://www.reddit.com/r/ProgrammerHumor/comments/1gkibh6/thisisneveragoodsign/)
+[*githubFollower*](https://www.reddit.com/r/ProgrammerHumor/comments/1gkzzi3/githubfollower/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q40oywdml5zd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xhe7hon2mazd1.png)
