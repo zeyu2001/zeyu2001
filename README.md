@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*watchMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1gllwow/watchme/)
+[*yesButTheCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1glpzjr/yesbutthecode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4nzz44qdxfzd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tkvbctyeahzd1.png)
