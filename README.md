@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*githubFollower*](https://www.reddit.com/r/ProgrammerHumor/comments/1gkzzi3/githubfollower/)
+[*watchMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1gllwow/watchme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xhe7hon2mazd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4nzz44qdxfzd1.png)
