@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iHateWhenItHappens*](https://www.reddit.com/r/ProgrammerHumor/comments/1gm1l68/ihatewhenithappens/)
+[*deleteCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1gmgrm6/deletecode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n5a67li8rjzd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qf8x2v6c2ozd1.png)
