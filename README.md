@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*deleteCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1gmgrm6/deletecode/)
+[*iPreferProgrammingInRunicScripture*](https://www.reddit.com/r/ProgrammerHumor/comments/1gmxqso/ipreferprogramminginrunicscripture/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qf8x2v6c2ozd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/de4x7q7gurzd1.png)
