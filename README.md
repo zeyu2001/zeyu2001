@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iPreferProgrammingInRunicScripture*](https://www.reddit.com/r/ProgrammerHumor/comments/1gmxqso/ipreferprogramminginrunicscripture/)
+[*iAmSpeed*](https://www.reddit.com/r/ProgrammerHumor/comments/1gn8pwz/iamspeed/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/de4x7q7gurzd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/70vdmzs3avzd1.png)
