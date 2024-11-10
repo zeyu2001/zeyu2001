@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whichCompiler*](https://www.reddit.com/r/ProgrammerHumor/comments/1gngct4/whichcompiler/)
+[*whenYouRefactorYourCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1gntm64/whenyourefactoryourcode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ach8e9wf4xzd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p5mqs3ixf00e1.png)
