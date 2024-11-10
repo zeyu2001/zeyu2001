@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iAmSpeed*](https://www.reddit.com/r/ProgrammerHumor/comments/1gn8pwz/iamspeed/)
+[*daysBeforeAndAfter*](https://www.reddit.com/r/ProgrammerHumor/comments/1gnctzq/daysbeforeandafter/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/70vdmzs3avzd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9us56bc4cwzd1.png)
