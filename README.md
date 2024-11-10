@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*forgettingCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1gnhu1y/forgettingcode/)
+[*whichCompiler*](https://www.reddit.com/r/ProgrammerHumor/comments/1gngct4/whichcompiler/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gxoyupqegxzd1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ach8e9wf4xzd1.png)
