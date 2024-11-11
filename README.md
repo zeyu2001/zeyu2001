@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whyDoMyCredentialsNoLongerWork*](https://www.reddit.com/r/ProgrammerHumor/comments/1go8o6q/whydomycredentialsnolongerwork/)
+[*normalPeopleVsProgrammers*](https://www.reddit.com/r/ProgrammerHumor/comments/1gopvi3/normalpeoplevsprogrammers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mm2lfaval40e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y5sxqoc5a90e1.png)
