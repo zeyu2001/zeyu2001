@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*normalPeopleVsProgrammers*](https://www.reddit.com/r/ProgrammerHumor/comments/1gopvi3/normalpeoplevsprogrammers/)
+[*averageCProgrammer*](https://www.reddit.com/r/ProgrammerHumor/comments/1gp5l0i/averagecprogrammer/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y5sxqoc5a90e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1v4zha7dpc0e1.png)
