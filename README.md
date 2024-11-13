@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howDoYouDoComments*](https://www.reddit.com/r/ProgrammerHumor/comments/1gpzn30/howdoyoudocomments/)
+[*iGuessThisMeansImHot*](https://www.reddit.com/r/ProgrammerHumor/comments/1gq5uhw/iguessthismeansimhot/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/goyvmi1u8k0e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v09m46xpul0e1.png)
