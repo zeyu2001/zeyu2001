@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*programmerMindset*](https://www.reddit.com/r/ProgrammerHumor/comments/1gpmu2f/programmermindset/)
+[*howDoYouDoComments*](https://www.reddit.com/r/ProgrammerHumor/comments/1gpzn30/howdoyoudocomments/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2qrow4ttkh0e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/goyvmi1u8k0e1.png)
