@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*notEasyToFindThatManyPeople*](https://www.reddit.com/r/ProgrammerHumor/comments/1grvkfk/noteasytofindthatmanypeople/)
+[*goGenerics*](https://www.reddit.com/r/ProgrammerHumor/comments/1grry0s/gogenerics/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xlm4r047a21e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zfn83xp8111e1.png)
