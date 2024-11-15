@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*bugs*](https://www.reddit.com/r/ProgrammerHumor/comments/1gqs871/bugs/)
+[*whatDidIDoWrong*](https://www.reddit.com/r/ProgrammerHumor/comments/1gramd3/whatdididowrong/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x0rkmleeir0e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0uhuf9n8nw0e1.png)
