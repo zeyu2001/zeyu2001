@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*goGenerics*](https://www.reddit.com/r/ProgrammerHumor/comments/1grry0s/gogenerics/)
+[*noOtherFunction*](https://www.reddit.com/r/ProgrammerHumor/comments/1gs2442/nootherfunction/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zfn83xp8111e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0ljd9mztr31e1.png)
