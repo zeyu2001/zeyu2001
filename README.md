@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*noOffence*](https://www.reddit.com/r/ProgrammerHumor/comments/1gsvf35/nooffence/)
+[*theyKnowTooMuch*](https://www.reddit.com/r/ProgrammerHumor/comments/1gtcg1x/theyknowtoomuch/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5yhflltpib1e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/g4k9mk55gg1e1.png)
