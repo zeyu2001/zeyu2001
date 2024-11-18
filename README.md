@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*topTierResume*](https://www.reddit.com/r/ProgrammerHumor/comments/1gteehx/toptierresume/)
+[*checkMateDevelopers*](https://www.reddit.com/r/ProgrammerHumor/comments/1gu0yu7/checkmatedevelopers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/z74zil2fzg1e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mptczm16pm1e1.png)
