@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*imLiterallyCryingRightNow*](https://www.reddit.com/r/ProgrammerHumor/comments/1guhjtl/imliterallycryingrightnow/)
+[*iLoveCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1gv0f1b/ilovecoding/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/99n9ic1okq1e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/che3g7aprv1e1.png)
