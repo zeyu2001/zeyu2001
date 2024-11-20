@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*quackOverflow*](https://www.reddit.com/r/ProgrammerHumor/comments/1gvbt6d/quackoverflow/)
+[*youWouldNotGetIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1gvse6a/youwouldnotgetit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jxmlatao3y1e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zwkgprett22e1.png)
