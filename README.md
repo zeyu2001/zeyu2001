@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youWouldNotGetIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1gvse6a/youwouldnotgetit/)
+[*hetznerFTW*](https://www.reddit.com/r/ProgrammerHumor/comments/1gvm25v/hetznerftw/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zwkgprett22e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hxkmmexf412e1.png)
