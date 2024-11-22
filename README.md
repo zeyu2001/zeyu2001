@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*isThisRight*](https://www.reddit.com/r/ProgrammerHumor/comments/1gx6og8/isthisright/)
+[*learnGitRebasePlease*](https://www.reddit.com/r/ProgrammerHumor/comments/1gwxm4m/learngitrebaseplease/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ryec6kc95g2e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4edhfopu8d2e1.png)
