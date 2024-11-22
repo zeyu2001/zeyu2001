@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iSendThisInMyCompanysMainGroupLOL*](https://www.reddit.com/r/ProgrammerHumor/comments/1gwnlhe/isendthisinmycompanysmaingrouplol/)
+[*isThisRight*](https://www.reddit.com/r/ProgrammerHumor/comments/1gx6og8/isthisright/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4qw75qbt0b2e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ryec6kc95g2e1.png)
