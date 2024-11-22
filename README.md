@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gotoCommand*](https://www.reddit.com/r/ProgrammerHumor/comments/1gwefhy/gotocommand/)
+[*iSendThisInMyCompanysMainGroupLOL*](https://www.reddit.com/r/ProgrammerHumor/comments/1gwnlhe/isendthisinmycompanysmaingrouplol/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zxpqj8tht82e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4qw75qbt0b2e1.png)
