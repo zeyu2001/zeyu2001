@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1gy3btt/thecode/)
+[*devInternAndJuniorTester*](https://www.reddit.com/r/ProgrammerHumor/comments/1gxy983/devinternandjuniortester/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/a9srylpnfo2e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m5g47tx07n2e1.png)
