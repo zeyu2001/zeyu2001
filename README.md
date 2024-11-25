@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iHopeGuySafe*](https://www.reddit.com/r/ProgrammerHumor/comments/1gyfrvy/ihopeguysafe/)
+[*realityVsLogic*](https://www.reddit.com/r/ProgrammerHumor/comments/1gyq7j0/realityvslogic/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pu43s0r08r2e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/103h01rniu2e1.png)
