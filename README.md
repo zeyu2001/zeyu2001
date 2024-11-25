@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*realityVsLogic*](https://www.reddit.com/r/ProgrammerHumor/comments/1gyq7j0/realityvslogic/)
+[*stopThisCamelCaseAgenda*](https://www.reddit.com/r/ProgrammerHumor/comments/1gyxr3k/stopthiscamelcaseagenda/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/103h01rniu2e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x4z3ac327w2e1.png)
