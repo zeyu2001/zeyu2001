@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatYouDoForaLiving*](https://www.reddit.com/r/ProgrammerHumor/comments/1gzt2vf/whatyoudoforaliving/)
+[*thisReallyHappened*](https://www.reddit.com/r/ProgrammerHumor/comments/1gzxzdh/thisreallyhappened/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mcr4a0jny33e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/63zwro4vy43e1.png)
