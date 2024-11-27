@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*publicServiceAnnouncement*](https://www.reddit.com/r/ProgrammerHumor/comments/1h0k400/publicserviceannouncement/)
+[*issueOfSkill*](https://www.reddit.com/r/ProgrammerHumor/comments/1h0v03t/issueofskill/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4jm5xe4hpa3e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tgvx1qs66d3e1.png)
