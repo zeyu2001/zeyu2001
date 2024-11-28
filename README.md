@@ -25,6 +25,7 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*creepyCrawlers*](https://www.reddit.com/r/ProgrammerHumor/comments/1h1vdf9/creepycrawlers/)
+[*tryAskingAdoctorifTheyKnowAboutillnesS
+*](https://www.reddit.com/r/ProgrammerHumor/comments/1h1xxfq/tryaskingadoctoriftheyknowaboutillness/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0aoeii9t3n3e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9ffrqk7zqn3e1.png)
