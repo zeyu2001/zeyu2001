@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*deleteThisUnholyLine*](https://www.reddit.com/r/ProgrammerHumor/comments/1h2fbh4/deletethisunholyline/)
+[*programmersWhilePlayingGames*](https://www.reddit.com/r/ProgrammerHumor/comments/1h2l70j/programmerswhileplayinggames/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6hnzl0o48s3e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5pwgin2l8u3e1.png)
