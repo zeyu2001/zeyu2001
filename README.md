@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*butIsItScalable*](https://www.reddit.com/r/ProgrammerHumor/comments/1h493r6/butisitscalable/)
+[*bestTypeSystem*](https://www.reddit.com/r/ProgrammerHumor/comments/1h4dmj8/besttypesystem/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nk847czd0a4e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qfg3tozjya4e1.png)
