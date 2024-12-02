@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*hOWTOCENTERADIV*](https://www.reddit.com/r/ProgrammerHumor/comments/1h44zx2/howtocenteradiv/)
+[*butIsItScalable*](https://www.reddit.com/r/ProgrammerHumor/comments/1h493r6/butisitscalable/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bmxhj7y0494e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nk847czd0a4e1.png)
