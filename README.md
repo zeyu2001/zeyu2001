@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*arrayStartsAtOne*](https://www.reddit.com/r/ProgrammerHumor/comments/1h4xxl6/arraystartsatone/)
+[*programmersLife*](https://www.reddit.com/r/ProgrammerHumor/comments/1h5kmww/programmerslife/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hl1t7c1uhg4e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0ur0o2574m4e1.png)
