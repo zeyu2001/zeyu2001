@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*programmersLife*](https://www.reddit.com/r/ProgrammerHumor/comments/1h5kmww/programmerslife/)
+[*dataBank*](https://www.reddit.com/r/ProgrammerHumor/comments/1h5yon6/databank/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0ur0o2574m4e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fomy4yvhbp4e1.png)
