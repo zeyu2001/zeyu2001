@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itFell*](https://www.reddit.com/r/ProgrammerHumor/comments/1h6sxbk/itfell/)
+[*itsAllAboutCreatingGenerationalWealth*](https://www.reddit.com/r/ProgrammerHumor/comments/1h79040/itsallaboutcreatinggenerationalwealth/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cdhtzkpcpw4e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/16rbhcrc615e1.png)
