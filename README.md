@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itsAllAboutCreatingGenerationalWealth*](https://www.reddit.com/r/ProgrammerHumor/comments/1h79040/itsallaboutcreatinggenerationalwealth/)
+[*whichProgrammingLanguageDidYouLearnFirst*](https://www.reddit.com/r/ProgrammerHumor/comments/1h78oql/whichprogramminglanguagedidyoulearnfirst/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/16rbhcrc615e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vjrplmdd315e1.png)
