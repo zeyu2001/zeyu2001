@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whichProgrammingLanguageDidYouLearnFirst*](https://www.reddit.com/r/ProgrammerHumor/comments/1h78oql/whichprogramminglanguagedidyoulearnfirst/)
+[*robots*](https://www.reddit.com/r/ProgrammerHumor/comments/1h77y2u/robots/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vjrplmdd315e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9v5r9eh2w05e1.png)
