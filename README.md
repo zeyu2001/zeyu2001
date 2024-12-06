@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*wouldntThisBeBetterWithAi*](https://www.reddit.com/r/ProgrammerHumor/comments/1h7gyzc/wouldntthisbebetterwithai/)
+[*findTheBug*](https://www.reddit.com/r/ProgrammerHumor/comments/1h801n3/findthebug/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1rpz09itv25e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qekrf5lrz75e1.png)
