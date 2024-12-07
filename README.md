@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theFundamentalProblemWithThisIndustry*](https://www.reddit.com/r/ProgrammerHumor/comments/1h84ztb/thefundamentalproblemwiththisindustry/)
+[*andIWriteGarbageProfessionally*](https://www.reddit.com/r/ProgrammerHumor/comments/1h8cvpw/andiwritegarbageprofessionally/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mmfxm7ps695e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ssptbvfcva5e1.png)
