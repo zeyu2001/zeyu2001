@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*andIWriteGarbageProfessionally*](https://www.reddit.com/r/ProgrammerHumor/comments/1h8cvpw/andiwritegarbageprofessionally/)
+[*aWiseCowOnceSaid*](https://www.reddit.com/r/ProgrammerHumor/comments/1h8nc9y/awisecowoncesaid/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ssptbvfcva5e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/u0ymx2ndpd5e1.png)
