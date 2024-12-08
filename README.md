@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dontBeStuckInThePast*](https://www.reddit.com/r/ProgrammerHumor/comments/1h8xe41/dontbestuckinthepast/)
+[*idkIsThirteen*](https://www.reddit.com/r/ProgrammerHumor/comments/1h9eyyr/idkisthirteen/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x10sf0w2mg5e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3e9js7a9cl5e1.png)
