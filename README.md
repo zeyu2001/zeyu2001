@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aWiseCowOnceSaid*](https://www.reddit.com/r/ProgrammerHumor/comments/1h8nc9y/awisecowoncesaid/)
+[*dontBeStuckInThePast*](https://www.reddit.com/r/ProgrammerHumor/comments/1h8xe41/dontbestuckinthepast/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u0ymx2ndpd5e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x10sf0w2mg5e1.png)
