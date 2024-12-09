@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dontFallOnThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1ha5qfr/dontfallonthis/)
+[*githubEncouragesViolence*](https://www.reddit.com/r/ProgrammerHumor/comments/1hajgg0/githubencouragesviolence/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qywa57mcgs5e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/u7v81em5uv5e1.png)
