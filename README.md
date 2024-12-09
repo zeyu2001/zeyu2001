@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*idkIsThirteen*](https://www.reddit.com/r/ProgrammerHumor/comments/1h9eyyr/idkisthirteen/)
+[*globalVariableIsLaughing*](https://www.reddit.com/r/ProgrammerHumor/comments/1h9qvux/globalvariableislaughing/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3e9js7a9cl5e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9h5uww9zgo5e1.png)
