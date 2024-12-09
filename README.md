@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*globalVariableIsLaughing*](https://www.reddit.com/r/ProgrammerHumor/comments/1h9qvux/globalvariableislaughing/)
+[*dontFallOnThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1ha5qfr/dontfallonthis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9h5uww9zgo5e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qywa57mcgs5e1.png)
