@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*luigiDidNotCommitMurder*](https://www.reddit.com/r/ProgrammerHumor/comments/1haxkz1/luigididnotcommitmurder/)
+[*stupidIsAsStupidDoes*](https://www.reddit.com/r/ProgrammerHumor/comments/1hbju8e/stupidisasstupiddoes/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/h0pd7t8qiz5e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tjhmc355x46e1.png)
