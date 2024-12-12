@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whyShouldWeHireSoftwareEngineers*](https://www.reddit.com/r/ProgrammerHumor/comments/1hbu9mn/whyshouldwehiresoftwareengineers/)
+[*youWontUpgradeToJava19*](https://www.reddit.com/r/ProgrammerHumor/comments/1hckvb7/youwontupgradetojava19/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3genviak886e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/to594lh44f6e1.png)
