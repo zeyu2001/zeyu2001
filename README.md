@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*stupidIsAsStupidDoes*](https://www.reddit.com/r/ProgrammerHumor/comments/1hbju8e/stupidisasstupiddoes/)
+[*whyShouldWeHireSoftwareEngineers*](https://www.reddit.com/r/ProgrammerHumor/comments/1hbu9mn/whyshouldwehiresoftwareengineers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tjhmc355x46e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3genviak886e1.png)
