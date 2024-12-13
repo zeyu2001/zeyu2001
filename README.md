@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youWontUpgradeToJava19*](https://www.reddit.com/r/ProgrammerHumor/comments/1hckvb7/youwontupgradetojava19/)
+[*perfectlyMakesSense*](https://www.reddit.com/r/ProgrammerHumor/comments/1hdb3k7/perfectlymakessense/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/to594lh44f6e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p0r9jeoqzl6e1.png)
