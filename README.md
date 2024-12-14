@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sheNeedsToKnowHowToCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1hdnst5/sheneedstoknowhowtocode/)
+[*itsNotCrashingSoImStillUsingIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1he8zo8/itsnotcrashingsoimstillusingit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yhuvfytqwo6e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/whbdj1twwu6e1.png)
