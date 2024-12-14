@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*perfectlyMakesSense*](https://www.reddit.com/r/ProgrammerHumor/comments/1hdb3k7/perfectlymakessense/)
+[*doINeedProfessionalCounselling*](https://www.reddit.com/r/ProgrammerHumor/comments/1hdiiz7/doineedprofessionalcounselling/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p0r9jeoqzl6e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ku3jlr14qn6e1.png)
