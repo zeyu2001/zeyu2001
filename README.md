@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itsNotCrashingSoImStillUsingIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1he8zo8/itsnotcrashingsoimstillusingit/)
+[*iKnowIKnowLifeIsUnfair*](https://www.reddit.com/r/ProgrammerHumor/comments/1heinyx/iknowiknowlifeisunfair/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/whbdj1twwu6e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/od84483i8x6e1.png)
