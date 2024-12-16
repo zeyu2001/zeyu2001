@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*smellyNerds*](https://www.reddit.com/r/ProgrammerHumor/comments/1hesc93/smellynerds/)
+[*githubCopilotIsWild*](https://www.reddit.com/r/ProgrammerHumor/comments/1hfb2cv/githubcopilotiswild/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ozsb2lwmi07e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rgiljj8q057e1.png)
