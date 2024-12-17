@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theyToldMeTauriWasTheFuture*](https://www.reddit.com/r/ProgrammerHumor/comments/1hfkmbm/theytoldmetauriwasthefuture/)
+[*lookWhatTheyTookFromUs*](https://www.reddit.com/r/ProgrammerHumor/comments/1hg5evl/lookwhattheytookfromus/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6g4b1vw9387e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/t90ag1iw1d7e1.png)
