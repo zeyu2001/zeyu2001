@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*guessImABoomer*](https://www.reddit.com/r/ProgrammerHumor/comments/1hg6c6d/guessimaboomer/)
+[*theyToldMeTauriWasTheFuture*](https://www.reddit.com/r/ProgrammerHumor/comments/1hfkmbm/theytoldmetauriwasthefuture/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/664skh0kdd7e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6g4b1vw9387e1.png)
