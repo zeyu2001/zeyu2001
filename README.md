@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*githubCopilotIsWild*](https://www.reddit.com/r/ProgrammerHumor/comments/1hfb2cv/githubcopilotiswild/)
+[*howToKillYourTalentPoolInOnePost*](https://www.reddit.com/r/ProgrammerHumor/comments/1hfmkpw/howtokillyourtalentpoolinonepost/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rgiljj8q057e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mlozqc5yi87e1.png)
