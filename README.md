@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*meowthodNotAllowed*](https://www.reddit.com/r/ProgrammerHumor/comments/1hfo8eb/meowthodnotallowed/)
+[*call911please*](https://www.reddit.com/r/ProgrammerHumor/comments/1hgcvx3/call911please/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3vmvrlwtv87e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3xf2quiref7e1.png)
