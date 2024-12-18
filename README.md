@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*weAllHateThem*](https://www.reddit.com/r/ProgrammerHumor/comments/1hglwn3/weallhatethem/)
+[*whatMatters*](https://www.reddit.com/r/ProgrammerHumor/comments/1hh6g00/whatmatters/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/v07f7v30dh7e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gdygc90g4n7e1.png)
