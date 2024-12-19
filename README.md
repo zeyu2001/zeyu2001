@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*stopSellinWeAlreadyBoughtIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1hh9t31/stopsellinwealreadyboughtit/)
+[*tooRelatable*](https://www.reddit.com/r/ProgrammerHumor/comments/1hhll7n/toorelatable/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/92vcau31un7e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/849v4dmqoq7e1.png)
