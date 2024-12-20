@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dependsOnTheContext*](https://www.reddit.com/r/ProgrammerHumor/comments/1hhx487/dependsonthecontext/)
+[*iPreferDialUpNoisesAnyway*](https://www.reddit.com/r/ProgrammerHumor/comments/1hikm1l/ipreferdialupnoisesanyway/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p6dtryzx3u7e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bknpe5xbh08e1.png)
