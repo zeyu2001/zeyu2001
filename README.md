@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*tooRelatable*](https://www.reddit.com/r/ProgrammerHumor/comments/1hhll7n/toorelatable/)
+[*dependsOnTheContext*](https://www.reddit.com/r/ProgrammerHumor/comments/1hhx487/dependsonthecontext/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/849v4dmqoq7e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p6dtryzx3u7e1.png)
