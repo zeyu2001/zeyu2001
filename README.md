@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justGotAcceptedIntoMcFAANG*](https://www.reddit.com/r/ProgrammerHumor/comments/1hix0pz/justgotacceptedintomcfaang/)
+[*whyDontTheyJustUseDevinAreTheyStupid*](https://www.reddit.com/r/ProgrammerHumor/comments/1hj5x5l/whydonttheyjustusedevinaretheystupid/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1wr97a4va38e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6fwmumfm068e1.png)
