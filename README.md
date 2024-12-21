@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iPreferDialUpNoisesAnyway*](https://www.reddit.com/r/ProgrammerHumor/comments/1hikm1l/ipreferdialupnoisesanyway/)
+[*meAfter2WeeksOfWFH*](https://www.reddit.com/r/ProgrammerHumor/comments/1hibgl8/meafter2weeksofwfh/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bknpe5xbh08e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/krh56ue7hx7e1.png)
