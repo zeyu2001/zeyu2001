@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*meAfter2WeeksOfWFH*](https://www.reddit.com/r/ProgrammerHumor/comments/1hibgl8/meafter2weeksofwfh/)
+[*justGotAcceptedIntoMcFAANG*](https://www.reddit.com/r/ProgrammerHumor/comments/1hix0pz/justgotacceptedintomcfaang/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/krh56ue7hx7e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1wr97a4va38e1.png)
