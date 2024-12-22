@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*literalPsychopath*](https://www.reddit.com/r/ProgrammerHumor/comments/1hjezpi/literalpsychopath/)
+[*coupleBytes*](https://www.reddit.com/r/ProgrammerHumor/comments/1hju4b4/couplebytes/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/v4d3wgyko88e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l1pvmqzgwc8e1.png)
