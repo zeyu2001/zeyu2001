@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*coupleBytes*](https://www.reddit.com/r/ProgrammerHumor/comments/1hju4b4/couplebytes/)
+[*yes*](https://www.reddit.com/r/ProgrammerHumor/comments/1hk20ch/yes/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l1pvmqzgwc8e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gd6dig1ggf8e1.png)
