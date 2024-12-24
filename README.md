@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justNvm*](https://www.reddit.com/r/ProgrammerHumor/comments/1hkvwk8/justnvm/)
+[*incomingPersonalAttack*](https://www.reddit.com/r/ProgrammerHumor/comments/1hlj5rn/incomingpersonalattack/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/chbju9zaln8e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hqq9285u7u8e1.png)
