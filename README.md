@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*htmlIsTooLowLevel*](https://www.reddit.com/r/ProgrammerHumor/comments/1hm6d4l/htmlistoolowlevel/)
+[*santasListFinal3DotTxt*](https://www.reddit.com/r/ProgrammerHumor/comments/1hmgq2u/santaslistfinal3dottxt/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/d4edincli19e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vvnp0wjsd49e1.png)
