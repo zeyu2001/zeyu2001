@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whenYourLaptopDies*](https://www.reddit.com/r/ProgrammerHumor/comments/1hmqqkj/whenyourlaptopdies/)
+[*superiorToBeHonest*](https://www.reddit.com/r/ProgrammerHumor/comments/1hnc5lf/superiortobehonest/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/a13eh6bnp79e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/slj01x35cd9e1.png)
