@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*santasListFinal3DotTxt*](https://www.reddit.com/r/ProgrammerHumor/comments/1hmgq2u/santaslistfinal3dottxt/)
+[*gitClean*](https://www.reddit.com/r/ProgrammerHumor/comments/1hn2c9a/gitclean/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vvnp0wjsd49e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6lezud8oca9e1.png)
