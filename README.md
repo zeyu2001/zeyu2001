@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*explainMeTheDeadlock*](https://www.reddit.com/r/ProgrammerHumor/comments/1ho9ksk/explainmethedeadlock/)
+[*youGuysActuallyHaveThisProblemQuestionMark*](https://www.reddit.com/r/ProgrammerHumor/comments/1hourp6/youguysactuallyhavethisproblemquestionmark/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qyfr4n3bcm9e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/htmt50kg3s9e1.png)
