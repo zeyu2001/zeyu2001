@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aiHaveRights*](https://www.reddit.com/r/ProgrammerHumor/comments/1hp5nap/aihaverights/)
+[*programmingCommunism*](https://www.reddit.com/r/ProgrammerHumor/comments/1hpihg0/programmingcommunism/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lj34ncexpu9e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/al37l57h1y9e1.png)
