@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youGuysActuallyHaveThisProblemQuestionMark*](https://www.reddit.com/r/ProgrammerHumor/comments/1hourp6/youguysactuallyhavethisproblemquestionmark/)
+[*aiHaveRights*](https://www.reddit.com/r/ProgrammerHumor/comments/1hp5nap/aihaverights/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/htmt50kg3s9e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lj34ncexpu9e1.png)
