@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*programmingCommunism*](https://www.reddit.com/r/ProgrammerHumor/comments/1hpihg0/programmingcommunism/)
+[*returnTrue*](https://www.reddit.com/r/ProgrammerHumor/comments/1hpony2/returntrue/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/al37l57h1y9e1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/w5np3ik400ae1.png)
