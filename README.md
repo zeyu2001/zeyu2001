@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*returnTrue*](https://www.reddit.com/r/ProgrammerHumor/comments/1hpony2/returntrue/)
+[*theTwoWolvesInsideMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1hpxgyg/thetwowolvesinsideme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/w5np3ik400ae1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/q3rukub3w1ae1.png)
