@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*mythOfConsensualInterwebz*](https://www.reddit.com/r/ProgrammerHumor/comments/1hqbu4e/mythofconsensualinterwebz/)
+[*vanillaJavascriptIsDeprecated*](https://www.reddit.com/r/ProgrammerHumor/comments/1hqnhwc/vanillajavascriptisdeprecated/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9undfffps5ae1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xkz9x2rbv8ae1.png)
