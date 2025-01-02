@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lgtm*](https://www.reddit.com/r/ProgrammerHumor/comments/1hrusao/lgtm/)
+[*softwareEngineeringCareer*](https://www.reddit.com/r/ProgrammerHumor/comments/1hrxbxh/softwareengineeringcareer/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3bqmc558blae1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rjxg9a5dvlae1.png)
