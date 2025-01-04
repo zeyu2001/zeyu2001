@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itsNotAFactoryItsAChurch*](https://www.reddit.com/r/ProgrammerHumor/comments/1hskqpk/itsnotafactoryitsachurch/)
+[*lowStressJobs*](https://www.reddit.com/r/ProgrammerHumor/comments/1ht4ep3/lowstressjobs/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y61i52dcorae1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0wa9nui24wae1.png)
