@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*okFineDadItsWeedJs*](https://www.reddit.com/r/ProgrammerHumor/comments/1huf7tt/okfinedaditsweedjs/)
+[*soDamnFar*](https://www.reddit.com/r/ProgrammerHumor/comments/1humhp1/sodamnfar/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4gggvldba8be1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pspsdpk1u9be1.png)
