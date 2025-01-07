@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*plus*](https://www.reddit.com/r/ProgrammerHumor/comments/1hv5w64/plus/)
+[*mutuallyHateEachOther*](https://www.reddit.com/r/ProgrammerHumor/comments/1hvbl8d/mutuallyhateeachother/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/w9r751172fbe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/409bxkvf7gbe1.png)
