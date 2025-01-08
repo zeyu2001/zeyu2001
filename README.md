@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*basedOnATrueStory*](https://www.reddit.com/r/ProgrammerHumor/comments/1hvdrli/basedonatruestory/)
+[*dontDelete*](https://www.reddit.com/r/ProgrammerHumor/comments/1hw1um4/dontdelete/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cmg3dqjeogbe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lzz55pwdymbe1.png)
