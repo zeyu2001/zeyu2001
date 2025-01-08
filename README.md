@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*getFullYear*](https://www.reddit.com/r/ProgrammerHumor/comments/1hw4aci/getfullyear/)
+[*makeTheWholeThing*](https://www.reddit.com/r/ProgrammerHumor/comments/1hw4juk/makethewholething/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6a6rkyxegnbe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ul20prfoinbe1.png)
