@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*makeTheWholeThing*](https://www.reddit.com/r/ProgrammerHumor/comments/1hw4juk/makethewholething/)
+[*justShoot*](https://www.reddit.com/r/ProgrammerHumor/comments/1hwd0ob/justshoot/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ul20prfoinbe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/niyupr25npbe1.png)
