@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*weAreSafeGuys*](https://www.reddit.com/r/ProgrammerHumor/comments/1hx7ifg/wearesafeguys/)
+[*lockDownAverageCsStudent*](https://www.reddit.com/r/ProgrammerHumor/comments/1hxg05v/lockdownaveragecsstudent/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7071kuzt6xbe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3fxbcdbzqzbe1.png)
