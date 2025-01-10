@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lockDownAverageCsStudent*](https://www.reddit.com/r/ProgrammerHumor/comments/1hxg05v/lockdownaveragecsstudent/)
+[*stopTryingToKillMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1hxjpss/stoptryingtokillme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3fxbcdbzqzbe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0duyoceki0ce1.png)
