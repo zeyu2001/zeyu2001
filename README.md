@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*stopTryingToKillMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1hxjpss/stoptryingtokillme/)
+[*teachingNewSkills*](https://www.reddit.com/r/ProgrammerHumor/comments/1hxxoeu/teachingnewskills/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0duyoceki0ce1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8d03cedqu3ce1.png)
