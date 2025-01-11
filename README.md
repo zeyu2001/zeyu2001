@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sweProCareerMove*](https://www.reddit.com/r/ProgrammerHumor/comments/1hydgvb/sweprocareermove/)
+[*lettingTheVibesBeYourGuide*](https://www.reddit.com/r/ProgrammerHumor/comments/1hz0hbz/lettingthevibesbeyourguide/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cx365xez28ce1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7fgejbqocece1.png)
