@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pullStackDeveloper*](https://www.reddit.com/r/ProgrammerHumor/comments/1hzayg7/pullstackdeveloper/)
+[*poisonousJS*](https://www.reddit.com/r/ProgrammerHumor/comments/1hzdops/poisonousjs/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/of94zyadpgce1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iy2eq4q9fhce1.png)
