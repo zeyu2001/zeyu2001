@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ifYourJobGivesYou*](https://www.reddit.com/r/ProgrammerHumor/comments/1hzzoxh/ifyourjobgivesyou/)
+[*myCodeBetterBe*](https://www.reddit.com/r/ProgrammerHumor/comments/1i00f6e/mycodebetterbe/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yr9dact89nce1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/55rie93efnce1.png)
