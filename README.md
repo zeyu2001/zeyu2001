@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whichOneOfYouGotThatInternshipAtMicrosoft*](https://www.reddit.com/r/ProgrammerHumor/comments/1i14qi3/whichoneofyougotthatinternshipatmicrosoft/)
+[*coldNoHot*](https://www.reddit.com/r/ProgrammerHumor/comments/1i1d6po/coldnohot/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jwhnkosabyce1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qrlan4hz80de1.png)
