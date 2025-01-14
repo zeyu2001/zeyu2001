@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*myCodeBetterBe*](https://www.reddit.com/r/ProgrammerHumor/comments/1i00f6e/mycodebetterbe/)
+[*averageProgrammer*](https://www.reddit.com/r/ProgrammerHumor/comments/1i0kj82/averageprogrammer/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/55rie93efnce1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s4pb6du5zsce1.png)
