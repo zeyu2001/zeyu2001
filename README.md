@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*coldNoHot*](https://www.reddit.com/r/ProgrammerHumor/comments/1i1d6po/coldnohot/)
+[*iAmEnlightened*](https://www.reddit.com/r/ProgrammerHumor/comments/1i1nsf9/iamenlightened/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qrlan4hz80de1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c8c9sla0n2de1.png)
