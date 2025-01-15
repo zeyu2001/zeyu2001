@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iAmEnlightened*](https://www.reddit.com/r/ProgrammerHumor/comments/1i1nsf9/iamenlightened/)
+[*haveYouTried*](https://www.reddit.com/r/ProgrammerHumor/comments/1i1sz89/haveyoutried/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c8c9sla0n2de1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p0m46swza4de1.png)
