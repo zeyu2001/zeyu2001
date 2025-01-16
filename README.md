@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*haveYouTried*](https://www.reddit.com/r/ProgrammerHumor/comments/1i1sz89/haveyoutried/)
+[*laughsInPython*](https://www.reddit.com/r/ProgrammerHumor/comments/1i21b6p/laughsinpython/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p0m46swza4de1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2xit2z7pp6de1.png)
