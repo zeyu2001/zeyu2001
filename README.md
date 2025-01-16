@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*laughsInPython*](https://www.reddit.com/r/ProgrammerHumor/comments/1i21b6p/laughsinpython/)
+[*heaterForMyRoom*](https://www.reddit.com/r/ProgrammerHumor/comments/1i2e9bm/heaterformyroom/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2xit2z7pp6de1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k0c8wtb4k9de1.png)
