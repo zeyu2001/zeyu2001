@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gotHacked*](https://www.reddit.com/r/ProgrammerHumor/comments/1i31h17/gothacked/)
+[*learnToCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1i37lvp/learntocode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gaaxfvbhofde1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lghe55gx6hde1.png)
