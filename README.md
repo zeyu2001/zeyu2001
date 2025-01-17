@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*heaterForMyRoom*](https://www.reddit.com/r/ProgrammerHumor/comments/1i2e9bm/heaterformyroom/)
+[*gotHacked*](https://www.reddit.com/r/ProgrammerHumor/comments/1i31h17/gothacked/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k0c8wtb4k9de1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gaaxfvbhofde1.png)
