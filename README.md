@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*adblockerDigitalDetox*](https://www.reddit.com/r/ProgrammerHumor/comments/1i43hcl/adblockerdigitaldetox/)
+[*pythonInfestedIsland*](https://www.reddit.com/r/ProgrammerHumor/comments/1i42nn7/pythoninfestedisland/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ksd26bbmupde1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7g9buy5hjpde1.png)
