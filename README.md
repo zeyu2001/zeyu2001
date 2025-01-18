@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pushRejectedByDragon*](https://www.reddit.com/r/ProgrammerHumor/comments/1i4a48j/pushrejectedbydragon/)
+[*oNo*](https://www.reddit.com/r/ProgrammerHumor/comments/1i4ejfb/ono/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pdimq0p8vrde1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vq53ga3jusde1.png)
