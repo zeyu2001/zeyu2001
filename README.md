@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*learnToCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1i37lvp/learntocode/)
+[*definitelyBigSmiles*](https://www.reddit.com/r/ProgrammerHumor/comments/1i3mcy5/definitelybigsmiles/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lghe55gx6hde1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0g0600mwelde1.png)
