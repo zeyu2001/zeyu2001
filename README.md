@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pythonInfestedIsland*](https://www.reddit.com/r/ProgrammerHumor/comments/1i42nn7/pythoninfestedisland/)
+[*pushRejectedByDragon*](https://www.reddit.com/r/ProgrammerHumor/comments/1i4a48j/pushrejectedbydragon/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7g9buy5hjpde1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pdimq0p8vrde1.png)
