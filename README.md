@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*canYouFixMyPrinter*](https://www.reddit.com/r/ProgrammerHumor/comments/1i4xudc/canyoufixmyprinter/)
+[*anotherWeekAnotherRequest*](https://www.reddit.com/r/ProgrammerHumor/comments/1i5jiy2/anotherweekanotherrequest/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pkfsuagd7yde1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8zl3qk6z83ee1.png)
