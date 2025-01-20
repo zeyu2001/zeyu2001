@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*nailedIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1i4sq9u/nailedit/)
+[*canYouFixMyPrinter*](https://www.reddit.com/r/ProgrammerHumor/comments/1i4xudc/canyoufixmyprinter/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fxst0owuewde1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pkfsuagd7yde1.png)
