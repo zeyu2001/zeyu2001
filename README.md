@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*anotherWeekAnotherRequest*](https://www.reddit.com/r/ProgrammerHumor/comments/1i5jiy2/anotherweekanotherrequest/)
+[*tonyHawkandthetaleofFeaturenotabug*](https://www.reddit.com/r/ProgrammerHumor/comments/1i5udw9/tonyhawkandthetaleoffeaturenotabug/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8zl3qk6z83ee1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x4ry4nthf6ee1.png)
