@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*docxGoBrrrr*](https://www.reddit.com/r/ProgrammerHumor/comments/1i64323/docxgobrrrr/)
+[*tooLazyToChangeAgain*](https://www.reddit.com/r/ProgrammerHumor/comments/1i6ghwa/toolazytochangeagain/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/i06boapjd8ee1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/axn7o6lt0cee1.png)
