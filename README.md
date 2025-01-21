@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*tonyHawkandthetaleofFeaturenotabug*](https://www.reddit.com/r/ProgrammerHumor/comments/1i5udw9/tonyhawkandthetaleoffeaturenotabug/)
+[*docxGoBrrrr*](https://www.reddit.com/r/ProgrammerHumor/comments/1i64323/docxgobrrrr/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x4ry4nthf6ee1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i06boapjd8ee1.png)
