@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justJuniorThings*](https://www.reddit.com/r/ProgrammerHumor/comments/1i6kbt9/justjuniorthings/)
+[*canWeBanXTwitterLinks*](https://www.reddit.com/r/ProgrammerHumor/comments/1i7blnx/canwebanxtwitterlinks/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/eeb8mrl12dee1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xi7fvbjawjee1.png)
