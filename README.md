@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*codingIsNotThatHard*](https://www.reddit.com/r/ProgrammerHumor/comments/1i7aku7/codingisnotthathard/)
+[*itisCalledProgramming*](https://www.reddit.com/r/ProgrammerHumor/comments/1i7r78s/itiscalledprogramming/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5r7yqfptmjee1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rp3ex2626nee1.png)
