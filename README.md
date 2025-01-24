@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ohShit*](https://www.reddit.com/r/ProgrammerHumor/comments/1i7wrgd/ohshit/)
+[*shoutingStopNotGonnaStopMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1i8brtz/shoutingstopnotgonnastopme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pk40oz1inoee1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k4vbetm3psee1.png)
