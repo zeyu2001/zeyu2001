@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itisCalledProgramming*](https://www.reddit.com/r/ProgrammerHumor/comments/1i7r78s/itiscalledprogramming/)
+[*ohShit*](https://www.reddit.com/r/ProgrammerHumor/comments/1i7wrgd/ohshit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rp3ex2626nee1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pk40oz1inoee1.png)
