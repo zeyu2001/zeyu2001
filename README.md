@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*atLeastNoMoreLeetcodeIGuess*](https://www.reddit.com/r/ProgrammerHumor/comments/1i8t1lz/atleastnomoreleetcodeiguess/)
+[*isEvilWizard*](https://www.reddit.com/r/ProgrammerHumor/comments/1i9kymg/isevilwizard/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jrybri6xcxee1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ao3s3p96k4fe1.png)
