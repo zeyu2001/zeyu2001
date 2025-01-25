@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*threeStagesOfDebugging*](https://www.reddit.com/r/ProgrammerHumor/comments/1i8qjk4/threestagesofdebugging/)
+[*atLeastNoMoreLeetcodeIGuess*](https://www.reddit.com/r/ProgrammerHumor/comments/1i8t1lz/atleastnomoreleetcodeiguess/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7kmlkj36fwee1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jrybri6xcxee1.png)
