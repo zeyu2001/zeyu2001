@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iWantToUnderstandTheCodeIn10Seconds*](https://www.reddit.com/r/ProgrammerHumor/comments/1i9mmpm/iwanttounderstandthecodein10seconds/)
+[*rmChatGPT*](https://www.reddit.com/r/ProgrammerHumor/comments/1ia09ul/rmchatgpt/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y8ndoha335fe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z9mbbrsw58fe1.png)
