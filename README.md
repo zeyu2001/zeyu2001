@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iAmHoardingDomains*](https://www.reddit.com/r/ProgrammerHumor/comments/1iam57i/iamhoardingdomains/)
+[*ripSiliconValleyTechBros*](https://www.reddit.com/r/ProgrammerHumor/comments/1iapdzf/ripsiliconvalleytechbros/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j44y8p3tsdfe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d9ix0le8eefe1.png)
