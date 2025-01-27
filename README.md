@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whereToKeepYourSecrets*](https://www.reddit.com/r/ProgrammerHumor/comments/1iat37m/wheretokeepyoursecrets/)
+[*startupsSummedUp*](https://www.reddit.com/r/ProgrammerHumor/comments/1ib0xp1/startupssummedup/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/e8ht6naz4ffe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p77stcnl3hfe1.png)
