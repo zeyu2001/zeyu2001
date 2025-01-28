@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iWonButAtWhatCost*](https://www.reddit.com/r/ProgrammerHumor/comments/1ibav5t/iwonbutatwhatcost/)
+[*ohNo*](https://www.reddit.com/r/ProgrammerHumor/comments/1ibxspa/ohno/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yswoltqcvjfe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qqw47n5tdpfe1.png)
