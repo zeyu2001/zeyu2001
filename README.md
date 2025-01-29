@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iAintOptimisingShit*](https://www.reddit.com/r/ProgrammerHumor/comments/1icc3rv/iaintoptimisingshit/)
+[*goodShit*](https://www.reddit.com/r/ProgrammerHumor/comments/1icytxg/goodshit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pje147x4tsfe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/je6xz2nmtyfe1.png)
