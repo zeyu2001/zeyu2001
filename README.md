@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ohNo*](https://www.reddit.com/r/ProgrammerHumor/comments/1ibxspa/ohno/)
+[*iAintOptimisingShit*](https://www.reddit.com/r/ProgrammerHumor/comments/1icc3rv/iaintoptimisingshit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qqw47n5tdpfe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pje147x4tsfe1.png)
