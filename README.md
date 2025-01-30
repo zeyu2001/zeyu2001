@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justFindOutThisIsTruee*](https://www.reddit.com/r/ProgrammerHumor/comments/1idjxju/justfindoutthisistruee/)
+[*pleaseForgiveMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1id8yuo/pleaseforgiveme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3rkpe39uw3ge1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ouejdtc2x0ge1.png)
