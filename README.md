@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*goodShit*](https://www.reddit.com/r/ProgrammerHumor/comments/1icytxg/goodshit/)
+[*ourCodeAfterOneMonth*](https://www.reddit.com/r/ProgrammerHumor/comments/1icy2fa/ourcodeafteronemonth/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/je6xz2nmtyfe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dqfxgpk8nyfe1.png)
