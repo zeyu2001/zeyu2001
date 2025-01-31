@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iWishAllCmakeFansAVeryPleasantDocumentationNotFound*](https://www.reddit.com/r/ProgrammerHumor/comments/1idp5kj/iwishallcmakefansaverypleasantdocumentationnotfoun/)
+[*hackerNoises*](https://www.reddit.com/r/ProgrammerHumor/comments/1iedgro/hackernoises/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fnjgajvrd5ge1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qhsw0c4umbge1.png)
