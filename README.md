@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iAmFullStackDeveloper*](https://www.reddit.com/r/ProgrammerHumor/comments/1if4i9r/iamfullstackdeveloper/)
+[*htmxSupremacyGang*](https://www.reddit.com/r/ProgrammerHumor/comments/1if5c37/htmxsupremacygang/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gd9kmt8vkige1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8arenv0kuige1.png)
