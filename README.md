@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*taxingYourImports*](https://www.reddit.com/r/ProgrammerHumor/comments/1ig4km6/taxingyourimports/)
+[*justLikeLookingForTheSubtitlesOptionInGames*](https://www.reddit.com/r/ProgrammerHumor/comments/1ig9bhp/justlikelookingforthesubtitlesoptioningames/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5dtjz8ppurge1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9vdhs17jvsge1.png)
