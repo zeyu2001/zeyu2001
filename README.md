@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justLikeLookingForTheSubtitlesOptionInGames*](https://www.reddit.com/r/ProgrammerHumor/comments/1ig9bhp/justlikelookingforthesubtitlesoptioningames/)
+[*earlyDaysOfProgrammingWereWild*](https://www.reddit.com/r/ProgrammerHumor/comments/1igs0ay/earlydaysofprogrammingwerewild/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9vdhs17jvsge1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ttgvn5fq2yge1.png)
