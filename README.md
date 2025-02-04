@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatIsOpenAnyway*](https://www.reddit.com/r/ProgrammerHumor/comments/1ih07ks/whatisopenanyway/)
+[*aTaleOfMyChildhood*](https://www.reddit.com/r/ProgrammerHumor/comments/1ihkxxy/ataleofmychildhood/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9lz0023dpzge1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/noazpwlfa5he1.png)
