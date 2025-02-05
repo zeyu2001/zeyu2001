@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aTaleOfMyChildhood*](https://www.reddit.com/r/ProgrammerHumor/comments/1ihkxxy/ataleofmychildhood/)
+[*elonVsCobol*](https://www.reddit.com/r/ProgrammerHumor/comments/1ihnwqv/elonvscobol/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/noazpwlfa5he1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/54aplmoev5he1.png)
