@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*memoryLeaks*](https://www.reddit.com/r/ProgrammerHumor/comments/1ii4gen/memoryleaks/)
+[*arraysStartAt1*](https://www.reddit.com/r/ProgrammerHumor/comments/1iir5df/arraysstartat1/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/45wbvgucs9he1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hv4tt2e0cfhe1.png)
