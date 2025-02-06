@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*andNoOneBelievesMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1ihw16a/andnoonebelievesme/)
+[*memoryLeaks*](https://www.reddit.com/r/ProgrammerHumor/comments/1ii4gen/memoryleaks/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gjlu07pwj7he1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/45wbvgucs9he1.png)
