@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*arraysStartAt1*](https://www.reddit.com/r/ProgrammerHumor/comments/1iir5df/arraysstartat1/)
+[*stopUsingSpacesInFilenames*](https://www.reddit.com/r/ProgrammerHumor/comments/1ij9wwm/stopusingspacesinfilenames/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hv4tt2e0cfhe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m97qpivedkhe1.png)
