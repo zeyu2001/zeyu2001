@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*stopUsingSpacesInFilenames*](https://www.reddit.com/r/ProgrammerHumor/comments/1ij9wwm/stopusingspacesinfilenames/)
+[*shortFiveYears*](https://www.reddit.com/r/ProgrammerHumor/comments/1ijcp3u/shortfiveyears/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m97qpivedkhe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zqqtktmmxkhe1.png)
