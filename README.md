@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatEvenIsAgile*](https://www.reddit.com/r/ProgrammerHumor/comments/1ijzd73/whatevenisagile/)
+[*pleaseHaveMercy*](https://www.reddit.com/r/ProgrammerHumor/comments/1ikj33r/pleasehavemercy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jai9frwrwqhe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/64d12paxpvhe1.png)
