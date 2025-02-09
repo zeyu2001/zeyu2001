@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*librariesMadeInAmerica*](https://www.reddit.com/r/ProgrammerHumor/comments/1ikjyl7/librariesmadeinamerica/)
+[*freeOpenAI*](https://www.reddit.com/r/ProgrammerHumor/comments/1ikls99/freeopenai/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/s4m81in01whe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ny9nhx2mnwhe1.png)
