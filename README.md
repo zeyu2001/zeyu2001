@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*javaDevsSeeingNestedFunctions*](https://www.reddit.com/r/ProgrammerHumor/comments/1ilavy4/javadevsseeingnestedfunctions/)
+[*justGreat*](https://www.reddit.com/r/ProgrammerHumor/comments/1ilfwt9/justgreat/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vbbp8whfy2ie1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cgc7pp57j4ie1.png)
