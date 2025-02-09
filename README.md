@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*freeOpenAI*](https://www.reddit.com/r/ProgrammerHumor/comments/1ikls99/freeopenai/)
+[*javaDevsSeeingNestedFunctions*](https://www.reddit.com/r/ProgrammerHumor/comments/1ilavy4/javadevsseeingnestedfunctions/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ny9nhx2mnwhe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vbbp8whfy2ie1.png)
