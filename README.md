@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*canYouMakeAnAppSimilarToFacebook*](https://www.reddit.com/r/ProgrammerHumor/comments/1ilk1zt/canyoumakeanappsimilartofacebook/)
+[*iKnewItWasBadButIDidntThinkItWasThisBadLol*](https://www.reddit.com/r/ProgrammerHumor/comments/1ilha7u/iknewitwasbadbutididntthinkitwasthisbadlol/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fsmqef7bf5ie1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jqefss0hu4ie1.png)
