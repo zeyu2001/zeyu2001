@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iKnewItWasBadButIDidntThinkItWasThisBadLol*](https://www.reddit.com/r/ProgrammerHumor/comments/1ilha7u/iknewitwasbadbutididntthinkitwasthisbadlol/)
+[*allStackDeveloper*](https://www.reddit.com/r/ProgrammerHumor/comments/1ilynf6/allstackdeveloper/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jqefss0hu4ie1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7n4zndxvw8ie1.png)
