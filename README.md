@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*allStackDeveloper*](https://www.reddit.com/r/ProgrammerHumor/comments/1ilynf6/allstackdeveloper/)
+[*theWorstOfBothWorlds*](https://www.reddit.com/r/ProgrammerHumor/comments/1im8xa8/theworstofbothworlds/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7n4zndxvw8ie1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/h3sh6nx40cie1.png)
