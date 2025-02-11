@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*poorlyOptimizedSQL*](https://www.reddit.com/r/ProgrammerHumor/comments/1imc36x/poorlyoptimizedsql/)
+[*weHaveAllBeenThere*](https://www.reddit.com/r/ProgrammerHumor/comments/1imip5j/wehaveallbeenthere/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/utxodw81ncie1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tf9wzlraydie1.png)
