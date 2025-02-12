@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*nowEveryoneCanBeHappy*](https://www.reddit.com/r/ProgrammerHumor/comments/1in3nin/noweveryonecanbehappy/)
+[*memoryIsAllYouNeed*](https://www.reddit.com/r/ProgrammerHumor/comments/1innruh/memoryisallyouneed/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p9m0kajvljie1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/395uws3enoie1.png)
