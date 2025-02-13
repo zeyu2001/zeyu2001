@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justWantToIgnoreAndDebugCodeWithoutCommentingIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1ioito8/justwanttoignoreanddebugcodewithoutcommentingit/)
+[*wayAheadOfUs*](https://www.reddit.com/r/ProgrammerHumor/comments/1iooma1/wayaheadofus/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8nj91jdspwie1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3zn0r7a20yie1.png)
