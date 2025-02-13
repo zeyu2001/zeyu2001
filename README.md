@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*memoryIsAllYouNeed*](https://www.reddit.com/r/ProgrammerHumor/comments/1innruh/memoryisallyouneed/)
+[*thisWillSurelyEliminateTheFraud*](https://www.reddit.com/r/ProgrammerHumor/comments/1insr2s/thiswillsurelyeliminatethefraud/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/395uws3enoie1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/57mc4rph2qie1.png)
