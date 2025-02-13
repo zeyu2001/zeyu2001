@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisWillSurelyEliminateTheFraud*](https://www.reddit.com/r/ProgrammerHumor/comments/1insr2s/thiswillsurelyeliminatethefraud/)
+[*quickStatusUpdate*](https://www.reddit.com/r/ProgrammerHumor/comments/1inz1uk/quickstatusupdate/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/57mc4rph2qie1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ld3z3lohcrie1.png)
