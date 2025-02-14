@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*wayAheadOfUs*](https://www.reddit.com/r/ProgrammerHumor/comments/1iooma1/wayaheadofus/)
+[*aiWillTakeOurJobs*](https://www.reddit.com/r/ProgrammerHumor/comments/1ip0huq/aiwilltakeourjobs/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3zn0r7a20yie1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ymtaqdxbo0je1.png)
