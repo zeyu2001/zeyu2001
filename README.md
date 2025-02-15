@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aiWillTakeOurJobs*](https://www.reddit.com/r/ProgrammerHumor/comments/1ip0huq/aiwilltakeourjobs/)
+[*hePaid44BillionToGetDunkedOn*](https://www.reddit.com/r/ProgrammerHumor/comments/1ipn4kh/hepaid44billiontogetdunkedon/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ymtaqdxbo0je1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dpuak7r6n6je1.png)
