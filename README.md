@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ifItCanBeWrittenInJavascriptItWill*](https://www.reddit.com/r/ProgrammerHumor/comments/1ipvdr2/ifitcanbewritteninjavascriptitwill/)
+[*germanC*](https://www.reddit.com/r/ProgrammerHumor/comments/1iq23i6/germanc/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/irkq2svmx8je1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ldidexag8bje1.png)
