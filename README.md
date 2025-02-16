@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thatOneMergeConflict*](https://www.reddit.com/r/ProgrammerHumor/comments/1iqc3ef/thatonemergeconflict/)
+[*prisonNowadays*](https://www.reddit.com/r/ProgrammerHumor/comments/1iqrvt0/prisonnowadays/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rc0szuomgdje1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y61bf8n83ije1.png)
