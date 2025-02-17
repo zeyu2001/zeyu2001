@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*myCodeIsSafeFromSQLInj*](https://www.reddit.com/r/ProgrammerHumor/comments/1irkydu/mycodeissafefromsqlinj/)
+[*estimationsBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/1irmxi0/estimationsbelike/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yuiwb5r3lpje1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gt5td3r80qje1.png)
