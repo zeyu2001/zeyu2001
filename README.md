@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*prisonNowadays*](https://www.reddit.com/r/ProgrammerHumor/comments/1iqrvt0/prisonnowadays/)
+[*angelaUdemyTutorialsSupermacy*](https://www.reddit.com/r/ProgrammerHumor/comments/1iqwgib/angelaudemytutorialssupermacy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y61bf8n83ije1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2f36q3kh4jje1.png)
