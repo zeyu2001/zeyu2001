@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aMansHappinessIsaWomansDisappointment*](https://www.reddit.com/r/ProgrammerHumor/comments/1is7ix5/amanshappinessisawomansdisappointment/)
+[*myFriendToldMeSheLovesTypeScript*](https://www.reddit.com/r/ProgrammerHumor/comments/1isfy27/myfriendtoldmeshelovestypescript/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pmat20drruje1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l4zk1qoo5xje1.png)
