@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*everyByteCounts*](https://www.reddit.com/r/ProgrammerHumor/comments/1iswxhk/everybytecounts/)
+[*waitItsAllAnFFFmpegWrapper*](https://www.reddit.com/r/ProgrammerHumor/comments/1it1ujt/waititsallanfffmpegwrapper/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ozlbrukhw0ke1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5eionv7rh2ke1.png)
