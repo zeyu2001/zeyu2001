@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*myFriendToldMeSheLovesTypeScript*](https://www.reddit.com/r/ProgrammerHumor/comments/1isfy27/myfriendtoldmeshelovestypescript/)
+[*theDatabaseIsNotDeDuplicated*](https://www.reddit.com/r/ProgrammerHumor/comments/1ist78y/thedatabaseisnotdeduplicated/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l4zk1qoo5xje1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5owxytilzzje1.png)
