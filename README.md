@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theDatabaseIsNotDeDuplicated*](https://www.reddit.com/r/ProgrammerHumor/comments/1ist78y/thedatabaseisnotdeduplicated/)
+[*everyByteCounts*](https://www.reddit.com/r/ProgrammerHumor/comments/1iswxhk/everybytecounts/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5owxytilzzje1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ozlbrukhw0ke1.png)
