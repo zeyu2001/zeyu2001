@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*movingWithTheTimes*](https://www.reddit.com/r/ProgrammerHumor/comments/1iu8pkf/movingwiththetimes/)
+[*myLoveForJira*](https://www.reddit.com/r/ProgrammerHumor/comments/1iuokxp/myloveforjira/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5b4cwehtucke1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/guw0cklm7hke1.png)
