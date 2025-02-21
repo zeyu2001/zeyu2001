@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howIfixStuff*](https://www.reddit.com/r/ProgrammerHumor/comments/1itz2lm/howifixstuff/)
+[*movingWithTheTimes*](https://www.reddit.com/r/ProgrammerHumor/comments/1iu8pkf/movingwiththetimes/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/iho12fhgvake1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5b4cwehtucke1.png)
