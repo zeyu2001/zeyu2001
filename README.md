@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iKnowWhatYouAre*](https://www.reddit.com/r/ProgrammerHumor/comments/1iuuaq9/iknowwhatyouare/)
+[*dontGetMyHopesUp*](https://www.reddit.com/r/ProgrammerHumor/comments/1ivavru/dontgetmyhopesup/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jslztfjwlike1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mi9au4c3fmke1.png)
