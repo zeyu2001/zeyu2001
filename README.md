@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justUseCurl*](https://www.reddit.com/r/ProgrammerHumor/comments/1ivhvsn/justusecurl/)
+[*elonSort*](https://www.reddit.com/r/ProgrammerHumor/comments/1ivydje/elonsort/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6v1dwqharoke1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vnyilrprhske1.png)
