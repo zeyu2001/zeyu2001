@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dontGetMyHopesUp*](https://www.reddit.com/r/ProgrammerHumor/comments/1ivavru/dontgetmyhopesup/)
+[*justUseCurl*](https://www.reddit.com/r/ProgrammerHumor/comments/1ivhvsn/justusecurl/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mi9au4c3fmke1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6v1dwqharoke1.png)
