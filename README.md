@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*elonSort*](https://www.reddit.com/r/ProgrammerHumor/comments/1ivydje/elonsort/)
+[*letsBringBackTheNostalgia*](https://www.reddit.com/r/ProgrammerHumor/comments/1iwf1eq/letsbringbackthenostalgia/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vnyilrprhske1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/27hb5ly29xke1.png)
