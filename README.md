@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*mongoDbFirstDraft*](https://www.reddit.com/r/ProgrammerHumor/comments/1iwszy6/mongodbfirstdraft/)
+[*employeeOfTheMonth*](https://www.reddit.com/r/ProgrammerHumor/comments/1ix8zzv/employeeofthemonth/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6wowob2ve0le1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1kro3lgbq4le1.png)
