@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*employeeOfTheMonth*](https://www.reddit.com/r/ProgrammerHumor/comments/1ix8zzv/employeeofthemonth/)
+[*linuxVsWindows*](https://www.reddit.com/r/ProgrammerHumor/comments/1ixul7j/linuxvswindows/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1kro3lgbq4le1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6cx3hbv8bale1.png)
