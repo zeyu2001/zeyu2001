@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatCanIDo*](https://www.reddit.com/r/ProgrammerHumor/comments/1iydcg2/whatcanido/)
+[*trustMeBroAScriptWillBeFaster*](https://www.reddit.com/r/ProgrammerHumor/comments/1iyuq6l/trustmebroascriptwillbefaster/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/a5l4hkn9dele1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d63rg0az2jle1.png)
