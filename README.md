@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*weHaveTheUpperHand*](https://www.reddit.com/r/ProgrammerHumor/comments/1iy3da2/wehavetheupperhand/)
+[*whatCanIDo*](https://www.reddit.com/r/ProgrammerHumor/comments/1iydcg2/whatcanido/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ziunln3y5cle1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/a5l4hkn9dele1.png)
