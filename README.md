@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*linuxVsWindows*](https://www.reddit.com/r/ProgrammerHumor/comments/1ixul7j/linuxvswindows/)
+[*weHaveTheUpperHand*](https://www.reddit.com/r/ProgrammerHumor/comments/1iy3da2/wehavetheupperhand/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6cx3hbv8bale1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ziunln3y5cle1.png)
