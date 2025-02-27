@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*twoHoursLater*](https://www.reddit.com/r/ProgrammerHumor/comments/1iyxccn/twohourslater/)
+[*devops*](https://www.reddit.com/r/ProgrammerHumor/comments/1iz2tpe/devops/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/g3ynuhe5mjle1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x9ser8p0tkle1.png)
