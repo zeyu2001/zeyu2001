@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*memeProudlyPresentedToYouByTheFunctionalProgrammingGang*](https://www.reddit.com/r/ProgrammerHumor/comments/1j0alim/memeproudlypresentedtoyoubythefunctionalprogrammin/)
+[*librariesDontWorkPeopleArentHelpfulFullOfScammers*](https://www.reddit.com/r/ProgrammerHumor/comments/1j11gau/librariesdontworkpeoplearenthelpfulfullofscammers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cfkyfx48hwle1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lwykdlhse3me1.png)
