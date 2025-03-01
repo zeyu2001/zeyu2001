@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*quickCallWithManager*](https://www.reddit.com/r/ProgrammerHumor/comments/1izth59/quickcallwithmanager/)
+[*theresTonsOfCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1j010m3/therestonsofcode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vuuiigrllrle1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kcdj7xunltle1.png)
