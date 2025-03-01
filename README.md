@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theresTonsOfCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1j010m3/therestonsofcode/)
+[*memeProudlyPresentedToYouByTheFunctionalProgrammingGang*](https://www.reddit.com/r/ProgrammerHumor/comments/1j0alim/memeproudlypresentedtoyoubythefunctionalprogrammin/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kcdj7xunltle1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cfkyfx48hwle1.png)
