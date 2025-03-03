@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ripFirefox*](https://www.reddit.com/r/ProgrammerHumor/comments/1j22bhd/ripfirefox/)
+[*mondayFeelsDifferent*](https://www.reddit.com/r/ProgrammerHumor/comments/1j283sp/mondayfeelsdifferent/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6000yjtbjcme1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yvfrl7adwdme1.png)
