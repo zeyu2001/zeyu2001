@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*doWhatISay*](https://www.reddit.com/r/ProgrammerHumor/comments/1j2l4i0/dowhatisay/)
+[*iDontThinkThisMemeIsGoodEnough*](https://www.reddit.com/r/ProgrammerHumor/comments/1j39w2j/idontthinkthismemeisgoodenough/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fcnaqvaeshme1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ouqw4psj4ome1.png)
