@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iDontThinkThisMemeIsGoodEnough*](https://www.reddit.com/r/ProgrammerHumor/comments/1j39w2j/idontthinkthismemeisgoodenough/)
+[*binaryIsKingContainerIsBlingBling*](https://www.reddit.com/r/ProgrammerHumor/comments/1j38ntl/binaryiskingcontainerisblingbling/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ouqw4psj4ome1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hk5jnwq2rnme1.png)
