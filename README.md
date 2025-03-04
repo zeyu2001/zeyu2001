@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*mondayFeelsDifferent*](https://www.reddit.com/r/ProgrammerHumor/comments/1j283sp/mondayfeelsdifferent/)
+[*agiHasBeenAchievedHypothetically*](https://www.reddit.com/r/ProgrammerHumor/comments/1j2unxv/agihasbeenachievedhypothetically/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yvfrl7adwdme1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s089aofyqjme1.png)
