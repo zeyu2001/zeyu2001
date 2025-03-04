@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iJustNeedToDelete*](https://www.reddit.com/r/ProgrammerHumor/comments/1j2wma2/ijustneedtodelete/)
+[*doWhatISay*](https://www.reddit.com/r/ProgrammerHumor/comments/1j2l4i0/dowhatisay/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hanw4kn76kme1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fcnaqvaeshme1.png)
