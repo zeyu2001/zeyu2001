@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*binaryIsKingContainerIsBlingBling*](https://www.reddit.com/r/ProgrammerHumor/comments/1j38ntl/binaryiskingcontainerisblingbling/)
+[*trumpNewTariffV2V3FinalNewFinalRealNewFinal*](https://www.reddit.com/r/ProgrammerHumor/comments/1j3s4qp/trumpnewtariffv2v3finalnewfinalrealnewfinal/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hk5jnwq2rnme1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xwofibq03sme1.png)
