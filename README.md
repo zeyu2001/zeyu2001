@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*groupOfTurtlesRight*](https://www.reddit.com/r/ProgrammerHumor/comments/1j3za94/groupofturtlesright/)
+[*whatIsTheShortcutKeyForPiSymbol*](https://www.reddit.com/r/ProgrammerHumor/comments/1j44wy2/whatistheshortcutkeyforpisymbol/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jz7majvsaume1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gmq6jqmaxvme1.png)
