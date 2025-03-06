@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatIsTheShortcutKeyForPiSymbol*](https://www.reddit.com/r/ProgrammerHumor/comments/1j44wy2/whatistheshortcutkeyforpisymbol/)
+[*helpUsGordonMooreYoureOurOnlyHope*](https://www.reddit.com/r/ProgrammerHumor/comments/1j4dn6o/helpusgordonmooreyoureouronlyhope/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gmq6jqmaxvme1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p256osu2pxme1.png)
