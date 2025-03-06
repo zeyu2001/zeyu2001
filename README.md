@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*helpUsGordonMooreYoureOurOnlyHope*](https://www.reddit.com/r/ProgrammerHumor/comments/1j4dn6o/helpusgordonmooreyoureouronlyhope/)
+[*whoTookThisPhoto*](https://www.reddit.com/r/ProgrammerHumor/comments/1j53s5o/whotookthisphoto/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p256osu2pxme1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v3vft0sze4ne1.png)
