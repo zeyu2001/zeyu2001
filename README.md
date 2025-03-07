@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*imSureTheCameraIsDigital*](https://www.reddit.com/r/ProgrammerHumor/comments/1j56tzy/imsurethecameraisdigital/)
+[*goodbyeComfort*](https://www.reddit.com/r/ProgrammerHumor/comments/1j5ir42/goodbyecomfort/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ybj3udyx15ne1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kh7gxkmw88ne1.png)
