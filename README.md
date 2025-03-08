@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*goodbyeComfort*](https://www.reddit.com/r/ProgrammerHumor/comments/1j5ir42/goodbyecomfort/)
+[*whyDoPeoplePeopleListen*](https://www.reddit.com/r/ProgrammerHumor/comments/1j639tv/whydopeoplepeoplelisten/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kh7gxkmw88ne1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qgev2fd1pcne1.png)
