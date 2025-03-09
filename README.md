@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itsPractice*](https://www.reddit.com/r/ProgrammerHumor/comments/1j68557/itspractice/)
+[*realProgrammer*](https://www.reddit.com/r/ProgrammerHumor/comments/1j6iw39/realprogrammer/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3uu2atfjxdne1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o6gj7zqochne1.png)
