@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*realProgrammer*](https://www.reddit.com/r/ProgrammerHumor/comments/1j6iw39/realprogrammer/)
+[*intellisenseKnowsWhatWeNeed*](https://www.reddit.com/r/ProgrammerHumor/comments/1j6smp1/intellisenseknowswhatweneed/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o6gj7zqochne1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3le5auqhjjne1.png)
