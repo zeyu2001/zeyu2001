@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*trojMcmodGen*](https://www.reddit.com/r/ProgrammerHumor/comments/1j7f378/trojmcmodgen/)
+[*fourHorsemenOfADevsApocalypse*](https://www.reddit.com/r/ProgrammerHumor/comments/1j7p985/fourhorsemenofadevsapocalypse/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bfw0vjx2rpne1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hawhg4gi4sne1.png)
