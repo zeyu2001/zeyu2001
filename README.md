@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*havingAWebsite*](https://www.reddit.com/r/ProgrammerHumor/comments/1j8vwhs/havingawebsite/)
+[*gitMergeOnly*](https://www.reddit.com/r/ProgrammerHumor/comments/1j8yryj/gitmergeonly/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/z17vmy24f3oe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d4dp1fy204oe1.png)
