@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youKnowWhatLanguageItIs*](https://www.reddit.com/r/ProgrammerHumor/comments/1j8csem/youknowwhatlanguageitis/)
+[*theCavernIsJustLies*](https://www.reddit.com/r/ProgrammerHumor/comments/1j8m45x/thecavernisjustlies/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ztmq73dg5yne1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ho7kjbdku0oe1.png)
