@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aiHypeVsReality*](https://www.reddit.com/r/ProgrammerHumor/comments/1j9jeai/aihypevsreality/)
+[*thisWasPostedInOurCompanyAnnouncementBoard*](https://www.reddit.com/r/ProgrammerHumor/comments/1j9p3e7/thiswaspostedinourcompanyannouncementboard/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/23z1xo7v99oe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/r8q508nrjaoe1.png)
