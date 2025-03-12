@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gitMergeOnly*](https://www.reddit.com/r/ProgrammerHumor/comments/1j8yryj/gitmergeonly/)
+[*aiHypeVsReality*](https://www.reddit.com/r/ProgrammerHumor/comments/1j9jeai/aihypevsreality/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/d4dp1fy204oe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/23z1xo7v99oe1.png)
