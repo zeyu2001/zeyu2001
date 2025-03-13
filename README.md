@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisWasPostedInOurCompanyAnnouncementBoard*](https://www.reddit.com/r/ProgrammerHumor/comments/1j9p3e7/thiswaspostedinourcompanyannouncementboard/)
+[*theWeeklyStruggle*](https://www.reddit.com/r/ProgrammerHumor/comments/1ja8051/theweeklystruggle/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/r8q508nrjaoe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4oh31gn0efoe1.png)
