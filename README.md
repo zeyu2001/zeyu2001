@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theWeeklyStruggle*](https://www.reddit.com/r/ProgrammerHumor/comments/1ja8051/theweeklystruggle/)
+[*fastAndJunior*](https://www.reddit.com/r/ProgrammerHumor/comments/1jaeze6/fastandjunior/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4oh31gn0efoe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n4hmdkwc9hoe1.png)
