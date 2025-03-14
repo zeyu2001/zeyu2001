@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*skillIssuesIntensify*](https://www.reddit.com/r/ProgrammerHumor/comments/1jaohmz/skillissuesintensify/)
+[*absoluteMadLad*](https://www.reddit.com/r/ProgrammerHumor/comments/1jatvio/absolutemadlad/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gkx0h45u7joe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bj7jitaoikoe1.png)
