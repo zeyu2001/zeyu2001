@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*fastAndJunior*](https://www.reddit.com/r/ProgrammerHumor/comments/1jaeze6/fastandjunior/)
+[*skillIssuesIntensify*](https://www.reddit.com/r/ProgrammerHumor/comments/1jaohmz/skillissuesintensify/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n4hmdkwc9hoe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gkx0h45u7joe1.png)
