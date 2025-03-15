@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*idRatherDieOfThirst*](https://www.reddit.com/r/ProgrammerHumor/comments/1jb87yo/idratherdieofthirst/)
+[*itOnlyKillsWhenSwitchedSoJustDontSwitchIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1jbqino/itonlykillswhenswitchedsojustdontswitchit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5bc22oqylooe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v4dhdnr3ctoe1.png)
