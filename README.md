@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*efficientAlgorithm*](https://www.reddit.com/r/ProgrammerHumor/comments/1jc2pob/efficientalgorithm/)
+[*weHaveToGoBack*](https://www.reddit.com/r/ProgrammerHumor/comments/1jco2gm/wehavetogoback/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/19pzx6qvkwoe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1wkk19d9m2pe1.png)
