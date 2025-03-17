@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*noRansomware*](https://www.reddit.com/r/ProgrammerHumor/comments/1jdb0za/noransomware/)
+[*securityJustInterferesWithVibes*](https://www.reddit.com/r/ProgrammerHumor/comments/1jdfhlo/securityjustinterfereswithvibes/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7u0jw6n0q8pe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nt3ajca4r9pe1.png)
