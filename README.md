@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*securityJustInterferesWithVibes*](https://www.reddit.com/r/ProgrammerHumor/comments/1jdfhlo/securityjustinterfereswithvibes/)
+[*feedingPython*](https://www.reddit.com/r/ProgrammerHumor/comments/1je12pq/feedingpython/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nt3ajca4r9pe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bq2zp9o44fpe1.png)
