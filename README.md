@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ohNoTheyCantCodeAnymore*](https://www.reddit.com/r/ProgrammerHumor/comments/1jf0rq7/ohnotheycantcodeanymore/)
+[*leaveMeAloneIAmFine*](https://www.reddit.com/r/ProgrammerHumor/comments/1jfmsgy/leavemealoneiamfine/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/25a1eznc8ope1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xz58oqn5ztpe1.png)
