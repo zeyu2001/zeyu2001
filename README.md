@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thereWillBeSigns*](https://www.reddit.com/r/ProgrammerHumor/comments/1jfzygz/therewillbesigns/)
+[*vibeDebuggingCrysWithoutTears*](https://www.reddit.com/r/ProgrammerHumor/comments/1jgfxgb/vibedebuggingcryswithouttears/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ktyfmdvivwpe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o5ojkc5hg1qe1.png)
