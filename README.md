@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*vibeDebuggingCrysWithoutTears*](https://www.reddit.com/r/ProgrammerHumor/comments/1jgfxgb/vibedebuggingcryswithouttears/)
+[*wasteOfTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1jgjhta/wasteoftime/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o5ojkc5hg1qe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0tm7dnrz92qe1.png)
