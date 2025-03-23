@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*alrightBro*](https://www.reddit.com/r/ProgrammerHumor/comments/1jh4six/alrightbro/)
+[*thenDontUseIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1jhbdz2/thendontuseit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/i2i54ha3o7qe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/msd3imezh9qe1.png)
