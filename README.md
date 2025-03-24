@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*anyGodOfWarFansHere*](https://www.reddit.com/r/ProgrammerHumor/comments/1jhuyyi/anygodofwarfanshere/)
+[*averagePythonGuy*](https://www.reddit.com/r/ProgrammerHumor/comments/1jihuza/averagepythonguy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0k1gn6oxkeqe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2mgb213d6kqe1.png)
