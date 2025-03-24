@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*averagePythonGuy*](https://www.reddit.com/r/ProgrammerHumor/comments/1jihuza/averagepythonguy/)
+[*morePeopleCanGetItDoneFaster*](https://www.reddit.com/r/ProgrammerHumor/comments/1jirjr9/morepeoplecangetitdonefaster/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2mgb213d6kqe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dnjyv8eranqe1.png)
