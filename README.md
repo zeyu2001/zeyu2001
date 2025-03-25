@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*alwaysBestToCheckFirst*](https://www.reddit.com/r/ProgrammerHumor/comments/1jiuofs/alwaysbesttocheckfirst/)
+[*cssIsEveryWhere*](https://www.reddit.com/r/ProgrammerHumor/comments/1jje90a/cssiseverywhere/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2mwdnv4sxnqe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8f5xv6jelsqe1.png)
