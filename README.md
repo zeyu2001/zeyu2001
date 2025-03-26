@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*isAnybodyUsingThisPrivateKey*](https://www.reddit.com/r/ProgrammerHumor/comments/1jjnsda/isanybodyusingthisprivatekey/)
+[*futureWithAI*](https://www.reddit.com/r/ProgrammerHumor/comments/1jjwn4p/futurewithai/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lspwceag6vqe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uddy3b2vywqe1.png)
