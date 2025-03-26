@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*futureWithAI*](https://www.reddit.com/r/ProgrammerHumor/comments/1jjwn4p/futurewithai/)
+[*setupComparison*](https://www.reddit.com/r/ProgrammerHumor/comments/1jk3m4a/setupcomparison/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uddy3b2vywqe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hiim3xx7oyqe1.png)
