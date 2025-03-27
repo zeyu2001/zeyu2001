@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*techDebt25X*](https://www.reddit.com/r/ProgrammerHumor/comments/1jkd1gr/techdebt25x/)
+[*whyILoveProgramming*](https://www.reddit.com/r/ProgrammerHumor/comments/1jkqfk6/whyiloveprogramming/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/igxf2t5fn1re1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xl2gqcumf4re1.png)
