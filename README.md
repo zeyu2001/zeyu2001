@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*newTitleSamePaycheck*](https://www.reddit.com/r/ProgrammerHumor/comments/1jl9grr/newtitlesamepaycheck/)
+[*dotnetDevVillainArc*](https://www.reddit.com/r/ProgrammerHumor/comments/1jlrcv2/dotnetdevvillainarc/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1keoo7zqo9re1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yn53o7cajere1.png)
