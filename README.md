@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dotnetDevVillainArc*](https://www.reddit.com/r/ProgrammerHumor/comments/1jlrcv2/dotnetdevvillainarc/)
+[*damnVibers*](https://www.reddit.com/r/ProgrammerHumor/comments/1jllu3y/damnvibers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yn53o7cajere1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zzythm4wmcre1.png)
