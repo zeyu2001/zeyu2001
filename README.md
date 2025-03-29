@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lowEffortWar*](https://www.reddit.com/r/ProgrammerHumor/comments/1jlu72l/loweffortwar/)
+[*hereWeGoAgain*](https://www.reddit.com/r/ProgrammerHumor/comments/1jmhnc4/herewegoagain/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c1swwfz3ffre1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9hb6bzfr7lre1.png)
