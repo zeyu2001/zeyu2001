@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*onTheSameBoat*](https://www.reddit.com/r/ProgrammerHumor/comments/1jmmsn5/onthesameboat/)
+[*whyIsNoOneHiringMeMarketMustBeDead*](https://www.reddit.com/r/ProgrammerHumor/comments/1jn4e51/whyisnoonehiringmemarketmustbedead/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c46ljfljwmre1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kqpmuvif4rre1.png)
