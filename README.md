@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iAmGoProgrammerCSSIsSupreme*](https://www.reddit.com/r/ProgrammerHumor/comments/1jnmz7e/iamgoprogrammercssissupreme/)
+[*wasntThisTermVibeCodingSupposedToBeJoke*](https://www.reddit.com/r/ProgrammerHumor/comments/1jo4m8z/wasntthistermvibecodingsupposedtobejoke/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uekbnot09wre1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7xp3j9n9d1se1.png)
