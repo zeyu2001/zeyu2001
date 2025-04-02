@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*unEmploymentAreAtPeak*](https://www.reddit.com/r/ProgrammerHumor/comments/1joz1kt/unemploymentareatpeak/)
+[*itsTheOnlyWayTheyLearn*](https://www.reddit.com/r/ProgrammerHumor/comments/1joze5z/itstheonlywaytheylearn/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yv6abrpew8se1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/u5aai0jxy8se1.png)
