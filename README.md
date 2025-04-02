@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sIgMa*](https://www.reddit.com/r/ProgrammerHumor/comments/1joq7xy/sigma/)
+[*unEmploymentAreAtPeak*](https://www.reddit.com/r/ProgrammerHumor/comments/1joz1kt/unemploymentareatpeak/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nr583qavi6se1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yv6abrpew8se1.png)
