@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*tryRestartingYourComputer*](https://www.reddit.com/r/ProgrammerHumor/comments/1jpl776/tryrestartingyourcomputer/)
+[*illGetAroundToItEventually*](https://www.reddit.com/r/ProgrammerHumor/comments/1jqajhq/illgetaroundtoiteventually/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gg6n35qocese1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rtmceqj65kse1.png)
