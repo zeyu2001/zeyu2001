@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*linuxDoubleStandard*](https://www.reddit.com/r/ProgrammerHumor/comments/1jphqx3/linuxdoublestandard/)
+[*tryRestartingYourComputer*](https://www.reddit.com/r/ProgrammerHumor/comments/1jpl776/tryrestartingyourcomputer/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/numu1s8u3dse1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gg6n35qocese1.png)
