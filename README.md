@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*leDesginer*](https://www.reddit.com/r/ProgrammerHumor/comments/1jqjq1n/ledesginer/)
+[*shareWithColleaguesMakeThemHappier*](https://www.reddit.com/r/ProgrammerHumor/comments/1jqorw2/sharewithcolleaguesmakethemhappier/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rdfj3ktqpmse1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bnltesynonse1.png)
