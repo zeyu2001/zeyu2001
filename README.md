@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*shareWithColleaguesMakeThemHappier*](https://www.reddit.com/r/ProgrammerHumor/comments/1jqorw2/sharewithcolleaguesmakethemhappier/)
+[*thisHappensToMeEveryMonth*](https://www.reddit.com/r/ProgrammerHumor/comments/1jqspeg/thishappenstomeeverymonth/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bnltesynonse1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jw7gk695fose1.png)
