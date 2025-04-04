@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisHappensToMeEveryMonth*](https://www.reddit.com/r/ProgrammerHumor/comments/1jqspeg/thishappenstomeeverymonth/)
+[*dontSolveProblemsJustBuildSomething*](https://www.reddit.com/r/ProgrammerHumor/comments/1jr7ohz/dontsolveproblemsjustbuildsomething/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jw7gk695fose1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/83g22katcsse1.png)
