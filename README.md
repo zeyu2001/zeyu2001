@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*mostAttentiveStakeholder*](https://www.reddit.com/r/ProgrammerHumor/comments/1js49y5/mostattentivestakeholder/)
+[*ahWeAreSoGood*](https://www.reddit.com/r/ProgrammerHumor/comments/1js4z58/ahwearesogood/)
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/6Id42Zv.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1mveztq331te1.png)
