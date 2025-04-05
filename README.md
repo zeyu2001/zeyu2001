@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*newThinkPadVibeCode1Released*](https://www.reddit.com/r/ProgrammerHumor/comments/1jrvqgo/newthinkpadvibecode1released/)
+[*mostAttentiveStakeholder*](https://www.reddit.com/r/ProgrammerHumor/comments/1js49y5/mostattentivestakeholder/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3ibwdfg26yse1.png)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/6Id42Zv.png)
