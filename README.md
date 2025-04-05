@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dontSolveProblemsJustBuildSomething*](https://www.reddit.com/r/ProgrammerHumor/comments/1jr7ohz/dontsolveproblemsjustbuildsomething/)
+[*newThinkPadVibeCode1Released*](https://www.reddit.com/r/ProgrammerHumor/comments/1jrvqgo/newthinkpadvibecode1released/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/83g22katcsse1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3ibwdfg26yse1.png)
