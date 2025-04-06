@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ahWeAreSoGood*](https://www.reddit.com/r/ProgrammerHumor/comments/1js4z58/ahwearesogood/)
+[*juniorLabour*](https://www.reddit.com/r/ProgrammerHumor/comments/1jsahgl/juniorlabour/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1mveztq331te1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rotj5r4oa2te1.png)
