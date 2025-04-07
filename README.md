@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisIncidentWillBeReported*](https://www.reddit.com/r/ProgrammerHumor/comments/1jtjb8t/thisincidentwillbereported/)
+[*justHow*](https://www.reddit.com/r/ProgrammerHumor/comments/1jtl3f6/justhow/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rnpysz29iete1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3r2h0j8qyete1.png)
