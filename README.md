@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*vscodeUpdatesBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/1jsvycq/vscodeupdatesbelike/)
+[*thisIncidentWillBeReported*](https://www.reddit.com/r/ProgrammerHumor/comments/1jtjb8t/thisincidentwillbereported/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fhiap3bja8te1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rnpysz29iete1.png)
