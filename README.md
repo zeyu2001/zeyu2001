@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*bugsNeverSleep*](https://www.reddit.com/r/ProgrammerHumor/comments/1ju0eqa/bugsneversleep/)
+[*veryAnonymous*](https://www.reddit.com/r/ProgrammerHumor/comments/1jugsjq/veryanonymous/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/adc20qin6ite1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/taapdw1htmte1.png)
