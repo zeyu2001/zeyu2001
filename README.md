@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*runAnEC2For5MinsAndWin*](https://www.reddit.com/r/ProgrammerHumor/comments/1juyyc4/runanec2for5minsandwin/)
+[*youAGIYet*](https://www.reddit.com/r/ProgrammerHumor/comments/1jv6vtt/youagiyet/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k8vyxroj1rte1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p2jrshbjitte1.png)
