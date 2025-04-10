@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youAGIYet*](https://www.reddit.com/r/ProgrammerHumor/comments/1jv6vtt/youagiyet/)
+[*howAboutYouShutUp*](https://www.reddit.com/r/ProgrammerHumor/comments/1jvsyt9/howaboutyoushutup/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p2jrshbjitte1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pb8pa0dhxyte1.png)
