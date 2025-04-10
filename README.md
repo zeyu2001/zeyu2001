@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howAboutYouShutUp*](https://www.reddit.com/r/ProgrammerHumor/comments/1jvsyt9/howaboutyoushutup/)
+[*heLooksSoHappy*](https://www.reddit.com/r/ProgrammerHumor/comments/1jw2gqu/helookssohappy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pb8pa0dhxyte1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7l4h7wked1ue1.png)
