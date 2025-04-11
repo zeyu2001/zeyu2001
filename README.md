@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*heLooksSoHappy*](https://www.reddit.com/r/ProgrammerHumor/comments/1jw2gqu/helookssohappy/)
+[*monthsOfTroubles*](https://www.reddit.com/r/ProgrammerHumor/comments/1jwdwh6/monthsoftroubles/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7l4h7wked1ue1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8hszsh7kv3ue1.png)
