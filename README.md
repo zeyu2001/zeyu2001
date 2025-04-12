@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whoCanSaveYouFromThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1jwm8m2/whocansaveyoufromthis/)
+[*littlebobbyTablesLittleDerpyAhhBrother*](https://www.reddit.com/r/ProgrammerHumor/comments/1jx1eyv/littlebobbytableslittlederpyahhbrother/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xvg91s31j6ue1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/05x5ocncz9ue1.png)
