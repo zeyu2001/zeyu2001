@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*monthsOfTroubles*](https://www.reddit.com/r/ProgrammerHumor/comments/1jwdwh6/monthsoftroubles/)
+[*whoCanSaveYouFromThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1jwm8m2/whocansaveyoufromthis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8hszsh7kv3ue1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xvg91s31j6ue1.png)
