@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*littlebobbyTablesLittleDerpyAhhBrother*](https://www.reddit.com/r/ProgrammerHumor/comments/1jx1eyv/littlebobbytableslittlederpyahhbrother/)
+[*friendsWithBenefits*](https://www.reddit.com/r/ProgrammerHumor/comments/1jxcep8/friendswithbenefits/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/05x5ocncz9ue1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zimm6psn3due1.png)
