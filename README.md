@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*programmersBlues*](https://www.reddit.com/r/ProgrammerHumor/comments/1jxk8r9/programmersblues/)
+[*itWillOnlyTake2Days*](https://www.reddit.com/r/ProgrammerHumor/comments/1jy4rpi/itwillonlytake2days/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uq96oed5dfue1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9w6ersbqykue1.png)
