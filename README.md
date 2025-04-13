@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*friendsWithBenefits*](https://www.reddit.com/r/ProgrammerHumor/comments/1jxcep8/friendswithbenefits/)
+[*programmersBlues*](https://www.reddit.com/r/ProgrammerHumor/comments/1jxk8r9/programmersblues/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zimm6psn3due1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uq96oed5dfue1.png)
