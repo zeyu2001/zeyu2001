@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*trainYourAiOnThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1jy59wl/trainyouraionthis/)
+[*behindEveryAiIsAnotherAi*](https://www.reddit.com/r/ProgrammerHumor/comments/1jytv6w/behindeveryaiisanotherai/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rtx8ygxr4lue1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/t0g8h1sbgrue1.png)
