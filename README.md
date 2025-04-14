@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*behindEveryAiIsAnotherAi*](https://www.reddit.com/r/ProgrammerHumor/comments/1jytv6w/behindeveryaiisanotherai/)
+[*techInnovationCurves*](https://www.reddit.com/r/ProgrammerHumor/comments/1jyxq5z/techinnovationcurves/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/t0g8h1sbgrue1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gukozo7mosue1.png)
