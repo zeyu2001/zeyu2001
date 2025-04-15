@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*techInnovationCurves*](https://www.reddit.com/r/ProgrammerHumor/comments/1jyxq5z/techinnovationcurves/)
+[*damnProgrammersTheyRuinedCalculators*](https://www.reddit.com/r/ProgrammerHumor/comments/1jzcr03/damnprogrammerstheyruinedcalculators/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gukozo7mosue1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zmjmq2metvue1.png)
