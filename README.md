@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whichOneAreYou*](https://www.reddit.com/r/ProgrammerHumor/comments/1jzpffy/whichoneareyou/)
+[*memoryLeakInPseudoCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1k00t8h/memoryleakinpseudocode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/anl9pbnehzue1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z2owgk1uv1ve1.png)
