@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theRealReason*](https://www.reddit.com/r/ProgrammerHumor/comments/1k0e91w/therealreason/)
+[*ganzHauptBro*](https://www.reddit.com/r/ProgrammerHumor/comments/1k0pgik/ganzhauptbro/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ou50mqb7b5ve1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qmza9pt6a8ve1.png)
