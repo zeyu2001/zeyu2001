@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*checkWhetherYourPrivateKeyIsUsed*](https://www.reddit.com/r/ProgrammerHumor/comments/1k1nl1o/checkwhetheryourprivatekeyisused/)
+[*theyThoughtWeWontNotice*](https://www.reddit.com/r/ProgrammerHumor/comments/1k21wqt/theythoughtwewontnotice/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x4s2kj0nlgve1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s6nggy9rokve1.png)
