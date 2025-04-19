@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theyThoughtWeWontNotice*](https://www.reddit.com/r/ProgrammerHumor/comments/1k21wqt/theythoughtwewontnotice/)
+[*maxErals*](https://www.reddit.com/r/ProgrammerHumor/comments/1k2roq4/maxerals/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/s6nggy9rokve1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rcha1tvu5rve1.png)
