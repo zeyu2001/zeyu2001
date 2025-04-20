@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iWasLost*](https://www.reddit.com/r/ProgrammerHumor/comments/1k30u4f/iwaslost/)
+[*ifYouKnowYouKnow*](https://www.reddit.com/r/ProgrammerHumor/comments/1k3kbzi/ifyouknowyouknow/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m4lrtgm9otve1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ag6cusfr4zve1.png)
