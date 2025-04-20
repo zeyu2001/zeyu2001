@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ifYouKnowYouKnow*](https://www.reddit.com/r/ProgrammerHumor/comments/1k3kbzi/ifyouknowyouknow/)
+[*aDeveloperLostHisCodingJobAndCafeForTheSameReason*](https://www.reddit.com/r/ProgrammerHumor/comments/1k3qfjo/adeveloperlosthiscodingjobandcafeforthesamereason/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ag6cusfr4zve1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sps5p9d8o0we1.png)
