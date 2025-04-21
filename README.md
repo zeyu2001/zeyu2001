@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aDeveloperLostHisCodingJobAndCafeForTheSameReason*](https://www.reddit.com/r/ProgrammerHumor/comments/1k3qfjo/adeveloperlosthiscodingjobandcafeforthesamereason/)
+[*youNeverKnow*](https://www.reddit.com/r/ProgrammerHumor/comments/1k4b2ti/youneverknow/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sps5p9d8o0we1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s1lrm344a6we1.png)
