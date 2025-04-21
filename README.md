@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youNeverKnow*](https://www.reddit.com/r/ProgrammerHumor/comments/1k4b2ti/youneverknow/)
+[*obscureLoops*](https://www.reddit.com/r/ProgrammerHumor/comments/1k456gc/obscureloops/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/s1lrm344a6we1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ig3s2v2o84we1.png)
