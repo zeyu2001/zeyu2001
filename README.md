@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*obscureLoops*](https://www.reddit.com/r/ProgrammerHumor/comments/1k456gc/obscureloops/)
+[*theNewbieAskingForHelpOnX*](https://www.reddit.com/r/ProgrammerHumor/comments/1k4qcyy/thenewbieaskingforhelponx/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ig3s2v2o84we1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cdf9vzu2j9we1.png)
