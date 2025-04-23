@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*maintainingTheGamingIndustry*](https://www.reddit.com/r/ProgrammerHumor/comments/1k5ucft/maintainingthegamingindustry/)
+[*gitGud*](https://www.reddit.com/r/ProgrammerHumor/comments/1k66xv1/gitgud/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qj3t929ksjwe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2kp9wr8tqmwe1.png)
