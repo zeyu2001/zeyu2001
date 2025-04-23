@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*x86IsGood*](https://www.reddit.com/r/ProgrammerHumor/comments/1k5fps7/x86isgood/)
+[*maintainingTheGamingIndustry*](https://www.reddit.com/r/ProgrammerHumor/comments/1k5ucft/maintainingthegamingindustry/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dk1manzrxfwe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qj3t929ksjwe1.png)
