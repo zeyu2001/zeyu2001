@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gitGud*](https://www.reddit.com/r/ProgrammerHumor/comments/1k66xv1/gitgud/)
+[*whoNeedsForLoops*](https://www.reddit.com/r/ProgrammerHumor/comments/1k6by0u/whoneedsforloops/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2kp9wr8tqmwe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0pwzg1nnrnwe1.png)
