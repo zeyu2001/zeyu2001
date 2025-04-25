@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*jSON*](https://www.reddit.com/r/ProgrammerHumor/comments/1k6mib7/json/)
+[*realDevs*](https://www.reddit.com/r/ProgrammerHumor/comments/1k729i6/realdevs/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y03gi55blqwe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y9ivtcvbcuwe1.png)
