@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*realDevs*](https://www.reddit.com/r/ProgrammerHumor/comments/1k729i6/realdevs/)
+[*thereIsNoPointInTrying*](https://www.reddit.com/r/ProgrammerHumor/comments/1k7fwiq/thereisnopointintrying/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y9ivtcvbcuwe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bqll5qjvyxwe1.png)
