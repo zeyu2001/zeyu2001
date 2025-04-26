@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*incident2AmSQLFix*](https://www.reddit.com/r/ProgrammerHumor/comments/1k7gw73/incident2amsqlfix/)
+[*goPhish*](https://www.reddit.com/r/ProgrammerHumor/comments/1k85q0u/gophish/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mhwcd9knbywe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qsm67h2g94xe1.png)
