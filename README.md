@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*vibeCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1k90ahd/vibecoding/)
+[*silenceCodeNumber1*](https://www.reddit.com/r/ProgrammerHumor/comments/1k99nx7/silencecodenumber1/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/okr6it00ncxe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hi8l79fxyexe1.png)
