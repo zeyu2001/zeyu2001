@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aiInProdWhatCouldGoWrong*](https://www.reddit.com/r/ProgrammerHumor/comments/1k81x4o/aiinprodwhatcouldgowrong/)
+[*insertMemeHere*](https://www.reddit.com/r/ProgrammerHumor/comments/1k8hvog/insertmemehere/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hphbutr363xe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/smcroapmo7xe1.png)
