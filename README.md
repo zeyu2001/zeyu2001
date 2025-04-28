@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*silenceCodeNumber1*](https://www.reddit.com/r/ProgrammerHumor/comments/1k99nx7/silencecodenumber1/)
+[*myWholeLifeWasALie*](https://www.reddit.com/r/ProgrammerHumor/comments/1k9vvwg/mywholelifewasalie/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hi8l79fxyexe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qton0a60ykxe1.png)
