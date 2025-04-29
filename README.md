@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*myWholeLifeWasALie*](https://www.reddit.com/r/ProgrammerHumor/comments/1k9vvwg/mywholelifewasalie/)
+[*pullBeforePushing*](https://www.reddit.com/r/ProgrammerHumor/comments/1ka9nf4/pullbeforepushing/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qton0a60ykxe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bsai9qivsnxe1.png)
