@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*changeMyMind*](https://www.reddit.com/r/ProgrammerHumor/comments/1kad085/changemymind/)
+[*goldenOpportunity*](https://www.reddit.com/r/ProgrammerHumor/comments/1kb0yc6/goldenopportunity/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m7itscoymoxe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uuvil9dnouxe1.png)
