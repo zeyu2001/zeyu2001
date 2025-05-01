@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*noAsAService*](https://www.reddit.com/r/ProgrammerHumor/comments/1kb3o1x/noasaservice/)
+[*minorMisclick*](https://www.reddit.com/r/ProgrammerHumor/comments/1kbl8qy/minormisclick/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dm4dam4rbvxe1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qc4r9k3p40ye1.png)
