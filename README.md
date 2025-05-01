@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*minorMisclick*](https://www.reddit.com/r/ProgrammerHumor/comments/1kbl8qy/minormisclick/)
+[*selectDataScienceFromSql*](https://www.reddit.com/r/ProgrammerHumor/comments/1kbqedf/selectdatasciencefromsql/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qc4r9k3p40ye1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0x2xyvxy61ye1.png)
