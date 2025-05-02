@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*darkSide*](https://www.reddit.com/r/ProgrammerHumor/comments/1kcegog/darkside/)
+[*iLoveJavaScript*](https://www.reddit.com/r/ProgrammerHumor/comments/1kcvwi7/ilovejavascript/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/g0pvp2brg7ye1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1s03jytywbye1.png)
