@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*isThisTrue*](https://www.reddit.com/r/ProgrammerHumor/comments/1kdbl2m/isthistrue/)
+[*fuckYourVibe*](https://www.reddit.com/r/ProgrammerHumor/comments/1ke1u45/fuckyourvibe/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/r1gep2ldmfye1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/oglej2udimye1.png)
