@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iLoveJavaScript*](https://www.reddit.com/r/ProgrammerHumor/comments/1kcvwi7/ilovejavascript/)
+[*isThisTrue*](https://www.reddit.com/r/ProgrammerHumor/comments/1kdbl2m/isthistrue/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1s03jytywbye1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/r1gep2ldmfye1.png)
