@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*java*](https://www.reddit.com/r/ProgrammerHumor/comments/1kfbp0a/java/)
+[*menace*](https://www.reddit.com/r/ProgrammerHumor/comments/1kfmm8n/menace/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/v8gm7jc4uyye1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nl2cfmcq01ze1.png)
