@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*bruhWhosOutHereMakingCaptchasLikeThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1kg4jih/bruhwhosoutheremakingcaptchaslikethis/)
+[*guessTheRepo*](https://www.reddit.com/r/ProgrammerHumor/comments/1kgpp66/guesstherepo/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k12ic51ky5ze1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/josayyn8paze1.png)
