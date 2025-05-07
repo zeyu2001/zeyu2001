@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iAmAnIndieHacker*](https://www.reddit.com/r/ProgrammerHumor/comments/1kfy9ej/iamanindiehacker/)
+[*thankYouTypeScript*](https://www.reddit.com/r/ProgrammerHumor/comments/1kfyztl/thankyoutypescript/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/26txt31k14ze1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ez8tacx8b4ze1.png)
