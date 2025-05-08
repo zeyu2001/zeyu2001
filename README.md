@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whytfthishappened*](https://www.reddit.com/r/ProgrammerHumor/comments/1khwgxn/whytfthishappened/)
+[*butItWorks*](https://www.reddit.com/r/ProgrammerHumor/comments/1khz5iq/butitworks/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wx1sh6k5jlze1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/maglk64g2mze1.png)
