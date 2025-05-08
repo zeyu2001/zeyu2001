@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iAmTheUpgrade*](https://www.reddit.com/r/ProgrammerHumor/comments/1kgvb2i/iamtheupgrade/)
+[*allegoryOrSomething*](https://www.reddit.com/r/ProgrammerHumor/comments/1kgw3ta/allegoryorsomething/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lzfiaox5lcze1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5rsedv5iscze1.png)
