@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*allegoryOrSomething*](https://www.reddit.com/r/ProgrammerHumor/comments/1kgw3ta/allegoryorsomething/)
+[*cloudServiceBlues*](https://www.reddit.com/r/ProgrammerHumor/comments/1kgyg40/cloudserviceblues/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5rsedv5iscze1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y8pqukxsbdze1.png)
