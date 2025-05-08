@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cloudServiceBlues*](https://www.reddit.com/r/ProgrammerHumor/comments/1kgyg40/cloudserviceblues/)
+[*letsCallTheUnitTestsWithoutTheParameterAlwaysPresentInTheUseCase*](https://www.reddit.com/r/ProgrammerHumor/comments/1kh6m03/letscalltheunittestswithouttheparameteralwaysprese/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y8pqukxsbdze1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/olrw0986xeze1.png)
