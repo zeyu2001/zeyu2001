@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*butItWorks*](https://www.reddit.com/r/ProgrammerHumor/comments/1khz5iq/butitworks/)
+[*trollingAtChadLevel*](https://www.reddit.com/r/ProgrammerHumor/comments/1ki4xy7/trollingatchadlevel/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/maglk64g2mze1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/41w46gpwbnze1.png)
