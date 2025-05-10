@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*imTiredBoss*](https://www.reddit.com/r/ProgrammerHumor/comments/1kiof63/imtiredboss/)
+[*isSoClose*](https://www.reddit.com/r/ProgrammerHumor/comments/1kj363f/issoclose/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nylcxt4ilsze1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mhdblq9s7wze1.png)
