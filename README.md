@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*humanRegexParser*](https://www.reddit.com/r/ProgrammerHumor/comments/1kjbk3h/humanregexparser/)
+[*fourPillarsOnWhichProgrammingStands*](https://www.reddit.com/r/ProgrammerHumor/comments/1kjgcdq/fourpillarsonwhichprogrammingstands/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xkh8t92psyze1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mn4pxnouuzze1.png)
