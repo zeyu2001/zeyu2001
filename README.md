@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*fourPillarsOnWhichProgrammingStands*](https://www.reddit.com/r/ProgrammerHumor/comments/1kjgcdq/fourpillarsonwhichprogrammingstands/)
+[*needsALittleRefactoring*](https://www.reddit.com/r/ProgrammerHumor/comments/1kk3igw/needsalittlerefactoring/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mn4pxnouuzze1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ivs1r0td760f1.png)
