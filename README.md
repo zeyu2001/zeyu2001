@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*needsALittleRefactoring*](https://www.reddit.com/r/ProgrammerHumor/comments/1kk3igw/needsalittlerefactoring/)
+[*lookingAtYouBig4*](https://www.reddit.com/r/ProgrammerHumor/comments/1kkc3d3/lookingatyoubig4/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ivs1r0td760f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wuf5v82f280f1.png)
