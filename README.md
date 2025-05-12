@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lookingAtYouBig4*](https://www.reddit.com/r/ProgrammerHumor/comments/1kkc3d3/lookingatyoubig4/)
+[*goddamnVibeCoders*](https://www.reddit.com/r/ProgrammerHumor/comments/1kkoiq2/goddamnvibecoders/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wuf5v82f280f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cdwqzswsob0f1.png)
