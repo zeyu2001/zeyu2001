@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*vibeCodingFinallySolved*](https://www.reddit.com/r/ProgrammerHumor/comments/1kku0g1/vibecodingfinallysolved/)
+[*welcomeToCodeReview*](https://www.reddit.com/r/ProgrammerHumor/comments/1kkx5da/welcometocodereview/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vsh2i9t93d0f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3emae8dlpd0f1.png)
