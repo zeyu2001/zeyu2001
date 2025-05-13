@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*beSureToRegisterYourPlaceAtVibeCon*](https://www.reddit.com/r/ProgrammerHumor/comments/1kleb0o/besuretoregisteryourplaceatvibecon/)
+[*vibeCodingFinallySolved*](https://www.reddit.com/r/ProgrammerHumor/comments/1kku0g1/vibecodingfinallysolved/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/617yu294lh0f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vsh2i9t93d0f1.png)
