@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*perksOfBeingVibeCoder*](https://www.reddit.com/r/ProgrammerHumor/comments/1klv0as/perksofbeingvibecoder/)
+[*anotherDayOnLinkedIn*](https://www.reddit.com/r/ProgrammerHumor/comments/1km7ziq/anotherdayonlinkedin/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jxptcghapl0f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/aw8lizrqto0f1.png)
