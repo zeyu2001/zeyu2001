@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gottaDoItTheRightWay*](https://www.reddit.com/r/ProgrammerHumor/comments/1kmodhd/gottadoittherightway/)
+[*jS*](https://www.reddit.com/r/ProgrammerHumor/comments/1kn02fg/js/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/718o7aqkvs0f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/39lwaoabov0f1.png)
