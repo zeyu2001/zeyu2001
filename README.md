@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dontActuallyDoThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1knh00q/dontactuallydothis/)
+[*cLike*](https://www.reddit.com/r/ProgrammerHumor/comments/1ko8lja/clike/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/v4zm4irlyz0f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/678kn02iw61f1.png)
