@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cLike*](https://www.reddit.com/r/ProgrammerHumor/comments/1ko8lja/clike/)
+[*spotOn*](https://www.reddit.com/r/ProgrammerHumor/comments/1kod7ps/spoton/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/678kn02iw61f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jrx5pcvuv71f1.png)
