@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*spotOn*](https://www.reddit.com/r/ProgrammerHumor/comments/1kod7ps/spoton/)
+[*justASimpleBooleanQuestion*](https://www.reddit.com/r/ProgrammerHumor/comments/1kompx5/justasimplebooleanquestion/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jrx5pcvuv71f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rsqrzcrcha1f1.png)
