@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*yallAreWebDevsRight*](https://www.reddit.com/r/ProgrammerHumor/comments/1kpcphn/yallarewebdevsright/)
+[*iWasSoWrong*](https://www.reddit.com/r/ProgrammerHumor/comments/1kpkhx7/iwassowrong/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yhc5l4729h1f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/56dyc6cspj1f1.png)
