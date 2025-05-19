@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iWasSoWrong*](https://www.reddit.com/r/ProgrammerHumor/comments/1kpkhx7/iwassowrong/)
+[*theFourStagesOfCSSutedentEvolution*](https://www.reddit.com/r/ProgrammerHumor/comments/1kq78je/thefourstagesofcssutedentevolution/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/56dyc6cspj1f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/88rfrp92hp1f1.png)
