@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*startUpBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/1kqgi49/startupbelike/)
+[*theMostSafeData*](https://www.reddit.com/r/ProgrammerHumor/comments/1kr4g8n/themostsafedata/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/szw5oyfepr1f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k8vsxtrmrx1f1.png)
