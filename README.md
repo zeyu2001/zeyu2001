@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theMostSafeData*](https://www.reddit.com/r/ProgrammerHumor/comments/1kr4g8n/themostsafedata/)
+[*getToTheFckingPointOmfg*](https://www.reddit.com/r/ProgrammerHumor/comments/1kr7ynn/gettothefckingpointomfg/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k8vsxtrmrx1f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/aa86o2h1iy1f1.png)
