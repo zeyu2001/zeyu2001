@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theFourStagesOfCSSutedentEvolution*](https://www.reddit.com/r/ProgrammerHumor/comments/1kq78je/thefourstagesofcssutedentevolution/)
+[*startUpBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/1kqgi49/startupbelike/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/88rfrp92hp1f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/szw5oyfepr1f1.png)
