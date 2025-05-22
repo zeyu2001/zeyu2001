@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itsNotWorkingJarvis*](https://www.reddit.com/r/ProgrammerHumor/comments/1ks7r13/itsnotworkingjarvis/)
+[*microsoftOpenSource*](https://www.reddit.com/r/ProgrammerHumor/comments/1ks9wul/microsoftopensource/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lsuhc6aez62f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cv8x9xhaf72f1.png)
