@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*deadlineDrivenDevelopment*](https://www.reddit.com/r/ProgrammerHumor/comments/1ksrx7y/deadlinedrivendevelopment/)
+[*notToday*](https://www.reddit.com/r/ProgrammerHumor/comments/1kt035x/nottoday/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3022gzg7ec2f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yritqqb11e2f1.png)
