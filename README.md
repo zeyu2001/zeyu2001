@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iLoveTesting*](https://www.reddit.com/r/ProgrammerHumor/comments/1ksn7k2/ilovetesting/)
+[*thePeopleInChargeOfMyMoney*](https://www.reddit.com/r/ProgrammerHumor/comments/1kt3dsg/thepeopleinchargeofmymoney/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sk6z60ol7b2f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o68vijlape2f1.png)
