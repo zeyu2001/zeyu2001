@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*mutilayerPerceptron*](https://www.reddit.com/r/ProgrammerHumor/comments/1ktolvv/mutilayerperceptron/)
+[*newReality*](https://www.reddit.com/r/ProgrammerHumor/comments/1ktsc96/newreality/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l97b8qhbbk2f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d4nwpzre2l2f1.png)
