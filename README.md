@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iGuessWeCant*](https://www.reddit.com/r/ProgrammerHumor/comments/1ktwsep/iguesswecant/)
+[*changeMyMind*](https://www.reddit.com/r/ProgrammerHumor/comments/1kun9zj/changemymind/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/75olqbhk0m2f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gvjsk2930t2f1.png)
