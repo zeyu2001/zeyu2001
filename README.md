@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*bakaJavaChan*](https://www.reddit.com/r/ProgrammerHumor/comments/1kv9d8i/bakajavachan/)
+[*allMyHomiesHatePip*](https://www.reddit.com/r/ProgrammerHumor/comments/1kvx3du/allmyhomieshatepip/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dseilec80z2f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3orangy9953f1.png)
