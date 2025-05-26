@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whenUpgradingActuallyImproves*](https://www.reddit.com/r/ProgrammerHumor/comments/1kvn2w0/whenupgradingactuallyimproves/)
+[*bakaJavaChan*](https://www.reddit.com/r/ProgrammerHumor/comments/1kv9d8i/bakajavachan/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2tgtoknrg23f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dseilec80z2f1.png)
