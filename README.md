@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*jumpingONmemeTrend*](https://www.reddit.com/r/ProgrammerHumor/comments/1kvzs4o/jumpingonmemetrend/)
+[*wellMaybeNotFridayButItsMyLastDay*](https://www.reddit.com/r/ProgrammerHumor/comments/1kwh3oh/wellmaybenotfridaybutitsmylastday/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k2dkn3pfs53f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/34nqgn3jz93f1.png)
