@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*wellMaybeNotFridayButItsMyLastDay*](https://www.reddit.com/r/ProgrammerHumor/comments/1kwh3oh/wellmaybenotfridaybutitsmylastday/)
+[*bugsArmy*](https://www.reddit.com/r/ProgrammerHumor/comments/1kx757y/bugsarmy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/34nqgn3jz93f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bay9w3cg0g3f1.png)
