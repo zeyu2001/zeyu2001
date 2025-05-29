@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iWouldRatherDieOfThirst*](https://www.reddit.com/r/ProgrammerHumor/comments/1kx9jxq/iwouldratherdieofthirst/)
+[*whatTheEntryPoint*](https://www.reddit.com/r/ProgrammerHumor/comments/1kxsnnr/whattheentrypoint/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ttcoqtk1pg3f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6b47hpmr8l3f1.png)
