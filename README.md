@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatTheEntryPoint*](https://www.reddit.com/r/ProgrammerHumor/comments/1kxsnnr/whattheentrypoint/)
+[*jeera*](https://www.reddit.com/r/ProgrammerHumor/comments/1ky3phm/jeera/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6b47hpmr8l3f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3uue4etozn3f1.png)
