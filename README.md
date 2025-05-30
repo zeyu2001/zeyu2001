@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*openAi*](https://www.reddit.com/r/ProgrammerHumor/comments/1kz311w/openai/)
+[*trashTeams*](https://www.reddit.com/r/ProgrammerHumor/comments/1kzffgn/trashteams/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xu69vua3yw3f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ync0b83mgz3f1.png)
