@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iJustWantToFindTheImgSrc*](https://www.reddit.com/r/ProgrammerHumor/comments/1kz63ut/ijustwanttofindtheimgsrc/)
+[*itsOneOfThoseMemesAgain*](https://www.reddit.com/r/ProgrammerHumor/comments/1kzg8lb/itsoneofthosememesagain/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ghs4b5kgmx3f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6gvgxylfnz3f1.png)
