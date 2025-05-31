@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*trashTeams*](https://www.reddit.com/r/ProgrammerHumor/comments/1kzffgn/trashteams/)
+[*iJustWantToFindTheImgSrc*](https://www.reddit.com/r/ProgrammerHumor/comments/1kz63ut/ijustwanttofindtheimgsrc/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ync0b83mgz3f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ghs4b5kgmx3f1.png)
