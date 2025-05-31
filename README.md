@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itsOneOfThoseMemesAgain*](https://www.reddit.com/r/ProgrammerHumor/comments/1kzg8lb/itsoneofthosememesagain/)
+[*whatIsAchild*](https://www.reddit.com/r/ProgrammerHumor/comments/1kzzqr7/whatisachild/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6gvgxylfnz3f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iyn4beq6y44f1.png)
