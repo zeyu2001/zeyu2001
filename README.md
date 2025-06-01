@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatIsAchild*](https://www.reddit.com/r/ProgrammerHumor/comments/1kzzqr7/whatisachild/)
+[*skillPremium*](https://www.reddit.com/r/ProgrammerHumor/comments/1l0nept/skillpremium/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/iyn4beq6y44f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y241mp614b4f1.png)
