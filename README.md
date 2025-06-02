@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*skillPremium*](https://www.reddit.com/r/ProgrammerHumor/comments/1l0nept/skillpremium/)
+[*recursiveEven*](https://www.reddit.com/r/ProgrammerHumor/comments/1l13qlo/recursiveeven/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y241mp614b4f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p1hend79me4f1.png)
