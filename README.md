@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*recursiveEven*](https://www.reddit.com/r/ProgrammerHumor/comments/1l13qlo/recursiveeven/)
+[*makesMeSick*](https://www.reddit.com/r/ProgrammerHumor/comments/1l1fjyv/makesmesick/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p1hend79me4f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bltqei3q0i4f1.png)
