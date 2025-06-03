@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dontCatTheVim*](https://www.reddit.com/r/ProgrammerHumor/comments/1l1rxrm/dontcatthevim/)
+[*fuckingAI*](https://www.reddit.com/r/ProgrammerHumor/comments/1l2a044/fuckingai/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7n3dmlw6kk4f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ac0rvftvbp4f1.png)
