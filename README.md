@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*fuckingAI*](https://www.reddit.com/r/ProgrammerHumor/comments/1l2a044/fuckingai/)
+[*everyAiIsAnIndianInATrenchcoat*](https://www.reddit.com/r/ProgrammerHumor/comments/1l2fs85/everyaiisanindianinatrenchcoat/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ac0rvftvbp4f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xrso756jjq4f1.png)
