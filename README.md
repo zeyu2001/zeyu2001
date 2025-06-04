@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*guessWhy*](https://www.reddit.com/r/ProgrammerHumor/comments/1l2janz/guesswhy/)
+[*formattingExternalDisksOnLinuxWithoutWipingOwnMachine*](https://www.reddit.com/r/ProgrammerHumor/comments/1l351h5/formattingexternaldisksonlinuxwithoutwipingownmach/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6rao8twq7r4f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0nqfa2uhsw4f1.png)
