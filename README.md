@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*reDeploy*](https://www.reddit.com/r/ProgrammerHumor/comments/1l2zket/redeploy/)
+[*otherElectronAppsDontLagButWhySpotify*](https://www.reddit.com/r/ProgrammerHumor/comments/1l3r6yt/otherelectronappsdontlagbutwhyspotify/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6k1nsyk66v4f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ny3f7fg9n15f1.png)
