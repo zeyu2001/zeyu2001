@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iBoughtAgentpornDotAiAndItsNotWhatYouThink*](https://www.reddit.com/r/ProgrammerHumor/comments/1l2ybmi/iboughtagentporndotaianditsnotwhatyouthink/)
+[*reDeploy*](https://www.reddit.com/r/ProgrammerHumor/comments/1l2zket/redeploy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/danqk96dru4f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6k1nsyk66v4f1.png)
