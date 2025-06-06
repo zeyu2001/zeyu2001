@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*myCocaineSkepticFriendsAreAllNuts*](https://www.reddit.com/r/ProgrammerHumor/comments/1l4vv01/mycocaineskepticfriendsareallnuts/)
+[*weHaveAchievedAgi*](https://www.reddit.com/r/ProgrammerHumor/comments/1l519g3/wehaveachievedagi/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0c2hp02bwb5f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/igz6er2fzc5f1.png)
