@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gamesForDevs*](https://www.reddit.com/r/ProgrammerHumor/comments/1l40d4g/gamesfordevs/)
+[*iAmNotAuthorRized*](https://www.reddit.com/r/ProgrammerHumor/comments/1l4l1u0/iamnotauthorrized/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1sgpl3zpa45f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4pe4fxckx85f1.png)
