@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itWasNeverPatched*](https://www.reddit.com/r/ProgrammerHumor/comments/1l5h5lb/itwasneverpatched/)
+[*sherlockHolmesWantedForBadVarNames*](https://www.reddit.com/r/ProgrammerHumor/comments/1l5ll3y/sherlockholmeswantedforbadvarnames/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j0d6339y8h5f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z88reikjgi5f1.png)
