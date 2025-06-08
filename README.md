@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*elif*](https://www.reddit.com/r/ProgrammerHumor/comments/1l63ipe/elif/)
+[*backInMyDay*](https://www.reddit.com/r/ProgrammerHumor/comments/1l6aptz/backinmyday/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mimjsjhlqm5f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/18krkv123p5f1.png)
