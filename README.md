@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sherlockHolmesWantedForBadVarNames*](https://www.reddit.com/r/ProgrammerHumor/comments/1l5ll3y/sherlockholmeswantedforbadvarnames/)
+[*elif*](https://www.reddit.com/r/ProgrammerHumor/comments/1l63ipe/elif/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/z88reikjgi5f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mimjsjhlqm5f1.png)
