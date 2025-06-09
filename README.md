@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*backInMyDay*](https://www.reddit.com/r/ProgrammerHumor/comments/1l6aptz/backinmyday/)
+[*waterfallAgileAndAI*](https://www.reddit.com/r/ProgrammerHumor/comments/1l6o0ac/waterfallagileandai/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/18krkv123p5f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nuyunn2tyr5f1.png)
