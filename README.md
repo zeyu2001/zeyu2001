@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*waterfallAgileAndAI*](https://www.reddit.com/r/ProgrammerHumor/comments/1l6o0ac/waterfallagileandai/)
+[*goodLuckQA*](https://www.reddit.com/r/ProgrammerHumor/comments/1l7axca/goodluckqa/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nuyunn2tyr5f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dkr9pxyrsx5f1.png)
