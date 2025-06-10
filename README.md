@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*goodLuckQA*](https://www.reddit.com/r/ProgrammerHumor/comments/1l7axca/goodluckqa/)
+[*asyncIsContagious*](https://www.reddit.com/r/ProgrammerHumor/comments/1l7f7q0/asynciscontagious/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dkr9pxyrsx5f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9023w0w2my5f1.png)
