@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*asyncIsContagious*](https://www.reddit.com/r/ProgrammerHumor/comments/1l7f7q0/asynciscontagious/)
+[*theProgrammerIsObselete*](https://www.reddit.com/r/ProgrammerHumor/comments/1l82afy/theprogrammerisobselete/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9023w0w2my5f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wvst7fjzf46f1.png)
