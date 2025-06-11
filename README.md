@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theProgrammerIsObselete*](https://www.reddit.com/r/ProgrammerHumor/comments/1l82afy/theprogrammerisobselete/)
+[*useAIWisely*](https://www.reddit.com/r/ProgrammerHumor/comments/1l8l5fi/useaiwisely/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wvst7fjzf46f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qh6sp1tdn86f1.png)
