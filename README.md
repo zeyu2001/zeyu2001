@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whyCantIVibeToProdInOneShot*](https://www.reddit.com/r/ProgrammerHumor/comments/1l8qm2n/whycantivibetoprodinoneshot/)
+[*updatedTheMemeBoss*](https://www.reddit.com/r/ProgrammerHumor/comments/1l91s98/updatedthememeboss/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jewc1iwnda6f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kg3kbhilnc6f1.png)
