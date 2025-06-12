@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*useAIWisely*](https://www.reddit.com/r/ProgrammerHumor/comments/1l8l5fi/useaiwisely/)
+[*whyCantIVibeToProdInOneShot*](https://www.reddit.com/r/ProgrammerHumor/comments/1l8qm2n/whycantivibetoprodinoneshot/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qh6sp1tdn86f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jewc1iwnda6f1.png)
