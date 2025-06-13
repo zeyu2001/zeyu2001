@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theDarkSideOfW3*](https://www.reddit.com/r/ProgrammerHumor/comments/1la3lnt/thedarksideofw3/)
+[*itsAllJustCSS*](https://www.reddit.com/r/ProgrammerHumor/comments/1lahmsj/itsalljustcss/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/esyv678gjl6f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k6qgmrylhp6f1.png)
