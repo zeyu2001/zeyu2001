@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howItsGoing*](https://www.reddit.com/r/ProgrammerHumor/comments/1l9no2n/howitsgoing/)
+[*theDarkSideOfW3*](https://www.reddit.com/r/ProgrammerHumor/comments/1la3lnt/thedarksideofw3/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qk5gvo689i6f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/esyv678gjl6f1.png)
