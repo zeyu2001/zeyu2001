@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itsAllJustCSS*](https://www.reddit.com/r/ProgrammerHumor/comments/1lahmsj/itsalljustcss/)
+[*compileCircleOfLife*](https://www.reddit.com/r/ProgrammerHumor/comments/1lb6q0m/compilecircleoflife/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k6qgmrylhp6f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zk74efewqv6f1.png)
