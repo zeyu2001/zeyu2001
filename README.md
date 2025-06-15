@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*trueStoryFromMyTimeAsAGameDev*](https://www.reddit.com/r/ProgrammerHumor/comments/1lbjm65/truestoryfrommytimeasagamedev/)
+[*theChoiceIsYours*](https://www.reddit.com/r/ProgrammerHumor/comments/1lcamp2/thechoiceisyours/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o0uwxxqzmy6f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i9xb98i3l57f1.png)
