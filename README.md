@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*reduceCrimeWithThisOneSimpleTrick*](https://www.reddit.com/r/ProgrammerHumor/comments/1lcmyg2/reducecrimewiththisonesimpletrick/)
+[*weAreFriendsIfYouAreMonolithEnjoyer*](https://www.reddit.com/r/ProgrammerHumor/comments/1lcp7nf/wearefriendsifyouaremonolithenjoyer/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gzp0hpigv87f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/min66lkjm97f1.png)
