@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theChoiceIsYours*](https://www.reddit.com/r/ProgrammerHumor/comments/1lcamp2/thechoiceisyours/)
+[*disasterRecovery*](https://www.reddit.com/r/ProgrammerHumor/comments/1lcivoy/disasterrecovery/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/i9xb98i3l57f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1429xbyql77f1.png)
