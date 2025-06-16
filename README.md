@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*weAreFriendsIfYouAreMonolithEnjoyer*](https://www.reddit.com/r/ProgrammerHumor/comments/1lcp7nf/wearefriendsifyouaremonolithenjoyer/)
+[*itDoesPutASmileOnMyFace*](https://www.reddit.com/r/ProgrammerHumor/comments/1ld1d94/itdoesputasmileonmyface/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/min66lkjm97f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0ej6r42q5c7f1.png)
