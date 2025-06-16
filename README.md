@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whyAreYouAngrySir*](https://www.reddit.com/r/ProgrammerHumor/comments/1lcky7k/whyareyouangrysir/)
+[*reduceCrimeWithThisOneSimpleTrick*](https://www.reddit.com/r/ProgrammerHumor/comments/1lcmyg2/reducecrimewiththisonesimpletrick/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zrqowl9i787f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gzp0hpigv87f1.png)
