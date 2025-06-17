@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itDoesPutASmileOnMyFace*](https://www.reddit.com/r/ProgrammerHumor/comments/1ld1d94/itdoesputasmileonmyface/)
+[*aiIsTakingOver*](https://www.reddit.com/r/ProgrammerHumor/comments/1ldolw7/aiistakingover/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0ej6r42q5c7f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pnk4efomzh7f1.png)
