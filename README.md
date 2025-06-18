@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howItStartedHowItEnded*](https://www.reddit.com/r/ProgrammerHumor/comments/1lebk6q/howitstartedhowitended/)
+[*iLoveBinary*](https://www.reddit.com/r/ProgrammerHumor/comments/1lenh4q/ilovebinary/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7327wp3b8n7f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ccvvqs5w2q7f1.png)
