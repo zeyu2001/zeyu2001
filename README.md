@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aiIsTakingOver*](https://www.reddit.com/r/ProgrammerHumor/comments/1ldolw7/aiistakingover/)
+[*iThappensSometimes*](https://www.reddit.com/r/ProgrammerHumor/comments/1ldpj38/ithappenssometimes/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pnk4efomzh7f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0gg0jf416i7f1.png)
