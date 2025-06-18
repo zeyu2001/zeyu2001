@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iThappensSometimes*](https://www.reddit.com/r/ProgrammerHumor/comments/1ldpj38/ithappenssometimes/)
+[*howItStartedHowItEnded*](https://www.reddit.com/r/ProgrammerHumor/comments/1lebk6q/howitstartedhowitended/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0gg0jf416i7f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7327wp3b8n7f1.png)
