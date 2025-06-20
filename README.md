@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whyMakeItComplicated*](https://www.reddit.com/r/ProgrammerHumor/comments/1lfhpic/whymakeitcomplicated/)
+[*fullOuterJoin*](https://www.reddit.com/r/ProgrammerHumor/comments/1lfvhu3/fullouterjoin/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/83bl6zxhcx7f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wyig8baoj08f1.png)
