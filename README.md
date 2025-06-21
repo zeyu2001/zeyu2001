@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*inspiredByToday*](https://www.reddit.com/r/ProgrammerHumor/comments/1lgcqt9/inspiredbytoday/)
+[*whyDidntIThinkOfThat*](https://www.reddit.com/r/ProgrammerHumor/comments/1lgsh16/whydidntithinkofthat/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/g61u53ufv48f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lk1k1evk098f1.png)
