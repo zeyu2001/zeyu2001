@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*fullOuterJoin*](https://www.reddit.com/r/ProgrammerHumor/comments/1lfvhu3/fullouterjoin/)
+[*inspiredByToday*](https://www.reddit.com/r/ProgrammerHumor/comments/1lgcqt9/inspiredbytoday/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wyig8baoj08f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/g61u53ufv48f1.png)
