@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iCantDoThisAnymore*](https://www.reddit.com/r/ProgrammerHumor/comments/1lhw813/icantdothisanymore/)
+[*whoNeedsCodeReview*](https://www.reddit.com/r/ProgrammerHumor/comments/1lig3gq/whoneedscodereview/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y358cjgf4j8f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/t2kz42pydo8f1.png)
