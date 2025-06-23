@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*realDevModel*](https://www.reddit.com/r/ProgrammerHumor/comments/1lhqao1/realdevmodel/)
+[*iCantDoThisAnymore*](https://www.reddit.com/r/ProgrammerHumor/comments/1lhw813/icantdothisanymore/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/on75wv5fwh8f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y358cjgf4j8f1.png)
