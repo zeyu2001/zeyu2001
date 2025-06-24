@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ogPythonLogo*](https://www.reddit.com/r/ProgrammerHumor/comments/1lirzws/ogpythonlogo/)
+[*chatGptFor500dollars*](https://www.reddit.com/r/ProgrammerHumor/comments/1ljde69/chatgptfor500dollars/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/b77jjfvnoq8f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dablhpdg3w8f1.png)
