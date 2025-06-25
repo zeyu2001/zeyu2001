@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theGreatFolderNamingDivide*](https://www.reddit.com/r/ProgrammerHumor/comments/1lk8f09/thegreatfoldernamingdivide/)
+[*regexStillHauntsMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1lkcgyj/regexstillhauntsme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dhq1r07eb39f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f7o47s8n249f1.png)
