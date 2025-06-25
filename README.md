@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*chatGptFor500dollars*](https://www.reddit.com/r/ProgrammerHumor/comments/1ljde69/chatgptfor500dollars/)
+[*gameDevsBeLikeWeAreHalfWayThere*](https://www.reddit.com/r/ProgrammerHumor/comments/1ljg3hq/gamedevsbelikewearehalfwaythere/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dablhpdg3w8f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n5u7eohqlw8f1.png)
