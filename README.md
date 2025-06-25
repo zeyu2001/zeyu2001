@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gameDevsBeLikeWeAreHalfWayThere*](https://www.reddit.com/r/ProgrammerHumor/comments/1ljg3hq/gamedevsbelikewearehalfwaythere/)
+[*theGreatFolderNamingDivide*](https://www.reddit.com/r/ProgrammerHumor/comments/1lk8f09/thegreatfoldernamingdivide/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n5u7eohqlw8f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dhq1r07eb39f1.png)
