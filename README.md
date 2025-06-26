@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*regexStillHauntsMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1lkcgyj/regexstillhauntsme/)
+[*frontendVsBackend*](https://www.reddit.com/r/ProgrammerHumor/comments/1lkulhj/frontendvsbackend/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/f7o47s8n249f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lullajkqc89f1.png)
