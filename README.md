@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justDontTouchIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1llcjed/justdonttouchit/)
+[*isAnyoneHiringForSecurityMgrPosition*](https://www.reddit.com/r/ProgrammerHumor/comments/1llta7c/isanyonehiringforsecuritymgrposition/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wkxt8dwrcc9f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vrmpfjkswg9f1.png)
