@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*weNeedAI*](https://www.reddit.com/r/ProgrammerHumor/comments/1lmw5mg/weneedai/)
+[*iHaveOverThreeHundredConfirmedBugs*](https://www.reddit.com/r/ProgrammerHumor/comments/1ln7zx0/ihaveoverthreehundredconfirmedbugs/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rmd9jx986q9f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jt3tnwdy9t9f1.png)
