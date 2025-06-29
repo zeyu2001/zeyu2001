@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iHaveOverThreeHundredConfirmedBugs*](https://www.reddit.com/r/ProgrammerHumor/comments/1ln7zx0/ihaveoverthreehundredconfirmedbugs/)
+[*lookingAtYouGlog*](https://www.reddit.com/r/ProgrammerHumor/comments/1lno7xo/lookingatyouglog/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jt3tnwdy9t9f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l99yysstax9f1.png)
