@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*warehouseWorker*](https://www.reddit.com/r/ProgrammerHumor/comments/1lmi46k/warehouseworker/)
+[*itsOver*](https://www.reddit.com/r/ProgrammerHumor/comments/1lmjuho/itsover/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xnb2ga8vsm9f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0v8j1yvidn9f1.png)
