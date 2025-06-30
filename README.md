@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lookingAtYouGlog*](https://www.reddit.com/r/ProgrammerHumor/comments/1lno7xo/lookingatyouglog/)
+[*aIMotherlovers*](https://www.reddit.com/r/ProgrammerHumor/comments/1lo3l0o/aimotherlovers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l99yysstax9f1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5lece5ncf1af1.png)
