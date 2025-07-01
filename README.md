@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aVisualLearningMethod*](https://www.reddit.com/r/ProgrammerHumor/comments/1lo500i/avisuallearningmethod/)
+[*anotherOne*](https://www.reddit.com/r/ProgrammerHumor/comments/1log1jp/anotherone/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2rrlc8fcu1af1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7bmz6wor34af1.png)
