@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*practicallyEquivalentRefactor*](https://www.reddit.com/r/ProgrammerHumor/comments/1lp1got/practicallyequivalentrefactor/)
+[*gayMan*](https://www.reddit.com/r/ProgrammerHumor/comments/1lpudy0/gayman/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mu1pw6bnj9af1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o8eca4s9egaf1.png)
