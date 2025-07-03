@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gayMan*](https://www.reddit.com/r/ProgrammerHumor/comments/1lpudy0/gayman/)
+[*securityIsNotImportant*](https://www.reddit.com/r/ProgrammerHumor/comments/1lpxuq4/securityisnotimportant/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o8eca4s9egaf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qfx8b3i35haf1.png)
