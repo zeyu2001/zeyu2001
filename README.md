@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*securityIsNotImportant*](https://www.reddit.com/r/ProgrammerHumor/comments/1lpxuq4/securityisnotimportant/)
+[*ichoosethecompiler*](https://www.reddit.com/r/ProgrammerHumor/comments/1lqm8tg/ichoosethecompiler/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qfx8b3i35haf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uuxj0g740naf1.png)
