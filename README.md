@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ichoosethecompiler*](https://www.reddit.com/r/ProgrammerHumor/comments/1lqm8tg/ichoosethecompiler/)
+[*sameBrother*](https://www.reddit.com/r/ProgrammerHumor/comments/1lqfia1/samebrother/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uuxj0g740naf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lkmclsmywkaf1.png)
