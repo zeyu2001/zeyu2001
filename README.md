@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*yourNextCorporateHolidayDestination*](https://www.reddit.com/r/ProgrammerHumor/comments/1lr29d9/yournextcorporateholidaydestination/)
+[*whySalesThinksThePyramidsWereBuiltByAliens*](https://www.reddit.com/r/ProgrammerHumor/comments/1lr70a2/whysalesthinksthepyramidswerebuiltbyaliens/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/px75hmbdfqaf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zz2zuyy1lraf1.png)
