@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ifFire*](https://www.reddit.com/r/ProgrammerHumor/comments/1lsx8nj/iffire/)
+[*thankYouChatGPT*](https://www.reddit.com/r/ProgrammerHumor/comments/1lt8b79/thankyouchatgpt/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y5at95c848bf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cnkkc39orabf1.png)
