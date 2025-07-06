@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theRealMvp*](https://www.reddit.com/r/ProgrammerHumor/comments/1lsg724/therealmvp/)
+[*ifFire*](https://www.reddit.com/r/ProgrammerHumor/comments/1lsx8nj/iffire/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fk95y7eqj3bf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y5at95c848bf1.png)
