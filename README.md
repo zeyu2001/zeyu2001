@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thankYouChatGPT*](https://www.reddit.com/r/ProgrammerHumor/comments/1lt8b79/thankyouchatgpt/)
+[*myKindOfDevelopement*](https://www.reddit.com/r/ProgrammerHumor/comments/1ltrsf1/mykindofdevelopement/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cnkkc39orabf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8b54t1daufbf1.png)
