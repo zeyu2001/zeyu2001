@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*vlcStatuesAreEverywhere*](https://www.reddit.com/r/ProgrammerHumor/comments/1luv4k3/vlcstatuesareeverywhere/)
+[*crazyMind*](https://www.reddit.com/r/ProgrammerHumor/comments/1lup6cx/crazymind/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ux89l58osobf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6pe0i6gkonbf1.png)
