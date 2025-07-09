@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*crazyMind*](https://www.reddit.com/r/ProgrammerHumor/comments/1lup6cx/crazymind/)
+[*iFYKYK*](https://www.reddit.com/r/ProgrammerHumor/comments/1luxgid/ifykyk/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6pe0i6gkonbf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cuaiajjf9pbf1.png)
