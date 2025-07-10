@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*imCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1lvqfrd/imcoding/)
+[*entireSourceCodeInAFile*](https://www.reddit.com/r/ProgrammerHumor/comments/1lwaq0z/entiresourcecodeinafile/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ui2yxh1y6wbf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2benhufnb1cf1.png)
