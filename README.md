@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*overengineeringEverythingForBetterScaling*](https://www.reddit.com/r/ProgrammerHumor/comments/1lv91jf/overengineeringeverythingforbetterscaling/)
+[*imCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1lvqfrd/imcoding/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c6lwtgzetrbf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ui2yxh1y6wbf1.png)
