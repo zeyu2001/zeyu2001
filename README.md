@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*entireSourceCodeInAFile*](https://www.reddit.com/r/ProgrammerHumor/comments/1lwaq0z/entiresourcecodeinafile/)
+[*thatWasTheTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1lwjlc3/thatwasthetime/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2benhufnb1cf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c1hjjcun63cf1.png)
