@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*doNotDeployOnFriday*](https://www.reddit.com/r/ProgrammerHumor/comments/1lxwxic/donotdeployonfriday/)
+[*epic*](https://www.reddit.com/r/ProgrammerHumor/comments/1lxylsx/epic/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ruf2nexu3fcf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5c3j723imfcf1.png)
