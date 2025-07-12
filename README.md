@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*noNeedToPanicEveryone*](https://www.reddit.com/r/ProgrammerHumor/comments/1lx5s6c/noneedtopaniceveryone/)
+[*doNotDeployOnFriday*](https://www.reddit.com/r/ProgrammerHumor/comments/1lxwxic/donotdeployonfriday/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/26pe26efp8cf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ruf2nexu3fcf1.png)
