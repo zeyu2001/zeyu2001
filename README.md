@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*firstTimeUsingElectron*](https://www.reddit.com/r/ProgrammerHumor/comments/1lyy1op/firsttimeusingelectron/)
+[*itTotallyWorks*](https://www.reddit.com/r/ProgrammerHumor/comments/1lz5gn4/ittotallyworks/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0tctkgqpbocf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cq13b2yltpcf1.png)
