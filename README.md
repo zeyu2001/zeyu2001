@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*epic*](https://www.reddit.com/r/ProgrammerHumor/comments/1lxylsx/epic/)
+[*pirateSoftwareShowsOffHisSecurityCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1lybubj/piratesoftwareshowsoffhissecuritycode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5c3j723imfcf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ggq5w2aliicf1.png)
