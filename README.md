@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*stillBetterThanARaceConditionIGuess*](https://www.reddit.com/r/ProgrammerHumor/comments/1lz63ho/stillbetterthanaraceconditioniguess/)
+[*theBadDream*](https://www.reddit.com/r/ProgrammerHumor/comments/1lzasdq/thebaddream/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9gt5002xypcf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8giq9hzy2rcf1.png)
