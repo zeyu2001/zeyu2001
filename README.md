@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*withTheDatabaseGoneThereIsNoNeedToCenterDivAnymore*](https://www.reddit.com/r/ProgrammerHumor/comments/1m0gwnq/withthedatabasegonethereisnoneedtocenterdivanymore/)
+[*wholeCodebaseInTXTFile*](https://www.reddit.com/r/ProgrammerHumor/comments/1m0qbq5/wholecodebaseintxtfile/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0fd4ph46b1df1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mgs88k4c43df1.png)
