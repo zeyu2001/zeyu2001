@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justWannaMergeWTF*](https://www.reddit.com/r/ProgrammerHumor/comments/1lzo5cd/justwannamergewtf/)
+[*ohGodWhy*](https://www.reddit.com/r/ProgrammerHumor/comments/1lzrpsc/ohgodwhy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0wox9xcxpucf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hadtr70vdvcf1.png)
