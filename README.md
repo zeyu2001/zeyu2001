@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ohGodWhy*](https://www.reddit.com/r/ProgrammerHumor/comments/1lzrpsc/ohgodwhy/)
+[*youKnowHeDidIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1m00t4g/youknowhedidit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hadtr70vdvcf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6kbs5ktq2xcf1.png)
