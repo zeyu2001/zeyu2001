@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youKnowHeDidIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1m00t4g/youknowhedidit/)
+[*withTheDatabaseGoneThereIsNoNeedToCenterDivAnymore*](https://www.reddit.com/r/ProgrammerHumor/comments/1m0gwnq/withthedatabasegonethereisnoneedtocenterdivanymore/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6kbs5ktq2xcf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0fd4ph46b1df1.png)
