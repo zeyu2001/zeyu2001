@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*weCouldNeverTrackDownWhatWasCausingPerformanceIssues*](https://www.reddit.com/r/ProgrammerHumor/comments/1m0uqko/wecouldnevertrackdownwhatwascausingperformanceissu/)
+[*githubGatekeepers*](https://www.reddit.com/r/ProgrammerHumor/comments/1m181ha/githubgatekeepers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n8kzet2gy3df1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cb3m0dqhf7df1.png)
