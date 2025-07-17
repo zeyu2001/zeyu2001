@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*buyMeAcoffee*](https://www.reddit.com/r/ProgrammerHumor/comments/1m1jzf0/buymeacoffee/)
+[*iMeanItsNotWrong*](https://www.reddit.com/r/ProgrammerHumor/comments/1m22zx6/imeanitsnotwrong/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6m2luuwj1adf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qe3ttm00ledf1.png)
