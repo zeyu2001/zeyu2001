@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*githubGatekeepers*](https://www.reddit.com/r/ProgrammerHumor/comments/1m181ha/githubgatekeepers/)
+[*buyMeAcoffee*](https://www.reddit.com/r/ProgrammerHumor/comments/1m1jzf0/buymeacoffee/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cb3m0dqhf7df1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6m2luuwj1adf1.png)
