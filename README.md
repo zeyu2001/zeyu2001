@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iMeanItsNotWrong*](https://www.reddit.com/r/ProgrammerHumor/comments/1m22zx6/imeanitsnotwrong/)
+[*buildingAnAppIsSoEasy*](https://www.reddit.com/r/ProgrammerHumor/comments/1m2omi3/buildinganappissoeasy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qe3ttm00ledf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cw36tv7e6jdf1.png)
