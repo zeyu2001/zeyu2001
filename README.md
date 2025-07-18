@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*buildingAnAppIsSoEasy*](https://www.reddit.com/r/ProgrammerHumor/comments/1m2omi3/buildinganappissoeasy/)
+[*notTonight*](https://www.reddit.com/r/ProgrammerHumor/comments/1m2xjx5/nottonight/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cw36tv7e6jdf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cnozuz9snldf1.png)
