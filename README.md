@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gitIsSoEasy*](https://www.reddit.com/r/ProgrammerHumor/comments/1m35htn/gitissoeasy/)
+[*itsRevolutionary*](https://www.reddit.com/r/ProgrammerHumor/comments/1m37knm/itsrevolutionary/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/oeu3bsn2jndf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n4xb9wmgxndf1.png)
