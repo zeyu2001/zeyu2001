@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whichOfYouIsTestingInProd*](https://www.reddit.com/r/ProgrammerHumor/comments/1m3e22z/whichofyouistestinginprod/)
+[*sameSameButDifferent*](https://www.reddit.com/r/ProgrammerHumor/comments/1m443pv/samesamebutdifferent/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rowdl8by6pdf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6n5olly7pvdf1.png)
