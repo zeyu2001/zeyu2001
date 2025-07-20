@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sameSameButDifferent*](https://www.reddit.com/r/ProgrammerHumor/comments/1m443pv/samesamebutdifferent/)
+[*thankYouColdplay*](https://www.reddit.com/r/ProgrammerHumor/comments/1m4h5ek/thankyoucoldplay/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6n5olly7pvdf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/szyezghyuydf1.png)
