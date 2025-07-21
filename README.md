@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatsHappeningInIndia*](https://www.reddit.com/r/ProgrammerHumor/comments/1m4yth5/whatshappeninginindia/)
+[*seenYallSlanderMyGoatRecently*](https://www.reddit.com/r/ProgrammerHumor/comments/1m5kiwe/seenyallslandermygoatrecently/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/a661tq0y63ef1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v5hx6xmcn8ef1.png)
