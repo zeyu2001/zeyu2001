@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*peakGithubActionsExperience*](https://www.reddit.com/r/ProgrammerHumor/comments/1m72jrn/peakgithubactionsexperience/)
+[*imSorryDave*](https://www.reddit.com/r/ProgrammerHumor/comments/1m7798l/imsorrydave/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/d39sfa9tokef1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bgjwi8u55mef1.png)
