@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*fakeNewsInMyCodebase*](https://www.reddit.com/r/ProgrammerHumor/comments/1m5y85m/fakenewsinmycodebase/)
+[*notEvenSafeInOfficialDocumentations*](https://www.reddit.com/r/ProgrammerHumor/comments/1m6me6p/notevensafeinofficialdocumentations/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cwp0ktaq7bef1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/oafa7r0yzgef1.png)
