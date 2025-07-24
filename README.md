@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aiReallyDoesReplaceJuniors*](https://www.reddit.com/r/ProgrammerHumor/comments/1m7g0kk/aireallydoesreplacejuniors/)
+[*almostEndedMyWholeCareer*](https://www.reddit.com/r/ProgrammerHumor/comments/1m81wew/almostendedmywholecareer/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gdgfy3mxvnef1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lyfcqa3h5tef1.png)
