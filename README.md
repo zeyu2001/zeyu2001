@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theyDontCare*](https://www.reddit.com/r/ProgrammerHumor/comments/1m9bvbe/theydontcare/)
+[*looksLikeVibeCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1m9o5aq/lookslikevibecode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vimmc4mwb3ff1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/icofafu4i6ff1.png)
