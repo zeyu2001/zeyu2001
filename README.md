@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justLetMeUseMarkdownDamnItJIRA*](https://www.reddit.com/r/ProgrammerHumor/comments/1m8q12l/justletmeusemarkdowndamnitjira/)
+[*theyDontCare*](https://www.reddit.com/r/ProgrammerHumor/comments/1m9bvbe/theydontcare/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n10faclj8yef1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vimmc4mwb3ff1.png)
