@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*looksLikeVibeCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1m9o5aq/lookslikevibecode/)
+[*kubernetesChaos*](https://www.reddit.com/r/ProgrammerHumor/comments/1m9xdva/kuberneteschaos/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/icofafu4i6ff1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bgdgzqhlu8ff1.png)
