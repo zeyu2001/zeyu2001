@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*kubernetesChaos*](https://www.reddit.com/r/ProgrammerHumor/comments/1m9xdva/kuberneteschaos/)
+[*ohNoOhNo*](https://www.reddit.com/r/ProgrammerHumor/comments/1madl0s/ohnoohno/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bgdgzqhlu8ff1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o0mje3bvjcff1.png)
