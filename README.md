@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ohNoOhNo*](https://www.reddit.com/r/ProgrammerHumor/comments/1madl0s/ohnoohno/)
+[*realLifeHelperBond*](https://www.reddit.com/r/ProgrammerHumor/comments/1maxkzg/reallifehelperbond/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o0mje3bvjcff1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pngyvmiwehff1.png)
