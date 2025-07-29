@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*doesYourNetworkEvenVibe*](https://www.reddit.com/r/ProgrammerHumor/comments/1mbnq7j/doesyournetworkevenvibe/)
+[*thankfullyNoJavaScriptAllowed*](https://www.reddit.com/r/ProgrammerHumor/comments/1mcao0y/thankfullynojavascriptallowed/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uua0svkvnnff1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zhtccztr8tff1.png)
