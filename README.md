@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pleaseStopUsingTheAppLikeThat*](https://www.reddit.com/r/ProgrammerHumor/comments/1mb7zae/pleasestopusingtheapplikethat/)
+[*beyondBasicMultiplication*](https://www.reddit.com/r/ProgrammerHumor/comments/1mbg7e2/beyondbasicmultiplication/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mzpb01doxjff1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d44pq9tbamff1.png)
