@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thankfullyNoJavaScriptAllowed*](https://www.reddit.com/r/ProgrammerHumor/comments/1mcao0y/thankfullynojavascriptallowed/)
+[*aiRandomString*](https://www.reddit.com/r/ProgrammerHumor/comments/1mcxihl/airandomstring/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zhtccztr8tff1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2h2ycoqhyxff1.png)
