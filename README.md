@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ahhhShitHereWeGoAgain*](https://www.reddit.com/r/ProgrammerHumor/comments/1mdxipg/ahhhshitherewegoagain/)
+[*letsDoIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1me2h7t/letsdoit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uslros79o6gf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7al5t5o7v7gf1.png)
