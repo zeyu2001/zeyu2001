@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aiRandomString*](https://www.reddit.com/r/ProgrammerHumor/comments/1mcxihl/airandomstring/)
+[*doYouEvenRememberHowToCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1mddt2t/doyouevenrememberhowtocode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2h2ycoqhyxff1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d8f581o8x1gf1.png)
