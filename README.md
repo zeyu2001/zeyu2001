@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*shipNowFixLater*](https://www.reddit.com/r/ProgrammerHumor/comments/1me88hy/shipnowfixlater/)
+[*noNoNoNo*](https://www.reddit.com/r/ProgrammerHumor/comments/1mewkuk/nononono/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mk8xa79nw8gf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kn9jygu8uegf1.png)
