@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*noNoNoNo*](https://www.reddit.com/r/ProgrammerHumor/comments/1mewkuk/nononono/)
+[*relativeTabs*](https://www.reddit.com/r/ProgrammerHumor/comments/1mfmyse/relativetabs/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kn9jygu8uegf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1vv05do2zkgf1.png)
