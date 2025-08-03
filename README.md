@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*relativeTabs*](https://www.reddit.com/r/ProgrammerHumor/comments/1mfmyse/relativetabs/)
+[*webDevelopmentInANutshell*](https://www.reddit.com/r/ProgrammerHumor/comments/1mfp8fs/webdevelopmentinanutshell/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1vv05do2zkgf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qxkkvu1zmlgf1.png)
