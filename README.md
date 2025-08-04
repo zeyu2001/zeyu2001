@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*shortenYourFunctionName*](https://www.reddit.com/r/ProgrammerHumor/comments/1mhco0v/shortenyourfunctionname/)
+[*nothingToSeeHereOfficer*](https://www.reddit.com/r/ProgrammerHumor/comments/1mhm066/nothingtoseehereofficer/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zdee09ci20hf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ynszcmjqs1hf1.png)
