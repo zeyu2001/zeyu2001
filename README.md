@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*nothingToSeeHereOfficer*](https://www.reddit.com/r/ProgrammerHumor/comments/1mhm066/nothingtoseehereofficer/)
+[*thisIsWhyILoveLinux*](https://www.reddit.com/r/ProgrammerHumor/comments/1mhyao6/thisiswhyilovelinux/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ynszcmjqs1hf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6zj9pw4gc4hf1.png)
