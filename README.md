@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisIsWhyILoveLinux*](https://www.reddit.com/r/ProgrammerHumor/comments/1mhyao6/thisiswhyilovelinux/)
+[*theFutureIsNow*](https://www.reddit.com/r/ProgrammerHumor/comments/1mhr9m3/thefutureisnow/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6zj9pw4gc4hf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9ou2ify7s2hf1.png)
