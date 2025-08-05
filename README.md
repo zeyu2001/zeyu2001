@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theFutureIsNow*](https://www.reddit.com/r/ProgrammerHumor/comments/1mhr9m3/thefutureisnow/)
+[*itWasFfmpegAllAlong*](https://www.reddit.com/r/ProgrammerHumor/comments/1mihbq5/itwasffmpegallalong/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9ou2ify7s2hf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/670sqkdyv8hf1.png)
