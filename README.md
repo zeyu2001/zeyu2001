@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itWasFfmpegAllAlong*](https://www.reddit.com/r/ProgrammerHumor/comments/1mihbq5/itwasffmpegallalong/)
+[*nowWereScrewed*](https://www.reddit.com/r/ProgrammerHumor/comments/1miu2ys/nowwerescrewed/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/670sqkdyv8hf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2bo4w3tljbhf1.png)
