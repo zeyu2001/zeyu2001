@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*oracleBeingOracle*](https://www.reddit.com/r/ProgrammerHumor/comments/1mjtaid/oraclebeingoracle/)
+[*vibePlotted*](https://www.reddit.com/r/ProgrammerHumor/comments/1mk5xtd/vibeplotted/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6kccbvbgrjhf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/om2mvjqbrmhf1.png)
