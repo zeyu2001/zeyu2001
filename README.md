@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*enhanceYourMonolith*](https://www.reddit.com/r/ProgrammerHumor/comments/1mk8ywh/enhanceyourmonolith/)
+[*silenceGemini*](https://www.reddit.com/r/ProgrammerHumor/comments/1mkt50m/silencegemini/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zq7t1sthbnhf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bfnpsohaashf1.png)
