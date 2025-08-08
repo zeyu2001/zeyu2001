@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*vibePlotted*](https://www.reddit.com/r/ProgrammerHumor/comments/1mk5xtd/vibeplotted/)
+[*enhanceYourMonolith*](https://www.reddit.com/r/ProgrammerHumor/comments/1mk8ywh/enhanceyourmonolith/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/om2mvjqbrmhf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zq7t1sthbnhf1.png)
