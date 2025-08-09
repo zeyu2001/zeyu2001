@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*silenceGemini*](https://www.reddit.com/r/ProgrammerHumor/comments/1mkt50m/silencegemini/)
+[*myBloodlineEndsWithMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1ml863d/mybloodlineendswithme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bfnpsohaashf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fqmz62iu9vhf1.png)
