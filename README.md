@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theGrandChessMasterOfStackOverflow*](https://www.reddit.com/r/ProgrammerHumor/comments/1mm1rsh/thegrandchessmasterofstackoverflow/)
+[*isThisPeakUiUxAndFrontend*](https://www.reddit.com/r/ProgrammerHumor/comments/1mm9fm1/isthispeakuiuxandfrontend/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kvdl7b78i2if1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/omg801r9e4if1.png)
