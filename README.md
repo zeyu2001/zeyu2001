@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gotScaredForAMoment*](https://www.reddit.com/r/ProgrammerHumor/comments/1mmrese/gotscaredforamoment/)
+[*vibeCodersHittingQuota*](https://www.reddit.com/r/ProgrammerHumor/comments/1mnc0kb/vibecodershittingquota/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/plnkab6ks8if1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kezvr4b9zdif1.png)
