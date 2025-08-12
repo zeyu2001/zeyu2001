@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youCannotKillMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1mnngit/youcannotkillme/)
+[*myTeamIsJustAiToolsNow*](https://www.reddit.com/r/ProgrammerHumor/comments/1mno4pb/myteamisjustaitoolsnow/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/eyjllzdw4gif1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9h91djg59gif1.png)
