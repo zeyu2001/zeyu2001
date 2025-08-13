@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cSlashCPlusPlus*](https://www.reddit.com/r/ProgrammerHumor/comments/1mo294b/cslashcplusplus/)
+[*coolTower*](https://www.reddit.com/r/ProgrammerHumor/comments/1mob9zg/cooltower/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cb5zo3b3kjif1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fhb8qrddtlif1.png)
