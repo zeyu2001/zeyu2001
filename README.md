@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*coolTower*](https://www.reddit.com/r/ProgrammerHumor/comments/1mob9zg/cooltower/)
+[*humanizeAIOutput*](https://www.reddit.com/r/ProgrammerHumor/comments/1mogqfo/humanizeaioutput/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fhb8qrddtlif1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mdvc9s3zsmif1.png)
