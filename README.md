@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*humanizeAIOutput*](https://www.reddit.com/r/ProgrammerHumor/comments/1mogqfo/humanizeaioutput/)
+[*promtitutes*](https://www.reddit.com/r/ProgrammerHumor/comments/1moykzn/promtitutes/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mdvc9s3zsmif1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/haxfw84hwqif1.png)
