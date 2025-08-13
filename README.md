@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*promtitutes*](https://www.reddit.com/r/ProgrammerHumor/comments/1moykzn/promtitutes/)
+[*iDontNeedAiInMyFridge*](https://www.reddit.com/r/ProgrammerHumor/comments/1mp20os/idontneedaiinmyfridge/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/haxfw84hwqif1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ey9jb300xrif1.png)
