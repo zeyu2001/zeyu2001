@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*oneManToRuleThemAll*](https://www.reddit.com/r/ProgrammerHumor/comments/1mpxg6y/onemantorulethemall/)
+[*pickYourPoison*](https://www.reddit.com/r/ProgrammerHumor/comments/1mpia02/pickyourpoison/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8r8pbo7lvyif1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2trfxlmj1vif1.png)
