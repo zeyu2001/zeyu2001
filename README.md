@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pickYourPoison*](https://www.reddit.com/r/ProgrammerHumor/comments/1mpia02/pickyourpoison/)
+[*dataScienceGuysExplain*](https://www.reddit.com/r/ProgrammerHumor/comments/1mpx8zp/datascienceguysexplain/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2trfxlmj1vif1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c41rxouqtyif1.png)
