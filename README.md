@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iDontNeedAiInMyFridge*](https://www.reddit.com/r/ProgrammerHumor/comments/1mp20os/idontneedaiinmyfridge/)
+[*oneManToRuleThemAll*](https://www.reddit.com/r/ProgrammerHumor/comments/1mpxg6y/onemantorulethemall/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ey9jb300xrif1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8r8pbo7lvyif1.png)
