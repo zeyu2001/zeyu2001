@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dataScienceGuysExplain*](https://www.reddit.com/r/ProgrammerHumor/comments/1mpx8zp/datascienceguysexplain/)
+[*leadComplainerHere*](https://www.reddit.com/r/ProgrammerHumor/comments/1mq8gf4/leadcomplainerhere/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c41rxouqtyif1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/glzajbwb01jf1.png)
