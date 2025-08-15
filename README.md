@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*leadComplainerHere*](https://www.reddit.com/r/ProgrammerHumor/comments/1mq8gf4/leadcomplainerhere/)
+[*pleaseJustPassTheTicket*](https://www.reddit.com/r/ProgrammerHumor/comments/1mquber/pleasejustpasstheticket/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/glzajbwb01jf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6omajuggy5jf1.png)
