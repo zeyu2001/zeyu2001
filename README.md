@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*multipleChoiceInProgrammingIsStupid*](https://www.reddit.com/r/ProgrammerHumor/comments/1mr1db5/multiplechoiceinprogrammingisstupid/)
+[*iWillRefactorItLaterTrustMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1mrwxll/iwillrefactoritlatertrustme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/f515aeqgd7jf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/enxc2z4j6ejf1.png)
