@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iWillRefactorItLaterTrustMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1mrwxll/iwillrefactoritlatertrustme/)
+[*whatsStoppingYouFromCodingLikeThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1mscheg/whatsstoppingyoufromcodinglikethis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/enxc2z4j6ejf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d8300ur53hjf1.png)
