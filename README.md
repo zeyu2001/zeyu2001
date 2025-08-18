@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatsStoppingYouFromCodingLikeThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1mscheg/whatsstoppingyoufromcodinglikethis/)
+[*keepsYouYoung*](https://www.reddit.com/r/ProgrammerHumor/comments/1mswpgw/keepsyouyoung/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/d8300ur53hjf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m3oam0dd5mjf1.png)
