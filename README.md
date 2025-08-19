@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sayNoToBloat*](https://www.reddit.com/r/ProgrammerHumor/comments/1mtp3jr/saynotobloat/)
+[*blueSlushieOfDeath*](https://www.reddit.com/r/ProgrammerHumor/comments/1mt9bpa/blueslushieofdeath/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nj6nq4vopsjf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o3jdqhitqojf1.png)
