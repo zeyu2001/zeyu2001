@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*blueSlushieOfDeath*](https://www.reddit.com/r/ProgrammerHumor/comments/1mt9bpa/blueslushieofdeath/)
+[*visualStudioDoesntGetLove*](https://www.reddit.com/r/ProgrammerHumor/comments/1mtrwn8/visualstudiodoesntgetlove/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o3jdqhitqojf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cpb4v0af7tjf1.png)
