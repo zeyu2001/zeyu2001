@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*visualStudioDoesntGetLove*](https://www.reddit.com/r/ProgrammerHumor/comments/1mtrwn8/visualstudiodoesntgetlove/)
+[*goofyAhHumans*](https://www.reddit.com/r/ProgrammerHumor/comments/1mub5lf/goofyahhumans/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cpb4v0af7tjf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5q1kblapbxjf1.png)
