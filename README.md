@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iLoveCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1musoyo/ilovecoding/)
+[*mapOfEuropeDrawnFromMemory*](https://www.reddit.com/r/ProgrammerHumor/comments/1mveir2/mapofeuropedrawnfrommemory/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8ffdj73to0kf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lrao5z5yc6kf1.png)
