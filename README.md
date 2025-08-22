@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aiAssistant*](https://www.reddit.com/r/ProgrammerHumor/comments/1mwg2k5/aiassistant/)
+[*tuffMathGuy*](https://www.reddit.com/r/ProgrammerHumor/comments/1mwzkoq/tuffmathguy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6ww1c7c4hekf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pmw9kyk3sikf1.png)
