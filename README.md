@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*tuffMathGuy*](https://www.reddit.com/r/ProgrammerHumor/comments/1mwzkoq/tuffmathguy/)
+[*databaseRace*](https://www.reddit.com/r/ProgrammerHumor/comments/1mx6ose/databaserace/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pmw9kyk3sikf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/g1nymnw0qkkf1.png)
