@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*databaseRace*](https://www.reddit.com/r/ProgrammerHumor/comments/1mx6ose/databaserace/)
+[*perfectWayToMeasureProgress*](https://www.reddit.com/r/ProgrammerHumor/comments/1mxbp0m/perfectwaytomeasureprogress/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/g1nymnw0qkkf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kx33tn7qmlkf1.png)
