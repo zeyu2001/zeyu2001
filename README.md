@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*perfectWayToMeasureProgress*](https://www.reddit.com/r/ProgrammerHumor/comments/1mxbp0m/perfectwaytomeasureprogress/)
+[*iAmTheAdminIamTheBug*](https://www.reddit.com/r/ProgrammerHumor/comments/1mxkah5/iamtheadminiamthebug/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kx33tn7qmlkf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iqqd6upvbnkf1.png)
