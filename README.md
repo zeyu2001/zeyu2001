@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*johnIsAJollyGoodFellow*](https://www.reddit.com/r/ProgrammerHumor/comments/1myx70p/johnisajollygoodfellow/)
+[*weShall*](https://www.reddit.com/r/ProgrammerHumor/comments/1mzqi1r/weshall/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uysiz1bjazkf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o9ozsdzl36lf1.png)
