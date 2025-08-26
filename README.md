@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*weShall*](https://www.reddit.com/r/ProgrammerHumor/comments/1mzqi1r/weshall/)
+[*theyTookOurJob*](https://www.reddit.com/r/ProgrammerHumor/comments/1n00v4j/theytookourjob/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o9ozsdzl36lf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xhgak8e118lf1.png)
