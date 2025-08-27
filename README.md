@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*exhausting*](https://www.reddit.com/r/ProgrammerHumor/comments/1n0sqv5/exhausting/)
+[*makeSureToOnlyEverHaveOneTypeOfASensorInYourDevice*](https://www.reddit.com/r/ProgrammerHumor/comments/1n199cq/makesuretoonlyeverhaveonetypeofasensorinyourdevice/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/65nh0og5jelf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1tjgz3ep6ilf1.png)
