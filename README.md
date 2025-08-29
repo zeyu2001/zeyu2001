@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*guysCheckOutMyNewApp*](https://www.reddit.com/r/ProgrammerHumor/comments/1n1zguc/guyscheckoutmynewapp/)
+[*smartestVibeCoder*](https://www.reddit.com/r/ProgrammerHumor/comments/1n2b7q1/smartestvibecoder/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1yi4cc1rznlf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uda9v079arlf1.png)
