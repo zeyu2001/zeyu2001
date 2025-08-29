@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*linearTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1n34i3l/lineartime/)
+[*gitPull*](https://www.reddit.com/r/ProgrammerHumor/comments/1n3bafs/gitpull/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8m7au0fpyxlf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jwkqhyprdzlf1.png)
