@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*alreadyCoverdInWhyIsWaterWet*](https://www.reddit.com/r/ProgrammerHumor/comments/1n3d8f8/alreadycoverdinwhyiswaterwet/)
+[*lifeCycle*](https://www.reddit.com/r/ProgrammerHumor/comments/1n40xfa/lifecycle/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pdqghz30rzlf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/psr3yugil5mf1.png)
