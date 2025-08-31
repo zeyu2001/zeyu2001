@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lifeCycle*](https://www.reddit.com/r/ProgrammerHumor/comments/1n40xfa/lifecycle/)
+[*transitioningIsHard*](https://www.reddit.com/r/ProgrammerHumor/comments/1n4pzc3/transitioningishard/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/psr3yugil5mf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/se2oe17slbmf1.png)
