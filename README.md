@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dockerDockerYesPapa*](https://www.reddit.com/r/ProgrammerHumor/comments/1n55jho/dockerdockeryespapa/)
+[*whatsStoppingYouFromCodingLikeThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1n59zgt/whatsstoppingyoufromcodinglikethis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/r8zpd7co2fmf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5jvlwqmr1gmf1.png)
