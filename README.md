@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*transitioningIsHard*](https://www.reddit.com/r/ProgrammerHumor/comments/1n4pzc3/transitioningishard/)
+[*dockerDockerYesPapa*](https://www.reddit.com/r/ProgrammerHumor/comments/1n55jho/dockerdockeryespapa/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/se2oe17slbmf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/r8zpd7co2fmf1.png)
