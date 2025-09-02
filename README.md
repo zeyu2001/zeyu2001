@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*bankBalanceVsAWS*](https://www.reddit.com/r/ProgrammerHumor/comments/1n5lrqb/bankbalancevsaws/)
+[*pieceOfCrap*](https://www.reddit.com/r/ProgrammerHumor/comments/1n63a6k/pieceofcrap/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/huqn5m9hcjmf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fa0vb04iummf1.png)
