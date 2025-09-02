@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pieceOfCrap*](https://www.reddit.com/r/ProgrammerHumor/comments/1n63a6k/pieceofcrap/)
+[*justAnotherAiPrompt*](https://www.reddit.com/r/ProgrammerHumor/comments/1n6gzlo/justanotheraiprompt/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fa0vb04iummf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n36nqb93mqmf1.png)
