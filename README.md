@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisPositionForFullStackDeveloperDoesNotSupportPDF*](https://www.reddit.com/r/ProgrammerHumor/comments/1n6u78m/thispositionforfullstackdeveloperdoesnotsupportpdf/)
+[*askingTheSenior*](https://www.reddit.com/r/ProgrammerHumor/comments/1n7jpbc/askingthesenior/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/z9uhxqky6tmf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xmlk9ia09zmf1.png)
