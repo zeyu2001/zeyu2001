@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aintThatTheTruth*](https://www.reddit.com/r/ProgrammerHumor/comments/1n6scum/aintthatthetruth/)
+[*thisPositionForFullStackDeveloperDoesNotSupportPDF*](https://www.reddit.com/r/ProgrammerHumor/comments/1n6u78m/thispositionforfullstackdeveloperdoesnotsupportpdf/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/b0x61pojusmf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z9uhxqky6tmf1.png)
