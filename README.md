@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dpCooksEveryone*](https://www.reddit.com/r/ProgrammerHumor/comments/1n7ocwk/dpcookseveryone/)
+[*everythingIsDown*](https://www.reddit.com/r/ProgrammerHumor/comments/1n84d2z/everythingisdown/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k80lmr8n30nf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/35nwqe7yw3nf1.png)
