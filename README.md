@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*everythingIsDown*](https://www.reddit.com/r/ProgrammerHumor/comments/1n84d2z/everythingisdown/)
+[*doubt*](https://www.reddit.com/r/ProgrammerHumor/comments/1n8aqcb/doubt/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/35nwqe7yw3nf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/g249gkpzk5nf1.png)
