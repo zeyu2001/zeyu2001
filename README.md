@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*askingTheSenior*](https://www.reddit.com/r/ProgrammerHumor/comments/1n7jpbc/askingthesenior/)
+[*dpCooksEveryone*](https://www.reddit.com/r/ProgrammerHumor/comments/1n7ocwk/dpcookseveryone/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xmlk9ia09zmf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k80lmr8n30nf1.png)
