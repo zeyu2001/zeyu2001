@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*unforgivableCrime*](https://www.reddit.com/r/ProgrammerHumor/comments/1n98osj/unforgivablecrime/)
+[*webDevHistory*](https://www.reddit.com/r/ProgrammerHumor/comments/1na11t7/webdevhistory/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ojqhzlmj9dnf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fvbekox22knf1.png)
