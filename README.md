@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*webDevHistory*](https://www.reddit.com/r/ProgrammerHumor/comments/1na11t7/webdevhistory/)
+[*sureThingBob*](https://www.reddit.com/r/ProgrammerHumor/comments/1nakjmm/surethingbob/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fvbekox22knf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cldsgqj2donf1.png)
