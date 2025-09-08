@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*labubuSyscall*](https://www.reddit.com/r/ProgrammerHumor/comments/1nb5xvn/labubusyscall/)
+[*weAreHumansToo*](https://www.reddit.com/r/ProgrammerHumor/comments/1nbpoaf/wearehumanstoo/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nuwj7r7zctnf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yg9vxhh7eynf1.png)
