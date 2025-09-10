@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*goldenEraOfSoftwareEngineering*](https://www.reddit.com/r/ProgrammerHumor/comments/1nccvlf/goldeneraofsoftwareengineering/)
+[*signsOfSociopathy*](https://www.reddit.com/r/ProgrammerHumor/comments/1nd7da3/signsofsociopathy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hn52d5vuh3of1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rljfkussdaof1.png)
