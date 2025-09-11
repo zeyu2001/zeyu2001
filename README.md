@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*signsOfSociopathy*](https://www.reddit.com/r/ProgrammerHumor/comments/1nd7da3/signsofsociopathy/)
+[*lgtm*](https://www.reddit.com/r/ProgrammerHumor/comments/1ndvj0v/lgtm/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rljfkussdaof1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7tyr0h3wpfof1.png)
