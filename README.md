@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lgtm*](https://www.reddit.com/r/ProgrammerHumor/comments/1ndvj0v/lgtm/)
+[*beginningOfTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1necmvo/beginningoftime/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7tyr0h3wpfof1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/soc2hkk76kof1.png)
