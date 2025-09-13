@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*changingCaseIsHard*](https://www.reddit.com/r/ProgrammerHumor/comments/1nfqxjt/changingcaseishard/)
+[*justPointingItOut*](https://www.reddit.com/r/ProgrammerHumor/comments/1nfr7qf/justpointingitout/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8ai8eeepsvof1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yabse0xpvvof1.png)
