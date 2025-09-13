@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thanksForTheStudyMIT*](https://www.reddit.com/r/ProgrammerHumor/comments/1nf3ljc/thanksforthestudymit/)
+[*changingCaseIsHard*](https://www.reddit.com/r/ProgrammerHumor/comments/1nfqxjt/changingcaseishard/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zm7nmb6wlqof1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8ai8eeepsvof1.png)
