@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*myFirstImpressionOfPointersInCYesterday*](https://www.reddit.com/r/ProgrammerHumor/comments/1ng73zj/myfirstimpressionofpointersincyesterday/)
+[*theRollbackTransactionRequestHasNoCorrespondingTransaction*](https://www.reddit.com/r/ProgrammerHumor/comments/1ngt5kc/therollbacktransactionrequesthasnocorrespondingtra/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2pmciuh3mzof1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p4q5ykd675pf1.png)
