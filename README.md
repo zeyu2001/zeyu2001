@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theRollbackTransactionRequestHasNoCorrespondingTransaction*](https://www.reddit.com/r/ProgrammerHumor/comments/1ngt5kc/therollbacktransactionrequesthasnocorrespondingtra/)
+[*alwaysTakeBackupsOfYourDatabase*](https://www.reddit.com/r/ProgrammerHumor/comments/1ngvg4c/alwaystakebackupsofyourdatabase/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p4q5ykd675pf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x88jawsyn5pf1.png)
