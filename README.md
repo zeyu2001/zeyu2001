@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*alwaysTakeBackupsOfYourDatabase*](https://www.reddit.com/r/ProgrammerHumor/comments/1ngvg4c/alwaystakebackupsofyourdatabase/)
+[*vibeSort*](https://www.reddit.com/r/ProgrammerHumor/comments/1ngyohf/vibesort/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x88jawsyn5pf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/29h81mq5a6pf1.png)
