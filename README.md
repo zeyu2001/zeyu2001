@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cursorAIisTheNewJuniorDev*](https://www.reddit.com/r/ProgrammerHumor/comments/1nhngri/cursoraiisthenewjuniordev/)
+[*quicklyMadeAIWrappersEverywhere*](https://www.reddit.com/r/ProgrammerHumor/comments/1nicnt2/quicklymadeaiwrapperseverywhere/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p4rk7cx2acpf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zxm2agqivhpf1.png)
