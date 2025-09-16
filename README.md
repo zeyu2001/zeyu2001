@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lifeIsGoodUntilGradleError*](https://www.reddit.com/r/ProgrammerHumor/comments/1nhc3iq/lifeisgooduntilgradleerror/)
+[*cursorAIisTheNewJuniorDev*](https://www.reddit.com/r/ProgrammerHumor/comments/1nhngri/cursoraiisthenewjuniordev/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/890n1l0c79pf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p4rk7cx2acpf1.png)
