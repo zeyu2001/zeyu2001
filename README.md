@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*holaMundo*](https://www.reddit.com/r/ProgrammerHumor/comments/1niir6y/holamundo/)
+[*ahYes*](https://www.reddit.com/r/ProgrammerHumor/comments/1nj954d/ahyes/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9vjgf69fcjpf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8ww24woj9ppf1.png)
