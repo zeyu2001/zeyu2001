@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whichDBPowerYourStack*](https://www.reddit.com/r/ProgrammerHumor/comments/1nl6uf3/whichdbpoweryourstack/)
+[*automationSavesTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1nlwv03/automationsavestime/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8cqkd84z45qf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qxomgeu8cbqf1.png)
