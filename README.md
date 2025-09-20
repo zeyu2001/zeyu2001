@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*editorSnobberyIsTheFastestWayToLoseFriends*](https://www.reddit.com/r/ProgrammerHumor/comments/1nkzube/editorsnobberyisthefastestwaytolosefriends/)
+[*whichDBPowerYourStack*](https://www.reddit.com/r/ProgrammerHumor/comments/1nl6uf3/whichdbpoweryourstack/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lrjcstvll3qf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8cqkd84z45qf1.png)
