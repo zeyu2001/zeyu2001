@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*eVERYDAMNTIME*](https://www.reddit.com/r/ProgrammerHumor/comments/1nmizf2/everydamntime/)
+[*whosGonnaTellHim*](https://www.reddit.com/r/ProgrammerHumor/comments/1nmofoj/whosgonnatellhim/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4aw857fj7gqf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j8k03x1hvhqf1.png)
