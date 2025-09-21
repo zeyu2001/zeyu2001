@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whosGonnaTellHim*](https://www.reddit.com/r/ProgrammerHumor/comments/1nmofoj/whosgonnatellhim/)
+[*surpriseBritish*](https://www.reddit.com/r/ProgrammerHumor/comments/1nmz6gq/surprisebritish/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j8k03x1hvhqf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bhxbbcsr6kqf1.png)
