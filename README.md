@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*surpriseBritish*](https://www.reddit.com/r/ProgrammerHumor/comments/1nmz6gq/surprisebritish/)
+[*theRoadToHellIsPavedWithGoodIntentions*](https://www.reddit.com/r/ProgrammerHumor/comments/1nnlzlr/theroadtohellispavedwithgoodintentions/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bhxbbcsr6kqf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ks4htbnatpqf1.png)
