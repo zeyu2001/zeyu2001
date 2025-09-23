@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*memoryManagementIsHard*](https://www.reddit.com/r/ProgrammerHumor/comments/1nnw9te/memorymanagementishard/)
+[*just15MoreYears*](https://www.reddit.com/r/ProgrammerHumor/comments/1nobaus/just15moreyears/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/i59w0xtxqrqf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/73x9om38dvqf1.png)
