@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theRoadToHellIsPavedWithGoodIntentions*](https://www.reddit.com/r/ProgrammerHumor/comments/1nnlzlr/theroadtohellispavedwithgoodintentions/)
+[*memoryManagementIsHard*](https://www.reddit.com/r/ProgrammerHumor/comments/1nnw9te/memorymanagementishard/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ks4htbnatpqf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i59w0xtxqrqf1.png)
