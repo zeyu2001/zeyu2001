@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*just15MoreYears*](https://www.reddit.com/r/ProgrammerHumor/comments/1nobaus/just15moreyears/)
+[*pleaseBeGentle*](https://www.reddit.com/r/ProgrammerHumor/comments/1np3r6n/pleasebegentle/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/73x9om38dvqf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uxr5y9c1r1rf1.png)
