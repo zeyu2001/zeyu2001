@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pleaseBeGentle*](https://www.reddit.com/r/ProgrammerHumor/comments/1np3r6n/pleasebegentle/)
+[*machineLearning*](https://www.reddit.com/r/ProgrammerHumor/comments/1npdhz9/machinelearning/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uxr5y9c1r1rf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pczt15ekg4rf1.png)
