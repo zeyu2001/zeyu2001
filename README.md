@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*machineLearning*](https://www.reddit.com/r/ProgrammerHumor/comments/1npdhz9/machinelearning/)
+[*winRARisAbsoluteLegend*](https://www.reddit.com/r/ProgrammerHumor/comments/1nq2mh7/winrarisabsolutelegend/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pczt15ekg4rf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/q8jqnvw7aarf1.png)
