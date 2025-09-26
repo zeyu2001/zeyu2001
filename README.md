@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*doNotAttemptWhileDrunk*](https://www.reddit.com/r/ProgrammerHumor/comments/1nqxhgu/donotattemptwhiledrunk/)
+[*willBeFunTheySaid*](https://www.reddit.com/r/ProgrammerHumor/comments/1nr3lnj/willbefuntheysaid/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mkjrabxjhhrf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/617q6npzwirf1.png)
