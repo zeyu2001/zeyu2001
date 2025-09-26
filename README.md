@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*passwordTypedQuickly*](https://www.reddit.com/r/ProgrammerHumor/comments/1nqoetm/passwordtypedquickly/)
+[*doNotAttemptWhileDrunk*](https://www.reddit.com/r/ProgrammerHumor/comments/1nqxhgu/donotattemptwhiledrunk/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0mbovwebverf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mkjrabxjhhrf1.png)
