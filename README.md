@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*githubVewificationUwU*](https://www.reddit.com/r/ProgrammerHumor/comments/1nq9a63/githubvewificationuwu/)
+[*passwordTypedQuickly*](https://www.reddit.com/r/ProgrammerHumor/comments/1nqoetm/passwordtypedquickly/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tbv51v30nbrf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0mbovwebverf1.png)
