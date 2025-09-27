@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*willBeFunTheySaid*](https://www.reddit.com/r/ProgrammerHumor/comments/1nr3lnj/willbefuntheysaid/)
+[*trolleyProblemSolution*](https://www.reddit.com/r/ProgrammerHumor/comments/1nrcf7c/trolleyproblemsolution/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/617q6npzwirf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s15sn9zzlkrf1.png)
