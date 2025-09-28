@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sameBugsNewRepo*](https://www.reddit.com/r/ProgrammerHumor/comments/1nrx00v/samebugsnewrepo/)
+[*loggingItRight*](https://www.reddit.com/r/ProgrammerHumor/comments/1nsi62o/loggingitright/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0u7oso56zprf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vlic4ytayurf1.png)
