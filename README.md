@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*voidStaresBackAtYou*](https://www.reddit.com/r/ProgrammerHumor/comments/1nst1k5/voidstaresbackatyou/)
+[*roleplayingAtWork*](https://www.reddit.com/r/ProgrammerHumor/comments/1ntcigm/roleplayingatwork/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1hqhwwwapxrf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iw643dyvc2sf1.png)
