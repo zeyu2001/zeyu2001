@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*roleplayingAtWork*](https://www.reddit.com/r/ProgrammerHumor/comments/1ntcigm/roleplayingatwork/)
+[*thankYouJetBrains*](https://www.reddit.com/r/ProgrammerHumor/comments/1nu1mt7/thankyoujetbrains/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/iw643dyvc2sf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v353n93hs7sf1.png)
