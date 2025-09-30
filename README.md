@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thankYouJetBrains*](https://www.reddit.com/r/ProgrammerHumor/comments/1nu1mt7/thankyoujetbrains/)
+[*howToKillAChild*](https://www.reddit.com/r/ProgrammerHumor/comments/1nuajyf/howtokillachild/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/v353n93hs7sf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/so9cgvw5easf1.png)
