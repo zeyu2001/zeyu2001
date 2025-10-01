@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pleaseDontInstallMalwareUsingNpm*](https://www.reddit.com/r/ProgrammerHumor/comments/1nuw8uz/pleasedontinstallmalwareusingnpm/)
+[*goodAtComputer*](https://www.reddit.com/r/ProgrammerHumor/comments/1nv26se/goodatcomputer/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3i9vhlpitesf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rbcmrfqshgsf1.png)
