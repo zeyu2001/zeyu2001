@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*goodAtComputer*](https://www.reddit.com/r/ProgrammerHumor/comments/1nv26se/goodatcomputer/)
+[*whatIsWrongHere*](https://www.reddit.com/r/ProgrammerHumor/comments/1nvals1/whatiswronghere/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rbcmrfqshgsf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/icizi0b1misf1.png)
