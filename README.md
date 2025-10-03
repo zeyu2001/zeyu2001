@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*stopOverEngineering*](https://www.reddit.com/r/ProgrammerHumor/comments/1nwg1sb/stopoverengineering/)
+[*useAiMakeNoMistakes*](https://www.reddit.com/r/ProgrammerHumor/comments/1nwqsif/useaimakenomistakes/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1onoh3otjrsf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0bttph443usf1.png)
