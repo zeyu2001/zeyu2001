@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*useAiMakeNoMistakes*](https://www.reddit.com/r/ProgrammerHumor/comments/1nwqsif/useaimakenomistakes/)
+[*learningC*](https://www.reddit.com/r/ProgrammerHumor/comments/1nwwtau/learningc/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0bttph443usf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6fsej2hjwvsf1.png)
