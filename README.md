@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*wheresMyMentalHealth*](https://www.reddit.com/r/ProgrammerHumor/comments/1nxw7ta/wheresmymentalhealth/)
+[*peekingIntoProgrammerHumor*](https://www.reddit.com/r/ProgrammerHumor/comments/1nygehp/peekingintoprogrammerhumor/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wrsn361404tf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m85g4nnah8tf1.png)
