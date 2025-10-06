@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dontMakeMeThink*](https://www.reddit.com/r/ProgrammerHumor/comments/1nyv0lw/dontmakemethink/)
+[*whatCouldGoWrong*](https://www.reddit.com/r/ProgrammerHumor/comments/1nzfxfo/whatcouldgowrong/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xrhnkoe40ctf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/q5bay2do3htf1.png)
