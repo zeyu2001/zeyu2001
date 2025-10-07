@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*clankerSpeaksTheTrue*](https://www.reddit.com/r/ProgrammerHumor/comments/1nzkkq4/clankerspeaksthetrue/)
+[*iCannaeChangeTheLawsOfPhysics*](https://www.reddit.com/r/ProgrammerHumor/comments/1nznt9o/icannaechangethelawsofphysics/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7gnwbws44itf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s8vfxd9lpitf1.png)
