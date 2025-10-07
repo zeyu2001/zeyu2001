@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iCannaeChangeTheLawsOfPhysics*](https://www.reddit.com/r/ProgrammerHumor/comments/1nznt9o/icannaechangethelawsofphysics/)
+[*theDDoSAttackIsComingFrom*](https://www.reddit.com/r/ProgrammerHumor/comments/1o0f6z7/theddosattackiscomingfrom/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/s8vfxd9lpitf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pz777wzp1ptf1.png)
