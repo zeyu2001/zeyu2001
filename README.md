@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lookingClosely*](https://www.reddit.com/r/ProgrammerHumor/comments/1o0iqf6/lookingclosely/)
+[*codeHoarding*](https://www.reddit.com/r/ProgrammerHumor/comments/1o11i0y/codehoarding/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zispuvx6pptf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uil5jiickttf1.png)
