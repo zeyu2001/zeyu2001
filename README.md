@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*codeHoarding*](https://www.reddit.com/r/ProgrammerHumor/comments/1o11i0y/codehoarding/)
+[*pythonGoesBRRRRRRRRr*](https://www.reddit.com/r/ProgrammerHumor/comments/1o1mvdj/pythongoesbrrrrrrrrr/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uil5jiickttf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5n2qn4fw9ytf1.png)
