@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pithonIsHere*](https://www.reddit.com/r/ProgrammerHumor/comments/1o2j8eo/pithonishere/)
+[*guessWhosTheImpostor*](https://www.reddit.com/r/ProgrammerHumor/comments/1o33jk2/guesswhostheimpostor/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9c86zejur5uf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x3iimk3cvauf1.png)
