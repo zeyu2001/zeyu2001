@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*oCpost*](https://www.reddit.com/r/ProgrammerHumor/comments/1o5cxgb/ocpost/)
+[*theTwoTypesOfFileFormatAreTxtAndZip*](https://www.reddit.com/r/ProgrammerHumor/comments/1o5rp92/thetwotypesoffileformataretxtandzip/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/68fu9uctwtuf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ptwetiqe8xuf1.png)
