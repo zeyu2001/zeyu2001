@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*neverForget*](https://www.reddit.com/r/ProgrammerHumor/comments/1o66q3j/neverforget/)
+[*whatItsLikeToLiveOnTheEdge*](https://www.reddit.com/r/ProgrammerHumor/comments/1o6cl3y/whatitsliketoliveontheedge/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fmfo1e41g0vf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/h1plc40h82vf1.png)
