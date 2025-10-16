@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*guysCheckOutMyNewApp*](https://www.reddit.com/r/ProgrammerHumor/comments/1o7mius/guyscheckoutmynewapp/)
+[*beingFreelancer*](https://www.reddit.com/r/ProgrammerHumor/comments/1o7w11a/beingfreelancer/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mra30s737cvf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pjf35xwhaevf1.png)
