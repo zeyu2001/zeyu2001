@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theMythicalManMonthChicken*](https://www.reddit.com/r/ProgrammerHumor/comments/1o7ep7h/themythicalmanmonthchicken/)
+[*guysCheckOutMyNewApp*](https://www.reddit.com/r/ProgrammerHumor/comments/1o7mius/guyscheckoutmynewapp/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m64z9f84ravf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mra30s737cvf1.png)
