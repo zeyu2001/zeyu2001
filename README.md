@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*beingFreelancer*](https://www.reddit.com/r/ProgrammerHumor/comments/1o7w11a/beingfreelancer/)
+[*qualityOverQuantity*](https://www.reddit.com/r/ProgrammerHumor/comments/1o82f4a/qualityoverquantity/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pjf35xwhaevf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fhwraypd9gvf1.png)
