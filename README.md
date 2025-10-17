@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*qualityOverQuantity*](https://www.reddit.com/r/ProgrammerHumor/comments/1o82f4a/qualityoverquantity/)
+[*holaMundo*](https://www.reddit.com/r/ProgrammerHumor/comments/1o8he0q/holamundo/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fhwraypd9gvf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/la5qai2dajvf1.png)
