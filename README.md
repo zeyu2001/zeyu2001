@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*modernDevelopment*](https://www.reddit.com/r/ProgrammerHumor/comments/1o9c97e/moderndevelopment/)
+[*sqlJoinsAsHairstyleFashion*](https://www.reddit.com/r/ProgrammerHumor/comments/1oa5ft6/sqljoinsashairstylefashion/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tsq15k9reqvf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kr8n4vfqcxvf1.png)
