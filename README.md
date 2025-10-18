@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*myCafeWillUseJiraSoCustomersCanAssignMeCappuccinoTickets*](https://www.reddit.com/r/ProgrammerHumor/comments/1o8vznx/mycafewillusejirasocustomerscanassignmecappuccinot/)
+[*wellWellWell*](https://www.reddit.com/r/ProgrammerHumor/comments/1o9b4sq/wellwellwell/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zymav34vwmvf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pubrxf4u6qvf1.png)
