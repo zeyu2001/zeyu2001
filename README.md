@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*wellWellWell*](https://www.reddit.com/r/ProgrammerHumor/comments/1o9b4sq/wellwellwell/)
+[*modernDevelopment*](https://www.reddit.com/r/ProgrammerHumor/comments/1o9c97e/moderndevelopment/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pubrxf4u6qvf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tsq15k9reqvf1.png)
