@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theNightmare*](https://www.reddit.com/r/ProgrammerHumor/comments/1oaze37/thenightmare/)
+[*ifThisUploadsWeHaveToGoBackToWorkSadFace*](https://www.reddit.com/r/ProgrammerHumor/comments/1obfuqa/ifthisuploadswehavetogobacktoworksadface/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9i0gropvh4wf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bmhpq7x9w8wf1.png)
