@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*unfortunatelyNamedEnterpriseLinux*](https://www.reddit.com/r/ProgrammerHumor/comments/1ob4zu5/unfortunatelynamedenterpriselinux/)
+[*theNightmare*](https://www.reddit.com/r/ProgrammerHumor/comments/1oaze37/thenightmare/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/szhj078po5wf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9i0gropvh4wf1.png)
