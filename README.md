@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theEscapeCharacter*](https://www.reddit.com/r/ProgrammerHumor/comments/1oaccs3/theescapecharacter/)
+[*theNightmare*](https://www.reddit.com/r/ProgrammerHumor/comments/1oaze37/thenightmare/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/h0sal9xytyvf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9i0gropvh4wf1.png)
