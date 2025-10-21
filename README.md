@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ifThisUploadsWeHaveToGoBackToWorkSadFace*](https://www.reddit.com/r/ProgrammerHumor/comments/1obfuqa/ifthisuploadswehavetogobacktoworksadface/)
+[*dontBlameTheIntern*](https://www.reddit.com/r/ProgrammerHumor/comments/1obr7ri/dontblametheintern/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bmhpq7x9w8wf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kcbavaj6jbwf1.png)
