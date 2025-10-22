@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lateTakeOnMitDrama*](https://www.reddit.com/r/ProgrammerHumor/comments/1ocmrgq/latetakeonmitdrama/)
+[*anyLanguageExceptJS*](https://www.reddit.com/r/ProgrammerHumor/comments/1od6nri/anylanguageexceptjs/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o9c8gtnwoiwf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5ig841fznnwf1.png)
