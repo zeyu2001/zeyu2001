@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*anyLanguageExceptJS*](https://www.reddit.com/r/ProgrammerHumor/comments/1od6nri/anylanguageexceptjs/)
+[*iCanFinallyRunMyAIGFLocally*](https://www.reddit.com/r/ProgrammerHumor/comments/1odi2vy/icanfinallyrunmyaigflocally/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5ig841fznnwf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/u18gev7btpwf1.png)
