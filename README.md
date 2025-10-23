@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justGoogleIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1odnm4c/justgoogleit/)
+[*anItGuy*](https://www.reddit.com/r/ProgrammerHumor/comments/1odzowu/anitguy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ycz9w0m3xqwf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9l3fcix69uwf1.png)
