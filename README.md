@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iykyk*](https://www.reddit.com/r/ProgrammerHumor/comments/1oev22e/iykyk/)
+[*iCanFunallyRunMyAWSCloudLocally*](https://www.reddit.com/r/ProgrammerHumor/comments/1oecuy0/icanfunallyrunmyawscloudlocally/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wclrb1imn1xf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vust66szywwf1.png)
