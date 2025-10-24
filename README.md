@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*anItGuy*](https://www.reddit.com/r/ProgrammerHumor/comments/1odzowu/anitguy/)
+[*checkDisplayNameString*](https://www.reddit.com/r/ProgrammerHumor/comments/1oeo2no/checkdisplaynamestring/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9l3fcix69uwf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v5db3ptkhzwf1.png)
