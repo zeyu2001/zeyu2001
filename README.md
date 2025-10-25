@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*weDoBeLikeThat*](https://www.reddit.com/r/ProgrammerHumor/comments/1oexszc/wedobelikethat/)
+[*smallFunction*](https://www.reddit.com/r/ProgrammerHumor/comments/1ofo6cp/smallfunction/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ejgzs5gna2xf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yb15ifz9i8xf1.png)
