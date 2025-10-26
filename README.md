@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*nextLevelstorage*](https://www.reddit.com/r/ProgrammerHumor/comments/1oftim0/nextlevelstorage/)
+[*maxTokenLimitExceeded*](https://www.reddit.com/r/ProgrammerHumor/comments/1og8096/maxtokenlimitexceeded/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fea0bsfdu9xf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vll8desoxcxf1.png)
