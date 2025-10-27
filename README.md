@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*vibeCodedRandomPsuedoCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1ogpzrr/vibecodedrandompsuedocode/)
+[*broWorkingHardForMyDreamProject*](https://www.reddit.com/r/ProgrammerHumor/comments/1ogi723/broworkinghardformydreamproject/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/w8yol9pjnhxf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x5z804wvxfxf1.png)
