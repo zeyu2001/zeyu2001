@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*maxTokenLimitExceeded*](https://www.reddit.com/r/ProgrammerHumor/comments/1og8096/maxtokenlimitexceeded/)
+[*vibeCodedRandomPsuedoCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1ogpzrr/vibecodedrandompsuedocode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vll8desoxcxf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/w8yol9pjnhxf1.png)
