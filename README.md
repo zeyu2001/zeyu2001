@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*broWorkingHardForMyDreamProject*](https://www.reddit.com/r/ProgrammerHumor/comments/1ogi723/broworkinghardformydreamproject/)
+[*sorryForSubparPhotoshopImAVibeCoderNotAnEditor*](https://www.reddit.com/r/ProgrammerHumor/comments/1oh02it/sorryforsubparphotoshopimavibecodernotaneditor/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x5z804wvxfxf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ltqkg51dpjxf1.png)
