@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iHopeHeGetsItNow*](https://www.reddit.com/r/ProgrammerHumor/comments/1oh945v/ihopehegetsitnow/)
+[*ifItsStupidAndItWorksItAintStupid*](https://www.reddit.com/r/ProgrammerHumor/comments/1ohg87d/ifitsstupidanditworksitaintstupid/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ch85m8q79mxf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/g0y64h932oxf1.png)
