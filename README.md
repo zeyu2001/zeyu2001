@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youAreAbsolutelyRight*](https://www.reddit.com/r/ProgrammerHumor/comments/1oi5yl5/youareabsolutelyright/)
+[*programmingIsPainAuChocolat*](https://www.reddit.com/r/ProgrammerHumor/comments/1oi3x8d/programmingispainauchocolat/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nlvk3vjb0uxf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y2cjaaqmctxf1.png)
