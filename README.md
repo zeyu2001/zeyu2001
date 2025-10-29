@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aRealProgrammersBreakfast*](https://www.reddit.com/r/ProgrammerHumor/comments/1oix5es/arealprogrammersbreakfast/)
+[*trueStory*](https://www.reddit.com/r/ProgrammerHumor/comments/1oileun/truestory/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/so4vc2jruzxf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tcr49ae73xxf1.png)
