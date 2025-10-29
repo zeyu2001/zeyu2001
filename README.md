@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*weHaveAllDoneIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1oi7mxn/wehavealldoneit/)
+[*aiGirlfriendWithoutFilters*](https://www.reddit.com/r/ProgrammerHumor/comments/1oiw3cu/aigirlfriendwithoutfilters/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/93qse346guxf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/me6m2xotizxf1.png)
