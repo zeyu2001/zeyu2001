@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iHateFuckingFallbacks*](https://www.reddit.com/r/ProgrammerHumor/comments/1oiyjnm/ihatefuckingfallbacks/)
+[*aSingleDigitCanChangeLife*](https://www.reddit.com/r/ProgrammerHumor/comments/1ojh0m1/asingledigitcanchangelife/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ygya6bxub0yf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wpvbuheua4yf1.png)
