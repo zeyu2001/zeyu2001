@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*yourGirlfriendIsAModel*](https://www.reddit.com/r/ProgrammerHumor/comments/1ojyehl/yourgirlfriendisamodel/)
+[*isThisTrue*](https://www.reddit.com/r/ProgrammerHumor/comments/1ok5ux2/isthistrue/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xm1wiirqt8yf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f1k0ttvg9ayf1.png)
