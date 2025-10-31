@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*forgotStartTransaction*](https://www.reddit.com/r/ProgrammerHumor/comments/1okddzj/forgotstarttransaction/)
+[*dealingWithSafariAsAWebdev*](https://www.reddit.com/r/ProgrammerHumor/comments/1okllv2/dealingwithsafariasawebdev/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pphz022opbyf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5407rzwamdyf1.png)
