@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howWillRUSTInFrenchSaveMyDay*](https://www.reddit.com/r/ProgrammerHumor/comments/1okrf0b/howwillrustinfrenchsavemyday/)
+[*thereIsNoEscape*](https://www.reddit.com/r/ProgrammerHumor/comments/1ol71sg/thereisnoescape/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kt7a9dxhhfyf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i26idqxaoiyf1.png)
