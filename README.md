@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisIsACryForHelpIDontKnowHowToWriteComments*](https://www.reddit.com/r/ProgrammerHumor/comments/1okviae/thisisacryforhelpidontknowhowtowritecomments/)
+[*howWillRUSTInFrenchSaveMyDay*](https://www.reddit.com/r/ProgrammerHumor/comments/1okrf0b/howwillrustinfrenchsavemyday/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ivj71048fgyf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kt7a9dxhhfyf1.png)
