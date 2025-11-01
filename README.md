@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*awsOutageGraphLooksFamiliar*](https://www.reddit.com/r/ProgrammerHumor/comments/1olbv5g/awsoutagegraphlooksfamiliar/)
+[*thereIsNoEscape*](https://www.reddit.com/r/ProgrammerHumor/comments/1ol71sg/thereisnoescape/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1d0vrd6jtjyf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i26idqxaoiyf1.png)
