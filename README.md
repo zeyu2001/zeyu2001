@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dealingWithSafariAsAWebdev*](https://www.reddit.com/r/ProgrammerHumor/comments/1okllv2/dealingwithsafariasawebdev/)
+[*awsOutageGraphLooksFamiliar*](https://www.reddit.com/r/ProgrammerHumor/comments/1olbv5g/awsoutagegraphlooksfamiliar/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5407rzwamdyf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1d0vrd6jtjyf1.png)
