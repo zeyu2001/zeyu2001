@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theReality*](https://www.reddit.com/r/ProgrammerHumor/comments/1old1qp/thereality/)
+[*stopUsingFloats*](https://www.reddit.com/r/ProgrammerHumor/comments/1olvw2r/stopusingfloats/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tc07tvx05kyf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fo73zmh90pyf1.png)
