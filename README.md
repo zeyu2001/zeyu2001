@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*rateMySortingAlgorithm*](https://www.reddit.com/r/ProgrammerHumor/comments/1ombtgo/ratemysortingalgorithm/)
+[*grokPleaseExplain*](https://www.reddit.com/r/ProgrammerHumor/comments/1omi02a/grokpleaseexplain/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7rm9kz9nxsyf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gzp767obouyf1.png)
