@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*grokPleaseExplain*](https://www.reddit.com/r/ProgrammerHumor/comments/1omi02a/grokpleaseexplain/)
+[*oracleAcronym*](https://www.reddit.com/r/ProgrammerHumor/comments/1on8qvn/oracleacronym/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gzp767obouyf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zpfgc4jow0zf1.png)
