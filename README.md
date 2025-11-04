@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*oracleAcronym*](https://www.reddit.com/r/ProgrammerHumor/comments/1on8qvn/oracleacronym/)
+[*seCuRItY*](https://www.reddit.com/r/ProgrammerHumor/comments/1onmkux/security/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zpfgc4jow0zf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1ev6k4lkn3zf1.png)
