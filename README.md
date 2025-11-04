@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*seCuRItY*](https://www.reddit.com/r/ProgrammerHumor/comments/1onmkux/security/)
+[*mojangDiscoversMultithreading*](https://www.reddit.com/r/ProgrammerHumor/comments/1ooep5z/mojangdiscoversmultithreading/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1ev6k4lkn3zf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gmbndm6a7azf1.png)
