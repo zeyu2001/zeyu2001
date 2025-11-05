@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*isJsReallyThatBadQuestionMark*](https://www.reddit.com/r/ProgrammerHumor/comments/1oogit0/isjsreallythatbadquestionmark/)
+[*rustIsGoingToReplaceC*](https://www.reddit.com/r/ProgrammerHumor/comments/1ooxb2z/rustisgoingtoreplacec/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gw5hycz5jazf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jz8q8elpdezf1.png)
