@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*rustIsGoingToReplaceC*](https://www.reddit.com/r/ProgrammerHumor/comments/1ooxb2z/rustisgoingtoreplacec/)
+[*justOneHitAndAllTheRenewalFeesWillBeWorthIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1opheq1/justonehitandalltherenewalfeeswillbeworthit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jz8q8elpdezf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j7clwj0ykizf1.png)
