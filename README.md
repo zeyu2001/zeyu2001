@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*computerScienceStudentSpecialization*](https://www.reddit.com/r/ProgrammerHumor/comments/1oqcgjg/computersciencestudentspecialization/)
+[*iJustNoteItOnMyPhoneAt3AM*](https://www.reddit.com/r/ProgrammerHumor/comments/1oqo5dc/ijustnoteitonmyphoneat3am/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/104aea87mpzf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/69mdh52ofszf1.png)
