@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*monoreposBeforeItWasCool*](https://www.reddit.com/r/ProgrammerHumor/comments/1opu3cp/monoreposbeforeitwascool/)
+[*whichRepoTaughtLLMsToUseEmojisInCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1opuwip/whichrepotaughtllmstouseemojisincode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lteskuu5rlzf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sq7wt5oi0mzf1.png)
