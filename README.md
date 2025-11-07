@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whichRepoTaughtLLMsToUseEmojisInCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1opuwip/whichrepotaughtllmstouseemojisincode/)
+[*zIndex*](https://www.reddit.com/r/ProgrammerHumor/comments/1opxyp2/zindex/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sq7wt5oi0mzf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ouumeyfnumzf1.png)
