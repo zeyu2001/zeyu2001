@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iJustNoteItOnMyPhoneAt3AM*](https://www.reddit.com/r/ProgrammerHumor/comments/1oqo5dc/ijustnoteitonmyphoneat3am/)
+[*openSourceContribution*](https://www.reddit.com/r/ProgrammerHumor/comments/1or48kk/opensourcecontribution/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/69mdh52ofszf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bewpah4f2wzf1.png)
