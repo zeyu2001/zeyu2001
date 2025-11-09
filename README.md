@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justMadeANpmPackageForOppenheimerSortTheFastestSortingAlgoThusFar*](https://www.reddit.com/r/ProgrammerHumor/comments/1orb0yz/justmadeanpmpackageforoppenheimersortthefastestsor/)
+[*willHaltTrustMeBro*](https://www.reddit.com/r/ProgrammerHumor/comments/1orqv54/willhalttrustmebro/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ak8r3oo2fxzf1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1qj2pp34m10g1.png)
