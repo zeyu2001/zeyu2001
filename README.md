@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*willHaltTrustMeBro*](https://www.reddit.com/r/ProgrammerHumor/comments/1orqv54/willhalttrustmebro/)
+[*designersVsProgrammersTheOwnershipParadox*](https://www.reddit.com/r/ProgrammerHumor/comments/1oskjt0/designersvsprogrammerstheownershipparadox/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1qj2pp34m10g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/77ypnhv5q80g1.png)
