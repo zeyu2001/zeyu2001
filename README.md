@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*broSorryButThisIsNotAIAgent*](https://www.reddit.com/r/ProgrammerHumor/comments/1orzlls/brosorrybutthisisnotaiagent/)
+[*designersVsProgrammersTheOwnershipParadox*](https://www.reddit.com/r/ProgrammerHumor/comments/1oskjt0/designersvsprogrammerstheownershipparadox/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4hphugsne30g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/77ypnhv5q80g1.png)
