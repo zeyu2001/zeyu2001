@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itDoesntWorkWithEveryExtensionButItsStillBetter*](https://www.reddit.com/r/ProgrammerHumor/comments/1osno4m/itdoesntworkwitheveryextensionbutitsstillbetter/)
+[*sheShouldBeEmbarresed*](https://www.reddit.com/r/ProgrammerHumor/comments/1otcm4e/sheshouldbeembarresed/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/clf4eyv5d90g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4fxlx8qlcf0g1.png)
