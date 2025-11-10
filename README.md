@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*polyglottalRepository*](https://www.reddit.com/r/ProgrammerHumor/comments/1ot6fou/polyglottalrepository/)
+[*itDoesntWorkWithEveryExtensionButItsStillBetter*](https://www.reddit.com/r/ProgrammerHumor/comments/1osno4m/itdoesntworkwitheveryextensionbutitsstillbetter/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p0kdgqxsgd0g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/clf4eyv5d90g1.png)
