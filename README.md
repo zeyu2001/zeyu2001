@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gitRevertCodeMonkey*](https://www.reddit.com/r/ProgrammerHumor/comments/1otgf5v/gitrevertcodemonkey/)
+[*standProud*](https://www.reddit.com/r/ProgrammerHumor/comments/1ou7da0/standproud/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9n568fcx4g0g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7fkud6pl8m0g1.png)
