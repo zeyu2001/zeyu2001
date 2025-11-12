@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thatMakesMeLaughEveryTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1oumvod/thatmakesmelaugheverytime/)
+[*theOneRegextoRuleThemAll*](https://www.reddit.com/r/ProgrammerHumor/comments/1ov0j6v/theoneregextorulethemall/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1ovfxb1g9p0g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zxn9ipuoms0g1.png)
