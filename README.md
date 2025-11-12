@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*standProud*](https://www.reddit.com/r/ProgrammerHumor/comments/1ou7da0/standproud/)
+[*thatMakesMeLaughEveryTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1oumvod/thatmakesmelaugheverytime/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7fkud6pl8m0g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1ovfxb1g9p0g1.png)
