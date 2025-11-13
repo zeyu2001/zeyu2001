@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*codeWorksBusinessDoesnt*](https://www.reddit.com/r/ProgrammerHumor/comments/1ov9z3n/codeworksbusinessdoesnt/)
+[*itCanStoreVectors*](https://www.reddit.com/r/ProgrammerHumor/comments/1ovn286/itcanstorevectors/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zdmeoebvsu0g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k1qplt2x8x0g1.png)
