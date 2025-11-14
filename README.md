@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itCanStoreVectors*](https://www.reddit.com/r/ProgrammerHumor/comments/1ovn286/itcanstorevectors/)
+[*devMeme*](https://www.reddit.com/r/ProgrammerHumor/comments/1ovzsaz/devmeme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k1qplt2x8x0g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lceu5b81q01g1.png)
