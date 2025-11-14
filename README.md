@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*devMeme*](https://www.reddit.com/r/ProgrammerHumor/comments/1ovzsaz/devmeme/)
+[*owoNoticesBug*](https://www.reddit.com/r/ProgrammerHumor/comments/1owcotd/owonoticesbug/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lceu5b81q01g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/69hjyhz2831g1.png)
