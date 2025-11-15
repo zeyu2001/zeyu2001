@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*seekHelpPlease*](https://www.reddit.com/r/ProgrammerHumor/comments/1oxnzd2/seekhelpplease/)
+[*hotCodebasesInYourArea*](https://www.reddit.com/r/ProgrammerHumor/comments/1ox72u4/hotcodebasesinyourarea/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0hd81thi9e1g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d3g87zpu4a1g1.png)
