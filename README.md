@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*generationalPostTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1oygbgt/generationalposttime/)
+[*runItAgainMaybeItWorks*](https://www.reddit.com/r/ProgrammerHumor/comments/1oyrj94/runitagainmaybeitworks/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c5arrs72wk1g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zxfu6n9qln1g1.png)
