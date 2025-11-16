@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*emacs*](https://www.reddit.com/r/ProgrammerHumor/comments/1oxvvuj/emacs/)
+[*generationalPostTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1oygbgt/generationalposttime/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/49iotarq5g1g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c5arrs72wk1g1.png)
