@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*mostImportantIssue*](https://www.reddit.com/r/ProgrammerHumor/comments/1oz3rwc/mostimportantissue/)
+[*deadlockCondition*](https://www.reddit.com/r/ProgrammerHumor/comments/1ozk27u/deadlockcondition/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8ip5aff34q1g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qbvxl3vebu1g1.png)
