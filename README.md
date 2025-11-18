@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*weEatingGoodTonight*](https://www.reddit.com/r/ProgrammerHumor/comments/1ozgfyy/weeatinggoodtonight/)
+[*glorifiedCSV*](https://www.reddit.com/r/ProgrammerHumor/comments/1oztiez/glorifiedcsv/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lactasc8lt1g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/317tm5ti1w1g1.png)
