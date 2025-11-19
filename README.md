@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*decentralizedInternetHatTrick*](https://www.reddit.com/r/ProgrammerHumor/comments/1p0bdbe/decentralizedinternethattrick/)
+[*blamelessDoesNotMeanNameless*](https://www.reddit.com/r/ProgrammerHumor/comments/1p0zuwz/blamelessdoesnotmeannameless/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8fkhl46mk02g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/q1psdceon52g1.png)
