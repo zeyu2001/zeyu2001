@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatDoYouThinkOfMyCv*](https://www.reddit.com/r/ProgrammerHumor/comments/1p17yxj/whatdoyouthinkofmycv/)
+[*actuallyCompleteVersion*](https://www.reddit.com/r/ProgrammerHumor/comments/1p204nx/actuallycompleteversion/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kv4hizg1w72g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/myl68j4u6e2g1.png)
