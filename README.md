@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*blamelessDoesNotMeanNameless*](https://www.reddit.com/r/ProgrammerHumor/comments/1p0zuwz/blamelessdoesnotmeannameless/)
+[*whatDoYouThinkOfMyCv*](https://www.reddit.com/r/ProgrammerHumor/comments/1p17yxj/whatdoyouthinkofmycv/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q1psdceon52g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kv4hizg1w72g1.png)
