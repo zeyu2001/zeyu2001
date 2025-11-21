@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*evenMoreExpandedVersion*](https://www.reddit.com/r/ProgrammerHumor/comments/1p24o79/evenmoreexpandedversion/)
+[*endOfAllModernDigitalInfrastructure*](https://www.reddit.com/r/ProgrammerHumor/comments/1p2cjj9/endofallmoderndigitalinfrastructure/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dftb5j0haf2g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pta41zo9rg2g1.png)
