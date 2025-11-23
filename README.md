@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*fixedReactJSMeme*](https://www.reddit.com/r/ProgrammerHumor/comments/1p4mjkx/fixedreactjsmeme/)
+[*guessThetypeofThisBug*](https://www.reddit.com/r/ProgrammerHumor/comments/1p43g58/guessthetypeofthisbug/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ee2904r6c03g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ykwt4c2ocv2g1.png)
