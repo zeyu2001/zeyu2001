@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*beforeWasAtLeastCheaper*](https://www.reddit.com/r/ProgrammerHumor/comments/1p5agkh/beforewasatleastcheaper/)
+[*wrongVersion*](https://www.reddit.com/r/ProgrammerHumor/comments/1p5wv58/wrongversion/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/brgbmfihm53g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y60v4ixwha3g1.png)
