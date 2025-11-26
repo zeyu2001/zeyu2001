@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*noDiscriminationPlease*](https://www.reddit.com/r/ProgrammerHumor/comments/1p693j5/nodiscriminationplease/)
+[*whatIsMutexLock*](https://www.reddit.com/r/ProgrammerHumor/comments/1p6hbkh/whatismutexlock/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qxpjwsylrd3g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zi0h7isclf3g1.png)
