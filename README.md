@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gettingHelpWithASoftwareProject*](https://www.reddit.com/r/ProgrammerHumor/comments/1p83n2k/gettinghelpwithasoftwareproject/)
+[*weInventedObjectOrientedDesignToSolveAProblemAndThenInventedSQLToUnsolveItAgain*](https://www.reddit.com/r/ProgrammerHumor/comments/1p7sfv4/weinventedobjectorienteddesigntosolveaproblemandth/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/d1qwir4o8t3g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m4je7db04q3g1.png)
