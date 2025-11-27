@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*absolutelyDiabolical*](https://www.reddit.com/r/ProgrammerHumor/comments/1p77wtu/absolutelydiabolical/)
+[*mutexWillSaveYouAll*](https://www.reddit.com/r/ProgrammerHumor/comments/1p7dhqd/mutexwillsaveyouall/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/csn192rttl3g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c6twu43pwm3g1.png)
