@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*mutexWillSaveYouAll*](https://www.reddit.com/r/ProgrammerHumor/comments/1p7dhqd/mutexwillsaveyouall/)
+[*gettingHelpWithASoftwareProject*](https://www.reddit.com/r/ProgrammerHumor/comments/1p83n2k/gettinghelpwithasoftwareproject/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c6twu43pwm3g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d1qwir4o8t3g1.png)
