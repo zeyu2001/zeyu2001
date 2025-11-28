@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*isItReallyWorthIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1p8afxr/isitreallyworthit/)
+[*productionBecomesADetectiveGame*](https://www.reddit.com/r/ProgrammerHumor/comments/1p8kpld/productionbecomesadetectivegame/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hihuxbthmu3g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ibwv6zpm3x3g1.png)
