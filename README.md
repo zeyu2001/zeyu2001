@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*productionBecomesADetectiveGame*](https://www.reddit.com/r/ProgrammerHumor/comments/1p8kpld/productionbecomesadetectivegame/)
+[*youMeanActuallyProgramming*](https://www.reddit.com/r/ProgrammerHumor/comments/1p936c0/youmeanactuallyprogramming/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ibwv6zpm3x3g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7u3bob4eq14g1.png)
