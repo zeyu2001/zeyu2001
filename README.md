@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youMeanActuallyProgramming*](https://www.reddit.com/r/ProgrammerHumor/comments/1p936c0/youmeanactuallyprogramming/)
+[*emphasisOnThanklessly*](https://www.reddit.com/r/ProgrammerHumor/comments/1p9pg7w/emphasisonthanklessly/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7u3bob4eq14g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/30vqvdl9b74g1.png)
