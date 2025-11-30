@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*featureUpdatesGoneWrong*](https://www.reddit.com/r/ProgrammerHumor/comments/1pa401w/featureupdatesgonewrong/)
+[*betterThanMine*](https://www.reddit.com/r/ProgrammerHumor/comments/1pagx8p/betterthanmine/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tafwhwm0ea4g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s40rgr2azd4g1.png)
