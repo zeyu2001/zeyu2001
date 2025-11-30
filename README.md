@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*emphasisOnThanklessly*](https://www.reddit.com/r/ProgrammerHumor/comments/1p9pg7w/emphasisonthanklessly/)
+[*featureUpdatesGoneWrong*](https://www.reddit.com/r/ProgrammerHumor/comments/1pa401w/featureupdatesgonewrong/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/30vqvdl9b74g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tafwhwm0ea4g1.png)
