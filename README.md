@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*betterThanMine*](https://www.reddit.com/r/ProgrammerHumor/comments/1pagx8p/betterthanmine/)
+[*thereIsAlsoSomeDivCentring*](https://www.reddit.com/r/ProgrammerHumor/comments/1pa6c2g/thereisalsosomedivcentring/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/s40rgr2azd4g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qkp6erf3xa4g1.png)
