@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thereIsAlsoSomeDivCentring*](https://www.reddit.com/r/ProgrammerHumor/comments/1pa6c2g/thereisalsosomedivcentring/)
+[*iStillCallThemServicesAndTheyForgotTheA*](https://www.reddit.com/r/ProgrammerHumor/comments/1pac23p/istillcallthemservicesandtheyforgotthea/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qkp6erf3xa4g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ksjvs87qgc4g1.png)
