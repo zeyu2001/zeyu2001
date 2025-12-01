@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iStillCallThemServicesAndTheyForgotTheA*](https://www.reddit.com/r/ProgrammerHumor/comments/1pac23p/istillcallthemservicesandtheyforgotthea/)
+[*veryCloseCall*](https://www.reddit.com/r/ProgrammerHumor/comments/1pae2st/veryclosecall/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ksjvs87qgc4g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k5v2eijw3d4g1.png)
