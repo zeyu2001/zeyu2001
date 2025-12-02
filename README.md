@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*well*](https://www.reddit.com/r/ProgrammerHumor/comments/1pbb56k/well/)
+[*areWeInASim*](https://www.reddit.com/r/ProgrammerHumor/comments/1pbu4rn/areweinasim/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yrmw009p2l4g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vmu27riqso4g1.png)
