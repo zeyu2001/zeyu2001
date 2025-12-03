@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*areWeInASim*](https://www.reddit.com/r/ProgrammerHumor/comments/1pbu4rn/areweinasim/)
+[*oracleSuesNavajoNation*](https://www.reddit.com/r/ProgrammerHumor/comments/1pc65w1/oraclesuesnavajonation/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vmu27riqso4g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d0pjuh1v0s4g1.png)
