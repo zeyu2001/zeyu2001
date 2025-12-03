@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*isAwsPeakEngineering*](https://www.reddit.com/r/ProgrammerHumor/comments/1pcaxpq/isawspeakengineering/)
+[*kitchenwareOptimization*](https://www.reddit.com/r/ProgrammerHumor/comments/1pd3d4q/kitchenwareoptimization/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xnf5mh4b4t4g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4rcn4ueikz4g1.png)
