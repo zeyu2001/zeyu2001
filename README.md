@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*kitchenwareOptimization*](https://www.reddit.com/r/ProgrammerHumor/comments/1pd3d4q/kitchenwareoptimization/)
+[*incredibleThingsAreHappening*](https://www.reddit.com/r/ProgrammerHumor/comments/1pdvhcb/incrediblethingsarehappening/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4rcn4ueikz4g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qt075th8m55g1.png)
