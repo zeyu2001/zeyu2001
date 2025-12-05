@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*verbatimWhatHeWroteBtw*](https://www.reddit.com/r/ProgrammerHumor/comments/1pecqfu/verbatimwhathewrotebtw/)
+[*gentlemenAShortViewBackToThePast*](https://www.reddit.com/r/ProgrammerHumor/comments/1pesrnn/gentlemenashortviewbacktothepast/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/79fz3j5nb95g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3guu2fkwfd5g1.png)
