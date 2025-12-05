@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*incredibleThingsAreHappening*](https://www.reddit.com/r/ProgrammerHumor/comments/1pdvhcb/incrediblethingsarehappening/)
+[*verbatimWhatHeWroteBtw*](https://www.reddit.com/r/ProgrammerHumor/comments/1pecqfu/verbatimwhathewrotebtw/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qt075th8m55g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/79fz3j5nb95g1.png)
