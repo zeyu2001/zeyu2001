@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*wellAtLeastHeKnowWhatIsBS*](https://www.reddit.com/r/ProgrammerHumor/comments/1pf4wow/wellatleastheknowwhatisbs/)
+[*goingToTheSupermarketBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/1pfmodo/goingtothesupermarketbelike/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/z2xw7jgdxf5g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6oer2aa3fk5g1.png)
