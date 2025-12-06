@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gentlemenAShortViewBackToThePast*](https://www.reddit.com/r/ProgrammerHumor/comments/1pesrnn/gentlemenashortviewbacktothepast/)
+[*thenWhatIsThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1peqgnp/thenwhatisthis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3guu2fkwfd5g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s8d3t18aqc5g1.png)
