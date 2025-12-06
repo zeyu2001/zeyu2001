@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thenWhatIsThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1peqgnp/thenwhatisthis/)
+[*whenYouRealize6MonthsOfCodingIsStillNoMagic*](https://www.reddit.com/r/ProgrammerHumor/comments/1pez52f/whenyourealize6monthsofcodingisstillnomagic/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/s8d3t18aqc5g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ygrarxf2ue5g1.png)
