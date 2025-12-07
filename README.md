@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*serverTheServers*](https://www.reddit.com/r/ProgrammerHumor/comments/1pfzlrh/servertheservers/)
+[*onlyReactDevsWillRelate*](https://www.reddit.com/r/ProgrammerHumor/comments/1pgh41k/onlyreactdevswillrelate/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/f7iwwutqbn5g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5mprfftsyr5g1.png)
