@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*linuxCursedwords*](https://www.reddit.com/r/ProgrammerHumor/comments/1pfsqf9/linuxcursedwords/)
+[*serverTheServers*](https://www.reddit.com/r/ProgrammerHumor/comments/1pfzlrh/servertheservers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/f193zoo7xl5g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f7iwwutqbn5g1.png)
