@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pogramersBlock*](https://www.reddit.com/r/ProgrammerHumor/comments/1phc68w/pogramersblock/)
+[*thisIsTheEndHoldYourBreathAnd*](https://www.reddit.com/r/ProgrammerHumor/comments/1phw36j/thisistheendholdyourbreathand/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cifryczhdz5g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/za7ddfq1c36g1.png)
