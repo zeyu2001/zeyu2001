@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*svelteIsBetter*](https://www.reddit.com/r/ProgrammerHumor/comments/1pj5nsk/svelteisbetter/)
+[*devinGotFired*](https://www.reddit.com/r/ProgrammerHumor/comments/1pj6v7d/devingotfired/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k7xluh8ybe6g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1a3e9q37ke6g1.png)
