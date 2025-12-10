@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*suddenlyPeopleCare*](https://www.reddit.com/r/ProgrammerHumor/comments/1piniwr/suddenlypeoplecare/)
+[*svelteIsBetter*](https://www.reddit.com/r/ProgrammerHumor/comments/1pj5nsk/svelteisbetter/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bwf1dyqqo96g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k7xluh8ybe6g1.png)
