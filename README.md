@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisIsTheEndHoldYourBreathAnd*](https://www.reddit.com/r/ProgrammerHumor/comments/1phw36j/thisistheendholdyourbreathand/)
+[*atLeastHeClosesBracketsLikeLisp*](https://www.reddit.com/r/ProgrammerHumor/comments/1phzpza/atleastheclosesbracketslikelisp/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/za7ddfq1c36g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dtqexyqaa46g1.png)
