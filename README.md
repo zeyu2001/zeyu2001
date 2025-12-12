@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justProvideMeLinuxDotexe*](https://www.reddit.com/r/ProgrammerHumor/comments/1pkla2n/justprovidemelinuxdotexe/)
+[*dontBeScaredMathAndComputingAreFriends*](https://www.reddit.com/r/ProgrammerHumor/comments/1pkk5xa/dontbescaredmathandcomputingarefriends/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lwcjslffzp6g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k99edzqvnp6g1.png)
