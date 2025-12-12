@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itWorksOnMyMachineActual*](https://www.reddit.com/r/ProgrammerHumor/comments/1pk7997/itworksonmymachineactual/)
+[*justProvideMeLinuxDotexe*](https://www.reddit.com/r/ProgrammerHumor/comments/1pkla2n/justprovidemelinuxdotexe/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/njmecubdrm6g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lwcjslffzp6g1.png)
