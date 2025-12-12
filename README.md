@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*money*](https://www.reddit.com/r/ProgrammerHumor/comments/1pjpbmq/money/)
+[*itWorksOnMyMachineActual*](https://www.reddit.com/r/ProgrammerHumor/comments/1pk7997/itworksonmymachineactual/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pp6oydb1ei6g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/njmecubdrm6g1.png)
