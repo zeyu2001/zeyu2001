@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*hanSoloIsMyCoPilot*](https://www.reddit.com/r/ProgrammerHumor/comments/1pl5o70/hansoloismycopilot/)
+[*thisAppIsCurrentlyRunningCloseTheAppAndTryAgain*](https://www.reddit.com/r/ProgrammerHumor/comments/1plsehx/thisappiscurrentlyrunningclosetheappandtryagain/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/st8dvql7ru6g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vmxeblb1m07g1.png)
