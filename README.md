@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*electronAppsVSMyRam*](https://www.reddit.com/r/ProgrammerHumor/comments/1pkxo76/electronappsvsmyram/)
+[*hanSoloIsMyCoPilot*](https://www.reddit.com/r/ProgrammerHumor/comments/1pl5o70/hansoloismycopilot/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qe4hvc4s4t6g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/st8dvql7ru6g1.png)
