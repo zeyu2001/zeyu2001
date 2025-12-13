@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dontBeScaredMathAndComputingAreFriends*](https://www.reddit.com/r/ProgrammerHumor/comments/1pkk5xa/dontbescaredmathandcomputingarefriends/)
+[*electronAppsVSMyRam*](https://www.reddit.com/r/ProgrammerHumor/comments/1pkxo76/electronappsvsmyram/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k99edzqvnp6g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qe4hvc4s4t6g1.png)
