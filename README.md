@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisAppIsCurrentlyRunningCloseTheAppAndTryAgain*](https://www.reddit.com/r/ProgrammerHumor/comments/1plsehx/thisappiscurrentlyrunningclosetheappandtryagain/)
+[*compilerFlag*](https://www.reddit.com/r/ProgrammerHumor/comments/1pleio3/compilerflag/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vmxeblb1m07g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2b3q6ycazw6g1.png)
