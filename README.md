@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justLetMeFinish*](https://www.reddit.com/r/ProgrammerHumor/comments/1pmodqv/justletmefinish/)
+[*relationalDatabases*](https://www.reddit.com/r/ProgrammerHumor/comments/1pna7t7/relationaldatabases/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mkr0p4wrd87g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wa7wol0czd7g1.png)
