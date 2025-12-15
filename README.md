@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*timeTravelerSpotted*](https://www.reddit.com/r/ProgrammerHumor/comments/1pm9o77/timetravelerspotted/)
+[*justLetMeFinish*](https://www.reddit.com/r/ProgrammerHumor/comments/1pmodqv/justletmefinish/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ve15lpdov47g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mkr0p4wrd87g1.png)
