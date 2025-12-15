@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*relationalDatabases*](https://www.reddit.com/r/ProgrammerHumor/comments/1pna7t7/relationaldatabases/)
+[*whatIsHappening*](https://www.reddit.com/r/ProgrammerHumor/comments/1pni6kt/whatishappening/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wa7wol0czd7g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nfjlv1g9hf7g1.png)
