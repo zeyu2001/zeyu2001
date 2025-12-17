@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itsNotOurFaultItsCloudflares*](https://www.reddit.com/r/ProgrammerHumor/comments/1pnsn3x/itsnotourfaultitscloudflares/)
+[*iStillDontKnowMyOperatorPrecedence*](https://www.reddit.com/r/ProgrammerHumor/comments/1pocqc9/istilldontknowmyoperatorprecedence/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5g32mgwbsh7g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/e7es18v3mm7g1.png)
