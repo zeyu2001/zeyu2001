@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*that5minMeetingWithADeveloper*](https://www.reddit.com/r/ProgrammerHumor/comments/1pozmu4/that5minmeetingwithadeveloper/)
+[*internalServerError*](https://www.reddit.com/r/ProgrammerHumor/comments/1ppp06q/internalservererror/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/oq9w0eldas7g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/e5obdvtxby7g1.png)
