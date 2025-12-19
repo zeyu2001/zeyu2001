@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*jsonMomoa*](https://www.reddit.com/r/ProgrammerHumor/comments/1ppqcs1/jsonmomoa/)
+[*myPoorTiredRaspberryPi*](https://www.reddit.com/r/ProgrammerHumor/comments/1pq07nr/mypoortiredraspberrypi/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c32lhkrfoy7g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bm2189tpn08g1.png)
