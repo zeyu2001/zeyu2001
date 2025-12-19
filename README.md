@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*internalServerError*](https://www.reddit.com/r/ProgrammerHumor/comments/1ppp06q/internalservererror/)
+[*jsonMomoa*](https://www.reddit.com/r/ProgrammerHumor/comments/1ppqcs1/jsonmomoa/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/e5obdvtxby7g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c32lhkrfoy7g1.png)
