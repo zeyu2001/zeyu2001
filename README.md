@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*haveFunLearningGPT*](https://www.reddit.com/r/ProgrammerHumor/comments/1pqfzxq/havefunlearninggpt/)
+[*whyAllMyJiraTicketsAre83Points*](https://www.reddit.com/r/ProgrammerHumor/comments/1pqi0dt/whyallmyjiraticketsare83points/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kg50albkf48g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yklnanm6358g1.png)
