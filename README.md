@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ifItRunsItRuns*](https://www.reddit.com/r/ProgrammerHumor/comments/1pqp028/ifitrunsitruns/)
+[*vibeSecurity*](https://www.reddit.com/r/ProgrammerHumor/comments/1pqpx45/vibesecurity/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u12yet2gq68g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/u2jc3ej9w68g1.png)
