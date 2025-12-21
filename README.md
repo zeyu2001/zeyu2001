@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*compilerEngineering*](https://www.reddit.com/r/ProgrammerHumor/comments/1pr0izm/compilerengineering/)
+[*aSmallComicOfMyRecentBlunder*](https://www.reddit.com/r/ProgrammerHumor/comments/1pr5urc/asmallcomicofmyrecentblunder/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p78fz01g598g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xmo333c5ha8g1.png)
