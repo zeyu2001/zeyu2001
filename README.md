@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*forReal*](https://www.reddit.com/r/ProgrammerHumor/comments/1psayc0/forreal/)
+[*theyAllSayTheyreAgileUntilYouWorkThere*](https://www.reddit.com/r/ProgrammerHumor/comments/1pshqm7/theyallsaytheyreagileuntilyouworkthere/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ypqbd6av6l8g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s1jsh31zlm8g1.png)
