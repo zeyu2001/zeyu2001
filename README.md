@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theFutureOfTechJobMarket*](https://www.reddit.com/r/ProgrammerHumor/comments/1psymz3/thefutureoftechjobmarket/)
+[*anyMinuteNow*](https://www.reddit.com/r/ProgrammerHumor/comments/1pt6f6e/anyminutenow/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/flmgkz5y2r8g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8x6zwbwmps8g1.png)
