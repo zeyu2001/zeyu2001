@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*likeWarmApplePie*](https://www.reddit.com/r/ProgrammerHumor/comments/1puvb0p/likewarmapplepie/)
+[*christmasTree*](https://www.reddit.com/r/ProgrammerHumor/comments/1pvd0qq/christmastree/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xf8k6e66e79g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ta8f682zmc9g1.png)
