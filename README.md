@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*christmasTree*](https://www.reddit.com/r/ProgrammerHumor/comments/1pvd0qq/christmastree/)
+[*naturalIntelligence*](https://www.reddit.com/r/ProgrammerHumor/comments/1pvizu2/naturalintelligence/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ta8f682zmc9g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8sontpme4e9g1.png)
