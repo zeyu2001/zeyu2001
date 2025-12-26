@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*naturalIntelligence*](https://www.reddit.com/r/ProgrammerHumor/comments/1pvizu2/naturalintelligence/)
+[*issuePoppedUpJustBeforeWinterBreak*](https://www.reddit.com/r/ProgrammerHumor/comments/1pvl0st/issuepoppedupjustbeforewinterbreak/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8sontpme4e9g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mbzm8slxke9g1.png)
