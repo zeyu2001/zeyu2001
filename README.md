@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*issuePoppedUpJustBeforeWinterBreak*](https://www.reddit.com/r/ProgrammerHumor/comments/1pvl0st/issuepoppedupjustbeforewinterbreak/)
+[*perfectionIsOptionalApparently*](https://www.reddit.com/r/ProgrammerHumor/comments/1pvztsk/perfectionisoptionalapparently/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mbzm8slxke9g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7je8r0fyii9g1.png)
