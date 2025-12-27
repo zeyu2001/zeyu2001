@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*plzDontLetThesePplToCodeForProduction*](https://www.reddit.com/r/ProgrammerHumor/comments/1pw894m/plzdontlettheseppltocodeforproduction/)
+[*whyTFDoYouNeedAPromptForThat*](https://www.reddit.com/r/ProgrammerHumor/comments/1pwzrjv/whytfdoyouneedapromptforthat/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2kie70udrk9g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2hmeez6egr9g1.png)
