@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howCanAFixCreateMultipleIssues*](https://www.reddit.com/r/ProgrammerHumor/comments/1px3bbf/howcanafixcreatemultipleissues/)
+[*amen*](https://www.reddit.com/r/ProgrammerHumor/comments/1pxqesm/amen/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y2owuxt97s9g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wajtalkrwx9g1.png)
