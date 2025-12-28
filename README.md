@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whyTFDoYouNeedAPromptForThat*](https://www.reddit.com/r/ProgrammerHumor/comments/1pwzrjv/whytfdoyouneedapromptforthat/)
+[*howCanAFixCreateMultipleIssues*](https://www.reddit.com/r/ProgrammerHumor/comments/1px3bbf/howcanafixcreatemultipleissues/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2hmeez6egr9g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y2owuxt97s9g1.png)
