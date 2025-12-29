@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*amen*](https://www.reddit.com/r/ProgrammerHumor/comments/1pxqesm/amen/)
+[*codingWithEslint*](https://www.reddit.com/r/ProgrammerHumor/comments/1pxspgp/codingwitheslint/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wajtalkrwx9g1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6j4q98ttgy9g1.png)
