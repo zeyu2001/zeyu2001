@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*imagineExplainingThisToUsers*](https://www.reddit.com/r/ProgrammerHumor/comments/1pynj2t/imagineexplainingthistousers/)
+[*okWellThanksForTrying*](https://www.reddit.com/r/ProgrammerHumor/comments/1pz28mf/okwellthanksfortrying/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n8ckc1ldk5ag1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/b90mxtrbd8ag1.png)
