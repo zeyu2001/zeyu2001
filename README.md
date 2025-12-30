@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itWorksButOnlyOneTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1pyf46i/itworksbutonlyonetime/)
+[*imagineExplainingThisToUsers*](https://www.reddit.com/r/ProgrammerHumor/comments/1pynj2t/imagineexplainingthistousers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ke8uqdtm93ag1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n8ckc1ldk5ag1.png)
