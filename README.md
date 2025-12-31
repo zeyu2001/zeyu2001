@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*okWellThanksForTrying*](https://www.reddit.com/r/ProgrammerHumor/comments/1pz28mf/okwellthanksfortrying/)
+[*developersNeededUrgently*](https://www.reddit.com/r/ProgrammerHumor/comments/1pzn3zd/developersneededurgently/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/b90mxtrbd8ag1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/597y7hccfdag1.png)
