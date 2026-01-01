@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*seniorBackendDeveloperEnvironmentOptimization*](https://www.reddit.com/r/ProgrammerHumor/comments/1q0bgal/seniorbackenddeveloperenvironmentoptimization/)
+[*webDevsVsSpiders*](https://www.reddit.com/r/ProgrammerHumor/comments/1q0f57v/webdevsvsspiders/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lmcnoq7w4jag1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m8fsfxtv1kag1.png)
