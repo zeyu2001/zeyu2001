@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*wellShit*](https://www.reddit.com/r/ProgrammerHumor/comments/1q1v177/wellshit/)
+[*machineLearningJourney*](https://www.reddit.com/r/ProgrammerHumor/comments/1q245x6/machinelearningjourney/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xhkchhy8vwag1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0rw7ye08xyag1.png)
