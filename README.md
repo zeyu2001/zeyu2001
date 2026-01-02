@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*everyFuckingTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1q11i3r/everyfuckingtime/)
+[*geminiWantsMeToNukeMyRepo*](https://www.reddit.com/r/ProgrammerHumor/comments/1q18yvo/geminiwantsmetonukemyrepo/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ysx5o8zawpag1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/h0542tnbrrag1.png)
