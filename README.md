@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*rustMoment*](https://www.reddit.com/r/ProgrammerHumor/comments/1q2ivod/rustmoment/)
+[*bloatedTicket*](https://www.reddit.com/r/ProgrammerHumor/comments/1q371ih/bloatedticket/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xm0uxbadt1bg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tgkj47oye7bg1.png)
