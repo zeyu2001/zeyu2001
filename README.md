@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*findTwoDifferences*](https://www.reddit.com/r/ProgrammerHumor/comments/1q29tna/findtwodifferences/)
+[*rustMoment*](https://www.reddit.com/r/ProgrammerHumor/comments/1q2ivod/rustmoment/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sihfe4cbyzag1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xm0uxbadt1bg1.png)
