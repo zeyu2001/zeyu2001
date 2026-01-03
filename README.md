@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*machineLearningJourney*](https://www.reddit.com/r/ProgrammerHumor/comments/1q245x6/machinelearningjourney/)
+[*findTwoDifferences*](https://www.reddit.com/r/ProgrammerHumor/comments/1q29tna/findtwodifferences/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0rw7ye08xyag1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sihfe4cbyzag1.png)
