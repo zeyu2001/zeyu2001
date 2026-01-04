@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*bloatedTicket*](https://www.reddit.com/r/ProgrammerHumor/comments/1q371ih/bloatedticket/)
+[*vibeCodersInSF*](https://www.reddit.com/r/ProgrammerHumor/comments/1q3zuqz/vibecodersinsf/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tgkj47oye7bg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/a0ahv2qa1ebg1.png)
