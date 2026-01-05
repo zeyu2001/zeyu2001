@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*tokenResellers*](https://www.reddit.com/r/ProgrammerHumor/comments/1q43k7e/tokenresellers/)
+[*whenYouFinallyRemoveUselessClassesFromYourCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1q4r02h/whenyoufinallyremoveuselessclassesfromyourcode/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sq2mbbhgrebg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zba3n2ug9kbg1.png)
