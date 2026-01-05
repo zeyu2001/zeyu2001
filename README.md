@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youAreAbsolutelyRight*](https://www.reddit.com/r/ProgrammerHumor/comments/1q42ens/youareabsolutelyright/)
+[*tokenResellers*](https://www.reddit.com/r/ProgrammerHumor/comments/1q43k7e/tokenresellers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pt69xo7riebg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sq2mbbhgrebg1.png)
