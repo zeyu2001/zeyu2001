@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*projectManagersStartingThisWeek*](https://www.reddit.com/r/ProgrammerHumor/comments/1q4vxk7/projectmanagersstartingthisweek/)
+[*anyDataEngineersHere*](https://www.reddit.com/r/ProgrammerHumor/comments/1q4yksv/anydataengineershere/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jh4w3vrf4lbg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k9pmieiqllbg1.png)
