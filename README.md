@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sharingAwesomeWebApp*](https://www.reddit.com/r/ProgrammerHumor/comments/1q51j2k/sharingawesomewebapp/)
+[*itsAlmost2026*](https://www.reddit.com/r/ProgrammerHumor/comments/1q5q0q3/itsalmost2026/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/taygycqi5mbg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z72gys25rrbg1.png)
