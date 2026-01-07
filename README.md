@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*beholdTheKarmaBotSourceCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1q5sg6w/beholdthekarmabotsourcecode/)
+[*happyNew*](https://www.reddit.com/r/ProgrammerHumor/comments/1q6o6fc/happynew/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7m5ev30s6sbg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9iiftj6f5zbg1.png)
