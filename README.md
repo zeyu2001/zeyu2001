@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*renameTitle*](https://www.reddit.com/r/ProgrammerHumor/comments/1q7giqj/renametitle/)
+[*basedJavaDeveloper*](https://www.reddit.com/r/ProgrammerHumor/comments/1q7k8zu/basedjavadeveloper/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6ghoc5vzk5cg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7j3betmn86cg1.png)
