@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lebronJames*](https://www.reddit.com/r/ProgrammerHumor/comments/1q8guoa/lebronjames/)
+[*iFixedTheMeme*](https://www.reddit.com/r/ProgrammerHumor/comments/1q8xrro/ifixedthememe/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dym8vyznedcg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zvatbk9s3hcg1.png)
