@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*yipeeAIwillTakeOverOurJobs*](https://www.reddit.com/r/ProgrammerHumor/comments/1q8bcnj/yipeeaiwilltakeoverourjobs/)
+[*linuxKernelVulnerabilities*](https://www.reddit.com/r/ProgrammerHumor/comments/1q8nb0c/linuxkernelvulnerabilities/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/71rpk7lieccg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zhok8trpgecg1.png)
