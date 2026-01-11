@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*trueRandom*](https://www.reddit.com/r/ProgrammerHumor/comments/1q9htj2/truerandom/)
+[*ultimateBetrayal*](https://www.reddit.com/r/ProgrammerHumor/comments/1q9wroi/ultimatebetrayal/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wsgcdyo5mlcg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z71ebk1bdpcg1.png)
