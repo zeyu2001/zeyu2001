@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sabrinaCarpenter*](https://www.reddit.com/r/ProgrammerHumor/comments/1q9h3l9/sabrinacarpenter/)
+[*trueRandom*](https://www.reddit.com/r/ProgrammerHumor/comments/1q9htj2/truerandom/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0j053bw3hlcg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wsgcdyo5mlcg1.png)
