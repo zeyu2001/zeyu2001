@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*exponentialCostComplexityOfRam*](https://www.reddit.com/r/ProgrammerHumor/comments/1qbaqm6/exponentialcostcomplexityofram/)
+[*sharkStillMunchingAtTheCable*](https://www.reddit.com/r/ProgrammerHumor/comments/1qbkh8f/sharkstillmunchingatthecable/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dlvg5y9m40dg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mdvu4hkbd2dg1.png)
