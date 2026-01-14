@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sharkStillMunchingAtTheCable*](https://www.reddit.com/r/ProgrammerHumor/comments/1qbkh8f/sharkstillmunchingatthecable/)
+[*whatDoYouGuysEvenDoBuGFixESanDimPrOvemENts*](https://www.reddit.com/r/ProgrammerHumor/comments/1qc7d92/whatdoyouguysevendobugfixesandimprovements/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mdvu4hkbd2dg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dfrjigald7dg1.png)
