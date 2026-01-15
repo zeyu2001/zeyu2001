@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatDoYouGuysEvenDoBuGFixESanDimPrOvemENts*](https://www.reddit.com/r/ProgrammerHumor/comments/1qc7d92/whatdoyouguysevendobugfixesandimprovements/)
+[*modernFullStackDev*](https://www.reddit.com/r/ProgrammerHumor/comments/1qcq7ka/modernfullstackdev/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dfrjigald7dg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/usljx1aj2cdg1.png)
