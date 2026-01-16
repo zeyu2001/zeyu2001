@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*oldieButGoodie*](https://www.reddit.com/r/ProgrammerHumor/comments/1qd28si/oldiebutgoodie/)
+[*cleanCompileMaximumTrustIssues*](https://www.reddit.com/r/ProgrammerHumor/comments/1qd7l46/cleancompilemaximumtrustissues/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/oflz4dq5aedg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/canicajmdfdg1.png)
