@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cleanCompileMaximumTrustIssues*](https://www.reddit.com/r/ProgrammerHumor/comments/1qd7l46/cleancompilemaximumtrustissues/)
+[*anotherDayAnotherOutage*](https://www.reddit.com/r/ProgrammerHumor/comments/1qdp85e/anotherdayanotheroutage/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/canicajmdfdg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ic3kstcvojdg1.png)
