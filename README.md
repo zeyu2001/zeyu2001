@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*anotherDayAnotherOutage*](https://www.reddit.com/r/ProgrammerHumor/comments/1qdp85e/anotherdayanotheroutage/)
+[*myTwitterProfileForSixteenYearsNotOneCommentAboutIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1qds8s3/mytwitterprofileforsixteenyearsnotonecommentabouti/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ic3kstcvojdg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/889p3qur6kdg1.png)
