@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*myTwitterProfileForSixteenYearsNotOneCommentAboutIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1qds8s3/mytwitterprofileforsixteenyearsnotonecommentabouti/)
+[*nice*](https://www.reddit.com/r/ProgrammerHumor/comments/1qdxxpl/nice/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/889p3qur6kdg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lbieg6ly9ldg1.png)
