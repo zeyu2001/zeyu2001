@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*nice*](https://www.reddit.com/r/ProgrammerHumor/comments/1qdxxpl/nice/)
+[*bruhYouUsedMIT*](https://www.reddit.com/r/ProgrammerHumor/comments/1qecy8q/bruhyouusedmit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lbieg6ly9ldg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z9bw6qyazodg1.png)
