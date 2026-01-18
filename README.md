@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*tryingToShiftMy8BitWishlistCounterToGetMore*](https://www.reddit.com/r/ProgrammerHumor/comments/1qeqwjz/tryingtoshiftmy8bitwishlistcountertogetmore/)
+[*areWeThereYet*](https://www.reddit.com/r/ProgrammerHumor/comments/1qfcr3h/arewethereyet/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lekjflihrrdg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4v2axz5orwdg1.png)
