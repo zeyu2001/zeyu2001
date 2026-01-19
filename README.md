@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*everyProgrammingForumInTheLastCoupleYears*](https://www.reddit.com/r/ProgrammerHumor/comments/1qfgki3/everyprogrammingforuminthelastcoupleyears/)
+[*isAnyoneSurprised*](https://www.reddit.com/r/ProgrammerHumor/comments/1qgo3lg/isanyonesurprised/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hmg5foz6kxdg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tljyoen227eg1.png)
