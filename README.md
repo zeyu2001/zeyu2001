@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*programmingIsMyHobbyAlsoMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1qgqd38/programmingismyhobbyalsome/)
+[*worldEndingAI*](https://www.reddit.com/r/ProgrammerHumor/comments/1qh98c0/worldendingai/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0l49m6oaj7eg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ofzubga24ceg1.png)
