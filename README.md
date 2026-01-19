@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*isAnyoneSurprised*](https://www.reddit.com/r/ProgrammerHumor/comments/1qgo3lg/isanyonesurprised/)
+[*thisPrivateKeySeemsLegit*](https://www.reddit.com/r/ProgrammerHumor/comments/1qgd5am/thisprivatekeyseemslegit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tljyoen227eg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bxkz4zqox4eg1.png)
