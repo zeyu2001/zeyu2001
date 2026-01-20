@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*worldEndingAI*](https://www.reddit.com/r/ProgrammerHumor/comments/1qh98c0/worldendingai/)
+[*confusionOfDaHighestOrda*](https://www.reddit.com/r/ProgrammerHumor/comments/1qhkguz/confusionofdahighestorda/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ofzubga24ceg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/25ukvzvm4eeg1.png)
