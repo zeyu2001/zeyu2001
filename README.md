@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*confusionOfDaHighestOrda*](https://www.reddit.com/r/ProgrammerHumor/comments/1qhkguz/confusionofdahighestorda/)
+[*myTeamOverseasKnowsFebruaryHasTwoRs*](https://www.reddit.com/r/ProgrammerHumor/comments/1qihva2/myteamoverseasknowsfebruaryhastwors/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/25ukvzvm4eeg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xiycu2tpdleg1.png)
