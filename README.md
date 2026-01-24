@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itWillBeTheEndOfMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1qkvttf/itwillbetheendofme/)
+[*asATrueDevoloper*](https://www.reddit.com/r/ProgrammerHumor/comments/1qlp3s5/asatruedevoloper/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6o03xn11o4fg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/slmn95neabfg1.png)
