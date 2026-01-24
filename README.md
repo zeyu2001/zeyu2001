@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*bestPullRequestOfAllTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1qkqt5h/bestpullrequestofalltime/)
+[*itWillBeTheEndOfMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1qkvttf/itwillbetheendofme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n00i8ow7p3fg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6o03xn11o4fg1.png)
