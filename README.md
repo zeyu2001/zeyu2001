@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*asATrueDevoloper*](https://www.reddit.com/r/ProgrammerHumor/comments/1qlp3s5/asatruedevoloper/)
+[*umlIsLoveUMLIsLife*](https://www.reddit.com/r/ProgrammerHumor/comments/1qmf9ph/umlisloveumlislife/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/slmn95neabfg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rsekf1tiygfg1.png)
