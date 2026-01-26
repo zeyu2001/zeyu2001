@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*orderFactoryFactoryIsEasyToMaintain*](https://www.reddit.com/r/ProgrammerHumor/comments/1qmrr3d/orderfactoryfactoryiseasytomaintain/)
+[*theseBugReportsSuck*](https://www.reddit.com/r/ProgrammerHumor/comments/1qnb2wc/thesebugreportssuck/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1kzmwb70ljfg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kmbi3tmksnfg1.png)
