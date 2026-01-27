@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iavaScripta*](https://www.reddit.com/r/ProgrammerHumor/comments/1qobvq5/iavascripta/)
+[*quickTangent*](https://www.reddit.com/r/ProgrammerHumor/comments/1qoh914/quicktangent/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7i9y9gkqsvfg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nqz2avchwwfg1.png)
