@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pleaseKeepYourDocumentationUpdatedIAmBegging*](https://www.reddit.com/r/ProgrammerHumor/comments/1qnngl6/pleasekeepyourdocumentationupdatediambegging/)
+[*iavaScripta*](https://www.reddit.com/r/ProgrammerHumor/comments/1qobvq5/iavascripta/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cn5k6muefqfg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7i9y9gkqsvfg1.png)
