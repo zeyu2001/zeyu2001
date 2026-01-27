@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theseBugReportsSuck*](https://www.reddit.com/r/ProgrammerHumor/comments/1qnb2wc/thesebugreportssuck/)
+[*pleaseKeepYourDocumentationUpdatedIAmBegging*](https://www.reddit.com/r/ProgrammerHumor/comments/1qnngl6/pleasekeepyourdocumentationupdatediambegging/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kmbi3tmksnfg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cn5k6muefqfg1.png)
