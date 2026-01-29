@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*timeToBullshitHRPeopleToGainNewJob*](https://www.reddit.com/r/ProgrammerHumor/comments/1qpjzzg/timetobullshithrpeopletogainnewjob/)
+[*forgiveMeFather*](https://www.reddit.com/r/ProgrammerHumor/comments/1qq5rea/forgivemefather/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8z91dxdsx4gg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/r5kaw1s5u9gg1.png)
