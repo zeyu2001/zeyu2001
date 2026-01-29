@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*bigIfTrue*](https://www.reddit.com/r/ProgrammerHumor/comments/1qqhh7j/bigiftrue/)
+[*advancedDebugging*](https://www.reddit.com/r/ProgrammerHumor/comments/1qqhbgb/advanceddebugging/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p6qzxr405cgg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iurdu0rr3cgg1.png)
