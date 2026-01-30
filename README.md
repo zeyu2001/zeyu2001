@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iFeelTargetedAndTriggeredByThatExceptIWouldNeverBuyAMac*](https://www.reddit.com/r/ProgrammerHumor/comments/1qqmi8f/ifeeltargetedandtriggeredbythatexceptiwouldneverbu/)
+[*doNOTNameYourAssemblyFilesThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1qqqf8d/donotnameyourassemblyfilesthis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ha9k908v1dgg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ujmqon39udgg1.png)
