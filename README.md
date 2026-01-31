@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*doNOTNameYourAssemblyFilesThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1qqqf8d/donotnameyourassemblyfilesthis/)
+[*itPrintsSomeUnderscoresAndDots*](https://www.reddit.com/r/ProgrammerHumor/comments/1qqz7mw/itprintssomeunderscoresanddots/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ujmqon39udgg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ulpjs1hoyfgg1.png)
