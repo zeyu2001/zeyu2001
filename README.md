@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itPrintsSomeUnderscoresAndDots*](https://www.reddit.com/r/ProgrammerHumor/comments/1qqz7mw/itprintssomeunderscoresanddots/)
+[*iAmHavingAStroke*](https://www.reddit.com/r/ProgrammerHumor/comments/1qrj04u/iamhavingastroke/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ulpjs1hoyfgg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mdzqtyop3kgg1.png)
