@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iAmHavingAStroke*](https://www.reddit.com/r/ProgrammerHumor/comments/1qrj04u/iamhavingastroke/)
+[*documentingForEveryoneElseYeahThatsDefinitelyWhy*](https://www.reddit.com/r/ProgrammerHumor/comments/1qs7e4y/documentingforeveryoneelseyeahthatsdefinitelywhy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mdzqtyop3kgg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m5joa8u8spgg1.png)
