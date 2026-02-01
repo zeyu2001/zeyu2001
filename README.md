@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*hireTheGuy*](https://www.reddit.com/r/ProgrammerHumor/comments/1qsf8qv/hiretheguy/)
+[*doYouWantAPrintStatementWithThatMonad*](https://www.reddit.com/r/ProgrammerHumor/comments/1qskg1l/doyouwantaprintstatementwiththatmonad/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0afv0e6m8rgg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n4si1fsnbsgg1.png)
