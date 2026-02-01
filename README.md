@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*documentingForEveryoneElseYeahThatsDefinitelyWhy*](https://www.reddit.com/r/ProgrammerHumor/comments/1qs7e4y/documentingforeveryoneelseyeahthatsdefinitelywhy/)
+[*hireTheGuy*](https://www.reddit.com/r/ProgrammerHumor/comments/1qsf8qv/hiretheguy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m5joa8u8spgg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0afv0e6m8rgg1.png)
