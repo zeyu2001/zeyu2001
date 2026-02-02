@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*doYouWantAPrintStatementWithThatMonad*](https://www.reddit.com/r/ProgrammerHumor/comments/1qskg1l/doyouwantaprintstatementwiththatmonad/)
+[*unpopularOpinion*](https://www.reddit.com/r/ProgrammerHumor/comments/1qt36u2/unpopularopinion/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n4si1fsnbsgg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xv601d9puwgg1.png)
