@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*wellThatWasUseful*](https://www.reddit.com/r/ProgrammerHumor/comments/1qtwq2u/wellthatwasuseful/)
+[*softwareEngineersInANutshell*](https://www.reddit.com/r/ProgrammerHumor/comments/1qu51sw/softwareengineersinanutshell/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qh83j3une3hg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wumvv0cav4hg1.png)
