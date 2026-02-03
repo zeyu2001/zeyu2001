@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*softwareEngineersInANutshell*](https://www.reddit.com/r/ProgrammerHumor/comments/1qu51sw/softwareengineersinanutshell/)
+[*computeFibonachiInJavaScript*](https://www.reddit.com/r/ProgrammerHumor/comments/1qusg26/computefibonachiinjavascript/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wumvv0cav4hg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/88ewcysxaahg1.png)
