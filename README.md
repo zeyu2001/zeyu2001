@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*seniorVibeCoderDealingWithVulnerabilityAsAService*](https://www.reddit.com/r/ProgrammerHumor/comments/1qw1tia/seniorvibecoderdealingwithvulnerabilityasaservice/)
+[*newAiEngineers*](https://www.reddit.com/r/ProgrammerHumor/comments/1qwda5f/newaiengineers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j3il9n9brjhg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6kn8jqdj8mhg1.png)
