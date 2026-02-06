@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aiWIllReplaceUs*](https://www.reddit.com/r/ProgrammerHumor/comments/1qwuhzu/aiwillreplaceus/)
+[*devLifeProductionProblems*](https://www.reddit.com/r/ProgrammerHumor/comments/1qx9x8v/devlifeproductionproblems/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rzppsolc6qhg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/77d2dp6ngthg1.png)
