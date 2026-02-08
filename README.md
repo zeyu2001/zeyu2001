@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aiEconomyInANutshell*](https://www.reddit.com/r/ProgrammerHumor/comments/1qyky3h/aieconomyinanutshell/)
+[*iAnsweredBeforeThinking*](https://www.reddit.com/r/ProgrammerHumor/comments/1qzac5u/iansweredbeforethinking/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/li0cyv3j54ig1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jdkuwrbg6aig1.png)
