@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whenYouHaveAProblemAndSolveItUsingRegexYouEndUpWithTwoProblems*](https://www.reddit.com/r/ProgrammerHumor/comments/1qy71rj/whenyouhaveaproblemandsolveitusingregexyouendupwit/)
+[*googleTranslateIsMyNewCodingAgent*](https://www.reddit.com/r/ProgrammerHumor/comments/1qy7xu9/googletranslateismynewcodingagent/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mfdjvtiit0ig1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6z2i8wce21ig1.png)
