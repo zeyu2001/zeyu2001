@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whenYouRejectTheFix*](https://www.reddit.com/r/ProgrammerHumor/comments/1qzmqss/whenyourejectthefix/)
+[*whoNeedsTesting*](https://www.reddit.com/r/ProgrammerHumor/comments/1r0ccbj/whoneedstesting/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/908ugcsgicig1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dhcq0zbajiig1.png)
