@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iLoveThoseScrumMeetings*](https://www.reddit.com/r/ProgrammerHumor/comments/1qzp3hy/ilovethosescrummeetings/)
+[*beforeAndAfterLlmRaise*](https://www.reddit.com/r/ProgrammerHumor/comments/1qzgw18/beforeandafterllmraise/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8na1aaow0dig1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fn8qdai5fbig1.png)
