@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whoNeedsTesting*](https://www.reddit.com/r/ProgrammerHumor/comments/1r0ccbj/whoneedstesting/)
+[*imTheJapanOfTechnicalDebt*](https://www.reddit.com/r/ProgrammerHumor/comments/1r0qv02/imthejapanoftechnicaldebt/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dhcq0zbajiig1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nza63307elig1.png)
