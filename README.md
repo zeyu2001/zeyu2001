@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aHigherLevelOfAbstraction*](https://www.reddit.com/r/ProgrammerHumor/comments/1r1e6qa/ahigherlevelofabstraction/)
+[*nobodyLikesRightJoin*](https://www.reddit.com/r/ProgrammerHumor/comments/1r1tomz/nobodylikesrightjoin/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xyqm8lmtlqig1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zb2xlbamcuig1.png)
