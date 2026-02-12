@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*nobodyLikesRightJoin*](https://www.reddit.com/r/ProgrammerHumor/comments/1r1tomz/nobodylikesrightjoin/)
+[*haveYouConsideredRewritingThisMemeInRust*](https://www.reddit.com/r/ProgrammerHumor/comments/1r21xdj/haveyouconsideredrewritingthismemeinrust/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zb2xlbamcuig1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yfsycike6wig1.png)
