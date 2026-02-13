@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cleverNotSmart*](https://www.reddit.com/r/ProgrammerHumor/comments/1r2m4ui/clevernotsmart/)
+[*stopVibingLearnCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1r2o474/stopvibinglearncoding/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ifq4ibs250jg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j2kxu35xx0jg1.png)
