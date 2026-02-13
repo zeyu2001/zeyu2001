@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*stopVibingLearnCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1r2o474/stopvibinglearncoding/)
+[*sameThingDifferentTimelines*](https://www.reddit.com/r/ProgrammerHumor/comments/1r33126/samethingdifferenttimelines/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j2kxu35xx0jg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/u7cv3cqi84jg1.png)
