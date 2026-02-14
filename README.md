@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*help*](https://www.reddit.com/r/ProgrammerHumor/comments/1r3qvoc/help/)
+[*cantSayImWrong*](https://www.reddit.com/r/ProgrammerHumor/comments/1r3w140/cantsayimwrong/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m82ckq68x9jg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nfeehf5puajg1.png)
