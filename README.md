@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*happyValentinesDay*](https://www.reddit.com/r/ProgrammerHumor/comments/1r4i6op/happyvalentinesday/)
+[*hasNoClueWhatBindingsAre*](https://www.reddit.com/r/ProgrammerHumor/comments/1r4qmqr/hasnocluewhatbindingsare/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pi62koz32gjg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/araldyj2xhjg1.png)
