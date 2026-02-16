@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*saveMeFromGradlePlease*](https://www.reddit.com/r/ProgrammerHumor/comments/1r5lf52/savemefromgradleplease/)
+[*raceCondition*](https://www.reddit.com/r/ProgrammerHumor/comments/1r6e2eu/racecondition/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/freqsb1q7pjg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1rwbg7m6uvjg1.png)
