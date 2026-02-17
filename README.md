@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*shootFast*](https://www.reddit.com/r/ProgrammerHumor/comments/1r6f8o7/shootfast/)
+[*app*](https://www.reddit.com/r/ProgrammerHumor/comments/1r6jtbq/app/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nmq325io1wjg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1m0fn31quwjg1.png)
