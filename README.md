@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*raceCondition*](https://www.reddit.com/r/ProgrammerHumor/comments/1r6e2eu/racecondition/)
+[*factsOverFactsOverFactsOverFacts*](https://www.reddit.com/r/ProgrammerHumor/comments/1r75bdk/factsoverfactsoverfactsoverfacts/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1rwbg7m6uvjg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8whkqaepy1kg1.png)
