@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*neverDoEarlyMorningCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1r77aq4/neverdoearlymorningcoding/)
+[*openingTheRepository*](https://www.reddit.com/r/ProgrammerHumor/comments/1r7o7sa/openingtherepository/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k0fthdqid2kg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kq2grkydg5kg1.png)
