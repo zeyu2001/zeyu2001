@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*openingTheRepository*](https://www.reddit.com/r/ProgrammerHumor/comments/1r7o7sa/openingtherepository/)
+[*microsoftAccess*](https://www.reddit.com/r/ProgrammerHumor/comments/1r7yp1n/microsoftaccess/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kq2grkydg5kg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/awz6j51m48kg1.png)
