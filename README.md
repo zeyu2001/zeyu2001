@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theFutureIsntSoBright*](https://www.reddit.com/r/ProgrammerHumor/comments/1r8val8/thefutureisntsobright/)
+[*itHaveBeenAlwaysOurSql*](https://www.reddit.com/r/ProgrammerHumor/comments/1r8mkmw/ithavebeenalwaysoursql/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uk0ryr3scfkg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hy5nmr3xzckg1.png)
