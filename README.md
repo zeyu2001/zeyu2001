@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*mathIsTheLanguageOfTheUniverse*](https://www.reddit.com/r/ProgrammerHumor/comments/1r81v4j/mathisthelanguageoftheuniverse/)
+[*theFutureIsntSoBright*](https://www.reddit.com/r/ProgrammerHumor/comments/1r8val8/thefutureisntsobright/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ykvmqvytz8kg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uk0ryr3scfkg1.png)
