@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*microsoftAccess*](https://www.reddit.com/r/ProgrammerHumor/comments/1r7yp1n/microsoftaccess/)
+[*mathIsTheLanguageOfTheUniverse*](https://www.reddit.com/r/ProgrammerHumor/comments/1r81v4j/mathisthelanguageoftheuniverse/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/awz6j51m48kg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ykvmqvytz8kg1.png)
