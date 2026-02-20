@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itHaveBeenAlwaysOurSql*](https://www.reddit.com/r/ProgrammerHumor/comments/1r8mkmw/ithavebeenalwaysoursql/)
+[*justWasteAllTheWaterWhyNot*](https://www.reddit.com/r/ProgrammerHumor/comments/1r9apip/justwasteallthewaterwhynot/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hy5nmr3xzckg1.png)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/9KLnnFZ.png)
