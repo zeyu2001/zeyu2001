@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whiteHouseEntityRelationshipDiagram*](https://www.reddit.com/r/ProgrammerHumor/comments/1ran3zm/whitehouseentityrelationshipdiagram/)
+[*hePredictedMyFeed*](https://www.reddit.com/r/ProgrammerHumor/comments/1rb0cpn/hepredictedmyfeed/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dzpcrqjritkg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gkcphhqmhwkg1.png)
