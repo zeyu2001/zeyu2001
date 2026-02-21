@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*connectionsAreTheSecretIngredient*](https://www.reddit.com/r/ProgrammerHumor/comments/1r9ta8l/connectionsarethesecretingredient/)
+[*britishInit*](https://www.reddit.com/r/ProgrammerHumor/comments/1r9w2wc/britishinit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j3j2q2d01nkg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ifc1ut06onkg1.png)
