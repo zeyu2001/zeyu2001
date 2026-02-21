@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*britishInit*](https://www.reddit.com/r/ProgrammerHumor/comments/1r9w2wc/britishinit/)
+[*whiteHouseEntityRelationshipDiagram*](https://www.reddit.com/r/ProgrammerHumor/comments/1ran3zm/whitehouseentityrelationshipdiagram/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ifc1ut06onkg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dzpcrqjritkg1.png)
