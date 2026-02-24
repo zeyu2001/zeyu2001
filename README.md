@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aptGetInstallCure*](https://www.reddit.com/r/ProgrammerHumor/comments/1rcug72/aptgetinstallcure/)
+[*heheFunnyHat*](https://www.reddit.com/r/ProgrammerHumor/comments/1rd4m3d/hehefunnyhat/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/f16vr54hablg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tfix0sr69dlg1.png)
