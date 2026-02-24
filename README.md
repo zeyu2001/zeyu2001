@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatMadeThisDaySpecial*](https://www.reddit.com/r/ProgrammerHumor/comments/1rccz5v/whatmadethisdayspecial/)
+[*aptGetInstallCure*](https://www.reddit.com/r/ProgrammerHumor/comments/1rcug72/aptgetinstallcure/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/la6wmn60r7lg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f16vr54hablg1.png)
