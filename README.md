@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*peopleUseAI*](https://www.reddit.com/r/ProgrammerHumor/comments/1rc8b36/peopleuseai/)
+[*whatMadeThisDaySpecial*](https://www.reddit.com/r/ProgrammerHumor/comments/1rccz5v/whatmadethisdayspecial/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l5otb30ae6lg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/la6wmn60r7lg1.png)
