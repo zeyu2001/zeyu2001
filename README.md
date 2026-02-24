@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aiIsScary*](https://www.reddit.com/r/ProgrammerHumor/comments/1rc7pii/aiisscary/)
+[*peopleUseAI*](https://www.reddit.com/r/ProgrammerHumor/comments/1rc8b36/peopleuseai/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/diqyi71k86lg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l5otb30ae6lg1.png)
