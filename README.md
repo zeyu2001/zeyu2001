@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*heheFunnyHat*](https://www.reddit.com/r/ProgrammerHumor/comments/1rd4m3d/hehefunnyhat/)
+[*nobodyTellHimAboutSSMs*](https://www.reddit.com/r/ProgrammerHumor/comments/1rdpdv7/nobodytellhimaboutssms/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tfix0sr69dlg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y6c6jeinqhlg1.png)
