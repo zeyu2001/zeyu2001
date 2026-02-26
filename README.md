@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*activateProductionEnvironmentReset*](https://www.reddit.com/r/ProgrammerHumor/comments/1regjgn/activateproductionenvironmentreset/)
+[*modernProblemsRequireModernExcuses*](https://www.reddit.com/r/ProgrammerHumor/comments/1rea0c7/modernproblemsrequiremodernexcuses/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ktyjf3ceunlg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3p2gw2grdmlg1.png)
