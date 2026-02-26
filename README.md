@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*shipFirstUnderStandNever*](https://www.reddit.com/r/ProgrammerHumor/comments/1rezdy9/shipfirstunderstandnever/)
+[*goodVibePlan*](https://www.reddit.com/r/ProgrammerHumor/comments/1rfdnpa/goodvibeplan/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wpadjswpdrlg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/urcxmud30vlg1.png)
