@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*goodVibePlan*](https://www.reddit.com/r/ProgrammerHumor/comments/1rfdnpa/goodvibeplan/)
+[*cantWaitFor2027*](https://www.reddit.com/r/ProgrammerHumor/comments/1rfzags/cantwaitfor2027/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/urcxmud30vlg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hhougwe8fzlg1.png)
