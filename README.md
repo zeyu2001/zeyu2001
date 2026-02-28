@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cantWaitFor2027*](https://www.reddit.com/r/ProgrammerHumor/comments/1rfzags/cantwaitfor2027/)
+[*vibeCodingMyOwnGrave*](https://www.reddit.com/r/ProgrammerHumor/comments/1rg4fps/vibecodingmyowngrave/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hhougwe8fzlg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8me9wt6tx0mg1.png)
