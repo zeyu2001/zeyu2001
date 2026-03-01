@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*anotherBellCurve*](https://www.reddit.com/r/ProgrammerHumor/comments/1rgq8yx/anotherbellcurve/)
+[*platformExclusivity*](https://www.reddit.com/r/ProgrammerHumor/comments/1rhf8kx/platformexclusivity/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rc76p9hf95mg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zwwx2a5r4bmg1.png)
