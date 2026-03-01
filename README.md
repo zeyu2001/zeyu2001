@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*platformExclusivity*](https://www.reddit.com/r/ProgrammerHumor/comments/1rhf8kx/platformexclusivity/)
+[*shootingYourselfInTheFoot*](https://www.reddit.com/r/ProgrammerHumor/comments/1rhvuzv/shootingyourselfinthefoot/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zwwx2a5r4bmg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/q2jnsuq0efmg1.png)
