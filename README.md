@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*monetizingBasicMath*](https://www.reddit.com/r/ProgrammerHumor/comments/1rhutgf/monetizingbasicmath/)
+[*iJustWantedToAskAboutARecipe*](https://www.reddit.com/r/ProgrammerHumor/comments/1ri5qr0/ijustwantedtoaskaboutarecipe/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7u3c5eb41fmg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/w95826l6ehmg1.png)
