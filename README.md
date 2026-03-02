@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iJustWantedToAskAboutARecipe*](https://www.reddit.com/r/ProgrammerHumor/comments/1ri5qr0/ijustwantedtoaskaboutarecipe/)
+[*myColleaguesToday*](https://www.reddit.com/r/ProgrammerHumor/comments/1riq33r/mycolleaguestoday/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/w95826l6ehmg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bjuqkiht7mmg1.png)
