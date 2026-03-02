@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*shootingYourselfInTheFoot*](https://www.reddit.com/r/ProgrammerHumor/comments/1rhvuzv/shootingyourselfinthefoot/)
+[*fuckHaskellLongLiveJavaScript*](https://www.reddit.com/r/ProgrammerHumor/comments/1rhma9u/fuckhaskelllonglivejavascript/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q2jnsuq0efmg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c3q0uyrklcmg1.png)
