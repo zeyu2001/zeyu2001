@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dontWorryAboutClaude*](https://www.reddit.com/r/ProgrammerHumor/comments/1risksg/dontworryaboutclaude/)
+[*successfullyOptimisedTheStartupTimeBy30Seconds*](https://www.reddit.com/r/ProgrammerHumor/comments/1rjj61e/successfullyoptimisedthestartuptimeby30seconds/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1rnqv90vtmmg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ixthtur8asmg1.png)
