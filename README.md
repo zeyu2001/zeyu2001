@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*successfullyOptimisedTheStartupTimeBy30Seconds*](https://www.reddit.com/r/ProgrammerHumor/comments/1rjj61e/successfullyoptimisedthestartuptimeby30seconds/)
+[*programmingIsSolved*](https://www.reddit.com/r/ProgrammerHumor/comments/1rk4bdu/programmingissolved/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ixthtur8asmg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kbve96nhtwmg1.png)
