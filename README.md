@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gitCanSeeThat*](https://www.reddit.com/r/ProgrammerHumor/comments/1rkuhhm/gitcanseethat/)
+[*vibeCoderMortalEnemy*](https://www.reddit.com/r/ProgrammerHumor/comments/1rli7hp/vibecodermortalenemy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tl2rglspu2ng1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/md4tzqe1f8ng1.png)
