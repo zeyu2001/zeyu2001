@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*vibeDebuggingBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/1rkiypc/vibedebuggingbelike/)
+[*status403Forbidden*](https://www.reddit.com/r/ProgrammerHumor/comments/1rkx7ok/status403forbidden/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qv32v6xdj0ng1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tffig78fc3ng1.png)
