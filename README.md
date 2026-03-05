@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*status403Forbidden*](https://www.reddit.com/r/ProgrammerHumor/comments/1rkx7ok/status403forbidden/)
+[*gitCanSeeThat*](https://www.reddit.com/r/ProgrammerHumor/comments/1rkuhhm/gitcanseethat/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tffig78fc3ng1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tl2rglspu2ng1.png)
