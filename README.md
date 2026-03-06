@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*noCodeNoIssue*](https://www.reddit.com/r/ProgrammerHumor/comments/1rlkgre/nocodenoissue/)
+[*ohNoAnyway*](https://www.reddit.com/r/ProgrammerHumor/comments/1rmcji5/ohnoanyway/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3paalr7rv8ng1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ly4g2g6g3fng1.png)
