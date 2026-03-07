@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ohNoAnyway*](https://www.reddit.com/r/ProgrammerHumor/comments/1rmcji5/ohnoanyway/)
+[*iHaveToAdmitHeHasAPoint*](https://www.reddit.com/r/ProgrammerHumor/comments/1rn47g3/ihavetoadmithehasapoint/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ly4g2g6g3fng1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uuc3p54vwkng1.png)
