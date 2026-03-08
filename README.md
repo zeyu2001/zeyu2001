@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iHaveToAdmitHeHasAPoint*](https://www.reddit.com/r/ProgrammerHumor/comments/1rn47g3/ihavetoadmithehasapoint/)
+[*notTheReactionExpected*](https://www.reddit.com/r/ProgrammerHumor/comments/1rnf9pu/notthereactionexpected/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uuc3p54vwkng1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rfvvq1bqnnng1.png)
