@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*anyOneUsingThisKey*](https://www.reddit.com/r/ProgrammerHumor/comments/1rog3nm/anyoneusingthiskey/)
+[*sureThingBoss*](https://www.reddit.com/r/ProgrammerHumor/comments/1roxxyb/surethingboss/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ibr2rpp8wvng1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jkb3tczcb0og1.png)
