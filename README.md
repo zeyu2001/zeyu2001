@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*moreThanJustCoincidence*](https://www.reddit.com/r/ProgrammerHumor/comments/1ro3vij/morethanjustcoincidence/)
+[*anyOneUsingThisKey*](https://www.reddit.com/r/ProgrammerHumor/comments/1rog3nm/anyoneusingthiskey/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kb8w050bgtng1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ibr2rpp8wvng1.png)
