@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*myVibeCodingItDirectorJustSendMeThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1rpu1ad/myvibecodingitdirectorjustsendmethis/)
+[*yesThatIncludesMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1rq4z61/yesthatincludesme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/udm73gr3a7og1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/419y562dg9og1.png)
