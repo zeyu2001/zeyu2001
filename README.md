@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gaslightingAsAService*](https://www.reddit.com/r/ProgrammerHumor/comments/1rqmg4p/gaslightingasaservice/)
+[*minRequirementToGetDevOpsJob*](https://www.reddit.com/r/ProgrammerHumor/comments/1rqwtyd/minrequirementtogetdevopsjob/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jcrcu5ct3dog1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/huxvdxe6pfog1.png)
