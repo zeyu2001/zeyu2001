@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*minRequirementToGetDevOpsJob*](https://www.reddit.com/r/ProgrammerHumor/comments/1rqwtyd/minrequirementtogetdevopsjob/)
+[*theOword*](https://www.reddit.com/r/ProgrammerHumor/comments/1rrjhf8/theoword/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/huxvdxe6pfog1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xnij99mt8kog1.png)
