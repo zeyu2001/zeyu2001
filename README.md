@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lateBackendDevelopmentHorrorStory*](https://www.reddit.com/r/ProgrammerHumor/comments/1rs8uiy/latebackenddevelopmenthorrorstory/)
+[*multitaskingOnTheWay*](https://www.reddit.com/r/ProgrammerHumor/comments/1rsgzow/multitaskingontheway/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k7o0qpxulpog1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c907zcy5orog1.png)
