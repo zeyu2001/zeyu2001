@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*tfwTheWrongRobot*](https://www.reddit.com/r/ProgrammerHumor/comments/1rrstm8/tfwthewrongrobot/)
+[*lateBackendDevelopmentHorrorStory*](https://www.reddit.com/r/ProgrammerHumor/comments/1rs8uiy/latebackenddevelopmenthorrorstory/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zcnzab1jnmog1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k7o0qpxulpog1.png)
