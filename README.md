@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theOword*](https://www.reddit.com/r/ProgrammerHumor/comments/1rrjhf8/theoword/)
+[*tfwTheWrongRobot*](https://www.reddit.com/r/ProgrammerHumor/comments/1rrstm8/tfwthewrongrobot/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xnij99mt8kog1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zcnzab1jnmog1.png)
