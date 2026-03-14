@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whenTheSeniorDevSuggestsRefactoringTheEntireCodebase*](https://www.reddit.com/r/ProgrammerHumor/comments/1rsjg0q/whentheseniordevsuggestsrefactoringtheentirecodeba/)
+[*stackoverflowCopyPasteWasTheOriginalVibeCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1rtd5uf/stackoverflowcopypastewastheoriginalvibecoding/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bn36ynvoesog1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/buf9gp02ryog1.png)
