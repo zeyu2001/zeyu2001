@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lateBackendDevelopmentHorrorStory*](https://www.reddit.com/r/ProgrammerHumor/comments/1rs8uiy/latebackenddevelopmenthorrorstory/)
+[*whenTheSeniorDevSuggestsRefactoringTheEntireCodebase*](https://www.reddit.com/r/ProgrammerHumor/comments/1rsjg0q/whentheseniordevsuggestsrefactoringtheentirecodeba/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k7o0qpxulpog1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bn36ynvoesog1.png)
