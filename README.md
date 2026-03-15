@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iTEngineersJustNeedToRetransmitDrugDealersNeedALawyer*](https://www.reddit.com/r/ProgrammerHumor/comments/1ru4gfm/itengineersjustneedtoretransmitdrugdealersneedalaw/)
+[*itsJustThatEasy*](https://www.reddit.com/r/ProgrammerHumor/comments/1ruc9d0/itsjustthateasy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/t7x9dlzvw4pg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qnyvvuzw77pg1.png)
