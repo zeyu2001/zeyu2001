@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*mommyHalpImScaredOfRegex*](https://www.reddit.com/r/ProgrammerHumor/comments/1rtfzvw/mommyhalpimscaredofregex/)
+[*iTEngineersJustNeedToRetransmitDrugDealersNeedALawyer*](https://www.reddit.com/r/ProgrammerHumor/comments/1ru4gfm/itengineersjustneedtoretransmitdrugdealersneedalaw/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/obmm11kxmzog1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/t7x9dlzvw4pg1.png)
