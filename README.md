@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howSoftwareIsUsed*](https://www.reddit.com/r/ProgrammerHumor/comments/1rum6r4/howsoftwareisused/)
+[*thereIsNoIssue*](https://www.reddit.com/r/ProgrammerHumor/comments/1rvcaoa/thereisnoissue/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/b660126r89pg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wssmfcuvbfpg1.png)
