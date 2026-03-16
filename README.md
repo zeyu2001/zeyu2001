@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itsJustThatEasy*](https://www.reddit.com/r/ProgrammerHumor/comments/1ruc9d0/itsjustthateasy/)
+[*howSoftwareIsUsed*](https://www.reddit.com/r/ProgrammerHumor/comments/1rum6r4/howsoftwareisused/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qnyvvuzw77pg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/b660126r89pg1.png)
