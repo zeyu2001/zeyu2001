@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whoWasIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1rvfumg/whowasit/)
+[*tryingToExplainJavascript*](https://www.reddit.com/r/ProgrammerHumor/comments/1rvjxbz/tryingtoexplainjavascript/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/smjhbeubyfpg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cdwsxf3dngpg1.png)
