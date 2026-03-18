@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*futureOfWork*](https://www.reddit.com/r/ProgrammerHumor/comments/1rwa7lu/futureofwork/)
+[*cxxAlreadyGaveUp*](https://www.reddit.com/r/ProgrammerHumor/comments/1rw3jg3/cxxalreadygaveup/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/r7ioqlc1mmpg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s5oxqqjz8lpg1.png)
