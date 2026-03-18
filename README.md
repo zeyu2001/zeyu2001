@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cxxAlreadyGaveUp*](https://www.reddit.com/r/ProgrammerHumor/comments/1rw3jg3/cxxalreadygaveup/)
+[*feelingOldYet*](https://www.reddit.com/r/ProgrammerHumor/comments/1rwyp7y/feelingoldyet/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/s5oxqqjz8lpg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hwvyoc3wqrpg1.png)
