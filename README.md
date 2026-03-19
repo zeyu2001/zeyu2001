@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*trueAF*](https://www.reddit.com/r/ProgrammerHumor/comments/1rxulc2/trueaf/)
+[*makeNoMistakes*](https://www.reddit.com/r/ProgrammerHumor/comments/1ry6oqb/makenomistakes/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hmxwxlfcnypg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/op9ehiyjd1qg1.png)
