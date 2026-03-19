@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*productivityGains*](https://www.reddit.com/r/ProgrammerHumor/comments/1rxbqte/productivitygains/)
+[*trueAF*](https://www.reddit.com/r/ProgrammerHumor/comments/1rxulc2/trueaf/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dra67kvgiupg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hmxwxlfcnypg1.png)
