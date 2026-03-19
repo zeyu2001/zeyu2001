@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whenLifeImitatesMemes*](https://www.reddit.com/r/ProgrammerHumor/comments/1rwqboh/whenlifeimitatesmemes/)
+[*productivityGains*](https://www.reddit.com/r/ProgrammerHumor/comments/1rxbqte/productivitygains/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2epd4u94jppg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dra67kvgiupg1.png)
