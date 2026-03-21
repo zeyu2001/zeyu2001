@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*stackOverflowDependentLife*](https://www.reddit.com/r/ProgrammerHumor/comments/1ryv0wl/stackoverflowdependentlife/)
+[*ellEllEmmsAmIRight*](https://www.reddit.com/r/ProgrammerHumor/comments/1rz180l/ellellemmsamiright/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ix6wp5jb27qg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/18xqsxny98qg1.png)
