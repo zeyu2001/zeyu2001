@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ellEllEmmsAmIRight*](https://www.reddit.com/r/ProgrammerHumor/comments/1rz180l/ellellemmsamiright/)
+[*ifSolvedThenWhyNewCriticalBugEveryWeek*](https://www.reddit.com/r/ProgrammerHumor/comments/1rz676m/ifsolvedthenwhynewcriticalbugeveryweek/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/18xqsxny98qg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0r09g5fg79qg1.png)
