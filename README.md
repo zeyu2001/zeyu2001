@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*yeahThisHappened*](https://www.reddit.com/r/ProgrammerHumor/comments/1rzx5l1/yeahthishappened/)
+[*howTheFuck*](https://www.reddit.com/r/ProgrammerHumor/comments/1s0amgf/howthefuck/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/15dk917tmfqg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/12enj3engiqg1.png)
