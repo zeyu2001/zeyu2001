@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*minorBugInRarelyUsedFeature*](https://www.reddit.com/r/ProgrammerHumor/comments/1s13jpy/minorbuginrarelyusedfeature/)
+[*loveLetterFromDevToOps*](https://www.reddit.com/r/ProgrammerHumor/comments/1s1hv4u/loveletterfromdevtoops/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ru5zybkt6pqg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xakxvdrrxsqg1.png)
