@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pullRequestReviewRequestPagliacci*](https://www.reddit.com/r/ProgrammerHumor/comments/1s1ihy4/pullrequestreviewrequestpagliacci/)
+[*lol*](https://www.reddit.com/r/ProgrammerHumor/comments/1s1qnxj/lol/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ovy2vfqd2tqg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qct588o1iuqg1.png)
