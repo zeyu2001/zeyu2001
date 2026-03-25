@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*bruhSheDidntThinkThisTypeOfExperimenting*](https://www.reddit.com/r/ProgrammerHumor/comments/1s295no/bruhshedidntthinkthistypeofexperimenting/)
+[*endGame*](https://www.reddit.com/r/ProgrammerHumor/comments/1s2iv60/endgame/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7cw190u4ryqg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/omnzwfmct0rg1.png)
