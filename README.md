@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*endGame*](https://www.reddit.com/r/ProgrammerHumor/comments/1s2iv60/endgame/)
+[*anotherDayOfSolvedCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1s3bzeq/anotherdayofsolvedcoding/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/omnzwfmct0rg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iwpfgfqy87rg1.png)
