@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*scrapThat*](https://www.reddit.com/r/ProgrammerHumor/comments/1s4qvwh/scrapthat/)
+[*soHowLongUntilThe3Months*](https://www.reddit.com/r/ProgrammerHumor/comments/1s55ms8/sohowlonguntilthe3months/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1sfg07tbuhrg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6qh1m35sklrg1.png)
