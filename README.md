@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cuckCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1s42kbr/cuckcoding/)
+[*theSecretToALongLife*](https://www.reddit.com/r/ProgrammerHumor/comments/1s448da/thesecrettoalonglife/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kb6afstgxcrg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/458ct8qqedrg1.png)
