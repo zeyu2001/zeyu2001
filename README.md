@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*stdDouble*](https://www.reddit.com/r/ProgrammerHumor/comments/1s5v9iu/stddouble/)
+[*givingTheUsersANewFeature*](https://www.reddit.com/r/ProgrammerHumor/comments/1s6k982/givingtheusersanewfeature/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fnnqjrau2rrg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p6yuovtcjwrg1.png)
