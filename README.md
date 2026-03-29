@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*friendsWillBeFriends*](https://www.reddit.com/r/ProgrammerHumor/comments/1s71d2e/friendswillbefriends/)
+[*bugFixedIn5MinutesJiraUpdatedIn3Hours*](https://www.reddit.com/r/ProgrammerHumor/comments/1s77a34/bugfixedin5minutesjiraupdatedin3hours/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8kiqckq1s0sg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6xbzdrb9w1sg1.png)
