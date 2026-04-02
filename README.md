@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*charityAsAService*](https://www.reddit.com/r/ProgrammerHumor/comments/1s98xr2/charityasaservice/)
+[*theTablesHaveTurned*](https://www.reddit.com/r/ProgrammerHumor/comments/1s9tm1s/thetableshaveturned/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q2sip2owxhsg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pl5s7fzakmsg1.png)
