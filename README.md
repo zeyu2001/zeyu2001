@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*latestXkcd*](https://www.reddit.com/r/ProgrammerHumor/comments/1saicnz/latestxkcd/)
+[*neverEverFeelLikeYoga*](https://www.reddit.com/r/ProgrammerHumor/comments/1sb8ut0/nevereverfeellikeyoga/)
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/M98lvwN.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5lsftv7y1ysg1.png)
