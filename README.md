@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*peakDevMentality*](https://www.reddit.com/r/ProgrammerHumor/comments/1sadb9f/peakdevmentality/)
+[*latestXkcd*](https://www.reddit.com/r/ProgrammerHumor/comments/1saicnz/latestxkcd/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wu2znl6n4rsg1.png)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/M98lvwN.png)
