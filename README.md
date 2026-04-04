@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*savedYouSomeTokensBoss*](https://www.reddit.com/r/ProgrammerHumor/comments/1sbnqvf/savedyousometokensboss/)
+[*thanosAltman*](https://www.reddit.com/r/ProgrammerHumor/comments/1scdna4/thanosaltman/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7lmwhex631tg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xg7nwz3f97tg1.png)
