@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*addingLinterToLegacyCodebase*](https://www.reddit.com/r/ProgrammerHumor/comments/1sbbis9/addinglintertolegacycodebase/)
+[*savedYouSomeTokensBoss*](https://www.reddit.com/r/ProgrammerHumor/comments/1sbnqvf/savedyousometokensboss/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nhau2pedsysg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7lmwhex631tg1.png)
