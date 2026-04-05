@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thanosAltman*](https://www.reddit.com/r/ProgrammerHumor/comments/1scdna4/thanosaltman/)
+[*theUnsungHeroes*](https://www.reddit.com/r/ProgrammerHumor/comments/1sd2t96/theunsungheroes/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xg7nwz3f97tg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1ep5a7yobdtg1.png)
