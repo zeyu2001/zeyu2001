@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thatWasExpected*](https://www.reddit.com/r/ProgrammerHumor/comments/1sdfffq/thatwasexpected/)
+[*proTip*](https://www.reddit.com/r/ProgrammerHumor/comments/1se74fp/protip/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qse6gsnyuftg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/u2qzrgq05mtg1.png)
