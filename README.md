@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*proTip*](https://www.reddit.com/r/ProgrammerHumor/comments/1se74fp/protip/)
+[*sitDownSon*](https://www.reddit.com/r/ProgrammerHumor/comments/1sewy6d/sitdownson/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u2qzrgq05mtg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zl9qe1msyrtg1.png)
