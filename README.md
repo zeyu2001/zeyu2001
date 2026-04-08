@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sitDownSon*](https://www.reddit.com/r/ProgrammerHumor/comments/1sewy6d/sitdownson/)
+[*windowsTroubleshootCodeBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/1sfnjwd/windowstroubleshootcodebelike/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zl9qe1msyrtg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/njby9vpfmxtg1.png)
