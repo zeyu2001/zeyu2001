@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*windowsTroubleshootCodeBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/1sfnjwd/windowstroubleshootcodebelike/)
+[*grokExplainYourself*](https://www.reddit.com/r/ProgrammerHumor/comments/1sfxaaz/grokexplainyourself/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/njby9vpfmxtg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/b9cwa0leqztg1.png)
