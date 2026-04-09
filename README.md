@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*goodTakeThioJoe*](https://www.reddit.com/r/ProgrammerHumor/comments/1sg2c2d/goodtakethiojoe/)
+[*finallyASaaSThatDoesNothing*](https://www.reddit.com/r/ProgrammerHumor/comments/1sgnx6k/finallyasaasthatdoesnothing/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yezhe2ccm0ug1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/86eek2n4p5ug1.png)
