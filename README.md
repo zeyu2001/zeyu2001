@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*consoleLogsWillDoFine*](https://www.reddit.com/r/ProgrammerHumor/comments/1sgxa5o/consolelogswilldofine/)
+[*whenQaFindsABugAndYouCannotReproduceIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1shm178/whenqafindsabugandyoucannotreproduceit/)
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/UADigAj.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8xfplgce3dug1.png)
