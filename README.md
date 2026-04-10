@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*finallyASaaSThatDoesNothing*](https://www.reddit.com/r/ProgrammerHumor/comments/1sgnx6k/finallyasaasthatdoesnothing/)
+[*consoleLogsWillDoFine*](https://www.reddit.com/r/ProgrammerHumor/comments/1sgxa5o/consolelogswilldofine/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/86eek2n4p5ug1.png)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/UADigAj.png)
