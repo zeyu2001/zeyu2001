@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howItsSupposedToRun*](https://www.reddit.com/r/ProgrammerHumor/comments/1si2ehr/howitssupposedtorun/)
+[*chatWeAreCooked*](https://www.reddit.com/r/ProgrammerHumor/comments/1siiqg8/chatwearecooked/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xc7ghs6w3gug1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m82gfg4v8kug1.png)
