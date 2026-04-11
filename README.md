@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whenQaFindsABugAndYouCannotReproduceIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1shm178/whenqafindsabugandyoucannotreproduceit/)
+[*howItsSupposedToRun*](https://www.reddit.com/r/ProgrammerHumor/comments/1si2ehr/howitssupposedtorun/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8xfplgce3dug1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xc7ghs6w3gug1.png)
