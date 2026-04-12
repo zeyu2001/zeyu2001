@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*chatWeAreCooked*](https://www.reddit.com/r/ProgrammerHumor/comments/1siiqg8/chatwearecooked/)
+[*iAmSorryYouAreAbsolutelyCorrect*](https://www.reddit.com/r/ProgrammerHumor/comments/1sjfda9/iamsorryyouareabsolutelycorrect/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m82gfg4v8kug1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qc0dpkc8nrug1.png)
