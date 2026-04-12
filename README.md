@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iAmSorryYouAreAbsolutelyCorrect*](https://www.reddit.com/r/ProgrammerHumor/comments/1sjfda9/iamsorryyouareabsolutelycorrect/)
+[*aiIsTrulyTakingOver*](https://www.reddit.com/r/ProgrammerHumor/comments/1sjjl21/aiistrulytakingover/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qc0dpkc8nrug1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/eanh6zj2gsug1.png)
