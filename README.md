@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iAmSorryYouAreAbsolutelyCorrect*](https://www.reddit.com/r/ProgrammerHumor/comments/1sjfda9/iamsorryyouareabsolutelycorrect/)
+[*howToBecomeASoftwareEngineerWithoutLearningHowToCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1sjoey5/howtobecomeasoftwareengineerwithoutlearninghowtoco/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qc0dpkc8nrug1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v1ippd3actug1.png)
