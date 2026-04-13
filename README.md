@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howToBecomeASoftwareEngineerWithoutLearningHowToCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1sjoey5/howtobecomeasoftwareengineerwithoutlearninghowtoco/)
+[*usingOldForums*](https://www.reddit.com/r/ProgrammerHumor/comments/1skd4eg/usingoldforums/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/v1ippd3actug1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ovtorlag0zug1.png)
