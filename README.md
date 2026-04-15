@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sadLife*](https://www.reddit.com/r/ProgrammerHumor/comments/1slg8jf/sadlife/)
+[*howDoISoftLaunch*](https://www.reddit.com/r/ProgrammerHumor/comments/1sma5o2/howdoisoftlaunch/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/d5jpmut237vg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ib436nvdmdvg1.png)
