@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*evenThoAISucksIStillThinkItsFunny*](https://www.reddit.com/r/ProgrammerHumor/comments/1snze9t/eventhoaisucksistillthinkitsfunny/)
+[*someThingsNeverChange*](https://www.reddit.com/r/ProgrammerHumor/comments/1so6mrk/somethingsneverchange/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c8o5gcdztqvg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vuf44pk86svg1.png)
