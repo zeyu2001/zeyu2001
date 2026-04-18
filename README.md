@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*someThingsNeverChange*](https://www.reddit.com/r/ProgrammerHumor/comments/1so6mrk/somethingsneverchange/)
+[*iAmUnhackableNow*](https://www.reddit.com/r/ProgrammerHumor/comments/1sp12vk/iamunhackablenow/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vuf44pk86svg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/whvzqejfyyvg1.png)
