@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whereMyExeFile*](https://www.reddit.com/r/ProgrammerHumor/comments/1sp50dz/wheremyexefile/)
+[*codingIsDead*](https://www.reddit.com/r/ProgrammerHumor/comments/1spxl1q/codingisdead/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5sze1ryopzvg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0eptisrab6wg1.png)
