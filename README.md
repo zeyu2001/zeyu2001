@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thankYouClaude*](https://www.reddit.com/r/ProgrammerHumor/comments/1sqh5rk/thankyouclaude/)
+[*codingIsDead*](https://www.reddit.com/r/ProgrammerHumor/comments/1spxl1q/codingisdead/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zfdtu0ddgawg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0eptisrab6wg1.png)
