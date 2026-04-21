@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*java6IsMyPassion*](https://www.reddit.com/r/ProgrammerHumor/comments/1sqjmw9/java6ismypassion/)
+[*pythonIsMoreConfusingThanLowLevelLanguages*](https://www.reddit.com/r/ProgrammerHumor/comments/1sr4xwu/pythonismoreconfusingthanlowlevellanguages/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1skvfeez5bwg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9yji93v07fwg1.png)
