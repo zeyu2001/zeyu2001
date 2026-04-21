@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pythonIsMoreConfusingThanLowLevelLanguages*](https://www.reddit.com/r/ProgrammerHumor/comments/1sr4xwu/pythonismoreconfusingthanlowlevellanguages/)
+[*friendsOutsideOfTechLolCopilotIsDumbFriendsInTechIJustBoughtIodineTablets*](https://www.reddit.com/r/ProgrammerHumor/comments/1srkmix/friendsoutsideoftechlolcopilotisdumbfriendsintechi/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9yji93v07fwg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/01uiavwj1jwg1.png)
