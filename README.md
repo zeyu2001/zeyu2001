@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*friendsOutsideOfTechLolCopilotIsDumbFriendsInTechIJustBoughtIodineTablets*](https://www.reddit.com/r/ProgrammerHumor/comments/1srkmix/friendsoutsideoftechlolcopilotisdumbfriendsintechi/)
+[*youreNotLinus*](https://www.reddit.com/r/ProgrammerHumor/comments/1ss45yo/yourenotlinus/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/01uiavwj1jwg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x02lhzx9mmwg1.png)
