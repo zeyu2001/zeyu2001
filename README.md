@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youreNotLinus*](https://www.reddit.com/r/ProgrammerHumor/comments/1ss45yo/yourenotlinus/)
+[*automateAwayTheOneGoodPartOfTheJob*](https://www.reddit.com/r/ProgrammerHumor/comments/1ssmz7n/automateawaytheonegoodpartofthejob/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x02lhzx9mmwg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pqd7wmv04rwg1.png)
