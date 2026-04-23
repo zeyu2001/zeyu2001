@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*automateAwayTheOneGoodPartOfTheJob*](https://www.reddit.com/r/ProgrammerHumor/comments/1ssmz7n/automateawaytheonegoodpartofthejob/)
+[*stillBuggyPlsFix*](https://www.reddit.com/r/ProgrammerHumor/comments/1ssyrbj/stillbuggyplsfix/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pqd7wmv04rwg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bbpjite77twg1.png)
