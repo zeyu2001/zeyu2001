@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*bobDidNotApproveThisMessage*](https://www.reddit.com/r/ProgrammerHumor/comments/1suge48/bobdidnotapprovethismessage/)
+[*ohNoTheConsequencesOfMyActions*](https://www.reddit.com/r/ProgrammerHumor/comments/1supaix/ohnotheconsequencesofmyactions/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c7voom6785xg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i5mtbbe7u6xg1.png)
