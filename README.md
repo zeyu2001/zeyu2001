@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iWasVeryFocused*](https://www.reddit.com/r/ProgrammerHumor/comments/1stm0bw/iwasveryfocused/)
+[*bobDidNotApproveThisMessage*](https://www.reddit.com/r/ProgrammerHumor/comments/1suge48/bobdidnotapprovethismessage/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/g16a656bkywg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c7voom6785xg1.png)
