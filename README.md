@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatLanguage*](https://www.reddit.com/r/ProgrammerHumor/comments/1svmbyz/whatlanguage/)
+[*lol*](https://www.reddit.com/r/ProgrammerHumor/comments/1svhf39/lol/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c687kaif7exg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qwmc50fw9dxg1.png)
