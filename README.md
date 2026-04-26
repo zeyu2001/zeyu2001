@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*average50YearOldITManager*](https://www.reddit.com/r/ProgrammerHumor/comments/1svlpk2/average50yearolditmanager/)
+[*myCurrentlyNonTechnicalMomIsLearningRobotics*](https://www.reddit.com/r/ProgrammerHumor/comments/1svy9az/mycurrentlynontechnicalmomislearningrobotics/)
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/w4jX232.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fygbrmrqvgxg1.png)
