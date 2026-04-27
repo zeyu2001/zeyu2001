@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*myCurrentlyNonTechnicalMomIsLearningRobotics*](https://www.reddit.com/r/ProgrammerHumor/comments/1svy9az/mycurrentlynontechnicalmomislearningrobotics/)
+[*everyYearThisTweetBecomesMoreAndMoreReal*](https://www.reddit.com/r/ProgrammerHumor/comments/1swjdwt/everyyearthistweetbecomesmoreandmorereal/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fygbrmrqvgxg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/g5u2xncsllxg1.png)
