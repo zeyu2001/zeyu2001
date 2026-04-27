@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*everyYearThisTweetBecomesMoreAndMoreReal*](https://www.reddit.com/r/ProgrammerHumor/comments/1swjdwt/everyyearthistweetbecomesmoreandmorereal/)
+[*vibecoderAskedForLastMinuteInterviewTips*](https://www.reddit.com/r/ProgrammerHumor/comments/1swxpct/vibecoderaskedforlastminuteinterviewtips/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/g5u2xncsllxg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hiqzocjx1pxg1.png)
