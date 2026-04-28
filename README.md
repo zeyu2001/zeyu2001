@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*keepCompetitorsOnToes*](https://www.reddit.com/r/ProgrammerHumor/comments/1sxarww/keepcompetitorsontoes/)
+[*weDontWantYourData*](https://www.reddit.com/r/ProgrammerHumor/comments/1sxl7ik/wedontwantyourdata/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2fyxedudrrxg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ry9zgas2otxg1.png)
