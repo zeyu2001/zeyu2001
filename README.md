@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*looksLikeSpotifysVibeCodingCaughUpWithThem*](https://www.reddit.com/r/ProgrammerHumor/comments/1syzcoy/lookslikespotifysvibecodingcaughupwiththem/)
+[*deathOfTheEmDash*](https://www.reddit.com/r/ProgrammerHumor/comments/1szd9cb/deathoftheemdash/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sqerdag5w4yg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gwsq9e7fd7yg1.png)
