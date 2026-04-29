@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*weDontWantYourData*](https://www.reddit.com/r/ProgrammerHumor/comments/1sxl7ik/wedontwantyourdata/)
+[*disableMouseClick*](https://www.reddit.com/r/ProgrammerHumor/comments/1sxzchl/disablemouseclick/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ry9zgas2otxg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0mnuvng04xxg1.png)
