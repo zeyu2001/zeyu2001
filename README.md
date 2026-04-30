@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aiFiledAnHrComplaint*](https://www.reddit.com/r/ProgrammerHumor/comments/1szn6m9/aifiledanhrcomplaint/)
+[*theyHateUsCuzTheyAintUs*](https://www.reddit.com/r/ProgrammerHumor/comments/1szpqab/theyhateuscuztheyaintus/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wq99boe9m9yg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9hk1reh6cayg1.png)
