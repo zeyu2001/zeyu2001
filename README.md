@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*fiveYears*](https://www.reddit.com/r/ProgrammerHumor/comments/1t0kgul/fiveyears/)
+[*looksLikeGithubOnlyCrashesWhenISleep*](https://www.reddit.com/r/ProgrammerHumor/comments/1t006fc/lookslikegithubonlycrasheswhenisleep/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jyns5rxyqgyg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fgyteigemcyg1.png)
