@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*looksLikeGithubOnlyCrashesWhenISleep*](https://www.reddit.com/r/ProgrammerHumor/comments/1t006fc/lookslikegithubonlycrasheswhenisleep/)
+[*cppIsntMuchFaster*](https://www.reddit.com/r/ProgrammerHumor/comments/1t0ucic/cppisntmuchfaster/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fgyteigemcyg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rqyl783v8jyg1.png)
