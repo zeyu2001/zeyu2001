@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theyHateUsCuzTheyAintUs*](https://www.reddit.com/r/ProgrammerHumor/comments/1szpqab/theyhateuscuztheyaintus/)
+[*fiveYears*](https://www.reddit.com/r/ProgrammerHumor/comments/1t0kgul/fiveyears/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9hk1reh6cayg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jyns5rxyqgyg1.png)
