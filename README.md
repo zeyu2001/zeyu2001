@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*compilers*](https://www.reddit.com/r/ProgrammerHumor/comments/1t0w5rp/compilers/)
+[*noHackersPls*](https://www.reddit.com/r/ProgrammerHumor/comments/1t1p9hd/nohackerspls/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/w3hoseprkjyg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gy8jewpp1qyg1.png)
