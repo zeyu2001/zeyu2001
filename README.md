@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cppIsntMuchFaster*](https://www.reddit.com/r/ProgrammerHumor/comments/1t0ucic/cppisntmuchfaster/)
+[*compilers*](https://www.reddit.com/r/ProgrammerHumor/comments/1t0w5rp/compilers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rqyl783v8jyg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/w3hoseprkjyg1.png)
