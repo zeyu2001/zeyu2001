@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*githubIfItWasAGovUkService*](https://www.reddit.com/r/ProgrammerHumor/comments/1t2qr06/githubifitwasagovukservice/)
+[*gotMeRagingAndQuitting*](https://www.reddit.com/r/ProgrammerHumor/comments/1t2ughq/gotmeragingandquitting/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3z9agbexcyyg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d428c7qa0zyg1.png)
