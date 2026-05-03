@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*godIsABadProgrammer*](https://www.reddit.com/r/ProgrammerHumor/comments/1t2gpfc/godisabadprogrammer/)
+[*githubIfItWasAGovUkService*](https://www.reddit.com/r/ProgrammerHumor/comments/1t2qr06/githubifitwasagovukservice/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/thju6ryu4wyg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3z9agbexcyyg1.png)
