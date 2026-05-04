@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*newMicrosoftUpdateNotepadIsCrippled*](https://www.reddit.com/r/ProgrammerHumor/comments/1t2yj88/newmicrosoftupdatenotepadiscrippled/)
+[*thanksAi*](https://www.reddit.com/r/ProgrammerHumor/comments/1t37g64/thanksai/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gecr01wpszyg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/e9i7yt96t1zg1.png)
