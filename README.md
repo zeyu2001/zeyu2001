@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*homeCloudMigration*](https://www.reddit.com/r/ProgrammerHumor/comments/1t3g25z/homecloudmigration/)
+[*softwareMoreLikeWetware*](https://www.reddit.com/r/ProgrammerHumor/comments/1t45t1s/softwaremorelikewetware/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qcf0c8az44zg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3edbagqw19zg1.png)
