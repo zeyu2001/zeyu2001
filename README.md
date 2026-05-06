@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*optimizingTheBackendOut*](https://www.reddit.com/r/ProgrammerHumor/comments/1t4lgjg/optimizingthebackendout/)
+[*hauteComplexity*](https://www.reddit.com/r/ProgrammerHumor/comments/1t52spi/hautecomplexity/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/owm2j9mylczg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/aqrhmr4s4gzg1.png)
