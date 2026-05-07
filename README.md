@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*hauteComplexity*](https://www.reddit.com/r/ProgrammerHumor/comments/1t52spi/hautecomplexity/)
+[*noMoreMagic*](https://www.reddit.com/r/ProgrammerHumor/comments/1t5env0/nomoremagic/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/aqrhmr4s4gzg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tcu6o4fh2jzg1.png)
