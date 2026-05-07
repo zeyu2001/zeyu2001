@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*noMoreMagic*](https://www.reddit.com/r/ProgrammerHumor/comments/1t5env0/nomoremagic/)
+[*adultDatabase*](https://www.reddit.com/r/ProgrammerHumor/comments/1t5mh34/adultdatabase/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tcu6o4fh2jzg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/51glwj7tekzg1.png)
