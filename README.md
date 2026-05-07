@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*adultDatabase*](https://www.reddit.com/r/ProgrammerHumor/comments/1t5mh34/adultdatabase/)
+[*asIsTradition*](https://www.reddit.com/r/ProgrammerHumor/comments/1t662lw/asistradition/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/51glwj7tekzg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0ezzlqyvvozg1.png)
