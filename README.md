@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatDoWeSayToCodeWithoutTests*](https://www.reddit.com/r/ProgrammerHumor/comments/1t64tlr/whatdowesaytocodewithouttests/)
+[*itIsReal*](https://www.reddit.com/r/ProgrammerHumor/comments/1t6lmfp/itisreal/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/r336p066jozg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p88x8q8mtrzg1.png)
