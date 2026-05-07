@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itIsReal*](https://www.reddit.com/r/ProgrammerHumor/comments/1t6lmfp/itisreal/)
+[*allUsersHaveAdminAccessNowIGuess*](https://www.reddit.com/r/ProgrammerHumor/comments/1t6ezxz/allusershaveadminaccessnowiguess/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p88x8q8mtrzg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zez7102eoqzg1.png)
