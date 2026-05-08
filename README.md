@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*allUsersHaveAdminAccessNowIGuess*](https://www.reddit.com/r/ProgrammerHumor/comments/1t6ezxz/allusershaveadminaccessnowiguess/)
+[*interestingAnalogy*](https://www.reddit.com/r/ProgrammerHumor/comments/1t6svq3/interestinganalogy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zez7102eoqzg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rqlonxfo9tzg1.png)
