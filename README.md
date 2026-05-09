@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*canadianGoProgramming*](https://www.reddit.com/r/ProgrammerHumor/comments/1t7nvl7/canadiangoprogramming/)
+[*itIsTheSame*](https://www.reddit.com/r/ProgrammerHumor/comments/1t8hnvj/itisthesame/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4ypgt3m8xzzg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s71xjo2n160h1.png)
