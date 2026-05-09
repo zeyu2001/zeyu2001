@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*createNewRepoFixesEverything*](https://www.reddit.com/r/ProgrammerHumor/comments/1t74hb0/createnewrepofixeseverything/)
+[*canadianGoProgramming*](https://www.reddit.com/r/ProgrammerHumor/comments/1t7nvl7/canadiangoprogramming/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9u8i9l8u9wzg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4ypgt3m8xzzg1.png)
