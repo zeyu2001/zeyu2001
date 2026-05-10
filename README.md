@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itIsTheSame*](https://www.reddit.com/r/ProgrammerHumor/comments/1t8hnvj/itisthesame/)
+[*fixByYourselfNow*](https://www.reddit.com/r/ProgrammerHumor/comments/1t8zu1q/fixbyyourselfnow/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/s71xjo2n160h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k41qfa9od90h1.png)
