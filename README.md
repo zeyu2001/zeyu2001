@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cssMadeAICryToo*](https://www.reddit.com/r/ProgrammerHumor/comments/1t9fpp3/cssmadeaicrytoo/)
+[*developersWorstNightmare*](https://www.reddit.com/r/ProgrammerHumor/comments/1tabj1w/developersworstnightmare/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4998peqeyc0h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iwp7du2luj0h1.png)
