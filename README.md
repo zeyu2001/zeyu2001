@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iCriedWhenIOpenedMySiteOn720pMonitor*](https://www.reddit.com/r/ProgrammerHumor/comments/1tb4xjh/icriedwheniopenedmysiteon720pmonitor/)
+[*multiAgentCollaborationIsAmazing*](https://www.reddit.com/r/ProgrammerHumor/comments/1tbas7m/multiagentcollaborationisamazing/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/87rvppkj5q0h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ngqy24nb5r0h1.png)
