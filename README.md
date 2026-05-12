@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theMostPowerfulPersonInAnyEngineeringTeam*](https://www.reddit.com/r/ProgrammerHumor/comments/1tawcs2/themostpowerfulpersoninanyengineeringteam/)
+[*iCriedWhenIOpenedMySiteOn720pMonitor*](https://www.reddit.com/r/ProgrammerHumor/comments/1tb4xjh/icriedwheniopenedmysiteon720pmonitor/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7ut9si9edo0h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/87rvppkj5q0h1.png)
