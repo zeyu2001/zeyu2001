@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*multiAgentCollaborationIsAmazing*](https://www.reddit.com/r/ProgrammerHumor/comments/1tbas7m/multiagentcollaborationisamazing/)
+[*floatingPointArithmetic*](https://www.reddit.com/r/ProgrammerHumor/comments/1tbjgbs/floatingpointarithmetic/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ngqy24nb5r0h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4r34op4prs0h1.png)
