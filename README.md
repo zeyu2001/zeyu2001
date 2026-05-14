@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iReallyThoughtItWasAJoke*](https://www.reddit.com/r/ProgrammerHumor/comments/1tcgeb8/ireallythoughtitwasajoke/)
+[*heNeedsToUpdateHisDevice*](https://www.reddit.com/r/ProgrammerHumor/comments/1td0bi6/heneedstoupdatehisdevice/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8x7ihohtmz0h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vo5doyly741h1.png)
