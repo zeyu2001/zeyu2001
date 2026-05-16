@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*reInventingGraphQl*](https://www.reddit.com/r/ProgrammerHumor/comments/1tegvof/reinventinggraphql/)
+[*peakAIStartupCulture*](https://www.reddit.com/r/ProgrammerHumor/comments/1teswot/peakaistartupculture/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8x0tx90kve1h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/60usm8j0yh1h1.png)
