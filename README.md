@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*peakAIStartupCulture*](https://www.reddit.com/r/ProgrammerHumor/comments/1teswot/peakaistartupculture/)
+[*unPreventable*](https://www.reddit.com/r/ProgrammerHumor/comments/1tesviy/unpreventable/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/60usm8j0yh1h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dor2lxptxh1h1.png)
