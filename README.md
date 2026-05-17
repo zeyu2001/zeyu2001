@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*unPreventable*](https://www.reddit.com/r/ProgrammerHumor/comments/1tesviy/unpreventable/)
+[*booleanVariableNamingCrisis*](https://www.reddit.com/r/ProgrammerHumor/comments/1tevcoz/booleanvariablenamingcrisis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dor2lxptxh1h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/52ra3hpsfi1h1.png)
