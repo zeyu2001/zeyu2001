@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whoNeedsCodeReview*](https://www.reddit.com/r/ProgrammerHumor/comments/1tg31hz/whoneedscodereview/)
+[*whyIsItLikeThisEveryTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1tgh2lm/whyisitlikethiseverytime/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lkixkfy4rr1h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k8yuheid4v1h1.png)
