@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*claudeTakingTheWheel*](https://www.reddit.com/r/ProgrammerHumor/comments/1tfjmcp/claudetakingthewheel/)
+[*whoNeedsCodeReview*](https://www.reddit.com/r/ProgrammerHumor/comments/1tg31hz/whoneedscodereview/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rrzmnd6orn1h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lkixkfy4rr1h1.png)
