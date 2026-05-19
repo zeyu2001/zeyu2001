@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*nothingUnexpectedCanEverHappenInASprint*](https://www.reddit.com/r/ProgrammerHumor/comments/1th15s1/nothingunexpectedcaneverhappeninasprint/)
+[*realDevelopmentLifecycle*](https://www.reddit.com/r/ProgrammerHumor/comments/1thhv98/realdevelopmentlifecycle/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l3qrb0qtmy1h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/po6t6a5je22h1.png)
