@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*vibeCodingWithJarvis*](https://www.reddit.com/r/ProgrammerHumor/comments/1ti4ajy/vibecodingwithjarvis/)
+[*newGenerationOfVibecodersAlreadyReachingReddit*](https://www.reddit.com/r/ProgrammerHumor/comments/1tid85h/newgenerationofvibecodersalreadyreachingreddit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wbyq7b6gj62h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f3v18a6wk82h1.png)
