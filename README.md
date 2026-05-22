@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itHasTwoButtonsBtw*](https://www.reddit.com/r/ProgrammerHumor/comments/1tjl0od/ithastwobuttonsbtw/)
+[*thereISaidIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1tkgm75/thereisaidit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/928h88mtvh2h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wu2twkisfo2h1.png)
