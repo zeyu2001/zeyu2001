@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thereISaidIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1tkgm75/thereisaidit/)
+[*justCodexThings*](https://www.reddit.com/r/ProgrammerHumor/comments/1tkqib4/justcodexthings/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wu2twkisfo2h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9sp58h5x8q2h1.png)
