@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sudoAptInstallHacking*](https://www.reddit.com/r/ProgrammerHumor/comments/1tljgq1/sudoaptinstallhacking/)
+[*graphicsProgramming*](https://www.reddit.com/r/ProgrammerHumor/comments/1tlny31/graphicsprogramming/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jkraj0jenw2h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xz0pe0eeix2h1.png)
