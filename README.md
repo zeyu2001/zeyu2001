@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*graphicsProgramming*](https://www.reddit.com/r/ProgrammerHumor/comments/1tlny31/graphicsprogramming/)
+[*broJustStopPlease*](https://www.reddit.com/r/ProgrammerHumor/comments/1tm8ztm/brojuststopplease/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xz0pe0eeix2h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0vfc5alig23h1.png)
