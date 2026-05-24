@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*welcomeToTheRealWorld*](https://www.reddit.com/r/ProgrammerHumor/comments/1tmm6is/welcometotherealworld/)
+[*broJustStopPlease*](https://www.reddit.com/r/ProgrammerHumor/comments/1tm8ztm/brojuststopplease/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lvxx6l3o253h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0vfc5alig23h1.png)
