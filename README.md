@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*letsShipAnOSWithBorderRadiusAsFeature*](https://www.reddit.com/r/ProgrammerHumor/comments/1tn183k/letsshipanoswithborderradiusasfeature/)
+[*areWeThereYet*](https://www.reddit.com/r/ProgrammerHumor/comments/1tn8ofh/arewethereyet/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/e7eo5sure83h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yhor6san8a3h1.png)
