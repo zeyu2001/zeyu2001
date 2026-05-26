@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*areWeThereYet*](https://www.reddit.com/r/ProgrammerHumor/comments/1tn8ofh/arewethereyet/)
+[*iGotFiredSkill*](https://www.reddit.com/r/ProgrammerHumor/comments/1to89vd/igotfiredskill/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yhor6san8a3h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ljixjg8qph3h1.png)
