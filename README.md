@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itOnlyHappensSometimes*](https://www.reddit.com/r/ProgrammerHumor/comments/1tozjct/itonlyhappenssometimes/)
+[*day2OfGitHubOutages*](https://www.reddit.com/r/ProgrammerHumor/comments/1tp4gw3/day2ofgithuboutages/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/shunyhjk6n3h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bfp2xypdeo3h1.png)
