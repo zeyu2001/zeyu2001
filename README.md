@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*day2OfGitHubOutages*](https://www.reddit.com/r/ProgrammerHumor/comments/1tp4gw3/day2ofgithuboutages/)
+[*howMyCodebaseReadsWhenItsVibeCoded*](https://www.reddit.com/r/ProgrammerHumor/comments/1tphm0v/howmycodebasereadswhenitsvibecoded/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bfp2xypdeo3h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jyjm4432pq3h1.png)
