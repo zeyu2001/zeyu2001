@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*broUsedAllHisThinkingTokens*](https://www.reddit.com/r/ProgrammerHumor/comments/1tqdjai/brousedallhisthinkingtokens/)
+[*onlyOptionRemaining*](https://www.reddit.com/r/ProgrammerHumor/comments/1trcytg/onlyoptionremaining/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y9y0it54ix3h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yf6y9r9ro44h1.png)
