@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*onlyOptionRemaining*](https://www.reddit.com/r/ProgrammerHumor/comments/1trcytg/onlyoptionremaining/)
+[*devGuysAreNotNotSensitive*](https://www.reddit.com/r/ProgrammerHumor/comments/1ts2od3/devguysarenotnotsensitive/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yf6y9r9ro44h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jq3z1qh7ka4h1.png)
