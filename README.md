@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*devGuysAreNotNotSensitive*](https://www.reddit.com/r/ProgrammerHumor/comments/1ts2od3/devguysarenotnotsensitive/)
+[*thePMIsNotGonnaLikeThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1tssf37/thepmisnotgonnalikethis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jq3z1qh7ka4h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xa3dst2ihg4h1.png)
