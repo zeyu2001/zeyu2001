@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thePMIsNotGonnaLikeThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1tssf37/thepmisnotgonnalikethis/)
+[*teamWorkWithoutTeam*](https://www.reddit.com/r/ProgrammerHumor/comments/1tth3if/teamworkwithoutteam/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xa3dst2ihg4h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zhe7yihejl4h1.png)
