@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*teamWorkWithoutTeam*](https://www.reddit.com/r/ProgrammerHumor/comments/1tth3if/teamworkwithoutteam/)
+[*infiniteBroomRecursionError*](https://www.reddit.com/r/ProgrammerHumor/comments/1ttwsiy/infinitebroomrecursionerror/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zhe7yihejl4h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/w87ynfko2p4h1.png)
