@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*bestWayToGetJob*](https://www.reddit.com/r/ProgrammerHumor/comments/1twwz0a/bestwaytogetjob/)
+[*programmerSelfAwareness*](https://www.reddit.com/r/ProgrammerHumor/comments/1tx1en9/programmerselfawareness/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6poodhfzbb5h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/g36yo68y4c5h1.png)
