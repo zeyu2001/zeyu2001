@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whyILikeReact*](https://www.reddit.com/r/ProgrammerHumor/comments/1tvynsd/whyilikereact/)
+[*bestWayToGetJob*](https://www.reddit.com/r/ProgrammerHumor/comments/1twwz0a/bestwaytogetjob/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4w6kizmw445h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6poodhfzbb5h1.png)
