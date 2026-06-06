@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sortPlease*](https://www.reddit.com/r/ProgrammerHumor/comments/1txvbqj/sortplease/)
+[*literallyEverySiliconValleyProductComparisonChart*](https://www.reddit.com/r/ProgrammerHumor/comments/1tyekcc/literallyeverysiliconvalleyproductcomparisonchart/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mbnviewnpi5h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8729ay9bcn5h1.png)
