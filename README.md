@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*literallyEverySiliconValleyProductComparisonChart*](https://www.reddit.com/r/ProgrammerHumor/comments/1tyekcc/literallyeverysiliconvalleyproductcomparisonchart/)
+[*theyllUnderstandOneDay*](https://www.reddit.com/r/ProgrammerHumor/comments/1tz0o6v/theyllunderstandoneday/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8729ay9bcn5h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0o3mgg6r1s5h1.png)
