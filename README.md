@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*glassGivesMeNightmares*](https://www.reddit.com/r/ProgrammerHumor/comments/1u044wf/glassgivesmenightmares/)
+[*thisIsWhatHardCodingLooksLike*](https://www.reddit.com/r/ProgrammerHumor/comments/1u0anjr/thisiswhathardcodinglookslike/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/58imyfphe16h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mteu03d4r26h1.png)
