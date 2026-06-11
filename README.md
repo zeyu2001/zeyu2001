@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*fableExpectations*](https://www.reddit.com/r/ProgrammerHumor/comments/1u2fsnc/fableexpectations/)
+[*whenYouAreAskedToReviewASpecificKindOfPullRequest*](https://www.reddit.com/r/ProgrammerHumor/comments/1u2qss9/whenyouareaskedtoreviewaspecifickindofpullrequest/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hgk8ixjnyi6h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/er3flqfahl6h1.png)
