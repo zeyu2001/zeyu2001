@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatIsProgramming*](https://www.reddit.com/r/ProgrammerHumor/comments/1u2xop8/whatisprogramming/)
+[*weHaveAchievedAgi*](https://www.reddit.com/r/ProgrammerHumor/comments/1u3u65w/wehaveachievedagi/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4xcyndibdn6h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wbnzu70viu6h1.png)
