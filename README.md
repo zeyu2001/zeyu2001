@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thoughtThisWasGeniusAt2Am*](https://www.reddit.com/r/ProgrammerHumor/comments/1u35ie2/thoughtthiswasgeniusat2am/)
+[*whatIsProgramming*](https://www.reddit.com/r/ProgrammerHumor/comments/1u2xop8/whatisprogramming/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sdrh1fvhuo6h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4xcyndibdn6h1.png)
