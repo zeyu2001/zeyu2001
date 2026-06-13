@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*myAgentJustGotDeported*](https://www.reddit.com/r/ProgrammerHumor/comments/1u4s0o5/myagentjustgotdeported/)
+[*allCodeIsOurs*](https://www.reddit.com/r/ProgrammerHumor/comments/1u52pt5/allcodeisours/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qb40k4xn527h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m6wzixihb47h1.png)
