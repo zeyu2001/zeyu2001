@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itsKindOfSurreal*](https://www.reddit.com/r/ProgrammerHumor/comments/1u3uctf/itskindofsurreal/)
+[*presentedWithoutComment*](https://www.reddit.com/r/ProgrammerHumor/comments/1u3zhhm/presentedwithoutcomment/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dhhmpx8slu6h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ubdogpeikv6h1.png)
