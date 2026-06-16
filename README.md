@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisEscapeRoomTakesPlaceAt4PMOnFriday*](https://www.reddit.com/r/ProgrammerHumor/comments/1u6km9p/thisescaperoomtakesplaceat4pmonfriday/)
+[*basedOnATrueStory*](https://www.reddit.com/r/ProgrammerHumor/comments/1u7ge10/basedonatruestory/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3m7e2s80yg7h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kdum51ngvn7h1.png)
