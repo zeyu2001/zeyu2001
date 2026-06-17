@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*basedOnATrueStory*](https://www.reddit.com/r/ProgrammerHumor/comments/1u7ge10/basedonatruestory/)
+[*threeStagesOfDebugging*](https://www.reddit.com/r/ProgrammerHumor/comments/1u7zbgp/threestagesofdebugging/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kdum51ngvn7h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8dawo1crlr7h1.png)
