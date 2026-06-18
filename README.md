@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*poisonTheWell*](https://www.reddit.com/r/ProgrammerHumor/comments/1u8it1e/poisonthewell/)
+[*developerTourismExposed*](https://www.reddit.com/r/ProgrammerHumor/comments/1u8xjl1/developertourismexposed/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/brq8ii1n1w7h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ilcdwfqc8z7h1.png)
