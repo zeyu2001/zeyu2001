@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatDoYouMeanByThisClaude*](https://www.reddit.com/r/ProgrammerHumor/comments/1u94f2e/whatdoyoumeanbythisclaude/)
+[*eitherItAllFitsOnTheStackOrYouNeedABiggerStack*](https://www.reddit.com/r/ProgrammerHumor/comments/1u9zo4n/eitheritallfitsonthestackoryouneedabiggerstack/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k7swtfmf718h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x0qnpk2w788h1.png)
