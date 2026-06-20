@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*eitherItAllFitsOnTheStackOrYouNeedABiggerStack*](https://www.reddit.com/r/ProgrammerHumor/comments/1u9zo4n/eitheritallfitsonthestackoryouneedabiggerstack/)
+[*singleLetterVariableNamesTierList*](https://www.reddit.com/r/ProgrammerHumor/comments/1uasen1/singlelettervariablenamestierlist/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x0qnpk2w788h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/h7rad07mre8h1.png)
