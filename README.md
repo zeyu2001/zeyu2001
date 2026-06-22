@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*surprisinglySolidAdviceRightHere*](https://www.reddit.com/r/ProgrammerHumor/comments/1ubvqsc/surprisinglysolidadvicerighthere/)
+[*whichChangeSolvedTheBug*](https://www.reddit.com/r/ProgrammerHumor/comments/1ucgpz6/whichchangesolvedthebug/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ewrnqmux6o8h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/shzkjr5h8t8h1.png)
