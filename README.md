@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iknewItWouldWorkOut*](https://www.reddit.com/r/ProgrammerHumor/comments/1ubh765/iknewitwouldworkout/)
+[*surprisinglySolidAdviceRightHere*](https://www.reddit.com/r/ProgrammerHumor/comments/1ubvqsc/surprisinglysolidadvicerighthere/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/z35cyjkaik8h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ewrnqmux6o8h1.png)
