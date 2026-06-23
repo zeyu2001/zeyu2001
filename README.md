@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*hollywoodIsABunchOfLiars*](https://www.reddit.com/r/ProgrammerHumor/comments/1ud7oc3/hollywoodisabunchofliars/)
+[*isIntelligenceJustComputation*](https://www.reddit.com/r/ProgrammerHumor/comments/1udig1g/isintelligencejustcomputation/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pud1lzbory8h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mwwm649sj19h1.png)
