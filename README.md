@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*candidTalkWithCTO*](https://www.reddit.com/r/ProgrammerHumor/comments/1uen9or/candidtalkwithcto/)
+[*goodUseOfTypescript*](https://www.reddit.com/r/ProgrammerHumor/comments/1uf7yze/gooduseoftypescript/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ps9olt4j7a9h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rot2usis4f9h1.png)
