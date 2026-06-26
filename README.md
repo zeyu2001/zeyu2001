@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*goodUseOfTypescript*](https://www.reddit.com/r/ProgrammerHumor/comments/1uf7yze/gooduseoftypescript/)
+[*doYouFindRegexHard*](https://www.reddit.com/r/ProgrammerHumor/comments/1ufvrv9/doyoufindregexhard/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rot2usis4f9h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m8qhsfunuj9h1.png)
