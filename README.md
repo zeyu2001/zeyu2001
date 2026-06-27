@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*doYouFindRegexHard*](https://www.reddit.com/r/ProgrammerHumor/comments/1ufvrv9/doyoufindregexhard/)
+[*whoTheFuckIsGit*](https://www.reddit.com/r/ProgrammerHumor/comments/1ug9qeh/whothefuckisgit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m8qhsfunuj9h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4ywphfaa9n9h1.png)
