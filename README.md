@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whoTheFuckIsGit*](https://www.reddit.com/r/ProgrammerHumor/comments/1ug9qeh/whothefuckisgit/)
+[*oldFashionedTimes*](https://www.reddit.com/r/ProgrammerHumor/comments/1ugxa5e/oldfashionedtimes/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4ywphfaa9n9h1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rss8vw9uds9h1.png)
