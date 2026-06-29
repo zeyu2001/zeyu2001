@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*hopeDrivenDevelopment*](https://www.reddit.com/r/ProgrammerHumor/comments/1ui67qr/hopedrivendevelopment/)
+[*anotherOne*](https://www.reddit.com/r/ProgrammerHumor/comments/1uimob0/anotherone/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/trvecysyq2ah1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iwvtejv9n6ah1.png)
