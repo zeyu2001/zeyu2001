@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*threeDifferentWaysToDeclareVariablesBTW*](https://www.reddit.com/r/ProgrammerHumor/comments/1uiq0ps/threedifferentwaystodeclarevariablesbtw/)
+[*recursionTubby*](https://www.reddit.com/r/ProgrammerHumor/comments/1uiwjs6/recursiontubby/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7s4yib6jk7ah1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/umqih3k7v8ah1.png)
