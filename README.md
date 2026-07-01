@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whenTheLLMCantFixTheBug*](https://www.reddit.com/r/ProgrammerHumor/comments/1ujda68/whenthellmcantfixthebug/)
+[*sorryLuaButBase1IsAMajorTurnOff*](https://www.reddit.com/r/ProgrammerHumor/comments/1ujyerb/sorryluabutbase1isamajorturnoff/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/g09f3qid5cah1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dvw6bvosxgah1.png)
