@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*flyMeToTheMoonBaby*](https://www.reddit.com/r/ProgrammerHumor/comments/1ukicbj/flymetothemoonbaby/)
+[*cantReworkToMakeItBetter*](https://www.reddit.com/r/ProgrammerHumor/comments/1uko19y/cantreworktomakeitbetter/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8nmc8y7ymlah1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zcodgi56umah1.png)
