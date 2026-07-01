@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sorryLuaButBase1IsAMajorTurnOff*](https://www.reddit.com/r/ProgrammerHumor/comments/1ujyerb/sorryluabutbase1isamajorturnoff/)
+[*talkingToTheWAL*](https://www.reddit.com/r/ProgrammerHumor/comments/1ukbzfk/talkingtothewal/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dvw6bvosxgah1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/w3ybkaw2ujah1.png)
