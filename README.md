@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*talkingToTheWAL*](https://www.reddit.com/r/ProgrammerHumor/comments/1ukbzfk/talkingtothewal/)
+[*iBothFeelSadForHimAndCantStopLaughing*](https://www.reddit.com/r/ProgrammerHumor/comments/1ukigyv/ibothfeelsadforhimandcantstoplaughing/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/w3ybkaw2ujah1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5g4ph015olah1.png)
