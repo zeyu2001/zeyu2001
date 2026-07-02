@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whyBuyWindowsOs*](https://www.reddit.com/r/ProgrammerHumor/comments/1ukqng4/whybuywindowsos/)
+[*cantReworkToMakeItBetter*](https://www.reddit.com/r/ProgrammerHumor/comments/1uko19y/cantreworktomakeitbetter/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wvo9rgc4bnah1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zcodgi56umah1.png)
