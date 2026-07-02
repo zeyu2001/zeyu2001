@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cantReworkToMakeItBetter*](https://www.reddit.com/r/ProgrammerHumor/comments/1uko19y/cantreworktomakeitbetter/)
+[*statusCodesCheatsheet*](https://www.reddit.com/r/ProgrammerHumor/comments/1uli53e/statuscodescheatsheet/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zcodgi56umah1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fk2lh6qxhtah1.png)
