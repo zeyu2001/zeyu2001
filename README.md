@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*statusCodesCheatsheet*](https://www.reddit.com/r/ProgrammerHumor/comments/1uli53e/statuscodescheatsheet/)
+[*positiveFeedbackLoop*](https://www.reddit.com/r/ProgrammerHumor/comments/1um5021/positivefeedbackloop/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fk2lh6qxhtah1.png)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/AZD3vJR.png)
