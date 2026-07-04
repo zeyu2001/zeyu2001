@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*rustTargetIsHuge*](https://www.reddit.com/r/ProgrammerHumor/comments/1umtyc9/rusttargetishuge/)
+[*linusTorvaldsVibing*](https://www.reddit.com/r/ProgrammerHumor/comments/1unfiu3/linustorvaldsvibing/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wjronhihr3bh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7woc7rom49bh1.png)
