@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*positiveFeedbackLoop*](https://www.reddit.com/r/ProgrammerHumor/comments/1um5021/positivefeedbackloop/)
+[*sorryJeff*](https://www.reddit.com/r/ProgrammerHumor/comments/1umfzkv/sorryjeff/)
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/AZD3vJR.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0tp7sqnuy0bh1.png)
