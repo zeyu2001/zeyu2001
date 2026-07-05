@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*weGonnaMissYouPython*](https://www.reddit.com/r/ProgrammerHumor/comments/1uo9age/wegonnamissyoupython/)
+[*theGrowingDivide*](https://www.reddit.com/r/ProgrammerHumor/comments/1uo6gv9/thegrowingdivide/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gi454j9edgbh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/62egqr11tfbh1.png)
