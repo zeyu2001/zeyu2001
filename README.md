@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*linusTorvaldsVibing*](https://www.reddit.com/r/ProgrammerHumor/comments/1unfiu3/linustorvaldsvibing/)
+[*weGonnaMissYouPython*](https://www.reddit.com/r/ProgrammerHumor/comments/1uo9age/wegonnamissyoupython/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7woc7rom49bh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gi454j9edgbh1.png)
