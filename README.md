@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theGrowingDivide*](https://www.reddit.com/r/ProgrammerHumor/comments/1uo6gv9/thegrowingdivide/)
+[*addressMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1uonvay/addressme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/62egqr11tfbh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cs4sf7g7ljbh1.png)
