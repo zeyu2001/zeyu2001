@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*averageJavaDevExperience*](https://www.reddit.com/r/ProgrammerHumor/comments/1uoqm7z/averagejavadevexperience/)
+[*pipInstallTheRealStuff*](https://www.reddit.com/r/ProgrammerHumor/comments/1upqei6/pipinstalltherealstuff/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kj8c82p5dkbh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sjhkvni15sbh1.png)
