@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*addressMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1uonvay/addressme/)
+[*averageJavaDevExperience*](https://www.reddit.com/r/ProgrammerHumor/comments/1uoqm7z/averagejavadevexperience/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cs4sf7g7ljbh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kj8c82p5dkbh1.png)
