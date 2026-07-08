@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pipInstallTheRealStuff*](https://www.reddit.com/r/ProgrammerHumor/comments/1upqei6/pipinstalltherealstuff/)
+[*dualityOfMan*](https://www.reddit.com/r/ProgrammerHumor/comments/1uqm7jo/dualityofman/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sjhkvni15sbh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m77yffqgqybh1.png)
