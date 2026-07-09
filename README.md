@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*dualityOfMan*](https://www.reddit.com/r/ProgrammerHumor/comments/1uqm7jo/dualityofman/)
+[*askingTheRealQuestionHere*](https://www.reddit.com/r/ProgrammerHumor/comments/1uqvrus/askingtherealquestionhere/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m77yffqgqybh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/44021xzpw0ch1.png)
