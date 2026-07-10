@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iKnowDevsThatUseVersioningAndTheyAreAllCowards*](https://www.reddit.com/r/ProgrammerHumor/comments/1urpx0q/iknowdevsthatuseversioningandtheyareallcowards/)
+[*pleaseApprove*](https://www.reddit.com/r/ProgrammerHumor/comments/1usmb70/pleaseapprove/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8a4locloe7ch1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8dv14r00cech1.png)
