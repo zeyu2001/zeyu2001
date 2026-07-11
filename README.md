@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pleaseApprove*](https://www.reddit.com/r/ProgrammerHumor/comments/1usmb70/pleaseapprove/)
+[*itChangedTheTests*](https://www.reddit.com/r/ProgrammerHumor/comments/1utbf2u/itchangedthetests/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8dv14r00cech1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/so1pngecfjch1.png)
