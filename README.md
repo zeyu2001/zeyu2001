@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*butMyVibesWereInvolved*](https://www.reddit.com/r/ProgrammerHumor/comments/1utoh5y/butmyvibeswereinvolved/)
+[*heIsSafe*](https://www.reddit.com/r/ProgrammerHumor/comments/1uucu27/heissafe/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l015etiimmch1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zbecqft1asch1.png)
