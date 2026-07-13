@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatIfIToldYouThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1uv3tsh/whatifitoldyouthis/)
+[*youCanJustStopUsingJava*](https://www.reddit.com/r/ProgrammerHumor/comments/1uvez3w/youcanjuststopusingjava/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vx32ah511ych1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kc2vv32vn0dh1.png)
