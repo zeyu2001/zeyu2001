@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youCanJustStopUsingJava*](https://www.reddit.com/r/ProgrammerHumor/comments/1uvez3w/youcanjuststopusingjava/)
+[*signOfStroke*](https://www.reddit.com/r/ProgrammerHumor/comments/1uw7n9g/signofstroke/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kc2vv32vn0dh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/22a1o339y6dh1.png)
