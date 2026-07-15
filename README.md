@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theCliffOfCareerAdvancement*](https://www.reddit.com/r/ProgrammerHumor/comments/1uwueta/thecliffofcareeradvancement/)
+[*whenPolyglotProgrammingGoesHorriblyWrong*](https://www.reddit.com/r/ProgrammerHumor/comments/1ux60aq/whenpolyglotprogramminggoeshorriblywrong/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pq3qocfcdbdh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vge8xi8wbedh1.png)
