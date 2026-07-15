@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*signOfStroke*](https://www.reddit.com/r/ProgrammerHumor/comments/1uw7n9g/signofstroke/)
+[*theCliffOfCareerAdvancement*](https://www.reddit.com/r/ProgrammerHumor/comments/1uwueta/thecliffofcareeradvancement/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/22a1o339y6dh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pq3qocfcdbdh1.png)
