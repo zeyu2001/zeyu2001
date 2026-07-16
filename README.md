@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whenWeWillSeeSubscriptionForMarkdownFiles*](https://www.reddit.com/r/ProgrammerHumor/comments/1uxdf1f/whenwewillseesubscriptionformarkdownfiles/)
+[*candlelitDinnerIsNeedEmailBug*](https://www.reddit.com/r/ProgrammerHumor/comments/1uxwr2i/candlelitdinnerisneedemailbug/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ixw9covkmfdh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mzuehtpcxjdh1.png)
