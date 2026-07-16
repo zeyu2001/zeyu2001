@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whenPolyglotProgrammingGoesHorriblyWrong*](https://www.reddit.com/r/ProgrammerHumor/comments/1ux60aq/whenpolyglotprogramminggoeshorriblywrong/)
+[*whenWeWillSeeSubscriptionForMarkdownFiles*](https://www.reddit.com/r/ProgrammerHumor/comments/1uxdf1f/whenwewillseesubscriptionformarkdownfiles/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vge8xi8wbedh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ixw9covkmfdh1.png)
