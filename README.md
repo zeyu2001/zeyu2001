@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*unstoppableSlopMeetsImmovableCodeReview*](https://www.reddit.com/r/ProgrammerHumor/comments/1uyvhk7/unstoppableslopmeetsimmovablecodereview/)
+[*luke*](https://www.reddit.com/r/ProgrammerHumor/comments/1uyymqs/luke/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/b2lm9cdxkrdh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/h6i0l9uhcsdh1.png)
