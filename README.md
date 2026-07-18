@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*luke*](https://www.reddit.com/r/ProgrammerHumor/comments/1uyymqs/luke/)
+[*fabbledGeneratedMemeCauseThisShitMadeMeLoseAllMyWhishesToKeepUsingThePCTonight*](https://www.reddit.com/r/ProgrammerHumor/comments/1uzoi05/fabbledgeneratedmemecausethisshitmademeloseallmywh/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/h6i0l9uhcsdh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/58d4kt9qpxdh1.png)
