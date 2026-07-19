@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whateverHappenedToOpenSlawp*](https://www.reddit.com/r/ProgrammerHumor/comments/1v02gqt/whateverhappenedtoopenslawp/)
+[*worksForMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1v03q5j/worksforme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qx4tsayd01eh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qem2d67091eh1.png)
