@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*worksForMe*](https://www.reddit.com/r/ProgrammerHumor/comments/1v03q5j/worksforme/)
+[*aShortHorrorStory*](https://www.reddit.com/r/ProgrammerHumor/comments/1v0l97l/ashorthorrorstory/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qem2d67091eh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7x0z00pof5eh1.png)
