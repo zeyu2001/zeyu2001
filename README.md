@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisHitHomeALittleTooHard*](https://www.reddit.com/r/ProgrammerHumor/comments/1v1hhrl/thishithomealittletoohard/)
+[*windowsFundamentalsForLegacyPCs*](https://www.reddit.com/r/ProgrammerHumor/comments/1v1tmna/windowsfundamentalsforlegacypcs/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hckb9cvt1deh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7hvo7jzfgfeh1.png)
