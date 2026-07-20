@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sideProject*](https://www.reddit.com/r/ProgrammerHumor/comments/1v0whzc/sideproject/)
+[*thisHitHomeALittleTooHard*](https://www.reddit.com/r/ProgrammerHumor/comments/1v1hhrl/thishithomealittletoohard/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hdrecm0u08eh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hckb9cvt1deh1.png)
