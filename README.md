@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theNewbieAskingForHelpOnX*](https://www.reddit.com/r/ProgrammerHumor/comments/1v0ypen/thenewbieaskingforhelponx/)
+[*sideProject*](https://www.reddit.com/r/ProgrammerHumor/comments/1v0whzc/sideproject/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gvknmrjdg8eh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hdrecm0u08eh1.png)
