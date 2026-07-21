@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theJokeCompiled*](https://www.reddit.com/r/ProgrammerHumor/comments/1v1w78o/thejokecompiled/)
+[*notchVibing*](https://www.reddit.com/r/ProgrammerHumor/comments/1v2sodw/notchvibing/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0yt5fktxwfeh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dr79z7ivwmeh1.png)
