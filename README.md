@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theLifeAndTimesOfTheJvm*](https://www.reddit.com/r/ProgrammerHumor/comments/1v340hf/thelifeandtimesofthejvm/)
+[*developersOneCEOZero*](https://www.reddit.com/r/ProgrammerHumor/comments/1v3sqnf/developersoneceozero/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x817q5aa7peh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/oca0mh69gueh1.png)
