@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gitYeet*](https://www.reddit.com/r/ProgrammerHumor/comments/1v3kani/gityeet/)
+[*justAskItAndItGetsSoMuchFun*](https://www.reddit.com/r/ProgrammerHumor/comments/1v3zcrx/justaskitanditgetssomuchfun/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fkec8xl50teh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8jc5ruf5sveh1.png)
