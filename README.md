@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justAskItAndItGetsSoMuchFun*](https://www.reddit.com/r/ProgrammerHumor/comments/1v3zcrx/justaskitanditgetssomuchfun/)
+[*theBrainKnows*](https://www.reddit.com/r/ProgrammerHumor/comments/1v4ke16/thebrainknows/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8jc5ruf5sveh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/omshbtcrj0fh1.png)
