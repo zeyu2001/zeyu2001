@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theBrainKnows*](https://www.reddit.com/r/ProgrammerHumor/comments/1v4ke16/thebrainknows/)
+[*whenYourValidationLogicHatesRealPeople*](https://www.reddit.com/r/ProgrammerHumor/comments/1v5c378/whenyourvalidationlogichatesrealpeople/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/omshbtcrj0fh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/84w35luvn6fh1.png)
