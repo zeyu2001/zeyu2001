@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*currentStateOfAiRelevancy*](https://www.reddit.com/r/ProgrammerHumor/comments/1v5lwzn/currentstateofairelevancy/)
+[*modernSoftwareEngineering*](https://www.reddit.com/r/ProgrammerHumor/comments/1v5o5oa/modernsoftwareengineering/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rk5o5mo5e8fh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/upnnkvadt8fh1.png)
