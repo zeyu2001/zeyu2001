@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*alwaysHasBeen*](https://www.reddit.com/r/ProgrammerHumor/comments/1v5k4l1/alwayshasbeen/)
+[*currentStateOfAiRelevancy*](https://www.reddit.com/r/ProgrammerHumor/comments/1v5lwzn/currentstateofairelevancy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nhpuqu8g38fh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rk5o5mo5e8fh1.png)
