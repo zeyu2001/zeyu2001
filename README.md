@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*modernSoftwareEngineering*](https://www.reddit.com/r/ProgrammerHumor/comments/1v5o5oa/modernsoftwareengineering/)
+[*realityCheckNoCap*](https://www.reddit.com/r/ProgrammerHumor/comments/1v5q7tn/realitychecknocap/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/upnnkvadt8fh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qgdnzvgm79fh1.png)
