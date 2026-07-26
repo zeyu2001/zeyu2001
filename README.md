@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itIsTheLittleThingsInLife*](https://www.reddit.com/r/ProgrammerHumor/comments/1v5uvn3/itisthelittlethingsinlife/)
+[*programmerHorror*](https://www.reddit.com/r/ProgrammerHumor/comments/1v62712/programmerhorror/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1vuwvj148afh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/udcut4jh2cfh1.png)
