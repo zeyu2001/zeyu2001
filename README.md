@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*programmerHorror*](https://www.reddit.com/r/ProgrammerHumor/comments/1v62712/programmerhorror/)
+[*ture*](https://www.reddit.com/r/ProgrammerHumor/comments/1v6spa0/ture/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/udcut4jh2cfh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/klvp0re3xhfh1.png)
