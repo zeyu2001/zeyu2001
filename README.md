@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*refactorCode*](https://www.reddit.com/r/ProgrammerHumor/comments/1v78up9/refactorcode/)
+[*claudeJustGiveMeTheAnswer*](https://www.reddit.com/r/ProgrammerHumor/comments/1v7stvr/claudejustgivemetheanswer/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uubhyp9kqlfh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pngtm90a0qfh1.png)
