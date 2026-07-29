@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*redactOverflow*](https://www.reddit.com/r/ProgrammerHumor/comments/1v9kokx/redactoverflow/)
+[*packetLoss*](https://www.reddit.com/r/ProgrammerHumor/comments/1v9p25k/packetloss/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9oo443heb3gh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k2rhp0qtf4gh1.png)
