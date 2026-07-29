@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*zeroTickets*](https://www.reddit.com/r/ProgrammerHumor/comments/1v99ohg/zerotickets/)
+[*redactOverflow*](https://www.reddit.com/r/ProgrammerHumor/comments/1v9kokx/redactoverflow/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nrqibh0v11gh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9oo443heb3gh1.png)
