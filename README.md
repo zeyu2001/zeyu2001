@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*butItCanOpenTheBox*](https://www.reddit.com/r/ProgrammerHumor/comments/1vadjz9/butitcanopenthebox/)
+[*quickSideProject*](https://www.reddit.com/r/ProgrammerHumor/comments/1vah8lp/quicksideproject/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c0ucc3ctc9gh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ur93tvke6agh1.png)
