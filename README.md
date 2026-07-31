@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theDreadedEdgeCaseOfExactly85Percent*](https://www.reddit.com/r/ProgrammerHumor/comments/1vb5jbz/thedreadededgecaseofexactly85percent/)
+[*timeZonesYoureOnSight*](https://www.reddit.com/r/ProgrammerHumor/comments/1vbntco/timezonesyoureonsight/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hpjcxbkehfgh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rqzj3h30sjgh1.png)
