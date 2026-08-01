@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*timeZonesYoureOnSight*](https://www.reddit.com/r/ProgrammerHumor/comments/1vbntco/timezonesyoureonsight/)
+[*typicalRustaceanOriginStory*](https://www.reddit.com/r/ProgrammerHumor/comments/1vc1yxa/typicalrustaceanoriginstory/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rqzj3h30sjgh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3x6vrc71imgh1.png)
