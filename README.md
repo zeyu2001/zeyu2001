@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*animatePulseTheseNuts*](https://www.reddit.com/r/ProgrammerHumor/comments/1vchanw/animatepulsethesenuts/)
+[*linuxVsWindows*](https://www.reddit.com/r/ProgrammerHumor/comments/1vcqr0l/linuxvswindows/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cwisv5mk0qgh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tjra70xtasgh1.png)
