@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*crudThatBitch*](https://www.reddit.com/r/ProgrammerHumor/comments/1ve9xbz/crudthatbitch/)
+[*absoluteGarbage*](https://www.reddit.com/r/ProgrammerHumor/comments/1veql1a/absolutegarbage/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7m5wqfzr25hh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ovkfv3sz98hh1.png)
