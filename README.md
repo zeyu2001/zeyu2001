@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*absoluteGarbage*](https://www.reddit.com/r/ProgrammerHumor/comments/1veql1a/absolutegarbage/)
+[*vibeCodersOnReddit*](https://www.reddit.com/r/ProgrammerHumor/comments/1vf4w05/vibecodersonreddit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ovkfv3sz98hh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ps363z7lobhh1.png)
