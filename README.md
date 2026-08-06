@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*regexMustBeDestroyed*](https://www.reddit.com/r/ProgrammerHumor/comments/1vgahyh/regexmustbedestroyed/)
+[*godzillaIsBack*](https://www.reddit.com/r/ProgrammerHumor/comments/1vgp5uk/godzillaisback/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k7yv1y92rkhh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x70mu0r8hnhh1.png)
