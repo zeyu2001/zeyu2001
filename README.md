@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*noMeansNo*](https://www.reddit.com/r/ProgrammerHumor/comments/1vg8x6s/nomeansno/)
+[*regexMustBeDestroyed*](https://www.reddit.com/r/ProgrammerHumor/comments/1vgahyh/regexmustbedestroyed/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ed15e7hogkhh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k7yv1y92rkhh1.png)
