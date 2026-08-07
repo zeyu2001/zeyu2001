@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*uhmmmmAzing*](https://www.reddit.com/r/ProgrammerHumor/comments/1vgzkrh/uhmmmmazing/)
+[*soToughToAvoidAINowadays*](https://www.reddit.com/r/ProgrammerHumor/comments/1vhncer/sotoughtoavoidainowadays/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0cny2gjb6qhh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f5o1vy75zuhh1.png)
