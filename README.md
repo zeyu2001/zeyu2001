@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*partialContent*](https://www.reddit.com/r/ProgrammerHumor/comments/1vhih83/partialcontent/)
+[*putEverythingInAUSBAndMailItToAWS*](https://www.reddit.com/r/ProgrammerHumor/comments/1vi67w5/puteverythinginausbandmailittoaws/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kur222r3xthh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/eb5hrc8fhzhh1.png)
