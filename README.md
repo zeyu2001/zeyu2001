@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*craftingTheCodeWithFire*](https://www.reddit.com/r/ProgrammerHumor/comments/1vkfztv/craftingthecodewithfire/)
+[*returnGoodANDBad*](https://www.reddit.com/r/ProgrammerHumor/comments/1vktrlt/returngoodandbad/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ehl95kminiih1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/45ocxo4qglih1.png)
