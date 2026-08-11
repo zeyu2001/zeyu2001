@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*returnGoodANDBad*](https://www.reddit.com/r/ProgrammerHumor/comments/1vktrlt/returngoodandbad/)
+[*thePast6YearsHasYetToDeliverMeEnoughHype*](https://www.reddit.com/r/ProgrammerHumor/comments/1vku5zy/thepast6yearshasyettodelivermeenoughhype/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/45ocxo4qglih1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sap9m0vajlih1.png)
