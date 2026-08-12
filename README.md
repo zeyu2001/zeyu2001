@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*puGtmStrategyLite*](https://www.reddit.com/r/ProgrammerHumor/comments/1vlpsjt/pugtmstrategylite/)
+[*aNormalDayInTheIDE*](https://www.reddit.com/r/ProgrammerHumor/comments/1vm1iy4/anormaldayintheide/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pwyb4pghhsih1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4lnlo8c1uuih1.png)
