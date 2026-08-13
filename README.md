@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theOnlyBugFreeDeploymentStrategy*](https://www.reddit.com/r/ProgrammerHumor/comments/1vmtnqc/theonlybugfreedeploymentstrategy/)
+[*factOfTheDay*](https://www.reddit.com/r/ProgrammerHumor/comments/1vnpita/factoftheday/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ehfbtl6zy0jh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/waxxwn8zs7jh1.png)
