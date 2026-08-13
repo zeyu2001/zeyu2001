@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aNormalDayInTheIDE*](https://www.reddit.com/r/ProgrammerHumor/comments/1vm1iy4/anormaldayintheide/)
+[*displayFlexJustifyContentCry*](https://www.reddit.com/r/ProgrammerHumor/comments/1vmc5u4/displayflexjustifycontentcry/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4lnlo8c1uuih1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/g9tkso6moxih1.png)
