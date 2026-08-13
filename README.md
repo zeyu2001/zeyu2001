@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*displayFlexJustifyContentCry*](https://www.reddit.com/r/ProgrammerHumor/comments/1vmc5u4/displayflexjustifycontentcry/)
+[*theOnlyBugFreeDeploymentStrategy*](https://www.reddit.com/r/ProgrammerHumor/comments/1vmtnqc/theonlybugfreedeploymentstrategy/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/g9tkso6moxih1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ehfbtl6zy0jh1.png)
