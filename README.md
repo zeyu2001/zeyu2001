@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*noExperience*](https://www.reddit.com/r/ProgrammerHumor/comments/1vo151i/noexperience/)
+[*claudeSaidItSoItMustBeTrue*](https://www.reddit.com/r/ProgrammerHumor/comments/1vo3dlx/claudesaiditsoitmustbetrue/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/77ygowt0tajh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vfb0ht8sgbjh1.png)
