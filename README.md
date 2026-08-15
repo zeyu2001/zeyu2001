@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*claudeSaidItSoItMustBeTrue*](https://www.reddit.com/r/ProgrammerHumor/comments/1vo3dlx/claudesaiditsoitmustbetrue/)
+[*heWasRightThoughAndTheyKnewIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1vo6hfv/hewasrightthoughandtheyknewit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vfb0ht8sgbjh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l45q4km18cjh1.png)
