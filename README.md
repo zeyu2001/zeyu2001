@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*heWasRightThoughAndTheyKnewIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1vo6hfv/hewasrightthoughandtheyknewit/)
+[*gitClone*](https://www.reddit.com/r/ProgrammerHumor/comments/1voubzg/gitclone/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l45q4km18cjh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/r4ucara46hjh1.png)
