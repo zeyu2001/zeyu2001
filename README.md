@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*driveFasterProjectManager*](https://www.reddit.com/r/ProgrammerHumor/comments/1vpbst1/drivefasterprojectmanager/)
+[*tacticalDownTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1vprdcj/tacticaldowntime/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jw8qtz9qbljh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0oszop4u3pjh1.png)
