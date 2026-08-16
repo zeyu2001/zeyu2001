@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gitClone*](https://www.reddit.com/r/ProgrammerHumor/comments/1voubzg/gitclone/)
+[*driveFasterProjectManager*](https://www.reddit.com/r/ProgrammerHumor/comments/1vpbst1/drivefasterprojectmanager/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/r4ucara46hjh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jw8qtz9qbljh1.png)
