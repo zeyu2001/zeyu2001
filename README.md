@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*tacticalDownTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1vprdcj/tacticaldowntime/)
+[*aiCodesHumanOwns*](https://www.reddit.com/r/ProgrammerHumor/comments/1vpxlzy/aicodeshumanowns/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0oszop4u3pjh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v4rnocg6sqjh1.png)
