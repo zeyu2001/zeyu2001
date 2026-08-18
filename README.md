@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lowkeyKindaMissTheOldDaysTbh*](https://www.reddit.com/r/ProgrammerHumor/comments/1vquq6r/lowkeykindamisstheolddaystbh/)
+[*basedOnATrueStory*](https://www.reddit.com/r/ProgrammerHumor/comments/1vqy6q3/basedonatruestory/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jx3h05j89yjh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m7ff97pdwyjh1.png)
