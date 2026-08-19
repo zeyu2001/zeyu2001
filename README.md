@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*notMineStoleItFromRMemes*](https://www.reddit.com/r/ProgrammerHumor/comments/1vrvvfk/notminestoleitfromrmemes/)
+[*jealousyDrivenDevelopment*](https://www.reddit.com/r/ProgrammerHumor/comments/1vs8upl/jealousydrivendevelopment/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dc2sr42g46kh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s7wni25pm8kh1.png)
