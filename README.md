@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iAmASailor*](https://www.reddit.com/r/ProgrammerHumor/comments/1vsjipd/iamasailor/)
+[*loopThoseAgentsHarderTillYouDebug*](https://www.reddit.com/r/ProgrammerHumor/comments/1vsl2y1/loopthoseagentshardertillyoudebug/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bvzg91tkfbkh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/88hcdxmbsbkh1.png)
