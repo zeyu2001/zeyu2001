@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sureSlotMachinesArentAddictive*](https://www.reddit.com/r/ProgrammerHumor/comments/1vufkzv/sureslotmachinesarentaddictive/)
+[*jQueryDeezNutsAndThenReactSurprised*](https://www.reddit.com/r/ProgrammerHumor/comments/1vu52ut/jquerydeeznutsandthenreactsurprised/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/toksw1yq6qkh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/33qyvtmuenkh1.png)
