@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*jQueryDeezNutsAndThenReactSurprised*](https://www.reddit.com/r/ProgrammerHumor/comments/1vu52ut/jquerydeeznutsandthenreactsurprised/)
+[*delusionalDeveloper*](https://www.reddit.com/r/ProgrammerHumor/comments/1vuqljw/delusionaldeveloper/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/33qyvtmuenkh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mqoe77xz7skh1.png)
