@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theBoolVectorIsALie*](https://www.reddit.com/r/ProgrammerHumor/comments/1vvl45z/theboolvectorisalie/)
+[*whenTheyAskMeToBuildAFullStackAppWithNotepad*](https://www.reddit.com/r/ProgrammerHumor/comments/1vw7l8t/whentheyaskmetobuildafullstackappwithnotepad/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uvn55cu17zkh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uaw4bahdp4lh1.png)
