@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*conditionsPreference*](https://www.reddit.com/r/ProgrammerHumor/comments/1vuzd4q/conditionspreference/)
+[*theBoolVectorIsALie*](https://www.reddit.com/r/ProgrammerHumor/comments/1vvl45z/theboolvectorisalie/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wj6as33z1ukh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uvn55cu17zkh1.png)
