@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whenTheyAskMeToBuildAFullStackAppWithNotepad*](https://www.reddit.com/r/ProgrammerHumor/comments/1vw7l8t/whentheyaskmetobuildafullstackappwithnotepad/)
+[*claudeIsThisEmailValid*](https://www.reddit.com/r/ProgrammerHumor/comments/1vx1onc/claudeisthisemailvalid/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uaw4bahdp4lh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/94e4bxdwiblh1.png)
