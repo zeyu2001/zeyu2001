@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*claudeIsThisEmailValid*](https://www.reddit.com/r/ProgrammerHumor/comments/1vx1onc/claudeisthisemailvalid/)
+[*wieldTheSword*](https://www.reddit.com/r/ProgrammerHumor/comments/1vx1zux/wieldthesword/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/94e4bxdwiblh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1jz3nsd2lblh1.png)
