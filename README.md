@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*wieldTheSword*](https://www.reddit.com/r/ProgrammerHumor/comments/1vx1zux/wieldthesword/)
+[*youNeverStopLearningInTech*](https://www.reddit.com/r/ProgrammerHumor/comments/1vxuyp5/youneverstoplearningintech/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1jz3nsd2lblh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p4u6rul5qhlh1.png)
