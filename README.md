@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youNeverStopLearningInTech*](https://www.reddit.com/r/ProgrammerHumor/comments/1vxuyp5/youneverstoplearningintech/)
+[*everyRepoWithSuspiciouslyGreatCodeQuality*](https://www.reddit.com/r/ProgrammerHumor/comments/1vxzoeu/everyrepowithsuspiciouslygreatcodequality/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p4u6rul5qhlh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ulgovlsluilh1.png)
