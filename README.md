@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*anOldScreenshot*](https://www.reddit.com/r/ProgrammerHumor/comments/1vymdnl/anoldscreenshot/)
+[*lookAtMeIAmASeniorDevNow*](https://www.reddit.com/r/ProgrammerHumor/comments/1vyxaid/lookatmeiamaseniordevnow/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ulhpf3e69nlh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ku1qljcc2qlh1.png)
