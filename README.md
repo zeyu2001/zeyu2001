@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*lookAtMeIAmASeniorDevNow*](https://www.reddit.com/r/ProgrammerHumor/comments/1vyxaid/lookatmeiamaseniordevnow/)
+[*noWayISpentThatMuchStaringAtScreen*](https://www.reddit.com/r/ProgrammerHumor/comments/1vzvpqw/nowayispentthatmuchstaringatscreen/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ku1qljcc2qlh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z8qxg3hnhxlh1.png)
