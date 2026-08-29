@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*suddenlyIamITSupport*](https://www.reddit.com/r/ProgrammerHumor/comments/1w0z4aj/suddenlyiamitsupport/)
+[*whenDoesThisWillEnd*](https://www.reddit.com/r/ProgrammerHumor/comments/1w1o9k7/whendoesthiswillend/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lkrjhp9lv5mh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vp6wp32msbmh1.png)
