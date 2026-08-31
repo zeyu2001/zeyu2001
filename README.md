@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ancientTools*](https://www.reddit.com/r/ProgrammerHumor/comments/1w2d5fw/ancienttools/)
+[*goodOldDays*](https://www.reddit.com/r/ProgrammerHumor/comments/1w35pqa/goodolddays/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ybzdy9mhghmh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sej5uv9sonmh1.png)
