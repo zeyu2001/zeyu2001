@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*goodOldDays*](https://www.reddit.com/r/ProgrammerHumor/comments/1w35pqa/goodolddays/)
+[*shippedFastFixNever*](https://www.reddit.com/r/ProgrammerHumor/comments/1w3bh6o/shippedfastfixnever/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sej5uv9sonmh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/h3r5ca1c8pmh1.png)
