@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*perishableSkill*](https://www.reddit.com/r/ProgrammerHumor/comments/1w5bs6g/perishableskill/)
+[*newCompressionTechnique*](https://www.reddit.com/r/ProgrammerHumor/comments/1w5l8b3/newcompressiontechnique/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0prpmqty84nh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wkaxznkmw5nh1.png)
