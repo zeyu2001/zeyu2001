@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*youAreAbsolutelyCorrect*](https://www.reddit.com/r/ProgrammerHumor/comments/1w4jein/youareabsolutelycorrect/)
+[*perishableSkill*](https://www.reddit.com/r/ProgrammerHumor/comments/1w5bs6g/perishableskill/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3toja5ik5ymh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0prpmqty84nh1.png)
