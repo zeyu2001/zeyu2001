@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*newCompressionTechnique*](https://www.reddit.com/r/ProgrammerHumor/comments/1w5l8b3/newcompressiontechnique/)
+[*whatsYourBetterThanSex*](https://www.reddit.com/r/ProgrammerHumor/comments/1w6312a/whatsyourbetterthansex/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wkaxznkmw5nh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2wsloc8k3anh1.png)
