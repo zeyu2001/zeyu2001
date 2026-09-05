@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*everyDamnTime*](https://www.reddit.com/r/ProgrammerHumor/comments/1w6wd8p/everydamntime/)
+[*cantReallyThinkOfACleverCaption*](https://www.reddit.com/r/ProgrammerHumor/comments/1w75y8z/cantreallythinkofaclevercaption/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hcashhb26gnh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/79dps0zxjinh1.png)
