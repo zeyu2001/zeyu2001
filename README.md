@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cantReallyThinkOfACleverCaption*](https://www.reddit.com/r/ProgrammerHumor/comments/1w75y8z/cantreallythinkofaclevercaption/)
+[*stackoverflowwassotoxic*](https://www.reddit.com/r/ProgrammerHumor/comments/1w7kq7q/stackoverflowwassotoxic/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/79dps0zxjinh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l6ztn8hsalnh1.png)
