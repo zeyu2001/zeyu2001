@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*imagineYourProductBeingACaregoryOnPornhub*](https://www.reddit.com/r/ProgrammerHumor/comments/1w87i2w/imagineyourproductbeingacaregoryonpornhub/)
+[*asADeveloperILoveOnlyfans*](https://www.reddit.com/r/ProgrammerHumor/comments/1w8mqci/asadeveloperiloveonlyfans/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1z4i3i8fpqnh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lxoqpb7v0unh1.png)
