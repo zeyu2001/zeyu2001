@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*asADeveloperILoveOnlyfans*](https://www.reddit.com/r/ProgrammerHumor/comments/1w8mqci/asadeveloperiloveonlyfans/)
+[*almostEverythingIsARepost*](https://www.reddit.com/r/ProgrammerHumor/comments/1w93ss6/almosteverythingisarepost/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lxoqpb7v0unh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/70tcrtyczxnh1.png)
