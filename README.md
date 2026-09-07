@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*almostEverythingIsARepost*](https://www.reddit.com/r/ProgrammerHumor/comments/1w93ss6/almosteverythingisarepost/)
+[*theKidShouldBeAProgrammer*](https://www.reddit.com/r/ProgrammerHumor/comments/1w9y6xi/thekidshouldbeaprogrammer/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/70tcrtyczxnh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xnap2puus4oh1.png)
