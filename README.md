@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theKidShouldBeAProgrammer*](https://www.reddit.com/r/ProgrammerHumor/comments/1w9y6xi/thekidshouldbeaprogrammer/)
+[*gitHubWithoutGit*](https://www.reddit.com/r/ProgrammerHumor/comments/1w9mogu/githubwithoutgit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xnap2puus4oh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/h2sml1n0a2oh1.png)
