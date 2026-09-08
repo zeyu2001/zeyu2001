@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gitHubWithoutGit*](https://www.reddit.com/r/ProgrammerHumor/comments/1w9mogu/githubwithoutgit/)
+[*writesMoreBugsBottom*](https://www.reddit.com/r/ProgrammerHumor/comments/1wahw3s/writesmorebugsbottom/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/h2sml1n0a2oh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pr7ffmzs49oh1.png)
