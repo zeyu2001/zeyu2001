@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*economyCrashIsComing*](https://www.reddit.com/r/ProgrammerHumor/comments/1wbj114/economycrashiscoming/)
+[*aMillionOpenAIMonkeysProduceMilleniumPrizeSolution*](https://www.reddit.com/r/ProgrammerHumor/comments/1wbjluo/amillionopenaimonkeysproducemilleniumprizesolution/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6a9nsqqddhoh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n29kq77hihoh1.png)
