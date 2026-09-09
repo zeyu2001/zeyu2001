@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*catsImproveEverything*](https://www.reddit.com/r/ProgrammerHumor/comments/1wb7pgl/catsimproveeverything/)
+[*economyCrashIsComing*](https://www.reddit.com/r/ProgrammerHumor/comments/1wbj114/economycrashiscoming/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/g5lm7pwqeeoh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6a9nsqqddhoh1.png)
