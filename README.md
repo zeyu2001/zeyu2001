@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*globalHate*](https://www.reddit.com/r/ProgrammerHumor/comments/1wbyjqq/globalhate/)
+[*theresAlwaysMath*](https://www.reddit.com/r/ProgrammerHumor/comments/1wcpuv0/theresalwaysmath/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6wcao5m19koh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/94clrflcaqoh1.png)
