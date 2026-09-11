@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theresAlwaysMath*](https://www.reddit.com/r/ProgrammerHumor/comments/1wcpuv0/theresalwaysmath/)
+[*justOpenAPullRequestTheySaid*](https://www.reddit.com/r/ProgrammerHumor/comments/1wd0i0d/justopenapullrequesttheysaid/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/94clrflcaqoh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9hltj1ll9soh1.png)
