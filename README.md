@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justOpenAPullRequestTheySaid*](https://www.reddit.com/r/ProgrammerHumor/comments/1wd0i0d/justopenapullrequesttheysaid/)
+[*getMessagesForClient*](https://www.reddit.com/r/ProgrammerHumor/comments/1wdlxez/getmessagesforclient/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9hltj1ll9soh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vvwpcrb69xoh1.png)
