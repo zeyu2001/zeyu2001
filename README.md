@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*unsolvableProblemsOnStepOne*](https://www.reddit.com/r/ProgrammerHumor/comments/1wepjkv/unsolvableproblemsonstepone/)
+[*gimmeGimmeGimmeAManAfterMidniiiiiiiiigght*](https://www.reddit.com/r/ProgrammerHumor/comments/1wfg7lf/gimmegimmegimmeamanaftermidniiiiiiiiigght/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j229cht9v5ph1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s47pnwfn3cph1.png)
