@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*sudoClaude*](https://www.reddit.com/r/ProgrammerHumor/comments/1web1w1/sudoclaude/)
+[*unsolvableProblemsOnStepOne*](https://www.reddit.com/r/ProgrammerHumor/comments/1wepjkv/unsolvableproblemsonstepone/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5jqga4lkz2ph1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j229cht9v5ph1.png)
