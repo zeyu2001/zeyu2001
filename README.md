@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*betterThanDarkSouls*](https://www.reddit.com/r/ProgrammerHumor/comments/1whgesc/betterthandarksouls/)
+[*regexMoment*](https://www.reddit.com/r/ProgrammerHumor/comments/1wh6gpd/regexmoment/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dj9rzdm2qrph1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vgytvlcgvpph1.png)
