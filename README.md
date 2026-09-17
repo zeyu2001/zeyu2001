@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pythonDevWhenYouAskThemToLearnJava*](https://www.reddit.com/r/ProgrammerHumor/comments/1whvtg4/pythondevwhenyouaskthemtolearnjava/)
+[*accelarateAiNativeBrrrrOrThrow*](https://www.reddit.com/r/ProgrammerHumor/comments/1widh45/accelarateainativebrrrrorthrow/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/la99ogkklvph1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pp7bhqu0wyph1.png)
