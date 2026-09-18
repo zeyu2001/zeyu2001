@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*softwareFactory*](https://www.reddit.com/r/ProgrammerHumor/comments/1wj0iz9/softwarefactory/)
+[*humanInTheLoopWaitingForTheNextButtonPress*](https://www.reddit.com/r/ProgrammerHumor/comments/1wja8f4/humanintheloopwaitingforthenextbuttonpress/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/71auyt5n84qh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ziirfsbk36qh1.png)
