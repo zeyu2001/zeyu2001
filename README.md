@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theCircleOfPRReviews*](https://www.reddit.com/r/ProgrammerHumor/comments/1wjzlfd/thecircleofprreviews/)
+[*itRunsOnMyLocalhost*](https://www.reddit.com/r/ProgrammerHumor/comments/1wkymgm/itrunsonmylocalhost/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zstuo2gdwbqh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hgvz0r4urjqh1.png)
