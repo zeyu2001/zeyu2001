@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*successfulFailure*](https://www.reddit.com/r/ProgrammerHumor/comments/1wlr46f/successfulfailure/)
+[*weAreAllTryingToFindTheGuyWhoDidThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1wma1p2/wearealltryingtofindtheguywhodidthis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/twokj40edqqh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7gwh7cpryuqh1.png)
