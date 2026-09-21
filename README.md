@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*tryingToReproduceBug*](https://www.reddit.com/r/ProgrammerHumor/comments/1wlhmda/tryingtoreproducebug/)
+[*successfulFailure*](https://www.reddit.com/r/ProgrammerHumor/comments/1wlr46f/successfulfailure/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/v7wcjhirioqh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/twokj40edqqh1.png)
