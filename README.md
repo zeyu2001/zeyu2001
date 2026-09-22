@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*myCodeIsConfusing*](https://www.reddit.com/r/ProgrammerHumor/comments/1wmlf9h/mycodeisconfusing/)
+[*status200ForEverything*](https://www.reddit.com/r/ProgrammerHumor/comments/1wni2vt/status200foreverything/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ia2mlmto4xqh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i26uu0x0a4rh1.png)
