@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*theyWereNotLazy*](https://www.reddit.com/r/ProgrammerHumor/comments/1wmf6lp/theywerenotlazy/)
+[*myCodeIsConfusing*](https://www.reddit.com/r/ProgrammerHumor/comments/1wmlf9h/mycodeisconfusing/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zeprxr0lopqh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ia2mlmto4xqh1.png)
