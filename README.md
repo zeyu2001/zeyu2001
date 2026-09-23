@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*status200ForEverything*](https://www.reddit.com/r/ProgrammerHumor/comments/1wni2vt/status200foreverything/)
+[*harryPotterAndSecretsOfIAMPolicies*](https://www.reddit.com/r/ProgrammerHumor/comments/1wnso7r/harrypotterandsecretsofiampolicies/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/i26uu0x0a4rh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f2cco3t0e6rh1.png)
