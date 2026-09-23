@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*harryPotterAndSecretsOfIAMPolicies*](https://www.reddit.com/r/ProgrammerHumor/comments/1wnso7r/harrypotterandsecretsofiampolicies/)
+[*howToSneakUnderCompiler*](https://www.reddit.com/r/ProgrammerHumor/comments/1wo3rxb/howtosneakundercompiler/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/f2cco3t0e6rh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8s382nw1d9rh1.png)
