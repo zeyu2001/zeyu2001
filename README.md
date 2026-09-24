@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howToSneakUnderCompiler*](https://www.reddit.com/r/ProgrammerHumor/comments/1wo3rxb/howtosneakundercompiler/)
+[*ohToBeYoungAndWritingUnoptimalCodeThatBrokeProd*](https://www.reddit.com/r/ProgrammerHumor/comments/1wov9r8/ohtobeyoungandwritingunoptimalcodethatbrokeprod/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8s382nw1d9rh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jgr8j4yz8frh1.png)
