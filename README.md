@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ohToBeYoungAndWritingUnoptimalCodeThatBrokeProd*](https://www.reddit.com/r/ProgrammerHumor/comments/1wov9r8/ohtobeyoungandwritingunoptimalcodethatbrokeprod/)
+[*justWriteTheFiveLinesToBuildTheProjectForTheLoveOfGod*](https://www.reddit.com/r/ProgrammerHumor/comments/1wp2ff7/justwritethefivelinestobuildtheprojectfortheloveof/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jgr8j4yz8frh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4iqw0dt95hrh1.png)
