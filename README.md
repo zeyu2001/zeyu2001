@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*commitAndPray*](https://www.reddit.com/r/ProgrammerHumor/comments/1wp8ris/commitandpray/)
+[*iHatedItUntilITriedIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1wpw10f/ihatedituntilitriedit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/52en0mr1cirh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/csq99r6x1orh1.png)
