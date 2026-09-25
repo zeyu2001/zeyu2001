@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justWriteTheFiveLinesToBuildTheProjectForTheLoveOfGod*](https://www.reddit.com/r/ProgrammerHumor/comments/1wp2ff7/justwritethefivelinestobuildtheprojectfortheloveof/)
+[*commitAndPray*](https://www.reddit.com/r/ProgrammerHumor/comments/1wp8ris/commitandpray/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4iqw0dt95hrh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/52en0mr1cirh1.png)
