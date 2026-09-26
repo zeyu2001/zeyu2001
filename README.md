@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*takesTwoSecondsToOpenPaint*](https://www.reddit.com/r/ProgrammerHumor/comments/1wq7nbh/takestwosecondstoopenpaint/)
+[*ofCourseIWouldNeverClickThat*](https://www.reddit.com/r/ProgrammerHumor/comments/1wqxguh/ofcourseiwouldneverclickthat/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/krkf96t8cqrh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kfuj35drowrh1.png)
