@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*iHatedItUntilITriedIt*](https://www.reddit.com/r/ProgrammerHumor/comments/1wpw10f/ihatedituntilitriedit/)
+[*takesTwoSecondsToOpenPaint*](https://www.reddit.com/r/ProgrammerHumor/comments/1wq7nbh/takestwosecondstoopenpaint/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/csq99r6x1orh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/krkf96t8cqrh1.png)
