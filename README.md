@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ofCourseIWouldNeverClickThat*](https://www.reddit.com/r/ProgrammerHumor/comments/1wqxguh/ofcourseiwouldneverclickthat/)
+[*programmerHumorIsTooSerious*](https://www.reddit.com/r/ProgrammerHumor/comments/1wquqrf/programmerhumoristooserious/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kfuj35drowrh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xvm6vudw4wrh1.png)
