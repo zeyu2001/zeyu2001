@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*everyRenderPathLeadsToThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1wr55by/everyrenderpathleadstothis/)
+[*optionalsAreOptional*](https://www.reddit.com/r/ProgrammerHumor/comments/1ws0bt0/optionalsareoptional/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1gy7hy43ayrh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y31h99qoo5sh1.png)
