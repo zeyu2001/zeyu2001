@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*haveYouTriedUsingRustYet*](https://www.reddit.com/r/ProgrammerHumor/comments/1wsm7qf/haveyoutriedusingrustyet/)
+[*itDoBeLikeThat*](https://www.reddit.com/r/ProgrammerHumor/comments/1wt93rq/itdobelikethat/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m9ot3na4yash1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s5zixnenfgsh1.png)
