@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*developersMissingTheOldDays*](https://www.reddit.com/r/ProgrammerHumor/comments/1wue2hw/developersmissingtheolddays/)
+[*youLostMeAtDoublyLinkedLists*](https://www.reddit.com/r/ProgrammerHumor/comments/1wumnle/youlostmeatdoublylinkedlists/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q928fmjmjpsh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/a76qx4atdrsh1.png)
