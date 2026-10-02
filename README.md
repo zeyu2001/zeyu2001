@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*goodVibesOnly*](https://www.reddit.com/r/ProgrammerHumor/comments/1wv1ppx/goodvibesonly/)
+[*oldSchoolRuneSpaghetti*](https://www.reddit.com/r/ProgrammerHumor/comments/1wvm6ph/oldschoolrunespaghetti/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/400y59rhevsh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5lns8petvzsh1.png)
