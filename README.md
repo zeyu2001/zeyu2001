@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ultimateDeveloperFlex*](https://www.reddit.com/r/ProgrammerHumor/comments/1wwgs8l/ultimatedeveloperflex/)
+[*rocketEmoji*](https://www.reddit.com/r/ProgrammerHumor/comments/1wwzw20/rocketemoji/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kyg2bclvb7th1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vkv2blexwbth1.png)
