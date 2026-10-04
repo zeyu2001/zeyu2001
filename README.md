@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*rocketEmoji*](https://www.reddit.com/r/ProgrammerHumor/comments/1wwzw20/rocketemoji/)
+[*architectureDependentChars*](https://www.reddit.com/r/ProgrammerHumor/comments/1wxqahk/architecturedependentchars/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vkv2blexwbth1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vl8rhvx1kith1.png)
