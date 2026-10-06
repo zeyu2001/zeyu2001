@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*objectOrientedRat*](https://www.reddit.com/r/ProgrammerHumor/comments/1wy5lsy/objectorientedrat/)
+[*commitAnywayAndPush*](https://www.reddit.com/r/ProgrammerHumor/comments/1wy9rjk/commitanywayandpush/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vvxip00drmth1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/oxm4jotmqnth1.png)
