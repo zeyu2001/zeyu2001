@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*abideTheRulesIncidentCanWait*](https://www.reddit.com/r/ProgrammerHumor/comments/1wyw343/abidetherulesincidentcanwait/)
+[*europeFinallyTakesTheLead*](https://www.reddit.com/r/ProgrammerHumor/comments/1wze9c8/europefinallytakesthelead/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qljc19fnqsth1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v2qgjewvvwth1.png)
