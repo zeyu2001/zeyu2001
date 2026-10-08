@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*aiIsVeryBad*](https://www.reddit.com/r/ProgrammerHumor/comments/1wzvs47/aiisverybad/)
+[*onlyOnX86LegacyBootTho*](https://www.reddit.com/r/ProgrammerHumor/comments/1x06mt7/onlyonx86legacyboottho/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ql3l375gl1uh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/986caa44q3uh1.png)
