@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*onlyOnX86LegacyBootTho*](https://www.reddit.com/r/ProgrammerHumor/comments/1x06mt7/onlyonx86legacyboottho/)
+[*beingAProgrammerIn2026*](https://www.reddit.com/r/ProgrammerHumor/comments/1x0q9qf/beingaprogrammerin2026/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/986caa44q3uh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xyhp3k06r8uh1.png)
