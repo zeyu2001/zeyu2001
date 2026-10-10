@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*edgeComputing*](https://www.reddit.com/r/ProgrammerHumor/comments/1x1mes4/edgecomputing/)
+[*whatHappensToJohn*](https://www.reddit.com/r/ProgrammerHumor/comments/1x1zy7f/whathappenstojohn/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6oztbupy8guh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/888pbh83yiuh1.png)
