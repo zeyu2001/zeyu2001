@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whatHappensToJohn*](https://www.reddit.com/r/ProgrammerHumor/comments/1x1zy7f/whathappenstojohn/)
+[*readmeEngineer*](https://www.reddit.com/r/ProgrammerHumor/comments/1x2fnj3/readmeengineer/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/888pbh83yiuh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/laazekj28nuh1.png)
