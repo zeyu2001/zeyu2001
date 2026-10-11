@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*permissionDenied*](https://www.reddit.com/r/ProgrammerHumor/comments/1x2s3a0/permissiondenied/)
+[*justHopingYouModsLikeThisMeme*](https://www.reddit.com/r/ProgrammerHumor/comments/1x2smab/justhopingyoumodslikethismeme/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x6rgjle4wpuh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/szbr7s5o0quh1.png)
