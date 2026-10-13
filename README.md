@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*vibeCodeMasterClass*](https://www.reddit.com/r/ProgrammerHumor/comments/1x3uk6g/vibecodemasterclass/)
+[*chaoticEvil*](https://www.reddit.com/r/ProgrammerHumor/comments/1x4o2ed/chaoticevil/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/akbu2plodzuh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zorywzuj46vh1.png)
