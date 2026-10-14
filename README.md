@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howProgrammingHasChanged*](https://www.reddit.com/r/ProgrammerHumor/comments/1x58u7b/howprogramminghaschanged/)
+[*whyEvenAsk*](https://www.reddit.com/r/ProgrammerHumor/comments/1x5zsip/whyevenask/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y90xrjp7vavh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/intet74hchvh1.png)
