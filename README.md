@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*shitMyManagerDidForADecade*](https://www.reddit.com/r/ProgrammerHumor/comments/1x4yy8q/shitmymanagerdidforadecade/)
+[*howProgrammingHasChanged*](https://www.reddit.com/r/ProgrammerHumor/comments/1x58u7b/howprogramminghaschanged/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/r2taa2f519vh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y90xrjp7vavh1.png)
