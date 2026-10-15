@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whyEvenAsk*](https://www.reddit.com/r/ProgrammerHumor/comments/1x5zsip/whyevenask/)
+[*iDidAMuchBetterLauncherThanTheEpicOne*](https://www.reddit.com/r/ProgrammerHumor/comments/1x6i54l/ididamuchbetterlauncherthantheepicone/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/intet74hchvh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2iddmcmuylvh1.png)
