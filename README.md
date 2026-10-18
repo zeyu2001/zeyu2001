@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*summonDaddyDeepseek*](https://www.reddit.com/r/ProgrammerHumor/comments/1x859tu/summondaddydeepseek/)
+[*thatsAFunnyThingThatHappenedOnce*](https://www.reddit.com/r/ProgrammerHumor/comments/1x8mvpc/thatsafunnythingthathappenedonce/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/s90nxse7qzvh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c151sfyfr3wh1.png)
