@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thatsAFunnyThingThatHappenedOnce*](https://www.reddit.com/r/ProgrammerHumor/comments/1x8mvpc/thatsafunnythingthathappenedonce/)
+[*forThoseTransitioningToTheAmericanTimeFormatHereIsASimpleScript*](https://www.reddit.com/r/ProgrammerHumor/comments/1x8unz2/forthosetransitioningtotheamericantimeformathereis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c151sfyfr3wh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fyr7f2gfr5wh1.png)
