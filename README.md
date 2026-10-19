@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*towerOfBraces*](https://www.reddit.com/r/ProgrammerHumor/comments/1x95vav/towerofbraces/)
+[*javaClassesOnASingleLine*](https://www.reddit.com/r/ProgrammerHumor/comments/1x9pkxj/javaclassesonasingleline/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/azw9f512u8wh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fh64txf6ddwh1.png)
