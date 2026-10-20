@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ohTheBasics*](https://www.reddit.com/r/ProgrammerHumor/comments/1xa3pdb/ohthebasics/)
+[*codeExpropriation*](https://www.reddit.com/r/ProgrammerHumor/comments/1xaaxkl/codeexpropriation/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jocudvqpogwh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hsakflvy0iwh1.png)
