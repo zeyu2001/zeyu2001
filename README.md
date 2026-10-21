@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*kindOfPersonThatSaysRealDevsDontUsePHP*](https://www.reddit.com/r/ProgrammerHumor/comments/1xb5dkz/kindofpersonthatsaysrealdevsdontusephp/)
+[*managementShallKnowPain*](https://www.reddit.com/r/ProgrammerHumor/comments/1xbbese/managementshallknowpain/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5uzhrcin1pwh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k3pagysgfqwh1.png)
