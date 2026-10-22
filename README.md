@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*managementShallKnowPain*](https://www.reddit.com/r/ProgrammerHumor/comments/1xbbese/managementshallknowpain/)
+[*alwaysLoveAGoodRCEVuln*](https://www.reddit.com/r/ProgrammerHumor/comments/1xbsigd/alwaysloveagoodrcevuln/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k3pagysgfqwh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dou3bro8ouwh1.png)
