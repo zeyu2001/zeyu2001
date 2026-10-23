@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*octoberOnCallRotation*](https://www.reddit.com/r/ProgrammerHumor/comments/1xcobxh/octoberoncallrotation/)
+[*wePatchInProduction*](https://www.reddit.com/r/ProgrammerHumor/comments/1xcti1a/wepatchinproduction/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q6bjt61vv1xh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gn6kucvlt2xh1.png)
