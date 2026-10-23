@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*wePatchInProduction*](https://www.reddit.com/r/ProgrammerHumor/comments/1xcti1a/wepatchinproduction/)
+[*privateKey*](https://www.reddit.com/r/ProgrammerHumor/comments/1xdkk64/privatekey/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gn6kucvlt2xh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qiqb66bz59xh1.png)
