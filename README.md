@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*privateKey*](https://www.reddit.com/r/ProgrammerHumor/comments/1xdkk64/privatekey/)
+[*enoughAboutTheIfletsDiscussAboutWereIsItThatYouPutTheElse*](https://www.reddit.com/r/ProgrammerHumor/comments/1xdn951/enoughabouttheifletsdiscussaboutwereisitthatyouput/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qiqb66bz59xh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3v9e5mrtn9xh1.png)
