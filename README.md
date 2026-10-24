@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*enoughAboutTheIfletsDiscussAboutWereIsItThatYouPutTheElse*](https://www.reddit.com/r/ProgrammerHumor/comments/1xdn951/enoughabouttheifletsdiscussaboutwereisitthatyouput/)
+[*ePseudorandom*](https://www.reddit.com/r/ProgrammerHumor/comments/1xdzsa1/epseudorandom/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3v9e5mrtn9xh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5dqdaql2kcxh1.png)
