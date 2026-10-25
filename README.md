@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*isntThisWeekAwesome*](https://www.reddit.com/r/ProgrammerHumor/comments/1xek1j4/isntthisweekawesome/)
+[*xkcdRelevanceAgain*](https://www.reddit.com/r/ProgrammerHumor/comments/1xf48m8/xkcdrelevanceagain/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qvzynglodhxh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zn950d8pkmxh1.png)
