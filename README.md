@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*updatedPasswordChart*](https://www.reddit.com/r/ProgrammerHumor/comments/1xfzyuc/updatedpasswordchart/)
+[*itMeetup*](https://www.reddit.com/r/ProgrammerHumor/comments/1xg0zon/itmeetup/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/h46bvc5pwtxh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/66dnfjji4uxh1.png)
