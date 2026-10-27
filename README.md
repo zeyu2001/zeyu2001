@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itMeetup*](https://www.reddit.com/r/ProgrammerHumor/comments/1xg0zon/itmeetup/)
+[*welcomeBack*](https://www.reddit.com/r/ProgrammerHumor/comments/1xgxh3u/welcomeback/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/66dnfjji4uxh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fr622yhdf1yh1.png)
