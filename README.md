@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*macBookProDisplayWithTouchAfter2Days*](https://www.reddit.com/r/ProgrammerHumor/comments/1ximakg/macbookprodisplaywithtouchafter2days/)
+[*magicQuotes*](https://www.reddit.com/r/ProgrammerHumor/comments/1ximxha/magicquotes/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qbis1r7n7fyh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xnnr0jatbfyh1.png)
