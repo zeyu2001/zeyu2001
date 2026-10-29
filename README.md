@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*whenTheImpossibleMeetsTheScalable*](https://www.reddit.com/r/ProgrammerHumor/comments/1xhl91p/whentheimpossiblemeetsthescalable/)
+[*macBookProDisplayWithTouchAfter2Days*](https://www.reddit.com/r/ProgrammerHumor/comments/1ximakg/macbookprodisplaywithtouchafter2days/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5o1uya56z6yh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qbis1r7n7fyh1.png)
