@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ncisWasAccurateAfterAll*](https://www.reddit.com/r/ProgrammerHumor/comments/1xiu4oi/nciswasaccurateafterall/)
+[*temporaryFix*](https://www.reddit.com/r/ProgrammerHumor/comments/1xjdwe3/temporaryfix/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/i5vysfd8ngyh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o7ti6k1rklyh1.png)
