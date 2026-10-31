@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*temporaryFix*](https://www.reddit.com/r/ProgrammerHumor/comments/1xjdwe3/temporaryfix/)
+[*journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet*](https://www.reddit.com/r/ProgrammerHumor/comments/1xj3i23/journeyfromobjectsinmirrorareclosertoobjectreferen/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o7ti6k1rklyh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s8ktjklfliyh1.png)
