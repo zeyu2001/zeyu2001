@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet*](https://www.reddit.com/r/ProgrammerHumor/comments/1xj3i23/journeyfromobjectsinmirrorareclosertoobjectreferen/)
+[*mySoftwareJustGotRecruitedIntoACollegeBasketballTeam*](https://www.reddit.com/r/ProgrammerHumor/comments/1xjyyyn/mysoftwarejustgotrecruitedintoacollegebasketballte/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/s8ktjklfliyh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yxf6tvnmupyh1.png)
