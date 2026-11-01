@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*mySoftwareJustGotRecruitedIntoACollegeBasketballTeam*](https://www.reddit.com/r/ProgrammerHumor/comments/1xjyyyn/mysoftwarejustgotrecruitedintoacollegebasketballte/)
+[*shortCircuitEvaluation*](https://www.reddit.com/r/ProgrammerHumor/comments/1xkb8l0/shortcircuitevaluation/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yxf6tvnmupyh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/urbt8qtv8tyh1.png)
