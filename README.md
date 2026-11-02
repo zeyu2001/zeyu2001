@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*helloWorld*](https://www.reddit.com/r/ProgrammerHumor/comments/1xkukx5/helloworld/)
+[*itsMy8GbRamStick*](https://www.reddit.com/r/ProgrammerHumor/comments/1xldibx/itsmy8gbramstick/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vg3u0rlsnxyh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6z4f60b892zh1.png)
