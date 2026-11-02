@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itsMy8GbRamStick*](https://www.reddit.com/r/ProgrammerHumor/comments/1xldibx/itsmy8gbramstick/)
+[*nicePasswordDude*](https://www.reddit.com/r/ProgrammerHumor/comments/1xlrq7f/nicepassworddude/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6z4f60b892zh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/662i1bvns5zh1.png)
