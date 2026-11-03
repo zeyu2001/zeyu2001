@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*gettingPromotedFromProgrammerToClaudeDelegator*](https://www.reddit.com/r/ProgrammerHumor/comments/1xm9d3b/gettingpromotedfromprogrammertoclaudedelegator/)
+[*myLLMPromptedMeToCreateThis*](https://www.reddit.com/r/ProgrammerHumor/comments/1xmspht/myllmpromptedmetocreatethis/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tx20kggzj9zh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/teh7b70beezh1.png)
