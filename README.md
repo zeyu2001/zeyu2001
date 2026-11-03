@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*nicePasswordDude*](https://www.reddit.com/r/ProgrammerHumor/comments/1xlrq7f/nicepassworddude/)
+[*gettingPromotedFromProgrammerToClaudeDelegator*](https://www.reddit.com/r/ProgrammerHumor/comments/1xm9d3b/gettingpromotedfromprogrammertoclaudedelegator/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/662i1bvns5zh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tx20kggzj9zh1.png)
