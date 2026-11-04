@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*refactoringComplete*](https://www.reddit.com/r/ProgrammerHumor/comments/1xmw6nu/refactoringcomplete/)
+[*hittingMyTokenLimit*](https://www.reddit.com/r/ProgrammerHumor/comments/1xngm6v/hittingmytokenlimit/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pkmrs4913fzh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f3ise1l4djzh1.png)
