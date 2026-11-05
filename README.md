@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*wheresTheLove*](https://www.reddit.com/r/ProgrammerHumor/comments/1xo40he/wheresthelove/)
+[*thisTimeItsAlpine*](https://www.reddit.com/r/ProgrammerHumor/comments/1xom14p/thistimeitsalpine/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/aas3ndrapozh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6r51mbqsetzh1.png)
