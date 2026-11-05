@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*hittingMyTokenLimit*](https://www.reddit.com/r/ProgrammerHumor/comments/1xngm6v/hittingmytokenlimit/)
+[*wheresTheLove*](https://www.reddit.com/r/ProgrammerHumor/comments/1xo40he/wheresthelove/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/f3ise1l4djzh1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/aas3ndrapozh1.png)
