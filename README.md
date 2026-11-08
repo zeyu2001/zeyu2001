@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*itWasJustOneVariable*](https://www.reddit.com/r/ProgrammerHumor/comments/1xq77a7/itwasjustonevariable/)
+[*reversingPiInPython*](https://www.reddit.com/r/ProgrammerHumor/comments/1xqv0nj/reversingpiinpython/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1g1ms7yi670i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8or59ob24d0i1.png)
