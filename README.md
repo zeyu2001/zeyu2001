@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*chancesAreLowButNeverZero*](https://www.reddit.com/r/ProgrammerHumor/comments/1xs0jz8/chancesarelowbutneverzero/)
+[*loveIsDefinitelyBlindYo*](https://www.reddit.com/r/ProgrammerHumor/comments/1xsia4s/loveisdefinitelyblindyo/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/230tjjlzxm0i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nx00zj9i4r0i1.png)
