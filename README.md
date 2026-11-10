@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*loveIsDefinitelyBlindYo*](https://www.reddit.com/r/ProgrammerHumor/comments/1xsia4s/loveisdefinitelyblindyo/)
+[*theTemporaryFixHasOutlivedTwoFrameworksAndARewrite*](https://www.reddit.com/r/ProgrammerHumor/comments/1xsaz5k/thetemporaryfixhasoutlivedtwoframeworksandarewrite/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nx00zj9i4r0i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/avuiifd42p0i1.png)
