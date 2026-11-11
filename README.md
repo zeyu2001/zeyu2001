@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*blueOriginSoftwareEngineeringJobPostOnGlassDoor*](https://www.reddit.com/r/ProgrammerHumor/comments/1xt7jx6/blueoriginsoftwareengineeringjobpostonglassdoor/)
+[*codeReviewIn2026*](https://www.reddit.com/r/ProgrammerHumor/comments/1xtdji5/codereviewin2026/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2xznjq2lmw0i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s1c5fp18dy0i1.png)
