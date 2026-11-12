@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*setJavaDevsToUnmanly*](https://www.reddit.com/r/ProgrammerHumor/comments/1xtqrwc/setjavadevstounmanly/)
+[*chaoticEvil*](https://www.reddit.com/r/ProgrammerHumor/comments/1xucmuw/chaoticevil/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/oktvigu0911i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7rski0ubn61i1.png)
