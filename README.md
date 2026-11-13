@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*chaoticEvil*](https://www.reddit.com/r/ProgrammerHumor/comments/1xucmuw/chaoticevil/)
+[*devsAtMicrosoftRightNow*](https://www.reddit.com/r/ProgrammerHumor/comments/1xv4nsz/devsatmicrosoftrightnow/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7rski0ubn61i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2ybf8ceszc1i1.png)
