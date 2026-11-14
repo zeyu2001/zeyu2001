@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*atleastWeCanTrustGoogle*](https://www.reddit.com/r/ProgrammerHumor/comments/1xvren4/atleastwecantrustgoogle/)
+[*cacheRemembers*](https://www.reddit.com/r/ProgrammerHumor/comments/1xw4wit/cacheremembers/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/325jrw3xsh1i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/q693dqo1il1i1.png)
