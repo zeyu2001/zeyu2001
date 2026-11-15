@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cacheRemembers*](https://www.reddit.com/r/ProgrammerHumor/comments/1xw4wit/cacheremembers/)
+[*justPickAuto*](https://www.reddit.com/r/ProgrammerHumor/comments/1xwp2m2/justpickauto/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q693dqo1il1i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rps0tz177q1i1.png)
