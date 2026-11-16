@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*justPickAuto*](https://www.reddit.com/r/ProgrammerHumor/comments/1xwp2m2/justpickauto/)
+[*pythonBrosDontMessAround*](https://www.reddit.com/r/ProgrammerHumor/comments/1xx85bl/pythonbrosdontmessaround/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rps0tz177q1i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kxn016janu1i1.png)
