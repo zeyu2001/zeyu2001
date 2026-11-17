@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*cppAndItsVectorBooleans*](https://www.reddit.com/r/ProgrammerHumor/comments/1xxfw9i/cppanditsvectorbooleans/)
+[*ultimateMergeConflict*](https://www.reddit.com/r/ProgrammerHumor/comments/1xy3mhz/ultimatemergeconflict/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yhsn3dobhw1i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6zh9ngcxx12i1.png)
