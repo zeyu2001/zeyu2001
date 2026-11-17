@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*howDoISelectClaude*](https://www.reddit.com/r/ProgrammerHumor/comments/1xyndyi/howdoiselectclaude/)
+[*stopDoingGitHubDesktop*](https://www.reddit.com/r/ProgrammerHumor/comments/1xytdwd/stopdoinggithubdesktop/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/t00wbhlkx62i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/21cddl6p282i1.png)
