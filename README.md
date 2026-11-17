@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*ultimateMergeConflict*](https://www.reddit.com/r/ProgrammerHumor/comments/1xy3mhz/ultimatemergeconflict/)
+[*howDoISelectClaude*](https://www.reddit.com/r/ProgrammerHumor/comments/1xyndyi/howdoiselectclaude/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6zh9ngcxx12i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/t00wbhlkx62i1.png)
