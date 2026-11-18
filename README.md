@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*stopDoingGitHubDesktop*](https://www.reddit.com/r/ProgrammerHumor/comments/1xytdwd/stopdoinggithubdesktop/)
+[*recursion*](https://www.reddit.com/r/ProgrammerHumor/comments/1xz7flz/recursion/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/21cddl6p282i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9c68q9667b2i1.png)
