@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*newDevsBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/1xzqgwe/newdevsbelike/)
+[*ninetyNineBottlesofBugs*](https://www.reddit.com/r/ProgrammerHumor/comments/1y08eoq/ninetyninebottlesofbugs/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/why2eporof2i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dtrsows5ek2i1.png)
