@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*recursion*](https://www.reddit.com/r/ProgrammerHumor/comments/1xz7flz/recursion/)
+[*newDevsBeLike*](https://www.reddit.com/r/ProgrammerHumor/comments/1xzqgwe/newdevsbelike/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9c68q9667b2i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/why2eporof2i1.png)
