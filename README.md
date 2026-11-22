@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*riemannHypothesisSolved*](https://www.reddit.com/r/ProgrammerHumor/comments/1y1udm4/riemannhypothesissolved/)
+[*pythonSlow*](https://www.reddit.com/r/ProgrammerHumor/comments/1y2krvn/pythonslow/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7313n4ui5y2i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ry9x0ub1o43i1.png)
