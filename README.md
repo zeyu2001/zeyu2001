@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*commentsInJson*](https://www.reddit.com/r/ProgrammerHumor/comments/1y1rd5z/commentsinjson/)
+[*riemannHypothesisSolved*](https://www.reddit.com/r/ProgrammerHumor/comments/1y1udm4/riemannhypothesissolved/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qpbfr7yx6x2i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7313n4ui5y2i1.png)
