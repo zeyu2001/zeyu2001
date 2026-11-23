@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*oOfOnePrimeChecker*](https://www.reddit.com/r/ProgrammerHumor/comments/1y2xogr/oofoneprimechecker/)
+[*yetAnotherJsonCommentsJoke*](https://www.reddit.com/r/ProgrammerHumor/comments/1y3r8ws/yetanotherjsoncommentsjoke/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dw8z1onwt73i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ipspl4jtve3i1.png)
