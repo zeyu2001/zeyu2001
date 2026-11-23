@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*pythonSlow*](https://www.reddit.com/r/ProgrammerHumor/comments/1y2krvn/pythonslow/)
+[*oOfOnePrimeChecker*](https://www.reddit.com/r/ProgrammerHumor/comments/1y2xogr/oofoneprimechecker/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ry9x0ub1o43i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dw8z1onwt73i1.png)
