@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*thisIsWhyWeDontReturnInFinallyBlocks*](https://www.reddit.com/r/ProgrammerHumor/comments/1y4ipsn/thisiswhywedontreturninfinallyblocks/)
+[*devAndProject*](https://www.reddit.com/r/ProgrammerHumor/comments/1y507pk/devandproject/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/oc8vke7eel3i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6necvnddcp3i1.png)
