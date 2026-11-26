@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*getsBetterEveryHourIRefresh*](https://www.reddit.com/r/ProgrammerHumor/comments/1y557cw/getsbettereveryhourirefresh/)
+[*gitPushOriginPlssssMakeNoMistakes*](https://www.reddit.com/r/ProgrammerHumor/comments/1y5zctl/gitpushoriginplssssmakenomistakes/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sj3zl7x8wq3i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gz8jpsum3y3i1.png)
