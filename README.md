@@ -25,6 +25,6 @@ Want to know more about me? [Check out my website.](https://www.zeyu2001.com/)
 
 The top voted meme for today is...
 
-[*versionControl*](https://www.reddit.com/r/ProgrammerHumor/comments/1y6nka4/versioncontrol/)
+[*heDiscoveredCoding*](https://www.reddit.com/r/ProgrammerHumor/comments/1y7dg1q/hediscoveredcoding/)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8oyh0yrg144i1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gzapu4hvaa4i1.png)
